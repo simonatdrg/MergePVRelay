@@ -1,0 +1,47 @@
+Abbott
+Allergan
+Almirall
+Amgen
+Astellas Pharma
+AstraZeneca
+Bayer
+Biogen Idec
+Boehringer Ingelheim
+Bristol-Myers Squibb
+Celgene
+Chugai
+Daiichi-Sankyo
+Dainippon-Sumitomo
+Eisai
+Eli Lilly
+Endo Health Solutions
+Forest
+Gilead
+Glaxo Smith Kline
+Ipsen
+Johnson & Johnson
+Kyowa Hakko Kirin
+Lundbeck
+Merck
+Mitsubishi Tanabe Pharma
+Novartis
+Novo Nordisk
+Ono Pharmaceutical
+Otsuka
+Pfizer
+Recordati
+Roche
+Sanofi
+Santen
+Shionogi
+Shire
+Takeda
+Teva
+UCB
+Vertex Pharmaceuticals
+Actavis
+Taisho
+Valeant
+Meda
+Gedeon Richter
+AbbVie

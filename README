@@ -1,0 +1,32 @@
+scripts to merge pharmaview and relay pipeline data.
+
+Requirements:
+
+    PV data extract (using the superset, ingested into a mysql table)
+
+    rvi_today extract (or dbi connection). We are only interested in the last n months (18 / 24 ?)
+
+    Mapping files for drugs and companies: RV names need to be mapped to the realy names where possible.
+
+Business logic:
+
+Pharmaview pipeline data takes priority.
+
+Pharmaview does not have as complete early stage data as Relay (< phase 2) so
+incorporate the Relay data if not in PV.
+
+For pipeline data with multiple companies:
+
+
+merge_pv_relay.pl is the main script. per decisions it will write a mysql table which will be pulled into the reconcilation process (Sam details)
+
+TODO:
+For subsequent updates, we will need to pull trials from clinicaltrials.gov, using the logic we've developed to
+identify events (maybe can just use the events table ??), then filter this data further using the pipleine reconciliation rules
+
+This data wll be tagged and entity extracted on disease /drug /company, USDING the Solr Tagger. there will be no need to do AIE Ingest / entity dump /RVI
+ 
+
+
+
+

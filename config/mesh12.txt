@@ -1,0 +1,298 @@
+Bacterial Infections and Mycoses	1
+Mental Disorders	1
+Cardiovascular Diseases	1
+Digestive System Diseases	1
+Endocrine System Diseases	1
+Eye Diseases	1
+Female Urogenital Diseases and Pregnancy Complications	1
+Hemic and Lymphatic Diseases	1
+Immune System Diseases	1
+Disorders of Environmental Origin	1
+Stomatognathic Diseases	1
+Musculoskeletal Diseases	1
+Congenital, Hereditary, and Neonatal Diseases and Abnormalities	1
+Neoplasms	1
+Nervous System Diseases	1
+Nutritional and Metabolic Diseases	1
+Occupational Diseases	1
+Otorhinolaryngologic Diseases	1
+Parasitic Diseases	1
+Respiratory Tract Diseases	1
+Pathological Conditions, Signs and Symptoms	1
+Virus Diseases	1
+Wounds and Injuries	1
+Skin and Connective Tissue Diseases	1
+Substance-Related Disorders	1
+Male Urogenital Diseases	1
+Abdominal Injuries	2
+Congenital Abnormalities	2
+Adjustment Disorders	2
+Adrenal Gland Diseases	2
+Agricultural Workers' Diseases	2
+Amputation, Traumatic	2
+Anxiety Disorders	2
+Eating Disorders	2
+Arbovirus Infections	2
+Arm Injuries	2
+Asphyxia	2
+Asthenopia	2
+Athletic Injuries	2
+Autoimmune Diseases	2
+Autonomic Nervous System Diseases	2
+Bacterial Infections	2
+Barotrauma	2
+Biliary Tract Diseases	2
+Bird Fancier's Lung	2
+Birth Injuries	2
+Bites and Stings	2
+Blood Group Incompatibility	2
+Bone Diseases	2
+Bone Diseases, Endocrine	2
+Brain Abscess	2
+Bronchial Diseases	2
+Bronchiolitis, Viral	2
+Burns	2
+Marijuana Abuse	2
+Cartilage Diseases	2
+Central Nervous System Diseases	2
+Central Nervous System Infections	2
+Ciliary Motility Disorders	2
+Conjunctival Diseases	2
+Connective Tissue Diseases	2
+Contusions	2
+Corneal Diseases	2
+Cranial Nerve Diseases	2
+Cysts	2
+Demyelinating Diseases	2
+Diabetes Mellitus	2
+Digestive System Abnormalities	2
+Digestive System Neoplasms	2
+Dislocations	2
+Dissociative Disorders	2
+DNA Virus Infections	2
+Drowning	2
+Dwarfism	2
+Ear Diseases	2
+Electric Injuries	2
+Endocrine Gland Neoplasms	2
+Esophageal Perforation	2
+Extravasation of Diagnostic and Therapeutic Materials	2
+Eye Abnormalities	2
+Eye Hemorrhage	2
+Eye Injuries	2
+Eye Manifestations	2
+Eye Neoplasms	2
+Eyelid Diseases	2
+Factitious Disorders	2
+Fasciitis	2
+Fetal Diseases	2
+Foot Deformities	2
+Foot Diseases	2
+Foreign Bodies	2
+Frostbite	2
+Gastrointestinal Diseases	2
+Genital Diseases, Male	2
+Gonadal Disorders	2
+Graft vs Host Disease	2
+Hamartoma	2
+Hand Deformities	2
+Hand Injuries	2
+Craniocerebral Trauma	2
+Heart Diseases	2
+Helminthiasis	2
+Hematologic Diseases	2
+Hepatitis, Viral, Animal	2
+Hepatitis, Viral, Human	2
+High Pressure Neurological Syndrome	2
+Hypersensitivity	2
+Immunologic Deficiency Syndromes	2
+Immunoproliferative Disorders	2
+Impulse Control Disorders	2
+Inert Gas Narcosis	2
+Infant, Newborn, Diseases	2
+Infection	2
+Intestinal Diseases, Parasitic	2
+Jaw Diseases	2
+Joint Diseases	2
+Laboratory Infection	2
+Lacrimal Apparatus Diseases	2
+Laryngeal Diseases	2
+Leg Injuries	2
+Lens Diseases	2
+Liver Diseases	2
+Liver Diseases, Parasitic	2
+Lung Diseases	2
+Lung Diseases, Parasitic	2
+Lymphatic Diseases	2
+Meningitis, Viral	2
+Metabolic Diseases	2
+Mouth Diseases	2
+Multiple Trauma	2
+Muscular Diseases	2
+Musculoskeletal Abnormalities	2
+Mycoses	2
+Opioid-Related Disorders	2
+Neonatal Abstinence Syndrome	2
+Neoplasms by Histologic Type	2
+Neoplasms by Site	2
+Neoplasms, Experimental	2
+Neoplasms, Hormone-Dependent	2
+Neoplasms, Multiple Primary	2
+Neoplasms, Radiation-Induced	2
+Neoplastic Processes	2
+Neoplastic Syndromes, Hereditary	2
+Nervous System Malformations	2
+Nervous System Neoplasms	2
+Neurologic Manifestations	2
+Neuromuscular Diseases	2
+Neurotic Disorders	2
+Nose Diseases	2
+Nutrition Disorders	2
+Dermatitis, Occupational	2
+Ocular Hypertension	2
+Opportunistic Infections	2
+Optic Nerve Diseases	2
+Orbital Diseases	2
+Otorhinolaryngologic Neoplasms	2
+Pancreatic Diseases	2
+Paraneoplastic Syndromes	2
+Parasitic Diseases, Animal	2
+Parathyroid Diseases	2
+Pathologic Processes	2
+Peritoneal Diseases	2
+Personality Disorders	2
+Pharyngeal Diseases	2
+Phencyclidine Abuse	2
+Pituitary Diseases	2
+Pleural Diseases	2
+Pneumoconiosis	2
+Pneumonia, Viral	2
+Poisoning	2
+Precancerous Conditions	2
+Pregnancy Complications	2
+Pregnancy Complications, Cardiovascular	2
+Pregnancy Complications, Neoplastic	2
+Protozoan Infections	2
+Psychoses, Substance-Induced	2
+Pupil Disorders	2
+Purpura, Thrombocytopenic	2
+Radiation Injuries	2
+Refractive Errors	2
+Respiration Disorders	2
+Respiratory Hypersensitivity	2
+Respiratory Tract Infections	2
+Respiratory Tract Neoplasms	2
+Retinal Diseases	2
+Retropneumoperitoneum	2
+Rheumatic Diseases	2
+RNA Virus Infections	2
+Rupture	2
+Self Mutilation	2
+Sexually Transmitted Diseases	2
+Shock, Traumatic	2
+Signs and Symptoms	2
+Skin Diseases	2
+Skin Diseases, Parasitic	2
+Sleep Disorders	2
+Slow Virus Diseases	2
+Somatoform Disorders	2
+Spinal Cord Injuries	2
+Spinal Injuries	2
+Sprains and Strains	2
+Substance Withdrawal Syndrome	2
+Temporomandibular Joint Disorders	2
+Tendon Injuries	2
+Tennis Elbow	2
+Thoracic Diseases	2
+Thoracic Injuries	2
+Thyroid Diseases	2
+Tobacco Use Disorder	2
+Tooth Diseases	2
+Tracheal Diseases	2
+Tuberculosis, Endocrine	2
+Tuberculosis, Urogenital	2
+Tumor Virus Infections	2
+Urogenital Abnormalities	2
+Urogenital Neoplasms	2
+Urologic Diseases	2
+Uveal Diseases	2
+Vascular Diseases	2
+Viremia	2
+Vision Disorders	2
+Wound Infection	2
+Wounds, Nonpenetrating	2
+Wounds, Penetrating	2
+Zoonoses	2
+Scleral Diseases	2
+Glomerulonephritis, Membranoproliferative	2
+Pregnancy Complications, Parasitic	2
+Respiratory System Abnormalities	2
+Fatigue Syndrome, Chronic	2
+Granuloma, Respiratory Tract	2
+Eye Diseases, Hereditary	2
+Ocular Hypotension	2
+Eye Infections	2
+Substance Abuse, Intravenous	2
+Eye Infections, Parasitic	2
+Eye Infections, Viral	2
+Ocular Motility Disorders	2
+Digestive System Fistula	2
+Respiratory Tract Fistula	2
+Neoplasms, Second Primary	2
+Polyendocrinopathies, Autoimmune	2
+Neoplasms, Post-Traumatic	2
+Skin Diseases, Viral	2
+Soft Tissue Injuries	2
+Tympanic Membrane Perforation	2
+Cardiovascular Abnormalities	2
+Parasitemia	2
+Vitreoretinopathy, Proliferative	2
+Stomatognathic System Abnormalities	2
+Tooth Injuries	2
+Encephalitis, Viral	2
+Environmental Illness	2
+Heat Stress Disorders	2
+Persian Gulf Syndrome	2
+Back Injuries	2
+Neurodegenerative Diseases	2
+Neck Injuries	2
+Mental Disorders Diagnosed in Childhood	2
+Mood Disorders	2
+Delirium, Dementia, Amnestic, Cognitive Disorders	2
+Substance-Related Disorders	2
+Schizophrenia and Disorders with Psychotic Features	2
+Sexual and Gender Disorders	2
+Amphetamine-Related Disorders	2
+Cocaine-Related Disorders	2
+Alcohol-Related Disorders	2
+Sleep Disorders, Circadian Rhythm	2
+Trauma, Nervous System	2
+Vitreous Detachment	2
+Neurotoxicity Syndromes	2
+Autoimmune Diseases of the Nervous System	2
+Neurocutaneous Syndromes	2
+Pathological Conditions, Anatomical	2
+Central Nervous System Viral Diseases	2
+Central Nervous System Parasitic Infections	2
+Chronobiology Disorders	2
+Lacerations	2
+Hip Injuries	2
+Genetic Diseases, Inborn	2
+Preconception Injuries	2
+Fractures, Bone	2
+Fractures, Cartilage	2
+Mesomycetozoea Infections	2
+Female Urogenital Diseases	2
+Hand-Arm Vibration Syndrome	2
+Cardiovascular Infections	2
+Immune Reconstitution Inflammatory Syndrome	2
+Cogan Syndrome	2
+Contrecoup Injury	2
+Vascular System Injuries	2
+Inhalant Abuse	2
+Asthma, Occupational	2
+Pelvic Floor Disorders	2
+Occupational Injuries	2
+Coinfection	2
+Nasal Septal Perforation	2
+Drug Overdose	2

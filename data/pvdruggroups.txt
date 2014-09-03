@@ -1,0 +1,84 @@
+drug_group_id|drug_group_name
+1|Arrhythmias
+2|Other Dermatology Disorders
+3|Contraception
+4|Other Men's Health Disorders
+5|Epilepsy
+6|Other Supportive Care
+7|Other Viral Infections
+8|Migraine
+9|Osteoporosis
+10|Atopic Dermatitis
+11|Benign Prostatic Hyperplasia
+12|Anemia (Oncology)
+13|Other Women's Health Disorders
+14|Other Lower GI Disorders
+15|Corneal & External Eye Diseases
+16|Addictions
+17|Other Psychiatric Disorders
+18|Other Cardiovascular Disorders
+19|Inflammatory Bowel Disease
+20|Lipid Disorders
+21|Hepatitis
+22|Diabetes
+23|Other Endocrinology Disorders
+24|Anemia
+25|Fungal Infection
+26|Glaucoma
+27|Bacterial Infection
+28|Growth Hormone Disorders
+29|Erectile Dysfunction
+30|AMD
+31|Sleep Disorders
+32|HIV
+33|Thrombosis
+34|Other Musculoskeletal Disorders
+35|Hypertension
+36|Other Neurological Disorders
+37|ADHD
+38|Obesity
+39|Alzheimer's Disease
+40|Multiple Sclerosis
+41|Biologics
+42|Rheumatic Diseases
+43|Vaccine Products
+44|GERD/PUD
+45|Transplant Products
+46|Schizophrenia
+47|Blood Clotting Disorders
+48|Other Respiratory Disorders
+49|Depression
+50|Motility Disorders
+51|Cytotoxics
+52|Menopausal Symptoms
+54|Pain
+55|Hormonals
+56|Infertility
+57|Other Ophthalmic Disorders
+58|Parkinson's Disease
+59|Iron Overload
+60|Incontinence
+61|Asthma & COPD
+62|Allergic Rhinitis
+63|Psoriasis
+64|Gout
+65|Lysosomal Storage Disorders
+66|Thyroid Disorders
+67|Parathyroid Disorders
+68|Herpes Infection
+69|Respiratory Virus Infection
+70|Amyotrophic Lateral Sclerosis
+71|Huntington's Disease
+72|Stroke Recovery
+73|Acne
+74|Thrombocytopenia
+75|Muscle Spasticity
+77|Nausea & Vomiting
+78|Neutropenia
+79|Cystic Fibrosis
+80|Pulmonary Fibrosis
+81|Other Hematological Disorders
+82|Renal Disorders
+83|Low Testosterone
+84|Targeted Small Molecules
+85|Actinic Keratosis

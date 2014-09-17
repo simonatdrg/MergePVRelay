@@ -1,0 +1,2410 @@
+id	company_comments	company_name	dr_company_comments	financial_year_end	headquarters	is_active	is_forecast	company_type_id	reporting_currency_id
+1		Abbott	ethical drugs - as stated in Virtua  R&D expense stated for Established Pharmaceutical Products segment  LM sep 2013 4/12 - Following split with AbbVie - removed all US OP figures over forecast period.  Added Solvay Other Product figures starting in 2010.  Ethical drug sales = Proprietary + Established Pharmaceutical Product sales US Ethical = US Proprietary ROW Ethical = ROW Proprietary + Established  2011 RoW OP increase w/ full-year consolidation of Piramal 2011 total BGX RoW = $5.4B  2010 OP up with consolidation Solvay for full-year and Piramal partial year  2006-2010 Metabolism OP includes historical sales of Meridia  2007-2010 Respiratory OP includes historical sales of Azmacort.	12	USA	TRUE	TRUE	3	6
+2	NULL	Abraxis BioScience	NULL	12	USA	FALSE	FALSE	2	6
+3	NULL	Acorda Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+4	NULL	Actavis (legacy)	NULL	12	Europe	FALSE	FALSE	3	2
+5	NULL	Actelion	NULL	12	Europe	TRUE	FALSE	2	5
+6	"Alcon manufactures and markets pharmaceuticals, surgical equipment and devices and consumer eye care products to treat diseases and disorders of the eye.  However, we capture and analyze the ethical drugs only.  Other Products consists of several minor pharmaceutical brands like Azarga, Betoptic, Vigamox, TobraDex, Nevanac, Cipro Otic and generics."	Alcon		12	USA	FALSE	FALSE	3	6
+7	NULL	Alizyme	NULL	12	Europe	TRUE	FALSE	2	4
+8	"Allergan manufactures and markets specialty pharmaceuticals and medical devices.  However, in our analysis and forecast, we capture and analyze ethical drugs only."	Allergan	"OPs need looking at 4/13 - Co Geo split 60.9& US, 39.1% RoW  3/12 - 2011 Co. Geo split 60.25% US, 39.75% RoW. 3/12 - Co. still ests. Botox at 51% Therapeutic, 49% Cosmetic.   Minor presence in dermatology with strong competition.  Other ophthalmology forecasted to grow strongly in RoW than in US.  3/23/2011: AM : ED number was = specialty pharma - (0.49 x total botox) since company stated that 51% of botox use was therapeutic. Then applied geographic splits stated by    company for specialty pharma - 63.6% in US and 36.4% RoW  JB DEC 2012 - For Ethical R&D, I used previous % of total R&D, for Q3 2012, this was 81.3%  MB SEP 2013- Quarterly sales-Q1=$1231.8*.813=$1002m, Q2=1347*.813+$1095m. R&D spend- Q1=$248.8m, *0.81=$201.5m   Q2=$266.5m*.81=$216m "	12	USA	TRUE	TRUE	3	6
+9	NULL	Allos Therapeutics	NULL	12	USA	FALSE	FALSE	2	6
+10		Almirall	"gg apr 13 - Other Income includes revenue from co-development and co-promotion arrangements, mainly due to the income received of milestones reached for aclidinium’s authorisation in the USA and Europe.  Company reports therapy area totals in the FY presentation (closely aligned to ours) so use these when calculating the TA splits. 28/3/11.   Ethical drug sales = total sales - 'corporate' (get from sales by region section of reports).  AM (4/9/09): OP - SALES: Used IMS data in April 2009 to get better understanding of splits as we had simply split across the 4 main TAs before, without much thought. Have assumed that CV OP will decline in line with branded CV products. Dermatology OP - acquisition of Hernal and Shire products in 2007 has added significant revenue here - none of which is captured at the brand level, so has to go in to OP. Assume decline in MSP OP in line with franchise, and increased push in respiratory OP with launch of aclidinium franchise."	12	Europe	TRUE	TRUE	3	2
+11		Amgen	"AM (4/9/09)- MSP OP until 2008 was Kineret (sold to Biovitrum in December 2008). Onc OP until 2008 was Kepivance (also sold to Biovitrum)  JB NOV 09 - Amgen reported OP figures for 9M 2009 of 23m US and 34m ROW   2011 Other RoW sales believed to be from acquisition of Bergamo in Brazil - hospital-based products.  Musculoskeletal / pain 'other products' number was Kineret, which company sold to Biovtrum in Q4 2008. Oncology 'other products' until 2008 was Kepivance (also sold to Biovitrum).  Assume 2009 sales of others coincide with residual business efforts with those brands."	12	USA	TRUE	TRUE	1	6
+12	NULL	Amylin	NULL	12	USA	FALSE	FALSE	2	6
+13	NULL	Arena Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+14	NULL	Asahi Kasei Pharma	NULL	3	Japan	TRUE	FALSE	3	7
+15		Astellas Pharma	"Nov 2011 vaccines sales added. sales to other, paed, travel and flu.  HT (Sep, 8, 2011): Recording sales of Tarceva of OSI as alliance revenue from 2010, as Astellas started consolidating it then.   AM (4/9/09) - Have assumed that US CV OP number tracks decline in overall franchise since reps less likely to push other brands as franchise becomes less important. Used April 2009 IMS splits for AI as well. For RoW numbers, used IMS data from April 2009 spreadsheets that temp prepared. Feel fairly comfortable with splits although generics is perhaps slightly high. Don't have a problem leaving the numbers as they are as our splits were not really based on anything. Checked the brands behind the IMS numbers and they make sense as to which TA they fit into, so happy to go with this."	3	Japan	TRUE	TRUE	3	7
+16		AstraZeneca	"AZ moving into branded generics in EMS, so added these from 2010 LM 9/11  10th April-SE: AZ list Other Product sales by TA and provides US and RoW split. 24/3/10 pushed anti-infectives number up in US for non-seasonal flu & looks like this area is a bit bigger than we previously model it  Divested astratech - aptium yet? LM"	12	Europe	TRUE	TRUE	1	6
+17	NULL	Basilea	NULL	12	Europe	TRUE	FALSE	2	5
+18	NULL	Baxter Healthcare	NULL	12	USA	TRUE	FALSE	3	6
+19		Bayer	animal health inc under consumer health  LC 3/8/07 Company Name changed from Bayer Schering Pharma to Bayer  4/09: followed IMS splits. Everything forecasted to decrease whereas MSP and generics to increase.  KM: 28/8/09: 1H pharma revenue increased 7% from 2008; expect same growth for whole year. current numbers give +8.5% in EUR. 1H results 5221E.  Alliance Revenue come from Avelox (US)  NB - BD Sept 10 - ethical drug sales = net sales (external) - diagnostic imaging sales  Other Healthcare = consumer healthcare + diagnostic imaging + intersegment sales.  gg feb 11 -  other healthcare =  total sales - sales from other listed segments - ethical drugs sales - total of which includes our diagnostic estimate. 	12	Europe	TRUE	TRUE	1	2
+20	NULL	Biodel	BD Mar 09 - added in	12	USA	TRUE	FALSE	2	6
+21		Biogen Idec	"Ethical drug total starts with Total product revenues and subtracts US sales of Tysabri (natalizumab), which is listed under Biogen Idec's Alliance Revenue figures.  As of 2009, Biogen no longer has product rights to Zevalin, sales of which are included in historical Other Oncology (which is why 2008 US OP ONC is zero).  However, Zevalin to Bayer Schering Pharma AG, for distribution in the EU is recognized as product revenue and we record it as RoW OP ONC. Sept 2013 BH - Tysabri was returned to Biogen. Biogen now books 100% US sales starting Ap 2, 2013. However, in Q1, US Tysabri sales (257.4m) are booked as AR, and need to be removed from Ethical drug total. "	12	USA	TRUE	TRUE	3	6
+23		Boehringer Ingelheim	"PF SEPT 17 2013 - no more room. SEE THE SHEETS IN THE BOEHRINGER INGELHEIM FOLDER.  PF APR 24 2013 - BI released their numbers. Updated R&D but still need to do sector totals.  PF APR 2013 - Estimated sector totals based on company guidance, but they will need to be changed at the next update. OP trends continued for now - not sure why Anti-infectives is zeroed out after 2013.  AM (Sept. 2011). Company reported that US sales were down 17.4% in 2010 (in EUR terms)- this was how 2010 US number was worked out.  AW (Sept 2010) - BI reported US sales for the first time in 2009.  So I adjusted US vs RoW and then adjusted this historically based on their reported growth rate for US.  BI also reported that 2009 was the first year for Spiriva to reach over 1B Euros in US.  We previously had a higher number in US, so I adjusted Spiriva historically as well.  "	12	Europe	TRUE	TRUE	1	2
+24	"IN 2010 - Glucophage tfr into Other Met in US   In 2009 BMS reported $63m in RoW Metabolism sales, of which $61m were allocated to Other Metabolism (excluding $2m from Onglyza RoW.  In 2008, Co. restated 2005 ethical drug sales to $15,408m - PDV totals increased by $154m (+$82m US, +$72m RoW)"	Bristol-Myers Squibb	"4/09 US: AI - 5% growth (KOL advice) Extended the same to other TAs as well offset by RoW oncology and CNS decrease, results in approx 2% CAGR in the OP.  "	12	USA	TRUE	TRUE	1	6
+25	NULL	Cardiome	NULL	12	RoW	TRUE	FALSE	3	8
+26	"Celgene sold Alkeran in the US prior to 2009, when it returned rights to GSK."	Celgene	"Company's ethical drugs total is total pharma revenue minus royalties and collaborative agreement revenue and revenue from stem-cell company.  The geographical  split is given for total revenue so have assumed same split across just ethical drugs portfolio. split is not given for individual drugs. 2004 -2007 ethical drugs total excludes sales of Focalin to Novartis.   2010 Co estimates $3.2-$3.3bn: we have 3.22 if no growth in royalties etc. Geo splits for drugs fixed, geo split across whole company not firm but fits reported splits (which include non-phama products) KK 12/7/10 Onc OP is Alkeran. 2005 - 50, 2006 - 50, 2007 - 74, 2008 - 82, 2009 - 20.  EE 23.03.11 - Sales of '10 product = 3,480,300. Minus others, royalties etc. EE - Ethical R&D is all R&D minus placental stem cell r&D / cellular therapy "	12	USA	TRUE	TRUE	3	6
+27	"Significant rise in 2010 ROW revenue because of acquisition of Swiss generics company Mepha, increasing sales in generic products (particulary oncology generics)."	Cephalon	"Mar 10 (NM): Generic Actiq (OTFC) in US made 83m in 2009, 96m in 2008, 129m in 2007. Allocated extra generic sales event though OTFC appears to be Ceph's only generic product because it wasn't adding up to correct figure and company did not disclose where the extra 30m or so came from in 'Other' and IMS shows no other TAs besides CNS, Pain and Onc in US. Mar '11 (CF): US: 2010 generic OTFC sales = $41mil, but as stated above, there is no place to allocate remaining dollars, so it went in there. ROW: Significant inc in YoY sales because of acquisition of Swiss generics company Mepha -increased sales in generic oncology and other generics. Cephalon 10K specified Mepha added $177.2mil to other generics sales. I added this amount to other generics and the remaining dollars to other oncology. Aug. '11 (MLN): Reallocated exta Other Oncology sales to Other Generics."	12	USA	FALSE	TRUE	3	6
+28	NULL	Chiesi	NULL	12	Europe	TRUE	FALSE	3	2
+29		Chugai	"Actemra overseas should go in other revs. Oncology=Chugai's oncology total (including Neutrogin overseas) MSP=Bone and joint diseases (not including Actemra overseas) Transplant+AI=Transplant, Immunology + ID. Haematology=renal disease minus oxarol (and Others because its tiny and we don't have . ethical drugs total is total sales minus actemra overseas revenue (as Roche books) 28/2 2010 = Chugai Sales (Yen375.6b) minus Actemta overseas sales in Yen"	12	Japan	TRUE	TRUE	3	3
+30	NULL	Clinical Data	NULL	3	USA	TRUE	FALSE	2	6
+31	NULL	Cougar Biotechnology	NULL	12	USA	TRUE	FALSE	2	6
+32	NULL	Cubist Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+33	NULL	CV Therapeutics	NULL	12	USA	FALSE	FALSE	2	6
+34		Daiichi-Sankyo	"19/8/09 Deleted Krestin as sales are small, declining and no longer reported. Add sales to forecast Other Oncology figures here. KK Nov 2011 vaccines sales added. products mostly in flu and paed.   Daiichi Sankyo started recording Ranbaxy’s US sales in the company's financial report from 2009.  BH ap 2014 - 2011 sales are over by 75.7m. Reducing US and ROW ethical sales by 30 US, 45.7 ROW, taking from Generics since looks like Ranbaxy actually made less than what we have here. "	3	Japan	TRUE	TRUE	3	7
+35	"Increase in US sales from 2009 onwards reflects Dainippon Sumitomo's acquisition of Sepracor. In ROW, Sepracor recorded sales from its acquisition of Oryx - now called SPI - which markets products in CV, CNS and AI areas in Canada. The drop 2006 was due to the divestiture of a joint venture with Abbott, called Dainabot in March 2006. Sales of the JV amounted to around ¥50bn (appox.$440m) in fiscal 2005 at that time."	Sumitomo Dainippon	"BD SEP 08 - had to inc Co  OP no.s in 08 to get FY 08 numbers high enough-now use co. reported 'pharmaceutical' number - previously this no. inc. ensure liquid sales (a nutritional), which was removed - thus our 06 no. is lower than the co. reported no. This product was not reported in 07 therefore we assumed no nutritional sales are inc. in the co. reported pharmaceutical no.  FY 2010 - total 365bn:  Pharma Yen320bn Other Yen45bn.   Within Pharma: US: 121.5bn Japan + China: 205.9bn  Also include 7.4bn 'elimination' figure - have removed 4.94 from ROW & 2.47 from US. Unsure as to what this figure is. We are currently slightly under 320bn for the FY, but pretty close. Slightly under in US but slightly over in ROW."	3	Japan	TRUE	TRUE	3	7
+36	NULL	Dendreon	NULL	12	USA	TRUE	FALSE	2	6
+37	"US Other Generics category consists of sales from authorized generic Aricept.   ROW Other Generic category cosists of sales of its generic sales subisidairy, ELMED Eisai.  "	Eisai	"KK 19/08/09 Deleted Ontak as sales are now reported rolled up with three other lymphoma and sales are pretty small. Roughly 50% Ontak/50% Targretin. Upped US forecast for Other Oncology to include Ontak forecast sales. 24/3/11 KK Left US 2010 number as the previous estimate, but had to adjust OPs because Fragmin was changed historically. Changed ROW 2010 slightly to balance OPs. Will need updating when FY2010 number is available. Sector totals 2010 is an estimate. Aug. '11 (MLN): Company restated 2009 pharmaceutical sales. Sector Total 'Other'= Other sales + Consumer health + Diagnostics. ROW Sales= All regions ex-US - Jp. Consumer - Jp. Diagnostics. Company broke out 2010 US authorized generic Aricept sales( Y21.8b) and Japan generics sales (2009=Y8.1, 2010=Y12.4), so allocated to Other Generics. "	3	Japan	TRUE	TRUE	3	7
+38	"Elan divested its EDT division in September 2011 and spun off its Prothena division in December 2012. In April 2013, Elan divested full rights to Tysabri and will only receive royalty payments going forward. In November 2013, Elan sharedholders voted to allow Perrigo to acquire the company; the acquisition completed in December 2013."	Elan	"Mar. '12 (MLN): For US Ethical Drug Sales total, use figure in Elan 20F ""Net revenue subject to discounts and allowances"". Apr. '13 (MLN): Elan divested all rights to Tysabri to Biogen, so will no longer be booking ethical sales or AR from 2014 onward. If Elan reports royalites as part of the top line, will need to consider adding Tysabri AR. *Ethical R&D = Cash expenses + Tysabri R&D. May need to recalculate quarterly ethical R&D based on full year. *Elan no longer reporting sales from EDT sector from 2012 onward. *Numbers will not match CapIQ because of restated numbers to reflect only 'Continuing Operations'. Keep everything as is.  SEPT 2013 - KD - Elan divested main product, Tysabri, to Biogen in early 2013.  Elan is re-stating 2012 R&D expenses, check and re-input when total 2012 R&D is re-stated.  Restated Q1 and Q2 R&D for 2012 are: $24.9M and $25.6M, respectively. Dec 2013 KD - to be acquired by Perrigo by end of 2013."	12	Europe	FALSE	TRUE	3	6
+39		Eli Lilly	"gg mar14 - removed AR other OPs - didn't make sense.  ROW values for Yentreve have been added to its drug profile as sales. It was never launched in the US.  A new sector added to balance the difference between Eli Lilly's ""Collaboration and other revenue"" line and our Alliance Revenue brands  4/13 - Added OP for AI, CNS, Met - per Co. description  4/09: AI, CV, CNS decrease offset by Met increase. OP figure CAGR 2% 2009 RoW Other G/U sales of $21.6m reported for Yentreve by Co.  2009 Other Oncology sales relate to manufacturing revenue on Erbitux  2009 Other Oncology AR includes Erbitux royalties (@ 31.9% of BMS' US sales & 8.3% of Merck KGaA's RoW sales of the product) - royalties started in Dec. 2008 for Lilly  2011 AR - duloxetine (GU) - US 64, RoW 22  2009 - Other A/R = 28.7 RoW Yentreve Other GU RoW "	12	USA	TRUE	TRUE	1	6
+40	2009 Other Oncology increased for Indevus acquisition 2010 & 2011 Other Generics increased for Qualitest acquisition 2011 - Opana IR sales moved to Other branded Prods by Co. - leading to YoY increase in MSP OP	Endo Health Solutions	"*Devices and Services = AMS + HealthTronics. *Ethical drug sales = Endo Pharm + Qualitest - Royalties. *Qualitest sales = Other Generics number. *Royalties = Royalty revenue from Sanctura and Sanctura XR. Have hard numbers for 2009 & 2010, but 2011-2013 are estimates (20% of Allergan's Sanctura XR sales). *Only record royalties from 2009-2013. Allergan will discontinue Sanctura and Sanctura XR at end of 2013, so Endo will no longer receive royalites from 2014 onward. *Decreased % of Total R&D allocated to Ethical R&D in 2012 due to addition of AMs' R&D unit. Decreased to 83% ($187.7m) based on company guidance in 10-K. EE sep 13 - looks like ED R&D is R&D minus an royalties recorded as R&D Dec 2013 AET: It appears that the quarterly R&D spend reported here (at least for 2012 and 2013) is about 83% of the R&D reported in the 10Q reports (likely related to the asterisked comment above). So for Q3 2013, I'm reporting 83% of the total R&D spend. "	12	USA	TRUE	TRUE	3	6
+41	NULL	Enzon	NULL	12	USA	TRUE	FALSE	2	6
+42	ROW sales are comprised of revenues from the Forest Pharmaceuticals Europe subsidiary. 	Forest	"Mar. '11 (MLN): ""Others"" in Sector Totals tab = Contract revenue + Other revenue listed in CapIQ. CapIQ's total ethical drug = Net sales + Contract revenue + Other income. PV's US ethical drug = US sales. PV's ROW ethical drug = Ireland + UK sales. Sales added to Other Resp (ROW) to account for colistin and Colobreathe from Grunenthal. Apr. '13 (MLN): Company details CNS and CV totals. Subtract our CNS, CV brand totals from company reported total to get actual Other CNS and Other CV number. Sept13 BH - spent a lot of time fixing OP. CNS, Cardo segments (on Global level) correct. Estimated other areas. Know Anti-infectives for UK/Ire made $44m not accounted for in brands."	3	USA	FALSE	TRUE	3	6
+43	NULL	Genentech	NULL	12	USA	FALSE	TRUE	3	6
+44		Genzyme	"Se - 14th April 2009 - Be sure to exclude diagnostics, R&D revenues and service revenues from ethical drug products sales.    KM 28/8/09: 2009 guidance reduced to 4.6-5bn.  SE - 1st Sept 09 - OPS look OK.  JB MAR 2010 - OP figures completely changed using 2009 10k  JB AUG 2010 - Clolar US/ROW splits were adjusted.  2010 OP figures adjusted to account for Genzyme guidance of 4.4 - 4.5bn  JB NOV 2010 - OP figures look fine"	12	USA	FALSE	TRUE	3	6
+45	"Other products include Vistide, Emtriva."	Gilead	"MB APR 2014- Co. reported 60%US. 40% ROW, but needed to use 61%US and 39% ROW as US sales were less than sum of brands.  AM - 04/2013 - Used 58.75%/41.25% US/ROW split for Ethical Drug sales (GILD reported 58% total revenues in the US, but this # could not be used b/c US Ethical sales becomes smaller than US Brand sales).  08/2011 - AM - fixed a minor glitch in 2009. Also, Other Gilead Anti-infectives automatically changed to strong in 2011-17 - brought the numbers back to what was forecasted in 03/2011/ AM - 03/2012 - Adjusted 2010 Other numbers to form curves. Used a 56%/44% US/ROW split for Ethical Drug Sales (Gilead reports 55% total revenue coming from the US This split can not be applied to the Ethical Drug Sales split b/c US Sum of Brand becomes higher than Ethical Drug Sales).  3/23/2011. AM/AHM - couldn't find hard product sales geographic split - but company stated that 44% of 2010 product sales were ex-US, so used that split. Grew out OP number in line with sum of brands."	12	USA	TRUE	TRUE	3	6
+46		GlaxoSmithKline	"MB MAR 2014- added restated 2012 consumer healthcare sales (5,170)  reduced derm due to divestment of stiefiel brands LM 9/13. AM (26/2/2013): Re-stated 2011 R&D based off of what was reported in FY2012 results. R&D = core R&D minus consumer healthcare.  AM (24/3/2010). GSK did not split out US/RoW sales for Stiefel in 2009. Assumed they were all RoW (see page 30 of 2009 annual report). 'other derm' from 2009 onwards is Stiefel . LM Nov 2011 pushed up ROW vaccines. LM March 2012 - made small adjustment to Zofran ROW 2010 sales so will affect onc others "	12	Europe	TRUE	TRUE	1	4
+47	NULL	Grunenthal	NULL	12	Europe	TRUE	FALSE	3	2
+49	NULL	Human Genome Sciences	NULL	12	USA	FALSE	FALSE	2	6
+50	NULL	Inspire Pharmaceuticals	NULL	12	USA	FALSE	FALSE	2	6
+51	"Other Products include Ginkor, Fort, Apokyn, Hexvix and 'Other Products'. "	Ipsen	"EE Mar 12 - added Hexvix (onc) and Apokyn (CNS) sales to others.  LM - Nov 2011 - pushed down all others substantially as our FY EDS was significantly above mgmt outlook (2-3%).  but will most likely have to revise back up at full-year Hem - alliance from deal with Inspiration. LM  Assigned into CNS and CV based on listed products, but there is a large 'Other Prods' category that was around E85m from 2004 on, so can distribute out widely after checking with IMS etc. 02/12/10 KK US CNS OP is Apokyn (only sold in US) and Met is Increlex. ED sales = ""drug sales"". EE 24.03.11 - Sales are total drug sales not gorup sales. Or can be claculated by group sales minus other drug related sales. Sector totals are CapiQ TR- Ethical drug sales.  EE sep 12 - R&D is general R&D not just drug related. Was 131.5 for H1 no Q1 given so I've  EE Dec 13 - other msp now includes dysport. Details in spreadsheet from KD"	12	Europe	TRUE	TRUE	3	2
+52	NULL	Jazz Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+53		Johnson & Johnson	"sep 12 - allocated spare others to CNS as J&J report this segment much larger than we have. LM dec 12 update - ML - Added Other Vaccine OP RoW for Crucell deal - closed in Q1 2011. R&D at the moment is 65% of total but need to look into this.   ML - Adjusted 2008, 2009 & 2010 US / RoW splits - Remicade exports are included in Co's US sales - so subtracted Remicade AR from US total instead of Row total "	12	USA	TRUE	TRUE	1	6
+54	 	King	 	12	USA	FALSE	TRUE	3	6
+55	NULL	Kowa	NULL	3	Japan	TRUE	FALSE	3	7
+56	"Prior to 2009, financial year end was March. From 2009 onwards, sales are for the period January-December. Acquired Prostrakan in mid-2011, which had a US business and marketed several minor brands in Europe."	Kyowa Hakko Kirin	"gg - apr 09 - No respiratory agents listed on IMS, so removed these OP values  KK 25/3/11 Changed 2009 total to Jan-Dec figure quoted in FY2010 report. Removed GI OP as I believe this appeared as the result of a drug being deleted that shouldn't have been added to GI in the first place. 6/9/11 Prostrakan had Onc, CV, GU and Met others. estimated others for these. NB, 2011 only includes 6mth of Prostrakan, so 2012 should bump up more. I think Adcal (£23m in 2010) and Rectogesic (£9.3m in2010) are OTC so exclude. No 'others' needed for US; we forecast its only two brands.  EE Nov 11- corrected q2 r&d spend as KHK reported 20.4 for Pharma R&D spend from Jan 11- June 11. Jan to Sept was 31.5 so 31.5 - 20=12 fpr Q3. For ethical drug sales used reported Pharma division."	12	Japan	TRUE	TRUE	3	3
+57	NULL	La Jolla Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+58	"US sales from 2009 reflect the consolidation of Ovation Pharmaceuticals. Lundbeck divested a number of minor US Oncology, Cardiovascular, and Metabolism agents to Recordati in 2013."	Lundbeck	"APR 2014 - removed US OP in AR, no need for it.  US Other CNS AR is Celexa sales, dropping. Pre-2009, Lundbeck had <$1m in US sales, so these are not accounted for here.  Alliance = Lexapro sales + forecast AR for Abilify Maintena, Brintellix, and brexpiprazole.  SEPT 2013 - KD - ED sales = total revenue - other revenue"	12	Europe	TRUE	TRUE	3	1
+59	NULL	Mannkind	NULL	12	USA	TRUE	FALSE	2	6
+60	NULL	Menarini	NULL	12	Europe	TRUE	FALSE	3	2
+61		Merck & Co	Check june 13 Aspen deal - will need to adjust others based on what is divested LM 28/6/13 Merck ED sales include Pharmaceutical + AZ revenues  2009 AZLP revenues $1.4bn in Other Generics - US  2011 - Merck's US sales total increased by $34m (& RoW reduced) to include sales of Avelox in Puerto Rico. 2011- Reduced US OP totals with more actual product sales reported.  Other generics largely reflects revenue from Merck's relationship with AZ relating to the sales of Nexium and Prilosec. The same category also includes supply sales for generic simvastatin to Dr.Reddy's Laboratories.  Other products numbers arising in 2009 onwards are a result of the acquisition of Schering-Plough.	12	USA	TRUE	TRUE	1	6
+62		Merck / Schering Plough		12	USA	FALSE	TRUE	1	6
+63	Merck KGaA divested its Generics unit in 2007.   	Merck KGaA	" LM 10/11 - Kuvan sales changed by Ben, will affect other M Divested GU franchise theramex - was €100m of sales in 2009 LM 20/5/11 LM 20/5/10 Merck serono 1% to 6% increase for full year - we are on high end of this KM 23/3/10 co guidance for 2010 of 3-7% - we are at lower end of this but think ok as company were overly optimistic last year BD - added in historical sales for Neurobion to Other Met. KK 6/10/09 Generics numbers are hard figures, 2006 includes Generics as not discontinued until 2007 - this was later restated for comparison purposes in financial docs, but should NOT be changed here. 2007 excludes discontinued Generics and royalties. 2008 excludes royalties.  18/03/08 KK Sold generics (including a respiratory franchise) in 2007. BD SEP 08 - increased Other Merck figure to get us to forecasted 2008 guidance of between 7-11% growth. Used previous other Merck US/ROW ratio "	12	Europe	TRUE	TRUE	3	2
+64		Mitsubishi Tanabe Pharma	"Mar, 12  ""Other Pharmaceutical"" of sector total include  ""contracted manufacturing products"", ""Licensing fee, etc"" and Sales of Benesis, a subsidiary of MTP for sales plasma-derived bllod products which we don't usually consider to be ethical drugs   BD Dec 12 - took ED quarterly sales as 'Pharmaceuticals' total minus 'OTC' value. Also added in Q1 2012 values."	3	Japan	TRUE	TRUE	3	7
+65	NULL	Mundipharma	NULL	12	Europe	TRUE	FALSE	3	5
+66	NULL	NeurogesX	NULL	12	USA	TRUE	FALSE	2	6
+67		Novartis	"**Jan2014, divested from diagnostics; keeping vaccines. 2014 Vaccines& Diag will only be diagnostics. 2014 - calculations done in spreadsheet BH dec 12 update - ML - $30m in Transplant OP sales added for Simulect - according to rec by PF  KK Generics should equal 95% of Sandoz minus Omnitrope (and any other biosimilars added). Vaccines is typically 72% of V&D, but should be 80% in 2009 owing to H1N1. Therefore ED is an estimate and can be manipulated. Adjusted all historically, but geo splits and totals for Vaccines is wrong; until they are re-forecast, this doesn't entirely match our assumptions. KK 28/4/10 Need to add some OP for Haem (still sells Desferal). KK 2/12/10 Added some Other Haem; took it off Onc in ROW and Onc+CNS in US. Increased Generics forecast; US grew 40% for 9mth. Cubicin sales had been reestimated so had to reassign OPS to prevent Other AI becoming massive - doesn't have much else in AI. Added Other Ophth from Alcon's old numbers. "	12	Europe	TRUE	TRUE	1	6
+68		Novo Nordisk	BD Apr 09 - Have removed OP numbers as Novo's reported 'other products' number is formed almost entirely of GU products. These are now incorporated into Novo's HRT range sales. BD Mar 10 - See Novo folder on Sharepoint for details of workings. US % of total =36%; matches company reported figure.  BD Mar 11 - US sales = 39% total sales in 2010  BD Mar 12 - Novo gave US sales of 40% for 2011; we are at 41% (can't really go any lower without amending historical trends.	12	Europe	TRUE	TRUE	3	1
+69		Nycomed	"LM 4/9/11 -  0 for other respiratory in 2010. Easyhaler deal with Orion in 2011 for combo products means ROW biosimilar resp will go up in future. (doesn't cover single agents, nothing launched as yet) - pushed up resp, generics, GI and MSP a bit from deals  LM 25/2/10- US is nycomed-US and comprises generics, derm and anti-infectives (all derm related). Previous ethical drugs totals have contained a portion of the out-licensing revenue, but from 2010 this was all booked as 'other' in sector totals  REVISE DOWN HEM  ROW - pushed generics up as Nyc bought portfolio of branded generics from s-a in 2009  JB MAR 10 - ROW figures adjusted to reflect FY 2009 totals.  MSP includes Calcium, Preotact, and Xefo brands.  HAE includes Tachosil CV incluses Ebrantil Other GI includes sales of Rx Antacid products VAC"	12	Europe	FALSE	TRUE	3	2
+70		Ono	"4/09 Historical % split seems to make sense, tweaked a bit to allocate the unallocated.  For 2008 the OP has decreased substianlly and so the trend is revised downward for all OPs. 2008 sales are estimate from virtua.  24/3/11 2010 ethical drug sales and sector total are estimates based on 99% of the company's full-year estimate being ethical drug sales and the rest is 'Other' revenue. Update when company reports.  "	3	Japan	TRUE	TRUE	3	7
+71	NULL	Orexigen Therapeutics	BD Dec 2008 - Added Orexigen	12	USA	TRUE	FALSE	2	6
+72	NULL	Orion	NULL	12	Europe	TRUE	FALSE	3	2
+73		Otsuka		3	Japan	TRUE	TRUE	3	7
+74	NULL	OXiGENE	NULL	12	USA	TRUE	FALSE	2	6
+76		Pfizer	"2012 increase in Generic OP with sales of Lipitor generics   Lift in other products numbers from 2009 due to acquisition of Wyeth.  8/10 - historical Metabolism OP sales replaced with actual #'s for Medrol / Solu-Medrol  2010 increase in OP numbers following full-year of consolidated results from Wyeth  2011 OP numbers increase with consolidation of King from March 2011 AM (28/9/09): Assume all 'other AR' belongs to ophthalmology as this is only TA that we don't have an AR number for in he model, but which company lists as having AR for. KK 5/5/10 Wyeth booked sirolumus ""alliance revenue"" to J&J for Cypher as Other Pharmaceuticals so assume Pfizer does the same i.e. should have some Other Transplant AR.  2011 reduced Transplant AR throughout forecast period - Cypher stent discontinued by J&J"	12	USA	TRUE	TRUE	1	6
+77	NULL	PharmaMar	NULL	12	Europe	TRUE	FALSE	2	2
+78	NULL	Pierre Fabre	NULL	12	Europe	TRUE	FALSE	3	2
+79	NULL	Poniard Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+80	NULL	Prostrakan	NULL	12	Europe	FALSE	FALSE	2	4
+81	NULL	Proteolix	NULL	12	USA	TRUE	FALSE	2	6
+82	NULL	Purdue Pharma	NULL	12	USA	TRUE	FALSE	3	6
+83	NULL	Reckitt Benckiser	NULL	12	Europe	TRUE	FALSE	3	4
+84	 	Recordati	"GH April 14. Unclear what ""other"" sector is. have taken other revenue + other international sales.  consider raising ROW generics to reflect stake in Opalia Pharma LM sep 2013 PF 5/2/2012 - added cidine totals to other ROW GI  BD Sep 12 - added in other sales for Met deriving from Orphan Europe's rare disease portfolio that are actually growing well according to Recordati. Therefore have continued this trend."	12	Europe	TRUE	TRUE	3	2
+85	NULL	Regeneron	NULL	12	USA	TRUE	FALSE	2	6
+86		Roche	"Transplant = zenapax - need to brin down to zero from 2010 on nextg updaed LM  Change geo split in April 2010 update as Roche is now reporting US sales in Pharma, where we had North American sales.   5/9/11 Quarterly data pre-2010 needs correctly. Quarterly figures should be for Roche Group - the website doesn't add on Chugai's values. 'research and development - core basis' in the half-year report is a good surrogate in H1 for what CapIQ uses for R&D  Dec 2013 - company sold rights to Neupogen/Neulasta, removed some $ from ROW Onc OP.  Sector Totals:  Diagnostics = sales + other/royalties for diagnostics division. Others  = pharma (Roche + Chugai) other revenues and royalties R&D = Pharma (Roche + Chugai) R&D Quarterly R&D Spend= Pharma (Roche + Chugai) R&D; H1 = reported, H2 = FY-H1 Quarterly Ethical Drug Sales = Pharma (Roche + Chugai) sales revenue; H1 = reported, H2 = FY-H1 US and ROW Sales: make sure to remove Chugai Revenues"	12	Europe	TRUE	TRUE	1	5
+87	NULL	Salix	NULL	12	USA	TRUE	FALSE	2	6
+88	NULL	Sanofi Pasteur MSD	NULL	12	Europe	TRUE	FALSE	3	2
+89		Sanofi	Total Ethical Drug Sales = Pharma + Vaccines - consumer health care - aliance revenue  gg sep 12 - derm divested in 2011 - Genzyme acquisition will have impacted 2011 others.  Sales from generics are listed out by the company - only recognized in the US from 2010  LM - other metabolism will include egrifta in EMS (pushed up - Nov 2011) AM (12/2/2010) - Added in US haem sales as requested. 2010 generics OP is estimation based on H1 report (pg 51). US/RoW oncology OP ticks up again in 2014/2013 to follow brand trend.  KK 24/9/10 HEMATOLOGY OTHER SALES ACCOUNT FOR FERRLECIT SALES - 2010 onwards only 	12	Europe	TRUE	TRUE	1	2
+90	NULL	Santarus	NULL	12	USA	FALSE	FALSE	3	6
+91	"Santen manufactures and markets ophthalmic and anti-rheumatic pharmaceuticals, medical devices and OTC pharmaceuticals.  However, we capture and analyze the ethical drugs only.  Other Products consists of several minor pharmaceutical brands and generics."	Santen	Amy: 12/10 updated 2009 FY figure  4/09 US OP relatively flat RoW: TAs 2% growth and generics 10% growth. OP CAGR 11% 06/9/11 Adjusted historical total as found hard numbers for US/North America. Company gives Ophth and RA totals so put 'other' in generics as it already had some generics sales assigned. KK	3	Japan	TRUE	TRUE	3	7
+92	"Jump in other products figures in 2007 and 2008, particularly in the ROW, is due to the acquisition of Organon."	Schering-Plough	US/ROW comes from company Feb 03 2009 8k - US - 3812 ROW 10441	12	USA	FALSE	FALSE	1	6
+93	"ROW sales include sales from acquisition of Oryx -- now called SPI which markets products in CV, CNS and AI areas in Canada. "	Sepracor		12	USA	FALSE	FALSE	3	6
+94	NULL	Servier	NULL	12	Europe	TRUE	FALSE	3	2
+95	US sales are from consolidation of Sciele Pharma	Shionogi	"Acquired Sciele Pharma in 2008.  - no major products so all in Other Products figures here. JB OCT 2010 - ROW GU sales need to be added to account for Cetrotide, which was launched in 2006. AM(3/24/2011) - OP trends follow trends for sum of brands for each TA. AHM (Sept. 2010). US ED number=Shionogi Inc ED R&D=99.5% of total R&D  HT(Mar, 2012) US sales dropped significantly for 2011 due to several quality isuues in the US as well as  massive restructuring of its US subsidiary"	3	Japan	TRUE	TRUE	3	7
+96		Shire	BD Mar 12 - total global ethical drugs number is derived by subtracting Dermagraft from Shire's reported total sales figure (3950.2-105.3) = 3844.9  BD Mar 13 - total global ED sales of 4252.9 = total prod sales (4406.7) - Dermagraft (153.8)  GH Nov 13 - look up 10Q for R&D GH apr 14-total global ED sales of 4667.7 = total prod sales (4757.5) - Dermagraft (89.8) DERMAGRAFT divested to Organogenesis	12	Europe	TRUE	TRUE	3	6
+97		Solvay		12	Europe	FALSE	TRUE	3	2
+98	NULL	Somaxon	NULL	12	USA	FALSE	FALSE	2	6
+99	NULL	Sucampo	NULL	12	USA	TRUE	FALSE	2	6
+100	"Mar, 2012 (HT) Consolidation of Nycomed in late Sep 2011 is expected to drive Takeda's ROW sales significantly for FY2011"	Takeda	"Nov 2011 vaccines sales added. sales mostly in travel and paed.  SG 16052008 - For the full year financials number I used the Ethical Drug figure from p.4 of FY2007 Data Book, figure 1 Statements of Income - YEN1210.2bn.  For total US sales the figure comes from p. 7 of the same report Ethical Drug Sales.  These figures do not include products for which Takeda is the distributor but I don't think that is the case for any of their US sales so I took the Americas number to be the US total - YEN421.9bn.  AM(3/24/2011) - OP trends follow sum of brand trends for each TA."	3	Japan	TRUE	TRUE	1	7
+101	NULL	Teikoku Seiyaku	"(NM) Teikoku Pharma USA (the US subsidiary) licensed rights to transdermal Aricept from Eisai in March 2009, so included the company here."	3	RoW	TRUE	FALSE	3	7
+102	2009 Other GU sales from Barr's Women's Health brands  2012 Other Oncology from Cephalon  	Teva	"need to add some forecasts for the new products but most not in clincial yet so wait till fy LM dec 2013 GH Sep 13 - API = Active Pharmaceutical Ingredients  ED = total sales - API - OTC & Others Other onc includes bio-better g-csfs - need to remove when Lonquex and Neugranin are forecasted separately. need to check synribo & chart downloaded. Dec 2012 -added Oncology OP for Cephalon products Nov 2011 - Increase in AI, CNS, GI,Generic, MSP & Onc OP numbers with addition of Cephalon figures Nov. 2011 - GU OP numbers increased with ac. Theramax Nov 2011. added US onc sales to account for biobetter GCSFs. sales match event impacts KK 2010 ROW Other Generics includes +$667m ($2.0bn in annual sales for last 4 months of '10) in European sales from acquired ratiopharm business (deal closed in early Aug. 2010)  2010 - reduced Resp OP - due to branded additions   2010-adjust Row OP for $112m in biosimilars - $80 Onc & $32 Met "	12	ROW	TRUE	TRUE	3	6
+103	NULL	The Medicines Company	NULL	12	USA	TRUE	FALSE	2	6
+104	NULL	TopoTarget	NULL	12	Europe	TRUE	FALSE	2	1
+105	2006 acquisition of Schwarz Pharma resulted in large increase in 2007 Other Product sales	UCB	NL- increase in 2007 OP due to consolidation of Schwarz Pharma. AM (23/3/2010): company announced in Feb 10 of intention to exit US primary care from March 2010. Assume decline in sales in PC markets from then on. lm 25/3/10 - added 'unallocated' negative number to ROW sales  MB SEP 2013- First half 2012 company reported an adjustment in R&D to 405m pounds. First half 2013=424m pounds. First half revenue=1466m pounds. 	12	Europe	TRUE	TRUE	3	2
+106	NULL	United Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+107	NULL	Various	NULL	12	N/A	TRUE	FALSE	NULL	6
+108		Vertex	"MB APR 2014- Other sales =Total revenue outside of US - total product revenue (net)  AM - 08/2011 - first product sales happened in 2Q 2011.  SE - 3/22/10 - No products sales expected until 2011.  SE - 25th Nov 2009 - no changes; looks good.  Using ethical drugs sales as - Product revenues, net"	12	USA	TRUE	TRUE	3	6
+109	NULL	ViroPharma	NULL	12	USA	FALSE	FALSE	2	6
+110	NULL	Vivus	NULL	12	USA	TRUE	FALSE	2	6
+111	A significant increase in 2012/2013 revenues owing to the Watson/Actavis merger and again in 2013/2014 from the Actavis/Warner Chilcott merger.	Actavis	"JB MAR 11 - Total Ethical = Generic and Brand Distribution and other revenue = sector totals. ROW revenue added for 2010 w Arrow Group acq. JB June 2011 - incorp ROW sales for Specifar acq. Jan. '13 (MLN): Name changed to Actavis. Former Actavis changed to Actavis (legacy). Kadian assigned Actavis (legacy) proforma.  BH Apr 2013: Q4 ethical drug sales = pharma + specialty brands: 1388.7+112.6 = 1501.3 (higher because includes legacy Actavis sales) does not include ""other revenue"". Total US and ROW sales estimated based on 10-k. Total US sales: 4718.8m, ROW: 1064.4m. Distribution revenues included in US sales ONLY. Assume all other branded sales in GU since focused in women's health.  Expect increased Generics and Branded sales over time. Strong Generics pipeline/PIV/First-to-file in US and expanding sales force for ROW. See spreadsheet for calculations.  MB APR 2014- distribution = Anda distrubution.Total ethical sales= pharma+specialty=1,043 + 6,252=7,295m "	12	USA	TRUE	TRUE	3	6
+112	 	Wyeth	"Wyeth Alliance Revs include Enbrel N. American sales, Altace & Cypher (sirolimus) stent revenues(recorded in Other Transplant)"	12	USA	FALSE	FALSE	1	6
+114	NULL	Akzo Nobel	NULL	NULL	NULL	TRUE	FALSE	NULL	NULL
+115	NULL	Alpharma	NULL	NULL	NULL	FALSE	FALSE	NULL	NULL
+116	NULL	Altana	NULL	NULL	NULL	FALSE	FALSE	NULL	NULL
+117	NULL	Aventis	NULL	NULL	NULL	FALSE	FALSE	NULL	NULL
+118	NULL	Bioenvision	NULL	NULL	NULL	TRUE	FALSE	NULL	NULL
+119	NULL	Biogen	NULL	NULL	NULL	FALSE	FALSE	NULL	NULL
+120	NULL	Chiron	NULL	NULL	NULL	FALSE	FALSE	NULL	NULL
+121	NULL	Encysive Pharmaceuticals	NULL	NULL	NULL	FALSE	FALSE	NULL	NULL
+122	NULL	Fournier	NULL	NULL	NULL	TRUE	FALSE	NULL	NULL
+123	NULL	Genzyme / Biomarin	NULL	NULL	NULL	TRUE	FALSE	NULL	NULL
+124	NULL	Immunex	NULL	NULL	NULL	FALSE	FALSE	NULL	NULL
+125	NULL	IVAX	NULL	NULL	NULL	FALSE	FALSE	NULL	NULL
+126	NULL	Kirin	NULL	NULL	NULL	FALSE	FALSE	NULL	NULL
+127	NULL	Kos	NULL	NULL	NULL	FALSE	FALSE	NULL	NULL
+128	NULL	Ligand	NULL	NULL	NULL	TRUE	FALSE	NULL	NULL
+129	NULL	Lilly/Icos	NULL	NULL	NULL	FALSE	FALSE	NULL	NULL
+130	NULL	MedImmune	NULL	NULL	NULL	FALSE	FALSE	NULL	NULL
+131	NULL	MGI Pharma	NULL	NULL	NULL	FALSE	FALSE	NULL	NULL
+132	NULL	Millennium	NULL	NULL	NULL	FALSE	FALSE	NULL	NULL
+133	NULL	Pharmacia	NULL	NULL	NULL	FALSE	FALSE	NULL	NULL
+134	NULL	Pharmion	NULL	NULL	NULL	FALSE	FALSE	NULL	NULL
+135	NULL	Reliant Pharmaceuticals	NULL	NULL	NULL	FALSE	FALSE	NULL	NULL
+136	NULL	Schering	NULL	NULL	NULL	FALSE	FALSE	NULL	NULL
+137	NULL	Schering AG	NULL	NULL	NULL	FALSE	FALSE	NULL	NULL
+138	NULL	Schwarz	NULL	NULL	NULL	FALSE	FALSE	NULL	NULL
+139	NULL	Serono	NULL	NULL	NULL	FALSE	FALSE	NULL	NULL
+140		TAP		12	USA	TRUE	FALSE	3	6
+143		Archer Biosciences		12	USa	TRUE	FALSE	2	6
+144		Fumapharm		12	Zurich	TRUE	FALSE	2	2
+147		Rigel Pharmaceuticals		12	USA	TRUE	FALSE	2	6
+148		Neurosearch		12	Denmark	TRUE	FALSE	2	1
+149		BioDelivery Sciences		12	"North Carolina, USA"	TRUE	FALSE	3	6
+150		Taisho	"AM - 12/2012 - Ethical R&D = R&D attributed by the company to the Prescr Med segment. The R&D split for Self-Med and Prescription Med is not available in Q reports - just total R&D. Applied the split from the 2011 Annual report (22% ; 78%) to total R&D numbers Q1: Y5.321b, Q2: Y6.180b. For 2012 moved 20m from Other AI to Other CV to make the curves smooth.  JB SEP 11 - Other revenue comes from Prescription Operations that are non-ethical drugs; 7.9bn in Intermediate products, 0.3 in Royalty income.  Ethical drugs were 93.1bn ($1086.7m).  Self-Medication was Yen 167.1bn  JB SEP 2011 - Taisho provides FY 2010 ethical drug sales of Yen 93.1bn, which converts to $1086.7m"	3	Japan	TRUE	TRUE	3	7
+151		Yakult Honsha		3	Japan	TRUE	FALSE	3	7
+152		Biovail		12	RoW	TRUE	FALSE	3	6
+153	Warner Chilcott is in the process of being acquired by Actavis. The deal is expected to close in late 2013.	Warner Chilcott 	"JB SEPT 2012 - Other Product Net Sales included in ED total (from income statment).  Sector totals include Contract Manufacturing and Other Revenue (31m for both 2011 and 2010).  AR removed  BH Apr 2013 - Sector totals 14m contract manufact. 10m other rev (not include alliance, 56m). total ethical sales: 2541m (minus -manufact, other rev, and alliance, 80m). US keep what Virtua states (2132m), ROW, subtract the other revenues (409-80m): 329m."	12	Europe	FALSE	TRUE	3	6
+154	"Optimer was founded and registered as a Delaware Corporation in 1998. The Company headquarters and R&D laboratory are located in San Diego, CA.  Optimer also has one subsidiary, Optimer Biotechnology ocated in Taipei, Taiwan.  The company has over 60 employees. AIs (antibiotics) are the main focus of the company."	Optimer		12	USA	FALSE	FALSE	2	6
+155		Protalix		12	Israel	TRUE	FALSE	2	6
+156		Tercica		12	United States	FALSE	FALSE	2	6
+157		Teijin		3	"Osaka, Japan"	TRUE	FALSE	3	7
+159		Ovation		12	USA	FALSE	TRUE	3	6
+161		Progenics		12	"Tarrytown, NJ - USA"	TRUE	FALSE	2	6
+163		Collegium Pharmaceuticals		12	USA	TRUE	FALSE	2	6
+165		Onyx Pharmaceuticals		12	USA	FALSE	FALSE	3	6
+166		Keryx Biopharmaceuticals		12	USA	TRUE	FALSE	3	6
+167		AMAG Pharmaceuticals		12		TRUE	FALSE	3	6
+168		AEterna Zentaris		12	Canada	TRUE	FALSE	3	6
+169		Auxilium		12	USA	TRUE	FALSE	3	6
+170		AVEO Pharmaceuticals		12	USA	TRUE	FALSE	3	6
+171		BioMarin		12	"Novato, California"	TRUE	FALSE	2	6
+172		Incyte		12	USA	TRUE	FALSE	3	6
+173		Alexion Pharmaceuticals		12	USA	TRUE	FALSE	2	6
+174	"Newly formed company created by a five-member venture capital syndicate to pursue late-stage clinical development of novel antibiotic programs in 2009. Durata acquired Vicuron Pharmaceuticals, including dalbavncin (Zeven) from Pfizer in December 2009. "	Durata Therapeutics		12		TRUE	FALSE	2	6
+175		Durect		12	USA	TRUE	FALSE	2	6
+176		Anthera		12	USA	TRUE	FALSE	2	6
+177		Active Biotech		12	EU	TRUE	FALSE	2	9
+178		Spectrum Pharmaceuticals		12	USA	TRUE	FALSE	3	6
+179		Zogenix		12	USA	TRUE	FALSE	2	6
+180		Vectura		3	EU	TRUE	FALSE	2	4
+181		PTC Therapeutics		12	USA	TRUE	FALSE	2	6
+182		NicOx		12	Europe	TRUE	FALSE	2	2
+183		Nanotherapeutics		12	United States	TRUE	FALSE	2	6
+184		Theravance		12	United States	TRUE	FALSE	2	6
+185		Affinium Pharmaceuticals		12	USA	TRUE	FALSE	2	6
+186		Evolva		12	Switzerland	TRUE	FALSE	3	5
+187		Hospira		12	"Lake Forest, Illinois, USA"	TRUE	FALSE	3	6
+188		Marinus		12	"Branford, CT, USA"	TRUE	FALSE	2	6
+189		Valeant	"Quartly sales=product sales - OTC estimate/4. GHsep13 - product sales line of income statement=ED. matches ED value in model with the exception Q1, Q2, 2012 which are 92% and 88% of product sales. added sales for B&L. From 2014 $200m added to oth gen for both US, ROW $300 added to oth opth US $200 to other opth ROW. Half of the above values added in FY 2013. added 2% growth trend of all above lines from 2014. - need to incorporate B&L deal - about $200m US generics (from transcript), prob equivalent ROW - then $400-500 in other opth split between US global.  the remainer will need one or more new sector totals depending on how they break it out.  4/13 - added $21m Other Opth (US) for Visudyne - in 2012 4/13 - Added $125m in Other Derm (US) OP for Medicis acquisition -starting 2013 2006-2009 Historic Biovail sales 2010 - Valeant consolidated at end of Q3 3/12 - Other Opthalmology added for Eyetech acquisition 9/12 Other Opth sales added in 2010 & 2011 for Aton acquisition "	12	ROW	TRUE	TRUE	3	6
+190		Meda	"Total sales - [contract manufacturing + OTC + other]. They don't break out OTC yet, but estimate, plus 50% of Betadine. In US, Alaven OTC was around SKr 192m in 2010 - assumed Meda booked half of this - Used IMS for historical sales - wide range of therapy areas covered in' 'local products' - Other ophthalmology  = Optivar; Need to drop ROW opth more than currently LM nov 2011  - nov 2011 LM need to push up other oncology (ceplene) sales after looking at fy2011 performance - probably shouldn't decline. Amy: March 2012 - looks like they break out OTC and other now, estimated contract manufacturing as I don't see this reported yet - check annual report when it publishes  PF: May 2012 - Numbers updated to make US ethical sales lower (previous numbers reported royalties from Valeant US as ethical sales). Contract manufacturing figure also changed to match annual report.  PF: SEPT 2012 - revised 2008 numbers to match goods sold total and make capiq number = PV number."	12	Europe	TRUE	TRUE	3	9
+191		Oxagen		12	"Oxfordshire, UK"	TRUE	FALSE	3	4
+192		Seattle Genetics		12	USA	TRUE	FALSE	2	6
+193		Pharmaxis		12	"Frenchs Forest, Australia"	TRUE	FALSE	3	6
+194		MediciNova		12	"San Diego, CA"	TRUE	FALSE	2	6
+195		Logical Therapeutics		12	USA	TRUE	FALSE	2	6
+196		Generex		12	"Ontario, Canada"	TRUE	FALSE	2	6
+197		HRA Pharma		12	Paris	TRUE	FALSE	3	2
+198		Vion Pharmaceuticals		12	USA	TRUE	FALSE	3	6
+199		Agennix		12	EU	TRUE	FALSE	3	2
+200		Access Pharmaceuticals		12	USA	TRUE	FALSE	3	6
+201		Surface Logix		12	"Brighton, MA"	TRUE	FALSE	2	6
+202		Cyclacel		12	USA	TRUE	FALSE	3	6
+203		Cell Therapeutics		12	USA	TRUE	FALSE	3	6
+204		Infinity Pharmaceuticals		12	USA	TRUE	FALSE	3	6
+205		Genta		12	USA	TRUE	FALSE	3	6
+206		Cytos Biotechnology 		12	Switzerland	TRUE	FALSE	2	5
+207		CytRx		12	USA	TRUE	FALSE	3	6
+208		Boryung Pharmaceutical		12	Korea	TRUE	FALSE	3	3
+209		ZIOPHARM Oncology		12	USA	TRUE	FALSE	3	6
+210		Ligand Pharmaceuticals 		12	"California, USA "	TRUE	FALSE	2	6
+211		Ferring Pharmaceuticals		12	EU	TRUE	FALSE	3	5
+212		Momenta Pharmaceuticals 		12	"Cambridge, MA"	TRUE	FALSE	2	6
+213		Isis Pharmaceuticals		12	"Carlsbad, CA"	TRUE	FALSE	2	6
+214		Medicure 		5	ROW	TRUE	FALSE	3	8
+215		Correvio		12	USA	TRUE	FALSE	3	6
+216		Swedish Orphan Biovitrum		12	Europe	TRUE	FALSE	3	9
+217		Zealand Pharma		12	Europe	TRUE	FALSE	3	2
+218		Antisoma		6	Europe	TRUE	FALSE	2	4
+219		Celldex Therapeutics		12	USA	TRUE	FALSE	2	6
+220		BioNumerik Pharmaceuticals		12	USA	TRUE	FALSE	3	6
+221		ASKA Pharmaceutical		3	Japan	TRUE	FALSE	3	7
+222		Lorus Therapeutics		5	ROW	TRUE	FALSE	2	6
+223		Adolor		12	USA	FALSE	FALSE	3	6
+224		Prometheus		12	USA	TRUE	FALSE	3	6
+225		Dyax 		12	USA	TRUE	FALSE	3	6
+226		GTC Biotherapeutics		12	USA	TRUE	FALSE	2	6
+227		OPKO Health		12	USA	TRUE	FALSE	3	6
+228		Microbix 		12	ROW	TRUE	FALSE	3	8
+229		EKR Therapeutics 		12	USA	TRUE	FALSE	3	6
+230		PAION 		12	Europe	TRUE	FALSE	3	2
+231		Renovo		9	Europe	TRUE	FALSE	3	4
+232		Medicis		12	USA	FALSE	FALSE	3	6
+233		Revotar		12	Europe	TRUE	FALSE	3	2
+234		Galderma		12	Europe	TRUE	FALSE	3	2
+235		Isotechnika		12	RoW	TRUE	FALSE	3	6
+236		BioTie		12	Europe	TRUE	FALSE	3	2
+237		Biopartners		12	"Baar, Switzerland"	TRUE	FALSE	2	5
+238		Bayhill Therapeutics		12	"Palo Alto, CA, USA"	TRUE	FALSE	2	6
+240	"Originally Shionogi and GSK established a joint venture in 2001 focused on HIV drug discovery, development and marketing. But then in 2009 GSK and Pfizer created a second joint venture ViiV Healthcare - and HIV specialist company. Since the 2010 the original JV between Shionogi and GSK has been renamed Shionogi-ViiV Healthcare."	Shionogi-ViiV Healthcare LLC		12	United Kingdom	TRUE	FALSE	3	4
+242		Ore Pharmaceuticals		12	USA	TRUE	FALSE	3	6
+243		Gedeon Richter	LM 9/11 - pushed US others right down as GR forecast a drop of 35%yoy and we are out of step.  We are on the low end for ROW forecast but not by much - seems fine as we are high overall because of US growth.  JB MAR 2012 - Eliminations line added where the figure does not completely offset from the Others line from 2009 onward.  PF JUNE12 - Added Q1 2012 R&D and Ethical totals rounded to nearest billion.  PF APR 2013 - See Gedeon Richter documents. Did a substantial overhaul.	12	Europe	TRUE	TRUE	3	10
+244	Actually reports in Korean won.	Dong A		12	ROW	TRUE	FALSE	3	3
+245		InterMune		12	"Brisbane, CA"	TRUE	FALSE	3	6
+246		Senju		3	Japan	TRUE	FALSE	3	7
+247		Aerie Pharmaceuticals		12	USA	TRUE	FALSE	2	6
+248		Eyetech		12	USA	TRUE	FALSE	2	6
+249		Novagali		12	Europe	TRUE	FALSE	2	2
+250		EyeGate		12	USA	TRUE	FALSE	2	6
+251		Alexza		12	"Mountain View, CA, USA"	TRUE	FALSE	2	6
+252	Company reports in NIS (Israeli New Shekel) but also converts to USD in statements.	BioLineRx		12	"Jerusalem, Israel"	TRUE	FALSE	2	6
+253		NeurAxon		12	"Toronto, Ontario, Canada"	TRUE	FALSE	2	8
+254		Noven		12	"Miami, Florida, USA"	TRUE	FALSE	3	6
+255		Kyorin		12	Japan	TRUE	FALSE	3	3
+256		Dynavax Technologies		12	United States	TRUE	FALSE	2	6
+257		Xytis		12	"Geneva, Switzerland"	TRUE	FALSE	2	5
+258		Exelixis		12	USA	TRUE	FALSE	3	6
+259		Ardea Biosciences		12	United States	TRUE	FALSE	2	6
+260		UBE		3	Japan	TRUE	FALSE	3	7
+261		Achillion		12	United States	TRUE	FALSE	2	6
+262		Anacor		12	United States	TRUE	FALSE	2	6
+263		Horizon Pharma		12	USA	TRUE	FALSE	2	6
+267		Fujisawa		3	Japan	TRUE	FALSE	3	7
+268		Mitsubishi Pharma		3	Japan	FALSE	FALSE	3	7
+269		Sumitomo		3	Japan	FALSE	FALSE	3	7
+270		Whanin Pharm		12	Korea	TRUE	FALSE	3	6
+271		Inhibitex		12	United States	TRUE	FALSE	2	6
+272		Three Rivers Pharmaceuticals		12	United States	TRUE	FALSE	3	6
+273		Vanda Pharmaceuticals		12	USA	TRUE	FALSE	2	6
+274		Biolex		12	United States	TRUE	FALSE	2	6
+275		Advanced Life Sciences 		12	United States	TRUE	FALSE	2	6
+276		Enanta		12	United States	TRUE	FALSE	2	6
+277		RFS Pharma		12	United States	TRUE	FALSE	2	6
+278		Acino		12	Switzerland	TRUE	FALSE	3	5
+279		CSL		12	Australia	TRUE	FALSE	3	6
+281		Idenix		12	United States	TRUE	FALSE	2	6
+282		Pharmasset		12	United States	TRUE	FALSE	2	6
+283		Peregrine Pharmaceuticals 		12	United States	TRUE	FALSE	2	6
+284		Tripep		12	Sweden	TRUE	FALSE	2	9
+285		GlobeImmune		12	United States	TRUE	FALSE	2	6
+286		Idera		12	United States	TRUE	FALSE	2	6
+287		TaiMed Biologics		12	United States	TRUE	FALSE	2	6
+288		Myriad		12	United States	TRUE	FALSE	3	6
+289		Trimeris		12	United States	TRUE	FALSE	2	6
+290		VIRxSYS 		12	United States	TRUE	FALSE	2	6
+291		Meiji-Seika 		12	Japan	TRUE	FALSE	3	7
+292		Ambrila		12	Canada	TRUE	FALSE	2	6
+293		Cornerstone Therapeutics		12	United States	FALSE	FALSE	3	6
+294		Salvat		12	ROW	TRUE	FALSE	3	2
+295		Archimedes Pharma		12	Europe	TRUE	FALSE	2	2
+296		Nuvo Research		12	Canada	TRUE	FALSE	3	8
+297		CrystalGenomics		12	Korea	TRUE	FALSE	2	6
+298		Protein Sciences		12	United States	TRUE	FALSE	2	6
+299		Novavax		12	United States	TRUE	FALSE	2	6
+300		Sinovac		12	China	TRUE	FALSE	3	6
+301		Intercell		12	Austria	TRUE	FALSE	2	2
+302		Zosano Pharma		12	USA	TRUE	FALSE	2	6
+303		XenoPort		12	USA	TRUE	FALSE	2	6
+304		Mylan 		12	USA	TRUE	FALSE	3	6
+305		Afferent Pharmaceuticals		12	USA	TRUE	FALSE	2	6
+307	NULL	Covance	NULL	12	USA	TRUE	FALSE	2	6
+308	NULL	Zimmer	NULL	12	USA	TRUE	FALSE	2	6
+309	NULL	One Equity Partners	NULL	12	USA	TRUE	FALSE	2	6
+310	NULL	Medarex	NULL	12	USA	TRUE	FALSE	2	6
+311	NULL	R-Tech Ueno	NULL	12	USA	TRUE	FALSE	2	6
+312	NULL	Kern Pharma	NULL	12	USA	TRUE	FALSE	2	6
+313	NULL	Eumedica	NULL	12	USA	TRUE	FALSE	2	6
+314	NULL	Immunomedics	NULL	12	USA	TRUE	FALSE	2	6
+315	NULL	4SC	NULL	12	USA	TRUE	FALSE	2	6
+316	NULL	Graceway Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+319	NULL	Evonik Industries	NULL	12	USA	TRUE	FALSE	2	6
+320	NULL	Sigma Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+322	NULL	Quintiles Transnational	NULL	12	USA	TRUE	FALSE	2	6
+323	NULL	BMP Sunstone	NULL	12	USA	TRUE	FALSE	2	6
+324	NULL	MedGenesis	NULL	12	USA	TRUE	FALSE	2	6
+325	NULL	FivePrime	NULL	12	USA	TRUE	FALSE	2	6
+326	NULL	Avant Immunotherapeutics	NULL	12	USA	TRUE	FALSE	2	6
+327	NULL	Serenex	NULL	12	USA	TRUE	FALSE	2	6
+328	NULL	Tarcere	NULL	12	USA	TRUE	FALSE	2	6
+330	NULL	Scil Technologies	NULL	12	USA	TRUE	FALSE	2	6
+332	NULL	UCSF	NULL	12	USA	TRUE	FALSE	2	6
+333	NULL	TransPharma Medical	NULL	12	USA	TRUE	FALSE	2	6
+334	NULL	Astex	NULL	12	USA	TRUE	FALSE	2	6
+336	NULL	PureTech Ventures	NULL	12	USA	TRUE	FALSE	2	6
+338	NULL	Medivation	NULL	12	USA	TRUE	FALSE	2	6
+339	NULL	Shanghai Pharmaceutical	NULL	12	USA	TRUE	FALSE	2	6
+340	NULL	Karo Bio	NULL	12	USA	TRUE	FALSE	2	6
+341	NULL	PDL BioPharma	NULL	12	USA	TRUE	FALSE	2	6
+342	NULL	Asterand	NULL	12	USA	TRUE	FALSE	2	6
+345	NULL	EyeCyte	NULL	12	USA	TRUE	FALSE	2	6
+346	NULL	Maxygen	NULL	12	USA	TRUE	FALSE	2	6
+347	NULL	Direvo	NULL	12	USA	TRUE	FALSE	2	6
+348	NULL	Cellzome	NULL	12	USA	TRUE	FALSE	2	6
+349	NULL	Innogenetics	NULL	12	USA	TRUE	FALSE	2	6
+350	NULL	SymBio 	NULL	12	USA	TRUE	FALSE	2	6
+352	NULL	SBI Biotech	NULL	12	USA	TRUE	FALSE	2	6
+353	NULL	Hisoar	NULL	12	USA	TRUE	FALSE	2	6
+354	NULL	Zentiva	NULL	12	USA	TRUE	FALSE	2	6
+356	NULL	Deciphera Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+357	NULL	Japan Tobacco	NULL	12	USA	TRUE	FALSE	2	7
+358	NULL	Advinus Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+359	NULL	Barr Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+361	NULL	Indevus Pharmaceuticals	NULL	12	USA	FALSE	FALSE	2	6
+362	NULL	Silence Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+363	NULL	National University of Singapore	NULL	12	USA	TRUE	FALSE	2	6
+364	NULL	CoMentis	NULL	12	USA	TRUE	FALSE	2	6
+366	NULL	Evec	NULL	12	USA	TRUE	FALSE	2	6
+368	NULL	Columbia University	NULL	12	USA	TRUE	FALSE	2	6
+369	NULL	RainDance Technologies & Louis Pasteur University	NULL	12	USA	TRUE	FALSE	2	6
+370	NULL	Global Alliance for TB Drug Development	NULL	12	USA	TRUE	FALSE	2	6
+371	NULL	Medicines for Malaria Venture	NULL	12	USA	TRUE	FALSE	2	6
+372	NULL	Acusphere	NULL	12	USA	TRUE	FALSE	2	6
+373	NULL	AFFiRiS	NULL	12	USA	TRUE	FALSE	2	6
+374	NULL	Laclede	NULL	12	USA	TRUE	FALSE	2	6
+375	NULL	Phenomix	NULL	12	USA	TRUE	FALSE	2	6
+376	NULL	Cyclofluidic	NULL	12	USA	TRUE	FALSE	2	6
+377	NULL	Jubilant Organosys	NULL	12	USA	TRUE	FALSE	2	6
+378	NULL	Phibro Animal Health	NULL	12	USA	TRUE	FALSE	2	6
+379	NULL	SurgeRx	NULL	12	USA	TRUE	FALSE	2	6
+380	NULL	HealthMedia	NULL	12	USA	TRUE	FALSE	2	6
+381	NULL	Genelabs	NULL	12	USA	TRUE	FALSE	2	6
+382	NULL	Sciele	NULL	12	USA	TRUE	FALSE	2	6
+385	NULL	Osiris Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+386	NULL	ArQule	NULL	12	USA	TRUE	FALSE	2	6
+387	NULL	Kyoto University	NULL	12	USA	TRUE	FALSE	2	6
+388	NULL	Lpath	NULL	12	USA	TRUE	FALSE	2	6
+389	NULL	theratechnologies	NULL	12	USA	TRUE	FALSE	2	6
+390	NULL	Bio-Fyt Pharma	NULL	12	USA	TRUE	FALSE	2	6
+391	NULL	Catalyst Biosciences	NULL	12	USA	TRUE	FALSE	2	6
+392	NULL	NIBT	NULL	12	USA	TRUE	FALSE	2	6
+395	NULL	Omrix Biopharmaceutical	NULL	12	USA	TRUE	FALSE	2	6
+396	NULL	International Center for Genetic Engineering and Biotechnology (ICGEB)	NULL	12	USA	TRUE	FALSE	2	6
+398	NULL	Chiome Bioscience	NULL	12	USA	TRUE	FALSE	2	6
+399	NULL	Thiakis	NULL	12	USA	TRUE	FALSE	2	6
+401	NULL	Alphavax	NULL	12	USA	TRUE	FALSE	2	6
+402	NULL	Sangamo BioSciences	NULL	12	USA	TRUE	FALSE	2	6
+403	NULL	LGE Performance Systems	NULL	12	USA	TRUE	FALSE	2	6
+404	NULL	Santaris Pharma	NULL	12	USA	TRUE	FALSE	2	6
+406	NULL	Archemix	NULL	12	USA	TRUE	FALSE	2	6
+408	NULL	Biocompatibles International	NULL	12	USA	TRUE	FALSE	2	6
+410	NULL	Wilex	NULL	12	USA	TRUE	FALSE	2	6
+411	NULL	Azur Pharma	NULL	12	USA	FALSE	FALSE	2	6
+412	NULL	Sigma-Tau	NULL	12	USA	TRUE	FALSE	2	6
+413	NULL	Advanced Medical Optics	NULL	12	USA	TRUE	FALSE	2	6
+414	NULL	XDx	NULL	12	USA	TRUE	FALSE	2	6
+415	NULL	Galapagos	NULL	12	USA	TRUE	FALSE	2	6
+416	NULL	Kitasato Institute	NULL	12	USA	TRUE	FALSE	2	6
+417	NULL	Huya	NULL	12	USA	TRUE	FALSE	2	6
+418	NULL	Apitope	NULL	12	USA	TRUE	FALSE	2	6
+419	NULL	Lonza Group	NULL	12	USA	TRUE	FALSE	2	6
+420	NULL	EffRx	NULL	12	USA	TRUE	FALSE	2	6
+421	NULL	Ception Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+422	NULL	Biotica	NULL	12	USA	TRUE	FALSE	2	6
+423	NULL	Forma Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+424	NULL	PsychoGenics	NULL	12	USA	TRUE	FALSE	2	6
+425	NULL	Alnylam	NULL	12	USA	TRUE	FALSE	2	6
+427	NULL	Virginia Tech & Mayo Clinic	NULL	12	USA	TRUE	FALSE	2	6
+428	NULL	OncoTherapy Science	NULL	12	USA	TRUE	FALSE	2	6
+430	NULL	Choseido Pharma	NULL	12	USA	TRUE	FALSE	2	6
+431	NULL	Cytochroma	NULL	12	USA	TRUE	FALSE	2	6
+432	NULL	TorreyPines	NULL	12	USA	TRUE	FALSE	2	6
+433	NULL	University Hospital Heidelberg	NULL	12	USA	TRUE	FALSE	2	6
+434	NULL	Bial	NULL	12	USA	TRUE	FALSE	2	6
+436	NULL	Salk Institute	NULL	12	USA	TRUE	FALSE	2	6
+439	NULL	Arana Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+443	NULL	Fast Forward	NULL	12	USA	TRUE	FALSE	2	6
+444	NULL	Xoma	NULL	12	USA	TRUE	FALSE	2	6
+445	NULL	Bausch & Lomb	NULL	12	USA	TRUE	FALSE	2	6
+446	NULL	Aurobindo Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+447	NULL	University College London	NULL	12	USA	TRUE	FALSE	2	6
+448	NULL	Zydus Cadila	NULL	12	USA	TRUE	FALSE	2	6
+449	NULL	Nissan Chemical & Teijin Pharma	NULL	12	USA	TRUE	FALSE	2	6
+451	NULL	World Health Organization	NULL	12	USA	TRUE	FALSE	2	6
+452	NULL	Fujirebio Diagnostics	NULL	12	USA	TRUE	FALSE	2	6
+453	NULL	Insmed	NULL	12	USA	TRUE	FALSE	2	6
+455	NULL	Medarex & MBL	NULL	12	USA	TRUE	FALSE	2	6
+456	NULL	Pentraxin	NULL	12	USA	TRUE	FALSE	2	6
+457	NULL	Stiefel	NULL	12	USA	FALSE	FALSE	2	6
+458	NULL	Aspen	NULL	12	USA	TRUE	FALSE	2	6
+459	NULL	EBEWE	NULL	12	USA	TRUE	FALSE	2	6
+461	NULL	Epistem	NULL	12	USA	TRUE	FALSE	2	6
+463	NULL	Medley	NULL	12	USA	TRUE	FALSE	2	6
+464	NULL	Laboratorios Kendrick	NULL	12	USA	TRUE	FALSE	2	6
+465	NULL	Bipar sciences	NULL	12	USA	TRUE	FALSE	2	6
+466	NULL	DNDi	NULL	12	USA	TRUE	FALSE	2	6
+467	NULL	DxS	NULL	12	USA	TRUE	FALSE	2	6
+468	NULL	DeveloGen	NULL	12	USA	TRUE	FALSE	2	6
+469	NULL	Ironwood	NULL	12	USA	TRUE	FALSE	2	6
+470	NULL	Vitae Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+471	NULL	Celleron Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+472	NULL	BioDuro	NULL	12	USA	TRUE	FALSE	2	6
+473	NULL	Cellartis	NULL	12	USA	TRUE	FALSE	2	6
+474	NULL	Wellcome Trust	NULL	12	USA	TRUE	FALSE	2	6
+475	NULL	Tsinghua University	NULL	12	USA	TRUE	FALSE	2	6
+476	NULL	Bioton	NULL	12	USA	TRUE	FALSE	2	6
+477	NULL	Celera	NULL	12	USA	TRUE	FALSE	2	6
+478	NULL	Acceleron	NULL	12	USA	TRUE	FALSE	2	6
+479	NULL	Bradley	NULL	12	USA	TRUE	FALSE	2	6
+480	NULL	Array Biopharma	NULL	12	USA	TRUE	FALSE	2	6
+482	NULL	Oxford biotherapeutics	NULL	12	USA	TRUE	FALSE	2	6
+483	NULL	Concert Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+485	NULL	Medtronic	NULL	12	USA	TRUE	FALSE	2	6
+486	NULL	Wockhardt	NULL	12	USA	TRUE	FALSE	2	6
+487	NULL	Cytokinetics	NULL	12	USA	TRUE	FALSE	2	6
+488	NULL	Claris Lifesciences	NULL	12	USA	TRUE	FALSE	2	6
+489	NULL	Shanghai Institute for Biological Sciences	NULL	12	USA	TRUE	FALSE	2	6
+490	NULL	Visiogen	NULL	12	USA	TRUE	FALSE	2	6
+492	NULL	Crucell	NULL	12	USA	TRUE	FALSE	2	6
+493	NULL	Wellstat Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+494	NULL	Evalve	NULL	12	USA	TRUE	FALSE	2	6
+495	NULL	Zhejian Tianyuan	NULL	12	USA	TRUE	FALSE	2	6
+496	NULL	Laboratoire Oenobiol	NULL	12	USA	TRUE	FALSE	2	6
+497	NULL	Fovea	NULL	12	USA	TRUE	FALSE	2	6
+498	NULL	Merrimack	NULL	12	USA	TRUE	FALSE	2	6
+499	NULL	Qiagen	NULL	12	USA	TRUE	FALSE	2	6
+500	NULL	Alder Biopharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+501	NULL	IDM Pharma	NULL	12	USA	TRUE	FALSE	2	6
+506	NULL	Envivo	NULL	12	USA	FALSE	FALSE	2	6
+507	NULL	Kureha	NULL	12	USA	TRUE	FALSE	2	6
+509	NULL	United Kingdom	NULL	12	USA	TRUE	FALSE	2	6
+510	NULL	Addrenex	NULL	12	USA	TRUE	FALSE	2	6
+511	NULL	Kyowa Hakko	NULL	12	USA	TRUE	FALSE	2	6
+514	NULL	TSD Japan	NULL	12	USA	TRUE	FALSE	2	6
+515	NULL	PanGenetics	NULL	12	USA	TRUE	FALSE	2	6
+517	NULL	Rockefeller University	NULL	12	USA	TRUE	FALSE	2	6
+518	NULL	California Institue of Technology	NULL	12	USA	TRUE	FALSE	2	6
+519	NULL	Alopexx	NULL	12	USA	TRUE	FALSE	2	6
+520	NULL	Trellis	NULL	12	USA	TRUE	FALSE	2	6
+523	NULL	Adimab	NULL	12	USA	TRUE	FALSE	2	6
+524	NULL	Avecia Biologics	NULL	12	USA	TRUE	FALSE	2	6
+525	NULL	AkaRx	NULL	12	USA	TRUE	FALSE	2	6
+526	NULL	Ambit	NULL	12	USA	TRUE	FALSE	2	6
+527	NULL	Vernalis	NULL	12	USA	TRUE	FALSE	2	6
+528	NULL	Jiangsu Walvax	NULL	12	USA	TRUE	FALSE	2	6
+529	NULL	Fiocruz	NULL	12	USA	TRUE	FALSE	2	6
+530	NULL	Addex Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+531	NULL	Crown Bioscience	NULL	12	USA	TRUE	FALSE	2	6
+532	NULL	STARLIMS Technologies	NULL	12	USA	TRUE	FALSE	2	6
+533	NULL	Acclarent	NULL	12	USA	TRUE	FALSE	2	6
+534	NULL	OncoGenex Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+535	NULL	BioXell	NULL	12	USA	TRUE	FALSE	2	6
+536	NULL	Chattem	NULL	12	USA	TRUE	FALSE	2	6
+537	NULL	PharmaForce	NULL	12	USA	TRUE	FALSE	2	6
+538	NULL	Ensemble	NULL	12	USA	TRUE	FALSE	2	6
+539	NULL	Corthera	NULL	12	USA	TRUE	FALSE	2	6
+540	NULL	Gloucester Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+543	NULL	ChemoCentryx	NULL	12	USA	TRUE	FALSE	2	6
+544	NULL	Novexel	NULL	12	USA	TRUE	FALSE	2	6
+546	NULL	Pfenex	NULL	12	USA	TRUE	FALSE	2	6
+547	NULL	Athersys	NULL	12	USA	TRUE	FALSE	2	6
+548	NULL	TCG Lifesciences	NULL	12	USA	TRUE	FALSE	2	6
+549	NULL	Strides Arcolab	NULL	12	USA	TRUE	FALSE	2	6
+550	NULL	Debiopharm	NULL	12	USA	TRUE	FALSE	2	6
+551	NULL	Immunas	NULL	12	USA	TRUE	FALSE	2	6
+552	NULL	Dicerna	NULL	12	USA	TRUE	FALSE	2	6
+554	NULL	Shantha Biotechnics	NULL	12	USA	TRUE	FALSE	2	6
+555	NULL	Hisamitsu	NULL	12	USA	TRUE	FALSE	2	6
+556	NULL	Millipore	NULL	12	USA	TRUE	FALSE	2	6
+557	NULL	Keas	NULL	12	USA	TRUE	FALSE	2	6
+558	NULL	Asian Cancer Research Group	NULL	12	USA	TRUE	FALSE	2	6
+559	NULL	Facet Biotech	NULL	12	USA	TRUE	FALSE	2	6
+560	NULL	Torrent Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+561	NULL	Acrux	NULL	12	USA	TRUE	FALSE	2	6
+562	NULL	ratiopharm	NULL	12	USA	TRUE	FALSE	2	6
+563	NULL	ImmunoCellular Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+564	NULL	Mersana Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+566	NULL	Icon / Parexel	NULL	12	USA	TRUE	FALSE	2	6
+568	NULL	Laboratory Corporation of America	NULL	12	USA	TRUE	FALSE	2	6
+569	NULL	AnaptysBio	NULL	12	USA	TRUE	FALSE	2	6
+571	NULL	MassBiologics	NULL	12	USA	TRUE	FALSE	2	6
+573	NULL	HealthTronics	NULL	12	USA	TRUE	FALSE	2	6
+574	NULL	RespiVert	NULL	12	USA	TRUE	FALSE	2	6
+575	NULL	Stemgent	NULL	12	USA	TRUE	FALSE	2	6
+576	NULL	Ergonex	NULL	12	USA	TRUE	FALSE	2	6
+577	NULL	Neurocrine Biosciences	NULL	12	USA	TRUE	FALSE	2	6
+578	NULL	Piramal Health Solutions	NULL	12	USA	TRUE	FALSE	2	6
+579	NULL	Thermo Fisher Scientific	NULL	12	USA	TRUE	FALSE	2	6
+580	NULL	MRC Technology	NULL	12	USA	TRUE	FALSE	2	6
+581	NULL	Adcock Ingram	NULL	12	USA	TRUE	FALSE	2	6
+582	NULL	Hawaii Biotech	NULL	12	USA	TRUE	FALSE	2	6
+583	NULL	Sinopharm	NULL	12	USA	TRUE	FALSE	2	6
+585	NULL	FoldRx pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+586	NULL	Marcadia Biotech	NULL	12	USA	TRUE	FALSE	2	6
+587	NULL	Alnara Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+589	NULL	Metabolex	NULL	12	USA	TRUE	FALSE	2	6
+590	NULL	Koch Institute (MIT)	NULL	12	USA	TRUE	FALSE	2	6
+591	NULL	Micrus Endovascular	NULL	12	USA	TRUE	FALSE	2	6
+592	NULL	Devicor Medical Products	NULL	12	USA	TRUE	FALSE	2	6
+593	NULL	Andromeda Biotech	NULL	12	USA	TRUE	FALSE	2	6
+595	NULL	Penwest Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+598	NULL	Qualitest Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+599	NULL	Ascenta Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+600	NULL	Vivalis	NULL	12	USA	TRUE	FALSE	2	6
+601	NULL	Regulus Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+602	NULL	TargeGen	NULL	12	USA	TRUE	FALSE	2	6
+603	NULL	Juvenile Diabetes Research Foundation	NULL	12	USA	TRUE	FALSE	2	6
+604	NULL	Dana-Farber Cancer Institute	NULL	12	USA	TRUE	FALSE	2	6
+606	NULL	DS Pharma Animal Health 	NULL	12	USA	TRUE	FALSE	2	6
+607	NULL	SunBio	NULL	12	USA	TRUE	FALSE	2	6
+609		Savient Pharmaceuticals		12	"U.S, New Jersey"	FALSE	FALSE	2	6
+610		Mochida		3	"Tokyo, Japan"	TRUE	FALSE	3	7
+611		Cardiokine 		12	USA	TRUE	FALSE	3	6
+612		ZymoGenetics		12	USA	FALSE	TRUE	2	6
+613		Santhera		12	"Liestal, Switzerland"	TRUE	FALSE	2	5
+614		Kissei		3	Japan	TRUE	FALSE	3	7
+615		Kaken Pharmaceutical		3	Japan	TRUE	FALSE	3	7
+616	NULL	Esteve	NULL	12	USA	TRUE	FALSE	2	6
+617	NULL	Leespharm	NULL	12	USA	TRUE	FALSE	2	6
+619	NULL	Sekisui Chemical	NULL	12	USA	TRUE	FALSE	2	6
+620	NULL	BioSeek	NULL	12	USA	TRUE	FALSE	2	6
+621	NULL	Concordia	NULL	12	USA	TRUE	FALSE	2	6
+622	NULL	Solasia	NULL	12	USA	TRUE	FALSE	2	6
+623	NULL	QuatRx	NULL	12	USA	TRUE	FALSE	2	6
+624	NULL	ArtMed International	NULL	12	USA	TRUE	FALSE	2	6
+625	NULL	Zambon	NULL	12	USA	TRUE	FALSE	2	6
+626	NULL	MacroGenetics	NULL	12	USA	TRUE	FALSE	2	6
+628	NULL	OncoMed Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+629	NULL	Biocon	NULL	12	USA	TRUE	FALSE	2	6
+630	NULL	VTU Technology	NULL	12	USA	TRUE	FALSE	2	6
+631	NULL	Laboratorio Teuto Brasileiro	NULL	12	USA	TRUE	FALSE	2	6
+632	NULL	Theramex	NULL	12	USA	TRUE	FALSE	2	6
+633	NULL	Avid Radiopharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+634	NULL	GE Healthcare	NULL	12	USA	TRUE	FALSE	2	6
+635	NULL	SmartCells	NULL	12	USA	TRUE	FALSE	2	6
+636		Convergence Pharmaceuticals		12	Europe	TRUE	FALSE	2	4
+637		Impax Pharmaceuticals		12	USA	TRUE	FALSE	2	6
+638		Acadia		12	"San Diego, CA, USA"	TRUE	FALSE	2	6
+639	NULL	Actient Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+640	NULL	Aptuit	NULL	12	USA	TRUE	FALSE	2	6
+641	NULL	Brain Factory	NULL	12	USA	TRUE	FALSE	2	6
+642	NULL	Aesica	NULL	12	USA	TRUE	FALSE	2	6
+643	NULL	Proximagen	NULL	12	USA	TRUE	FALSE	2	6
+644		MAP Pharmaceuticals		12	"Mountain View, CA, USA"	TRUE	FALSE	2	6
+645	NULL	Synosia	NULL	12	USA	TRUE	FALSE	2	6
+646	NULL	Columbia Laboratories	NULL	12	USA	FALSE	FALSE	2	6
+648	NULL	Serenity Pharma	NULL	12	USA	TRUE	FALSE	2	6
+649	NULL	VaxDesign	NULL	12	USA	TRUE	FALSE	2	6
+650	NULL	Harvard University	NULL	12	USA	TRUE	FALSE	2	6
+651	NULL	Laboratorios Phoenix	NULL	12	USA	TRUE	FALSE	2	6
+652	NULL	Medivir	NULL	12	USA	TRUE	FALSE	2	6
+653	NULL	Genmab	NULL	12	USA	TRUE	FALSE	2	6
+656	NULL	Eovoy	NULL	12	USA	TRUE	FALSE	2	6
+657	NULL	Japan HS Foundation	NULL	12	USA	TRUE	FALSE	2	6
+658	NULL	Sage Bionetworks	NULL	12	USA	TRUE	FALSE	2	6
+661	NULL	Roxro	NULL	12	USA	TRUE	FALSE	2	6
+662	NULL	OSI	NULL	12	USA	TRUE	FALSE	2	6
+663	NULL	UMN	NULL	12	USA	TRUE	FALSE	2	6
+664	NULL	Alavita	NULL	12	USA	TRUE	FALSE	2	6
+665	NULL	Cytori	NULL	12	USA	TRUE	FALSE	2	6
+666	NULL	Helsinn	NULL	12	USA	TRUE	FALSE	2	6
+670	NULL	Fondazione San Raffaele	NULL	12	USA	TRUE	FALSE	2	6
+671	NULL	Amicus Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+672	NULL	Binnopharm	NULL	12	USA	TRUE	FALSE	2	6
+673	NULL	Nanjing MeiRui Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+674	NULL	Maxinutrition	NULL	12	USA	TRUE	FALSE	2	6
+675	NULL	Avila Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+676	NULL	Ascendis Pharma	NULL	12	USA	TRUE	FALSE	2	6
+677	NULL	Beijing Skywing Technology	NULL	12	USA	TRUE	FALSE	2	6
+678	NULL	Synthetic Genomics Vaccines	NULL	12	USA	TRUE	FALSE	2	6
+679	NULL	Epizyme	NULL	12	USA	TRUE	FALSE	2	6
+680	NULL	Zinfandel	NULL	12	USA	TRUE	FALSE	2	6
+681	NULL	Emisphere	NULL	12	USA	TRUE	FALSE	2	6
+682	NULL	Nymox	NULL	12	USA	TRUE	FALSE	2	6
+683	NULL	Anaphore	NULL	12	USA	TRUE	FALSE	2	6
+684	NULL	Eurand	NULL	12	USA	TRUE	FALSE	2	6
+685	NULL	Domain Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+686	NULL	Guangdong Techpool Bio-Pharma	NULL	12	USA	TRUE	FALSE	2	6
+687		NPS		12	USA	TRUE	FALSE	3	6
+688		Depomed		12	"Menlo Park, CA, USA"	TRUE	FALSE	2	6
+689		Calistoga Pharmaceuticals		12	USA	TRUE	FALSE	3	6
+690		Transgene		12	Europe	TRUE	FALSE	2	2
+692		Valeant (legacy)		12	"Mississauga, Ontario, Canada"	FALSE	FALSE	2	8
+693		Nabi		12	"Rockville, MD, USA"	TRUE	FALSE	2	6
+694		NovaRx		12	USA	TRUE	FALSE	2	6
+695		Biovest		12	USA	TRUE	FALSE	2	6
+696		Nippon Shinyaku		3	Japan	TRUE	FALSE	3	7
+697		Amarin		12	EU	TRUE	FALSE	3	6
+698		Omthera Pharmaceuticals		12	USA	TRUE	FALSE	3	6
+699		MedPointe		12	"Cranbury, NJ, USA"	FALSE	FALSE	3	6
+700		Portola Pharmaceuticals		12	USA	TRUE	FALSE	3	6
+702	NULL	Quest Diagnostics	NULL	12	USA	TRUE	FALSE	2	6
+703	NULL	"Hetero, Matrix & Aspen"	NULL	12	USA	TRUE	FALSE	2	6
+704	NULL	Acucela	NULL	12	USA	TRUE	FALSE	2	6
+705	NULL	PATH Malaria Vaccine Initiative	NULL	12	USA	TRUE	FALSE	2	6
+706	NULL	EpiTherapeutics	NULL	12	USA	TRUE	FALSE	2	6
+707	NULL	Oncolys BioPharma	NULL	12	USA	TRUE	FALSE	2	6
+708	NULL	NanoBio	NULL	12	USA	TRUE	FALSE	2	6
+709	NULL	Synbiotics	NULL	12	USA	TRUE	FALSE	2	6
+710	NULL	Phylogica	NULL	12	USA	TRUE	FALSE	2	6
+712	NULL	Receptos	NULL	12	USA	TRUE	FALSE	2	6
+713	NULL	Xencor	NULL	12	USA	TRUE	FALSE	2	6
+714	NULL	Sutro Biopharma	NULL	12	USA	TRUE	FALSE	2	6
+715	NULL	Laboratoire Pharmaceutique Algerien	NULL	12	USA	TRUE	FALSE	2	6
+716	NULL	JCR Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	7
+717	NULL	Theraclone	NULL	12	USA	TRUE	FALSE	2	6
+718	NULL	Lead Discovery Center	NULL	12	USA	TRUE	FALSE	2	6
+719	NULL	Genoptix	NULL	12	USA	TRUE	FALSE	2	6
+721	NULL	Ception	NULL	12	USA	TRUE	FALSE	2	6
+722	NULL	Laboratorios Farmacol	NULL	12	USA	TRUE	FALSE	2	6
+723	NULL	AVIESAN	NULL	12	USA	TRUE	FALSE	2	6
+724	NULL	Sunnybrook Health Sciences Centre	NULL	12	USA	TRUE	FALSE	2	6
+725	NULL	International Vaccine Institute	NULL	12	USA	TRUE	FALSE	2	6
+727	NULL	Vision Institute	NULL	12	USA	TRUE	FALSE	2	6
+728	NULL	Dako Denmark	NULL	12	USA	TRUE	FALSE	2	6
+729	NULL	Corporacion Infarmasa	NULL	12	USA	TRUE	FALSE	2	6
+731	NULL	Aileron Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+732	NULL	GW Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+733	NULL	Merrion	NULL	12	USA	TRUE	FALSE	2	6
+734	NULL	Neose	NULL	12	USA	TRUE	FALSE	2	6
+735	NULL	Cellartis & Lund University	NULL	12	USA	TRUE	FALSE	2	6
+736	NULL	Alba Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+737	NULL	Zenobia and Vernalis	NULL	12	USA	TRUE	FALSE	2	6
+738	NULL	TransTech Pharma	NULL	12	USA	TRUE	FALSE	2	6
+739	NULL	BioAssets Development Corporation	NULL	12	USA	TRUE	FALSE	2	6
+741	NULL	Gemin X	NULL	12	USA	TRUE	FALSE	2	6
+742	NULL	Galenea	NULL	12	USA	TRUE	FALSE	2	6
+743	NULL	Fuso	NULL	12	USA	TRUE	FALSE	2	6
+745		Targacept		12	"Winston-Salem, North Carolina, USA"	TRUE	FALSE	2	6
+747	NULL	MRC / ICL / KCL	NULL	12	USA	TRUE	FALSE	2	6
+749	NULL	Oxford BioMedica	NULL	12	USA	TRUE	FALSE	2	6
+750	NULL	Stanford University	NULL	12	USA	TRUE	FALSE	2	6
+751	NULL	MicroDose Therapeutx	NULL	12	USA	TRUE	FALSE	2	6
+752	NULL	Hoepharma Holding 	NULL	12	USA	TRUE	FALSE	2	6
+753	NULL	Newron Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+754	NULL	Bracco	NULL	12	USA	TRUE	FALSE	2	6
+756	NULL	International Chemical Investors Group	NULL	12	USA	TRUE	FALSE	2	6
+757	NULL	Kohlberg Kravis Roberts	NULL	12	USA	TRUE	FALSE	2	6
+759	NULL	Glenmark Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+760	NULL	Advanced BioHealing	NULL	12	USA	TRUE	FALSE	2	6
+761	NULL	Arresto Biosciences	NULL	12	USA	TRUE	FALSE	2	6
+762	NULL	Yale University	NULL	12	USA	TRUE	FALSE	2	6
+763	NULL	Heptares Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+764	NULL	Specifar Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+766	NULL	Ferrosan	NULL	12	USA	TRUE	FALSE	2	6
+767	NULL	Alios BioPharma	NULL	12	USA	TRUE	FALSE	2	6
+768	NULL	WuXi PharmaTech	NULL	12	USA	TRUE	FALSE	2	6
+769	NULL	Procter & Gamble	NULL	12	USA	FALSE	FALSE	2	6
+770	NULL	Lycera	NULL	12	USA	TRUE	FALSE	2	6
+771	NULL	Zacharon Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+772	NULL	Neptunus	NULL	12	USA	TRUE	FALSE	2	6
+773	NULL	Amercian Medical Systems	NULL	12	USA	TRUE	FALSE	2	6
+774	NULL	Bergamo	NULL	12	USA	TRUE	FALSE	2	6
+775	NULL	Hypermarcas	NULL	12	USA	TRUE	FALSE	2	6
+776	NULL	Sun Pharmaceutical Industries	NULL	12	USA	TRUE	FALSE	2	6
+777	NULL	Synthes	NULL	12	USA	TRUE	FALSE	2	6
+779	NULL	Taiyo	NULL	12	USA	TRUE	FALSE	2	6
+780	NULL	JB Chemicals & Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+781	NULL	Care Capital & NovaQuest Capital	NULL	12	USA	TRUE	FALSE	2	6
+782	NULL	Hanwha	NULL	12	USA	TRUE	FALSE	2	6
+783	NULL	Affectis Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+784		Synta Pharmaceuticals		12	USA	TRUE	FALSE	3	6
+786		Endocyte		12	"West Lafayette, IN"	TRUE	FALSE	3	6
+787		FerroKin BioSciences		12	USA	TRUE	FALSE	3	6
+788	NULL	Alkermes	NULL	12	USA	TRUE	FALSE	2	6
+789	NULL	DENTSPLY	NULL	12	USA	TRUE	FALSE	2	6
+792	NULL	Cardeus	NULL	12	USA	TRUE	FALSE	2	6
+793	NULL	Minophagen	NULL	12	USA	TRUE	FALSE	2	6
+794	NULL	Maruho	NULL	12	USA	TRUE	FALSE	2	6
+795	NULL	Audion Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+796	NULL	Weill Cornell Medical College	NULL	12	USA	TRUE	FALSE	2	6
+797	NULL	Medco Health Solutions	NULL	12	USA	TRUE	FALSE	2	6
+798	NULL	CGI Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+801	NULL	Priaxon	NULL	12	USA	TRUE	FALSE	2	6
+803	NULL	Plexxikon	NULL	12	USA	TRUE	FALSE	2	6
+804	NULL	Prism Biolab	NULL	12	USA	TRUE	FALSE	2	6
+805	NULL	Japan Red Cross Society	NULL	12	USA	TRUE	FALSE	2	6
+806	NULL	Living Cell Technologies	NULL	12	USA	TRUE	FALSE	2	6
+807	NULL	Intercept Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+808	NULL	Trans Genic	NULL	12	USA	TRUE	FALSE	2	6
+810	NULL	Groupe d'Etude des Lymphomes de l'Adulte (GELA)	NULL	12	USA	TRUE	FALSE	2	6
+811	NULL	Blue Ash	NULL	12	USA	TRUE	FALSE	2	6
+812	NULL	ChemGenex	NULL	12	USA	TRUE	FALSE	2	6
+813	NULL	BioFocus	NULL	12	USA	TRUE	FALSE	2	6
+814	NULL	Ildong pharmaceutical	NULL	12	USA	TRUE	FALSE	2	6
+815	NULL	Victory Pharma	NULL	12	USA	TRUE	FALSE	2	6
+816	NULL	mtm laboratories	NULL	12	USA	TRUE	FALSE	2	6
+817	NULL	Cancer Prevention and Research Institute of Texas	NULL	12	USA	TRUE	FALSE	2	6
+818		CoLucid		12	"Research Triangle Park, NC, USA"	TRUE	FALSE	2	6
+819		OptiNose		12	"Yardley, PA, USA"	TRUE	FALSE	2	6
+821	NULL	SkyePharma	NULL	12	USA	TRUE	FALSE	2	6
+823	NULL	Enigma Diagnostics	NULL	12	USA	TRUE	FALSE	2	6
+824	NULL	Nichi-Iko	NULL	12	USA	TRUE	FALSE	2	6
+825	NULL	ChemRar	NULL	12	USA	TRUE	FALSE	2	6
+826	NULL	Innate Pharma	NULL	12	USA	TRUE	FALSE	2	6
+827	NULL	Vicept Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+828	NULL	Rxmidas Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+829	NULL	Icagen	NULL	12	USA	TRUE	FALSE	2	6
+830	NULL	Simcere Pharmaceutical	NULL	12	USA	TRUE	FALSE	2	6
+831	NULL	Amira Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+833	NULL	Serum Institute of India	NULL	12	USA	TRUE	FALSE	2	6
+834	NULL	"University of California, San Diego"	NULL	12	USA	TRUE	FALSE	2	6
+835	NULL	PregLem	NULL	12	USA	TRUE	FALSE	2	6
+836	NULL	Astron Research	NULL	12	USA	TRUE	FALSE	2	6
+837		Bavarian Nordic		12	Europe	TRUE	FALSE	3	1
+838		Inspiration Biopharmaceuticals		12	USA	TRUE	FALSE	NULL	6
+839		Reata Pharmaceuticals		12	USA	TRUE	FALSE	2	6
+840		Apotex		12	ROW	TRUE	FALSE	3	8
+841	NULL	Invida	NULL	12	USA	TRUE	FALSE	2	6
+842	NULL	Rhythm Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+843	NULL	STADA Arzneimittel	NULL	12	USA	TRUE	FALSE	2	6
+844	NULL	Autifony Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+845	NULL	Norgine	NULL	12	USA	TRUE	FALSE	2	6
+846	NULL	C&O Pharmaceutical Technology	NULL	12	USA	TRUE	FALSE	2	6
+848	NULL	bioMerieux	NULL	12	USA	TRUE	FALSE	2	6
+849	NULL	GTx	NULL	12	USA	TRUE	FALSE	2	6
+850	NULL	Lupin	NULL	12	USA	TRUE	FALSE	2	6
+851	NULL	Nordic Group	NULL	12	USA	TRUE	FALSE	2	6
+852	NULL	Universal Medicare	NULL	12	USA	TRUE	FALSE	2	6
+853	NULL	Biomedical Advanced Research and Development Authority	NULL	12	USA	TRUE	FALSE	2	6
+854	NULL	F-star	NULL	12	USA	TRUE	FALSE	2	6
+858	NULL	CureTech	NULL	12	USA	TRUE	FALSE	2	6
+859	NULL	BGI	NULL	12	USA	TRUE	FALSE	2	6
+860	NULL	Jilin Guoyuan Animal Health	NULL	12	USA	TRUE	FALSE	2	6
+861	NULL	Cystic Fibrosis Foundation Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+862		Talon Therapeutics		12	USA	TRUE	FALSE	3	6
+863		Yaupon Therapeutics		12	USA	TRUE	FALSE	3	6
+864	NULL	Kai Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+865	NULL	McLaren Group	NULL	12	USA	TRUE	FALSE	2	6
+866	NULL	Peptimmune	NULL	12	USA	TRUE	FALSE	2	6
+868	NULL	Photocure	NULL	12	USA	TRUE	FALSE	2	6
+869		Grupo Ferrer		12	"Barcelona, Spain"	TRUE	FALSE	3	2
+870		Anadys Pharmaceuticals		12	USA	TRUE	FALSE	2	6
+872		Newron		12	"Milan, Italy"	TRUE	FALSE	2	2
+873		ARIAD Pharmaceuticals		12	USA	TRUE	FALSE	3	6
+874	NULL	SFJ Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+876	NULL	Alaven	NULL	12	USA	TRUE	FALSE	2	6
+877	NULL	Moberg Derma	NULL	12	USA	TRUE	FALSE	2	6
+878	NULL	Antula	NULL	12	USA	TRUE	FALSE	2	6
+879	NULL	BioPhausia	NULL	12	USA	TRUE	FALSE	2	6
+880	NULL	Adeona Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+881	NULL	Cocrystal Discovery	NULL	12	USA	TRUE	FALSE	2	6
+882	NULL	Saladax Biomedical	NULL	12	USA	TRUE	FALSE	2	6
+883	NULL	Ambrx	NULL	12	USA	TRUE	FALSE	2	6
+884	NULL	SterilMed	NULL	12	USA	TRUE	FALSE	2	6
+885	NULL	GlycoMimetics	NULL	12	USA	TRUE	FALSE	2	6
+886	NULL	Syntaxin	NULL	12	USA	TRUE	FALSE	2	6
+887		CorMedix		12	USA	TRUE	FALSE	3	6
+888		Galenica		12	Europe	TRUE	FALSE	3	5
+889		LG Life Sciences		12	"Seoul, South Korea"	TRUE	FALSE	3	11
+890	NULL	Institut de cancerologie Gustave Roussy 	NULL	12	USA	TRUE	FALSE	2	6
+891	NULL	Toray	NULL	12	USA	TRUE	FALSE	2	6
+892	NULL	Johns Hopkins University	NULL	12	USA	TRUE	FALSE	2	6
+893		ImmuPharma		12	Europe	TRUE	FALSE	2	4
+894		Biothera		12	USA	TRUE	FALSE	2	6
+895		Avanir Pharmaceuticals		9	USA	TRUE	FALSE	3	6
+896		Intarcia Therapeutics		12	"California, U.S"	TRUE	FALSE	NULL	6
+897		ACT Biotech		12	USA	TRUE	FALSE	2	6
+898		Syndax Pharmaceuticals		12	USA	TRUE	FALSE	3	6
+899	NULL	Britannia Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+900	NULL	AgonOx	NULL	12	USA	TRUE	FALSE	2	6
+901	NULL	Aslan Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+902	NULL	Brazilian Ministry of Health	NULL	12	USA	TRUE	FALSE	2	6
+903	NULL	Katholieke Universiteit Leuven	NULL	12	USA	TRUE	FALSE	2	6
+904	NULL	CureVac	NULL	12	USA	TRUE	FALSE	2	6
+905	NULL	deCODE genetics	NULL	12	USA	TRUE	FALSE	2	6
+906	NULL	Lectus Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+907	NULL	Humana	NULL	12	USA	TRUE	FALSE	2	6
+908	NULL	Lilly MDR-TB Partnership	NULL	12	USA	TRUE	FALSE	2	6
+909	NULL	iNova	NULL	12	USA	TRUE	FALSE	2	6
+910	NULL	Excaliard Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+911	NULL	Fujifilm	NULL	12	USA	TRUE	FALSE	2	6
+912	NULL	RIKEN	NULL	12	USA	TRUE	FALSE	2	6
+913	NULL	Afrexa Life Sciences	NULL	12	USA	TRUE	FALSE	2	6
+914	NULL	Sanitas Group	NULL	12	USA	TRUE	FALSE	2	6
+915	NULL	PharmaSwiss	NULL	12	USA	TRUE	FALSE	2	6
+916	NULL	Parexel	NULL	12	USA	TRUE	FALSE	2	6
+917	NULL	Combine	NULL	12	USA	TRUE	FALSE	2	6
+918	NULL	Cambridge University	NULL	12	USA	TRUE	FALSE	2	6
+919		Nektar Therapeutics		12	USA	TRUE	FALSE	3	6
+920		Tesaro		12	USA	TRUE	FALSE	3	6
+921		Symphogen		12	Europe	TRUE	FALSE	2	1
+922		SuppreMol		12	Europe	TRUE	FALSE	2	2
+923		Ablynx		12	Europe	TRUE	FALSE	2	2
+924		Relypsa		12	USA	TRUE	FALSE	3	6
+925		Hanmi Pharmaceutical		12	"Seoul, South Korea"	TRUE	FALSE	3	11
+926		Helsinn Therapeutics		12	Switzerland	TRUE	FALSE	NULL	5
+927		Versartis		12	"California, U.S.A"	TRUE	FALSE	2	6
+928		LYSOGENE		12	"Paris, France"	TRUE	FALSE	2	2
+929		AesRx		12	USA	TRUE	FALSE	3	6
+930		Synageva BioPharma		12	"Massachusetts, U.S.A"	TRUE	FALSE	2	6
+931		Zymenex		12	Denmark	TRUE	FALSE	2	1
+932		Radius Health		12	"Massachusetts, U.S.A"	TRUE	FALSE	2	6
+933		Sanos Bioscience		12	Denmark	TRUE	FALSE	2	1
+934		QLT		12	Canada	TRUE	FALSE	2	6
+935	NULL	Spirogen	NULL	12	USA	TRUE	FALSE	2	6
+936	NULL	Omega Pharma	NULL	12	USA	TRUE	FALSE	2	6
+937	NULL	Samsung	NULL	12	USA	TRUE	FALSE	2	6
+939	NULL	Guangdong BeiKang Pharmaceutical	NULL	12	USA	TRUE	FALSE	2	6
+940	NULL	Prosensa	NULL	12	USA	TRUE	FALSE	2	6
+941		YM BioSciences		6	Canada	TRUE	FALSE	3	8
+942		Telik		12	USA	TRUE	FALSE	3	6
+943		Pharmacyclics		12	USA	TRUE	FALSE	3	6
+944		Celator Pharmaceuticals		12	USA	TRUE	FALSE	3	6
+945		Chroma Therapeutics		12	Europe	TRUE	FALSE	3	4
+951	NULL	Knopp Neurosciences	NULL	12	USA	TRUE	FALSE	2	6
+952	NULL	AGI Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+954	NULL	NexMed	NULL	12	USA	TRUE	FALSE	2	6
+955	NULL	Amplimmune	NULL	12	USA	TRUE	FALSE	2	6
+956	NULL	Response Genetics	NULL	12	USA	TRUE	FALSE	2	6
+957	NULL	Proteologics	NULL	12	USA	TRUE	FALSE	2	6
+958	NULL	SuperGen	NULL	12	USA	TRUE	FALSE	2	6
+959	NULL	iScience Interventional	NULL	12	USA	TRUE	FALSE	2	6
+960	NULL	Life Technologies	NULL	12	USA	TRUE	FALSE	2	6
+961	NULL	HealthCore	NULL	12	USA	TRUE	FALSE	2	6
+962		Trius Therapeutics		12	"San Diego, CA"	TRUE	FALSE	2	6
+963		Puma Biotechnology		12	USA	TRUE	FALSE	2	6
+964		Paratek		12	"Boston, MA"	TRUE	FALSE	2	6
+965		Tioga		12	USA	TRUE	FALSE	3	6
+966		Alchemia		12	ROW	TRUE	FALSE	2	12
+967	NULL	Antisense Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+968	NULL	Codexis	NULL	12	USA	TRUE	FALSE	2	6
+969	NULL	Andrx	NULL	12	USA	TRUE	FALSE	2	6
+970	NULL	Proneuron Biotechnologies	NULL	12	USA	TRUE	FALSE	2	6
+971	NULL	Promega	NULL	12	USA	TRUE	FALSE	2	6
+972	NULL	Entelos	NULL	12	USA	TRUE	FALSE	2	6
+973	NULL	GeneData	NULL	12	USA	TRUE	FALSE	2	6
+974	NULL	Alembic	NULL	12	USA	TRUE	FALSE	2	6
+975	NULL	Adams Respiratory Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+976	NULL	ChemBridge	NULL	12	USA	TRUE	FALSE	2	6
+977	NULL	ImClone Systems	NULL	12	USA	TRUE	FALSE	2	6
+978	NULL	Orphan Medical	NULL	12	USA	TRUE	FALSE	2	6
+979	NULL	Axiom Biotechnologies	NULL	12	USA	TRUE	FALSE	2	6
+980	NULL	AmorePacific	NULL	12	USA	TRUE	FALSE	2	6
+981	NULL	Curasan	NULL	12	USA	TRUE	FALSE	2	6
+982	NULL	Blansett Pharm	NULL	12	USA	TRUE	FALSE	2	6
+983	NULL	Ranbaxy	NULL	12	USA	TRUE	FALSE	2	6
+984	NULL	Fosamprenavir Royalty	NULL	12	USA	TRUE	FALSE	2	6
+985	NULL	Caprion	NULL	12	USA	TRUE	FALSE	2	6
+986	NULL	Avalon Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+987	NULL	Discovery Partners	NULL	12	USA	TRUE	FALSE	2	6
+988	NULL	Oregon Health & Science University	NULL	12	USA	TRUE	FALSE	2	6
+989	NULL	Immusol	NULL	12	USA	TRUE	FALSE	2	6
+990	NULL	Accelrys	NULL	12	USA	TRUE	FALSE	2	6
+991	NULL	Amersham Pharmacia Biotech	NULL	12	USA	TRUE	FALSE	2	6
+992	NULL	Phytopharm	NULL	12	USA	TRUE	FALSE	2	6
+993	NULL	Consensus Pharmaceutical	NULL	12	USA	TRUE	FALSE	2	6
+994	NULL	Deltagen	NULL	12	USA	TRUE	FALSE	2	6
+995	NULL	GeneraMedix	NULL	12	USA	TRUE	FALSE	2	6
+996	NULL	Zeria Pharmaceutical	NULL	12	USA	TRUE	FALSE	2	6
+997	NULL	OMJ Pharmaceutical	NULL	12	USA	TRUE	FALSE	2	6
+998	NULL	Trylon	NULL	12	USA	TRUE	FALSE	2	6
+999	NULL	US academic research groups	NULL	12	USA	TRUE	FALSE	2	6
+1000	NULL	Genomic Research Consortium	NULL	12	USA	TRUE	FALSE	2	6
+1001	NULL	MerLion Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1002	NULL	Hitachi	NULL	12	USA	TRUE	FALSE	2	6
+1003	NULL	Axcan	NULL	12	USA	TRUE	FALSE	2	6
+1004	NULL	Biovitrum	NULL	12	USA	TRUE	FALSE	2	6
+1005	NULL	Domantis	NULL	12	USA	TRUE	FALSE	2	6
+1006	NULL	SC4SM	NULL	12	USA	TRUE	FALSE	2	6
+1007	NULL	Verus Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1008	NULL	PreMD	NULL	12	USA	TRUE	FALSE	2	6
+1009	NULL	AtheroGenics	NULL	12	USA	TRUE	FALSE	2	6
+1010	NULL	Palatin Technologies	NULL	12	USA	TRUE	FALSE	2	6
+1011	NULL	Argenta Discovery	NULL	12	USA	TRUE	FALSE	2	6
+1012	NULL	POZEN	NULL	12	USA	TRUE	FALSE	2	6
+1013	NULL	Molecular Partners	NULL	12	USA	TRUE	FALSE	2	6
+1014	NULL	Scil Proteins	NULL	12	USA	TRUE	FALSE	2	6
+1015	NULL	Protherics	NULL	12	USA	TRUE	FALSE	2	6
+1016	NULL	Virologic	NULL	12	USA	TRUE	FALSE	2	6
+1017	NULL	Cambridge Antibody Technology	NULL	12	USA	TRUE	FALSE	2	6
+1018	NULL	Norak	NULL	12	USA	TRUE	FALSE	2	6
+1019	NULL	Inyx	NULL	12	USA	TRUE	FALSE	2	6
+1020	NULL	Iconix	NULL	12	USA	TRUE	FALSE	2	6
+1021	NULL	Isogenica	NULL	12	USA	TRUE	FALSE	2	6
+1022	NULL	Cobra Biomanufacturing	NULL	12	USA	TRUE	FALSE	2	6
+1023	NULL	Cytomyx	NULL	12	USA	TRUE	FALSE	2	6
+1024	NULL	NeoGenesis	NULL	12	USA	TRUE	FALSE	2	6
+1025	NULL	Beyond Genomics	NULL	12	USA	TRUE	FALSE	2	6
+1026	NULL	Cyprotex	NULL	12	USA	TRUE	FALSE	2	6
+1027	NULL	ComGenex	NULL	12	USA	TRUE	FALSE	2	6
+1028	NULL	Epigenomics	NULL	12	USA	TRUE	FALSE	2	6
+1029	NULL	InnaPhase	NULL	12	USA	TRUE	FALSE	2	6
+1030	NULL	Abgenix	NULL	12	USA	TRUE	FALSE	2	6
+1031	NULL	OraSure	NULL	12	USA	TRUE	FALSE	2	6
+1032	NULL	BioVisioN	NULL	12	USA	TRUE	FALSE	2	6
+1033	NULL	Genaissance Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1034	NULL	Caprion Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1035	NULL	Pharmacopeia	NULL	12	USA	TRUE	FALSE	2	6
+1036	NULL	Morphochem	NULL	12	USA	TRUE	FALSE	2	6
+1037	NULL	Lion Bioscience	NULL	12	USA	TRUE	FALSE	2	6
+1038	NULL	"Griffith University, Australia"	NULL	12	USA	TRUE	FALSE	2	6
+1039	NULL	First Horizon	NULL	12	USA	TRUE	FALSE	2	6
+1040	NULL	Pharmagene Laboratories	NULL	12	USA	TRUE	FALSE	2	6
+1041	NULL	ChromaVision	NULL	12	USA	TRUE	FALSE	2	6
+1042	NULL	Genaissance Pharma	NULL	12	USA	TRUE	FALSE	2	6
+1043	NULL	Tripos	NULL	12	USA	TRUE	FALSE	2	6
+1044	NULL	Lynx Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+1045	NULL	Xenogen	NULL	12	USA	TRUE	FALSE	2	6
+1046	NULL	MediChem	NULL	12	USA	TRUE	FALSE	2	6
+1047	NULL	Hayashibara Biochemical Laboratories	NULL	12	USA	TRUE	FALSE	2	6
+1048	NULL	US Government	NULL	12	USA	TRUE	FALSE	2	6
+1049	NULL	Targesome	NULL	12	USA	TRUE	FALSE	2	6
+1050	NULL	Dow AgroSciences	NULL	12	USA	TRUE	FALSE	2	6
+1051	NULL	Micromet	NULL	12	USA	TRUE	FALSE	2	6
+1052	NULL	Algeta	NULL	12	USA	TRUE	FALSE	2	6
+1053	NULL	SkinMedica	NULL	12	USA	TRUE	FALSE	2	6
+1055	NULL	Nuvelo	NULL	12	USA	TRUE	FALSE	2	6
+1056	NULL	Santo Holding	NULL	12	USA	TRUE	FALSE	2	6
+1057	NULL	KeyNeurotek	NULL	12	USA	TRUE	FALSE	2	6
+1058	NULL	Asklepios Biopharmaceutical	NULL	12	USA	TRUE	FALSE	2	6
+1059	NULL	Libbs	NULL	12	USA	TRUE	FALSE	2	6
+1060	NULL	Zilip Pharma	NULL	12	USA	TRUE	FALSE	2	6
+1061	NULL	Aerovance	NULL	12	USA	TRUE	FALSE	2	6
+1062	NULL	Lipomics Technologies	NULL	12	USA	TRUE	FALSE	2	6
+1063	NULL	Cenix Bioscience	NULL	12	USA	TRUE	FALSE	2	6
+1064	NULL	Artemis Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1065	NULL	Molecular Connections	NULL	12	USA	TRUE	FALSE	2	6
+1066	NULL	Jerini Peptide Technologies	NULL	12	USA	TRUE	FALSE	2	6
+1067	NULL	PPD Discovery 	NULL	12	USA	TRUE	FALSE	2	6
+1068	NULL	Axxam SRL	NULL	12	USA	TRUE	FALSE	2	6
+1069	NULL	CuraGen	NULL	12	USA	TRUE	FALSE	2	6
+1070	NULL	Kinaxo	NULL	12	USA	TRUE	FALSE	2	6
+1071	NULL	GeneGo	NULL	12	USA	TRUE	FALSE	2	6
+1072	NULL	ChemDiv	NULL	12	USA	TRUE	FALSE	2	6
+1073	NULL	Vaccinex	NULL	12	USA	TRUE	FALSE	2	6
+1074	NULL	Siemens	NULL	12	USA	TRUE	FALSE	2	6
+1075	NULL	Philips	NULL	12	USA	TRUE	FALSE	2	6
+1076	NULL	Sonus	NULL	12	USA	TRUE	FALSE	2	6
+1077	NULL	Inpharmatica	NULL	12	USA	TRUE	FALSE	2	6
+1078	NULL	Valentis	NULL	12	USA	TRUE	FALSE	2	6
+1079	NULL	Genstruct	NULL	12	USA	TRUE	FALSE	2	6
+1080	NULL	Praecis Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1081	NULL	Barr Laboratories	NULL	12	USA	TRUE	FALSE	2	6
+1082	NULL	NeoStrata	NULL	12	USA	TRUE	FALSE	2	6
+1083	NULL	Combinature Biopharm	NULL	12	USA	TRUE	FALSE	2	6
+1084	NULL	IBC Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1085	NULL	CoTherix	NULL	12	USA	TRUE	FALSE	2	6
+1086	NULL	Besins International	NULL	12	USA	TRUE	FALSE	2	6
+1087	NULL	Neurosciences Victoria	NULL	12	USA	TRUE	FALSE	2	6
+1088	NULL	Mologen	NULL	12	USA	TRUE	FALSE	2	6
+1089	NULL	BioLeads	NULL	12	USA	TRUE	FALSE	2	6
+1090	NULL	Enhance Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1091	NULL	NetGenics	NULL	12	USA	TRUE	FALSE	2	6
+1092	NULL	Marnac	NULL	12	USA	TRUE	FALSE	2	6
+1093	NULL	Orexo	NULL	12	USA	TRUE	FALSE	2	9
+1094	NULL	Euroscreen	NULL	12	USA	TRUE	FALSE	2	6
+1095	NULL	Proteros biostructures	NULL	12	USA	TRUE	FALSE	2	6
+1096	NULL	Dalton Medicinal Chemistry Partners	NULL	12	USA	TRUE	FALSE	2	6
+1097	NULL	Evotec	NULL	12	USA	TRUE	FALSE	2	6
+1098	NULL	Laureate Pharma	NULL	12	USA	TRUE	FALSE	2	6
+1099	NULL	Graffinity	NULL	12	USA	TRUE	FALSE	2	6
+1100	NULL	Biota	NULL	12	USA	TRUE	FALSE	2	6
+1101	NULL	Genoway	NULL	12	USA	TRUE	FALSE	2	6
+1102	NULL	XstalBio	NULL	12	USA	TRUE	FALSE	2	6
+1103	NULL	Novosom	NULL	12	USA	TRUE	FALSE	2	6
+1104	NULL	Biolipox	NULL	12	USA	TRUE	FALSE	2	6
+1105	NULL	Syntonix	NULL	12	USA	TRUE	FALSE	2	6
+1106	NULL	AbGenomics	NULL	12	USA	TRUE	FALSE	2	6
+1107	NULL	Sagres Discovery	NULL	12	USA	TRUE	FALSE	2	6
+1108	NULL	Structural Genomix	NULL	12	USA	TRUE	FALSE	2	6
+1109	NULL	Yamanouchi	NULL	12	USA	TRUE	FALSE	2	6
+1110	NULL	Amedis Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1111	NULL	Chemical Diversity Labs	NULL	12	USA	TRUE	FALSE	2	6
+1112	NULL	Structural Bioinformatics	NULL	12	USA	TRUE	FALSE	2	6
+1113	NULL	ImmunoGen	NULL	12	USA	TRUE	FALSE	2	6
+1114	NULL	Genetronics Biomedical	NULL	12	USA	TRUE	FALSE	2	6
+1115	NULL	Message Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1116	NULL	GPC Biotech	NULL	12	USA	TRUE	FALSE	2	6
+1117	NULL	Provasculon	NULL	12	USA	TRUE	FALSE	2	6
+1118	NULL	Escoublac	NULL	12	USA	TRUE	FALSE	2	6
+1119	NULL	Neurimmune Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+1120	NULL	mondoBIOTECH	NULL	12	USA	TRUE	FALSE	2	6
+1121	NULL	Amorfix Life Sciences	NULL	12	USA	TRUE	FALSE	2	6
+1122	NULL	Protein Design Laboratories	NULL	12	USA	TRUE	FALSE	2	6
+1123	NULL	Rincon Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1124	NULL	Sunesis	NULL	12	USA	TRUE	FALSE	2	6
+1125	NULL	Syrrx	NULL	12	USA	TRUE	FALSE	2	6
+1126	NULL	SurroMed	NULL	12	USA	TRUE	FALSE	2	6
+1127	NULL	Corixa Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1128	NULL	Celltech	NULL	12	USA	TRUE	FALSE	2	6
+1129	NULL	Therion Biologics	NULL	12	USA	TRUE	FALSE	2	6
+1130	NULL	Quorex	NULL	12	USA	TRUE	FALSE	2	6
+1131	NULL	NeoRx	NULL	12	USA	TRUE	FALSE	2	6
+1132	NULL	Syncor	NULL	12	USA	TRUE	FALSE	2	6
+1133	NULL	ExonHit	NULL	12	USA	TRUE	FALSE	2	6
+1134	NULL	Gene Logic	NULL	12	USA	TRUE	FALSE	2	6
+1135	NULL	GlycoFi	NULL	12	USA	TRUE	FALSE	2	6
+1136	NULL	Idun Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1137	NULL	ICOS	NULL	12	USA	TRUE	FALSE	2	6
+1138	NULL	Rentschler Biotechnologie	NULL	12	USA	TRUE	FALSE	2	6
+1139	NULL	IDEC	NULL	12	USA	TRUE	FALSE	2	6
+1140	NULL	Introgen Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+1141	NULL	Pronova Biocare	NULL	12	USA	TRUE	FALSE	2	6
+1142	NULL	Beartown Pharma	NULL	12	USA	TRUE	FALSE	2	6
+1143	NULL	SGX Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1144	NULL	Ivy Animal Health	NULL	12	USA	TRUE	FALSE	2	6
+1145	NULL	Hypnion	NULL	12	USA	TRUE	FALSE	2	6
+1146	NULL	Cardinal Health	NULL	12	USA	TRUE	FALSE	2	6
+1147	NULL	Applied Molecular Evolution	NULL	12	USA	TRUE	FALSE	2	6
+1148	NULL	LifeHealth	NULL	12	USA	TRUE	FALSE	2	6
+1149	NULL	Synaptic Pharmaceutical	NULL	12	USA	TRUE	FALSE	2	6
+1150	NULL	Natus	NULL	12	USA	TRUE	FALSE	2	6
+1151	NULL	Byk Gulden	NULL	12	USA	TRUE	FALSE	2	6
+1152	NULL	NovaCardia	NULL	12	USA	TRUE	FALSE	2	6
+1153	NULL	Sirna Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+1154	NULL	Abmaxis	NULL	12	USA	TRUE	FALSE	2	6
+1155	NULL	Banyu	NULL	12	USA	TRUE	FALSE	2	6
+1156	NULL	Aton Pharma	NULL	12	USA	TRUE	FALSE	2	6
+1157	NULL	Rosetta Inpharmatics	NULL	12	USA	TRUE	FALSE	2	6
+1158	NULL	Ibis Biosciences	NULL	12	USA	TRUE	FALSE	2	6
+1159	NULL	Survac	NULL	12	USA	TRUE	FALSE	2	6
+1160	NULL	NM Pharma	NULL	12	USA	TRUE	FALSE	2	6
+1161	NULL	Peter Black Direct Marketing (PBDM)	NULL	12	USA	TRUE	FALSE	2	6
+1162	NULL	ProteoPlex	NULL	12	USA	TRUE	FALSE	2	6
+1163	NULL	Autogen	NULL	12	USA	TRUE	FALSE	2	6
+1164	NULL	Sol-Gel Technologies	NULL	12	USA	TRUE	FALSE	2	6
+1165	NULL	Genset	NULL	12	USA	TRUE	FALSE	2	6
+1166	NULL	Choseido	NULL	12	USA	TRUE	FALSE	2	6
+1167	NULL	Green Cross Guangzhou Pharmaceutical	NULL	12	USA	TRUE	FALSE	2	6
+1168	NULL	Welfide	NULL	12	USA	TRUE	FALSE	2	6
+1169	NULL	Clinique Laboratories	NULL	12	USA	TRUE	FALSE	2	6
+1170	NULL	Esprit Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1171	NULL	Tanabe	NULL	12	USA	TRUE	FALSE	2	6
+1172	NULL	EndoArt	NULL	12	USA	TRUE	FALSE	2	6
+1173	NULL	Groupe Corneal Laboratoires	NULL	12	USA	TRUE	FALSE	2	6
+1174	NULL	Speedel	NULL	12	USA	TRUE	FALSE	2	6
+1175	NULL	Protez Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1176	NULL	Inamed	NULL	12	USA	TRUE	FALSE	2	6
+1177	NULL	Massachusetts Institute of Technology	NULL	12	USA	TRUE	FALSE	2	6
+1178	NULL	Thommen Medical	NULL	12	USA	TRUE	FALSE	2	6
+1179	NULL	NeuTec Pharma	NULL	12	USA	TRUE	FALSE	2	6
+1181	NULL	Sabex	NULL	12	USA	TRUE	FALSE	2	6
+1182	NULL	Indenix	NULL	12	USA	TRUE	FALSE	2	6
+1183	NULL	Bardeen Sciences	NULL	12	USA	TRUE	FALSE	2	6
+1184	NULL	Lek Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1185	NULL	Hazal Finance	NULL	12	USA	TRUE	FALSE	2	6
+1186	NULL	South African Adcock Ingram	NULL	12	USA	TRUE	FALSE	2	6
+1187	NULL	Rite Aid Corporation	NULL	12	USA	TRUE	FALSE	2	6
+1188	NULL	Biobras	NULL	12	USA	TRUE	FALSE	2	6
+1189	NULL	Kos Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1190	NULL	Pharmafarm	NULL	12	USA	TRUE	FALSE	2	6
+1191	NULL	Ruby de Tacos	NULL	12	USA	TRUE	FALSE	2	6
+1192	NULL	ECKART group	NULL	12	USA	TRUE	FALSE	2	6
+1193	NULL	CovX	NULL	12	USA	TRUE	FALSE	2	6
+1194	NULL	Coley Pharmaceutical	NULL	12	USA	TRUE	FALSE	2	6
+1195	NULL	BioRexis Pharmaceutical	NULL	12	USA	TRUE	FALSE	2	6
+1196	NULL	PowderMed	NULL	12	USA	TRUE	FALSE	2	6
+1197	NULL	Rinat Neuroscience	NULL	12	USA	TRUE	FALSE	2	6
+1198	NULL	Bioren	NULL	12	USA	TRUE	FALSE	2	6
+1199	NULL	Vicuron	NULL	12	USA	TRUE	FALSE	2	6
+1200	NULL	Angiosyn	NULL	12	USA	TRUE	FALSE	2	6
+1201	NULL	Xcelovair	NULL	12	USA	TRUE	FALSE	2	6
+1202	NULL	Esperion Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+1203	NULL	Guidant	NULL	12	USA	TRUE	FALSE	2	6
+1204	NULL	Haptogen	NULL	12	USA	TRUE	FALSE	2	6
+1205	NULL	American Home Products	NULL	12	USA	TRUE	FALSE	2	6
+1206	NULL	Yeni Ilac	NULL	12	USA	TRUE	FALSE	2	6
+1207	NULL	Orphan Europe	NULL	12	USA	TRUE	FALSE	2	6
+1208	NULL	Grupo Jaba	NULL	12	USA	TRUE	FALSE	2	6
+1209	NULL	Merckle	NULL	12	USA	TRUE	FALSE	2	6
+1210	NULL	Memory Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1211	NULL	Arius Research	NULL	12	USA	TRUE	FALSE	2	6
+1212	NULL	Mirus Bio	NULL	12	USA	TRUE	FALSE	2	6
+1213	NULL	Piramed	NULL	12	USA	TRUE	FALSE	2	6
+1214	NULL	RNAi Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+1215	NULL	Ventana Medical Systems	NULL	12	USA	TRUE	FALSE	2	6
+1216	NULL	NimbleGen	NULL	12	USA	TRUE	FALSE	2	6
+1217	NULL	BioVeris	NULL	12	USA	TRUE	FALSE	2	6
+1218	NULL	Therapeutic Human Polyclonals	NULL	12	USA	TRUE	FALSE	2	6
+1219	NULL	GlycArt	NULL	12	USA	TRUE	FALSE	2	6
+1220	NULL	Igen	NULL	12	USA	TRUE	FALSE	2	6
+1221	NULL	Disetronic	NULL	12	USA	TRUE	FALSE	2	6
+1222	NULL	Amira Medical	NULL	12	USA	TRUE	FALSE	2	6
+1223	NULL	Alantos Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1224	NULL	Merieux Alliance	NULL	12	USA	TRUE	FALSE	2	6
+1225	NULL	Spine Next	NULL	12	USA	TRUE	FALSE	2	6
+1226	NULL	Ilypsa	NULL	12	USA	TRUE	FALSE	2	6
+1227	NULL	Symbion Consumer	NULL	12	USA	TRUE	FALSE	2	6
+1228	NULL	Acambis	NULL	12	USA	TRUE	FALSE	2	6
+1229	NULL	Avidia	NULL	12	USA	TRUE	FALSE	2	6
+1230	NULL	Organon	NULL	12	USA	TRUE	FALSE	2	6
+1231	NULL	Sanofi-Synthelabo	NULL	12	USA	TRUE	FALSE	2	6
+1232	NULL	Astra-Synthelabo	NULL	12	USA	TRUE	FALSE	2	6
+1233	NULL	Tularik	NULL	12	USA	TRUE	FALSE	2	6
+1234	NULL	Allianz Capital Partners and Goldman Sachs Group	NULL	12	USA	TRUE	FALSE	2	6
+1235	NULL	Jerini	NULL	12	USA	TRUE	FALSE	2	6
+1236	NULL	New River Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1237	NULL	Transkaryotic Therapies	NULL	12	USA	TRUE	FALSE	2	6
+1238	NULL	AnorMED	NULL	12	USA	TRUE	FALSE	2	6
+1239	NULL	Niro	NULL	12	USA	TRUE	FALSE	2	6
+1240	NULL	EAS	NULL	12	USA	TRUE	FALSE	2	6
+1241	NULL	NeoPharma	NULL	12	USA	TRUE	FALSE	2	6
+1242	NULL	Agensys	NULL	12	USA	TRUE	FALSE	2	6
+1243	NULL	Biofermin Pharmaceutical	NULL	12	USA	TRUE	FALSE	2	6
+1244	NULL	Mikasa Seiyaku	NULL	12	USA	TRUE	FALSE	2	6
+1245	NULL	Yomeishu Seizo	NULL	12	USA	TRUE	FALSE	2	6
+1246	NULL	Paradigm Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+1247	NULL	Bentley Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1248	NULL	CoGenesys	NULL	12	USA	TRUE	FALSE	2	6
+1249	NULL	Med-Ilac	NULL	12	USA	TRUE	FALSE	2	6
+1250	NULL	Tianjin Hualida	NULL	12	USA	TRUE	FALSE	2	6
+1251	NULL	Sicor	NULL	12	USA	TRUE	FALSE	2	6
+1252	NULL	Honeywell Pharmaceutical Fine Chemicals	NULL	12	USA	TRUE	FALSE	2	6
+1253	NULL	Therasense	NULL	12	USA	TRUE	FALSE	2	6
+1254	NULL	ViroChem Pharma	NULL	12	USA	TRUE	FALSE	2	6
+1255	NULL	Aurora Biosciences	NULL	12	USA	TRUE	FALSE	2	6
+1256	NULL	Eden Biodesign	NULL	12	USA	TRUE	FALSE	2	6
+1257	NULL	Arrow Group	NULL	12	USA	TRUE	FALSE	2	6
+1258	NULL	Somerset Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1259	NULL	Sekhsaria Chemicals	NULL	12	USA	TRUE	FALSE	2	6
+1260	NULL	Dr Reddys	NULL	12	USA	TRUE	FALSE	2	6
+1261	NULL	Cipla	NULL	12	USA	TRUE	FALSE	2	6
+1262	NULL	i-STAT	NULL	12	USA	TRUE	FALSE	2	6
+1263	NULL	ZonePerfect Nutrition	NULL	12	USA	TRUE	FALSE	2	6
+1264	NULL	Tokyo Keio University School of Medicine	NULL	12	USA	TRUE	FALSE	2	6
+1265	NULL	Spinal Concepts	NULL	12	USA	TRUE	FALSE	2	6
+1266	NULL	Atlantis Components	NULL	12	USA	TRUE	FALSE	2	6
+1267	NULL	DSM Biologics	NULL	12	USA	TRUE	FALSE	2	6
+1268	NULL	Arrow Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+1269	NULL	CAT	NULL	12	USA	TRUE	FALSE	2	6
+1270	NULL	KuDOS Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1271	NULL	Jomed medical devices group	NULL	12	USA	TRUE	FALSE	2	6
+1272	NULL	Hokuriku Seiyaku	NULL	12	USA	TRUE	FALSE	2	6
+1273	NULL	BioDisplay Technologies	NULL	12	USA	TRUE	FALSE	2	6
+1274	NULL	Cellective Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+1275	NULL	Aviron	NULL	12	USA	TRUE	FALSE	2	6
+1276	NULL	Vysis	NULL	12	USA	TRUE	FALSE	2	6
+1277	NULL	Athenix	NULL	12	USA	TRUE	FALSE	2	6
+1278	NULL	Topsun Science and Technology	NULL	12	USA	TRUE	FALSE	2	6
+1279	NULL	Sagmel	NULL	12	USA	TRUE	FALSE	2	6
+1280	NULL	Possis Medical	NULL	12	USA	TRUE	FALSE	2	6
+1281	NULL	Icon Genetics	NULL	12	USA	TRUE	FALSE	2	6
+1282	NULL	Visible Genetics	NULL	12	USA	TRUE	FALSE	2	6
+1283	NULL	Tectrade	NULL	12	USA	TRUE	FALSE	2	6
+1284	NULL	Nihon Schering	NULL	12	USA	TRUE	FALSE	2	6
+1285	NULL	MAP Medical Technologies	NULL	12	USA	TRUE	FALSE	2	6
+1286	NULL	Collateral Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+1287	NULL	Molypharma	NULL	12	USA	TRUE	FALSE	2	6
+1288	NULL	Actimis Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1289	NULL	STEAG microParts	NULL	12	USA	TRUE	FALSE	2	6
+1290	NULL	Conforma Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+1291	NULL	Kosan Biosciences	NULL	12	USA	TRUE	FALSE	2	6
+1292	NULL	Adnexus Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+1293	NULL	Acordis Specialty Fibres	NULL	12	USA	TRUE	FALSE	2	6
+1294	NULL	DuPont Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1295	NULL	Siegfried	NULL	12	USA	TRUE	FALSE	2	6
+1296	NULL	Penn T	NULL	12	USA	TRUE	FALSE	2	6
+1297	NULL	Anthrogenesis	NULL	12	USA	TRUE	FALSE	2	6
+1298	NULL	Zeneus Holdings	NULL	12	USA	TRUE	FALSE	2	6
+1299	NULL	Salmedix	NULL	12	USA	TRUE	FALSE	2	6
+1300	NULL	Cima Labs	NULL	12	USA	TRUE	FALSE	2	6
+1301	NULL	Group Lafon	NULL	12	USA	TRUE	FALSE	2	6
+1302	NULL	U3 Pharma	NULL	12	USA	TRUE	FALSE	2	6
+1303	NULL	Sankyo	NULL	12	USA	TRUE	FALSE	2	6
+1304	NULL	University of Tokyo	NULL	12	USA	TRUE	FALSE	2	6
+1305	NULL	Italmex	NULL	12	USA	TRUE	FALSE	2	6
+1306	NULL	X-Ceptor Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+1307	NULL	Janssen	NULL	12	USA	TRUE	FALSE	2	6
+1308	NULL	Japan Energy	NULL	12	USA	TRUE	FALSE	2	6
+1309	NULL	Transgenic	NULL	12	USA	TRUE	FALSE	2	6
+1311	NULL	Biodim	NULL	12	USA	TRUE	FALSE	2	6
+1312	NULL	RxKinetix	NULL	12	USA	TRUE	FALSE	2	6
+1313	NULL	Cerexa	NULL	12	USA	TRUE	FALSE	2	6
+1314	NULL	Surgi.B	NULL	12	USA	TRUE	FALSE	2	6
+1315	NULL	Avigen	NULL	12	USA	TRUE	FALSE	2	6
+1316	NULL	Cell Genesys	NULL	12	USA	TRUE	FALSE	2	6
+1317	NULL	Bone Care International	NULL	12	USA	TRUE	FALSE	2	6
+1318	NULL	Verigen	NULL	12	USA	TRUE	FALSE	2	6
+1319	NULL	Ilex Oncology	NULL	12	USA	TRUE	FALSE	2	6
+1320	NULL	Impath	NULL	12	USA	TRUE	FALSE	2	6
+1321	NULL	Alfigen	NULL	12	USA	TRUE	FALSE	2	6
+1322	NULL	Sangstat Medical	NULL	12	USA	TRUE	FALSE	2	6
+1323	NULL	Pharming	NULL	12	USA	TRUE	FALSE	2	6
+1324	NULL	Novazyme Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1325	NULL	Zentaris	NULL	12	USA	TRUE	FALSE	2	6
+1326	NULL	Wyntek Diagnostics	NULL	12	USA	TRUE	FALSE	2	6
+1327	NULL	Lisfarma	NULL	12	USA	TRUE	FALSE	2	6
+1328	NULL	Myogen	NULL	12	USA	TRUE	FALSE	2	6
+1329	NULL	Corus Pharma	NULL	12	USA	TRUE	FALSE	2	6
+1330	NULL	Institute of Organic Chemistry and Biochemistry	NULL	12	USA	TRUE	FALSE	2	6
+1331	NULL	Degussa	NULL	12	USA	TRUE	FALSE	2	6
+1332	NULL	Triangle Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1333	NULL	Sirtris Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1334	NULL	CNS	NULL	12	USA	TRUE	FALSE	2	6
+1335	NULL	Pliva	NULL	12	USA	TRUE	FALSE	2	6
+1336	NULL	ID Biomedical	NULL	12	USA	TRUE	FALSE	2	6
+1337	NULL	Disc-O-Tech Medical Technologies	NULL	12	USA	TRUE	FALSE	2	6
+1338	NULL	Conor Medsystems	NULL	12	USA	TRUE	FALSE	2	6
+1339	NULL	Groupe Vendome	NULL	12	USA	TRUE	FALSE	2	6
+1340	NULL	Animas	NULL	12	USA	TRUE	FALSE	2	6
+1341	NULL	Peninsula	NULL	12	USA	TRUE	FALSE	2	6
+1342	NULL	TransForm Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1343	NULL	Closure Medical	NULL	12	USA	TRUE	FALSE	2	6
+1344	NULL	Egea Biosciences	NULL	12	USA	TRUE	FALSE	2	6
+1345	NULL	Scios	NULL	12	USA	TRUE	FALSE	2	6
+1346	NULL	Link Spine Group	NULL	12	USA	TRUE	FALSE	2	6
+1347	NULL	Orquest	NULL	12	USA	TRUE	FALSE	2	6
+1348	NULL	3D Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1349	NULL	OraPharma	NULL	12	USA	TRUE	FALSE	2	6
+1350	NULL	Obtech Medical	NULL	12	USA	TRUE	FALSE	2	6
+1351	NULL	Coloplast	NULL	12	USA	TRUE	FALSE	2	6
+1352	NULL	Tibotec-Virco	NULL	12	USA	TRUE	FALSE	2	6
+1353	NULL	Heartport	NULL	12	USA	TRUE	FALSE	2	6
+1354	NULL	TERAMed	NULL	12	USA	TRUE	FALSE	2	6
+1355	NULL	Babycentre	NULL	12	USA	TRUE	FALSE	2	6
+1356	NULL	Alza	NULL	12	USA	TRUE	FALSE	2	6
+1357	NULL	Inverness Medical Technology	NULL	12	USA	TRUE	FALSE	2	6
+1358	NULL	Mitsubishi	NULL	12	USA	TRUE	FALSE	2	6
+1359	NULL	Nobelpharma	NULL	12	USA	TRUE	FALSE	2	6
+1360	NULL	Drugs for the Neglected Diseases initiative	NULL	12	USA	TRUE	FALSE	2	6
+1361	NULL	Dainippon	NULL	12	USA	TRUE	FALSE	2	6
+1362	NULL	Novozymes	NULL	12	USA	TRUE	FALSE	2	6
+1363	NULL	TaiGen Biotechnology	NULL	12	USA	TRUE	FALSE	2	6
+1364	NULL	Leo Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1365	NULL	Daiichi 	NULL	12	USA	TRUE	FALSE	2	6
+1366	NULL	York	NULL	12	USA	TRUE	FALSE	2	6
+1367	NULL	BioVentures	NULL	12	USA	TRUE	FALSE	2	6
+1368	NULL	Bio-Technology General	NULL	12	USA	TRUE	FALSE	2	6
+1369	NULL	Upsher-Smith Laboratories	NULL	12	USA	TRUE	FALSE	2	6
+1370	NULL	BASF	NULL	12	USA	TRUE	FALSE	2	6
+1371	NULL	"Clayton, Dubilier & Rice"	NULL	12	USA	TRUE	FALSE	2	6
+1372	NULL	Simbec Research	NULL	12	USA	TRUE	FALSE	2	6
+1373	NULL	LycoRed Natural Product Industries	NULL	12	USA	TRUE	FALSE	2	6
+1374	NULL	Pharmaceutical Resources	NULL	12	USA	TRUE	FALSE	2	6
+1375	NULL	Fresenius	NULL	12	USA	TRUE	FALSE	2	6
+1376	NULL	MP-Technopharma Corporation	NULL	12	USA	TRUE	FALSE	2	6
+1377	NULL	Yoshitomi	NULL	12	USA	TRUE	FALSE	2	6
+1378	NULL	Sato	NULL	12	USA	TRUE	FALSE	2	6
+1379	NULL	Iwaki	NULL	12	USA	TRUE	FALSE	2	6
+1380	NULL	Probitas Pharma	NULL	12	USA	TRUE	FALSE	2	6
+1381	NULL	Nipro	NULL	12	USA	TRUE	FALSE	2	6
+1382	NULL	Nestle	NULL	12	USA	TRUE	FALSE	2	6
+1383	NULL	ABN Amro Capital France	NULL	12	USA	TRUE	FALSE	2	6
+1384	NULL	General Electric	NULL	12	USA	TRUE	FALSE	2	6
+1385	NULL	Associated British Foods	NULL	12	USA	TRUE	FALSE	2	6
+1386	NULL	Laboratorios Lesvi	NULL	12	USA	TRUE	FALSE	2	6
+1387	NULL	EQT	NULL	12	USA	TRUE	FALSE	2	6
+1388	NULL	Ferd	NULL	12	USA	TRUE	FALSE	2	6
+1389	NULL	KV Pharmaceutical	NULL	12	USA	TRUE	FALSE	2	6
+1390	NULL	DiaSorin	NULL	12	USA	TRUE	FALSE	2	6
+1391	NULL	Galen	NULL	12	USA	TRUE	FALSE	2	6
+1392	NULL	Triton and PPM Ventures	NULL	12	USA	TRUE	FALSE	2	6
+1393	NULL	Cadbury Schweppes	NULL	12	USA	TRUE	FALSE	2	6
+1394	NULL	Energizer Holdings	NULL	12	USA	TRUE	FALSE	2	6
+1395	NULL	Triton Fund	NULL	12	USA	TRUE	FALSE	2	6
+1396	NULL	ESP Pharma	NULL	12	USA	TRUE	FALSE	2	6
+1397	NULL	BTT Finances	NULL	12	USA	TRUE	FALSE	2	6
+1398	NULL	Inverness Medical Innovations	NULL	12	USA	TRUE	FALSE	2	6
+1399	NULL	Connetics Corporation	NULL	12	USA	TRUE	FALSE	2	6
+1400	NULL	LabCorp	NULL	12	USA	TRUE	FALSE	2	6
+1401	NULL	Dynamit Nobel	NULL	12	USA	TRUE	FALSE	2	6
+1402	NULL	Yves Rocher	NULL	12	USA	TRUE	FALSE	2	6
+1403	NULL	Snia	NULL	12	USA	TRUE	FALSE	2	6
+1404	NULL	Mentor	NULL	12	USA	TRUE	FALSE	2	6
+1405	NULL	Clariant	NULL	12	USA	TRUE	FALSE	2	6
+1406	NULL	Credit Lyonnais	NULL	12	USA	TRUE	FALSE	2	6
+1407	NULL	Warburg Pincus	NULL	12	USA	TRUE	FALSE	2	6
+1408	NULL	CVC Capital Partners	NULL	12	USA	TRUE	FALSE	2	6
+1409	NULL	3i	NULL	12	USA	TRUE	FALSE	2	6
+1410	NULL	The Wacker family	NULL	12	USA	TRUE	FALSE	2	6
+1411	NULL	Carlyle Group	NULL	12	USA	TRUE	FALSE	2	6
+1412	NULL	Hayashi AgroScience	NULL	12	USA	TRUE	FALSE	2	6
+1413	NULL	Ohmori	NULL	12	USA	TRUE	FALSE	2	6
+1414	NULL	Canon	NULL	12	USA	TRUE	FALSE	2	6
+1415	NULL	Oxford GlycoSciences	NULL	12	USA	TRUE	FALSE	2	6
+1416	NULL	Fuso Chemical	NULL	12	USA	TRUE	FALSE	2	6
+1417	NULL	Lonza	NULL	12	USA	TRUE	FALSE	2	6
+1418	NULL	Neogen	NULL	12	USA	TRUE	FALSE	2	6
+1419	NULL	Cytec Industries	NULL	12	USA	TRUE	FALSE	2	6
+1420	NULL	Candover	NULL	12	USA	TRUE	FALSE	2	6
+1421	NULL	Aurora Discovery	NULL	12	USA	TRUE	FALSE	2	6
+1422	NULL	Invitrogen	NULL	12	USA	TRUE	FALSE	2	6
+1423	NULL	DiverseyLever	NULL	12	USA	TRUE	FALSE	2	6
+1424	NULL	Montagu Private Equity	NULL	12	USA	TRUE	FALSE	2	6
+1425	NULL	Orchid BioScience	NULL	12	USA	TRUE	FALSE	2	6
+1426	NULL	Advent International and The Carlyle Group	NULL	12	USA	TRUE	FALSE	2	6
+1427	NULL	Dow Chemical	NULL	12	USA	TRUE	FALSE	2	6
+1428	NULL	Talecris BioTherapeutics	NULL	12	USA	TRUE	FALSE	2	6
+1429	NULL	Soros Private Equity Partners	NULL	12	USA	TRUE	FALSE	2	6
+1430	NULL	SC Johnson	NULL	12	USA	TRUE	FALSE	2	6
+1431	NULL	Goldman Sachs	NULL	12	USA	TRUE	FALSE	2	6
+1432	NULL	Wipak	NULL	12	USA	TRUE	FALSE	2	6
+1433	NULL	Dralon	NULL	12	USA	TRUE	FALSE	2	6
+1434	NULL	Kerr McGee Chemical	NULL	12	USA	TRUE	FALSE	2	6
+1435	NULL	Delpharm	NULL	12	USA	TRUE	FALSE	2	6
+1436	NULL	Ion Beam Applications / Institut National des Radioelements	NULL	12	USA	TRUE	FALSE	2	6
+1437	NULL	ALK Abello	NULL	12	USA	TRUE	FALSE	2	1
+1438	NULL	Sawaii	NULL	12	USA	TRUE	FALSE	2	6
+1439	NULL	Medac	NULL	12	USA	TRUE	FALSE	2	6
+1440	NULL	Dermapharm	NULL	12	USA	TRUE	FALSE	2	6
+1441	NULL	Leiras Oy	NULL	12	USA	TRUE	FALSE	2	6
+1442	NULL	Apax partners	NULL	12	USA	TRUE	FALSE	2	6
+1443	NULL	Idea Sphere	NULL	12	USA	TRUE	FALSE	2	6
+1444	NULL	PharmaSelect	NULL	12	USA	TRUE	FALSE	2	6
+1445	NULL	Nordic Capital	NULL	12	USA	TRUE	FALSE	2	6
+1446	NULL	Avista Capital Partners	NULL	12	USA	TRUE	FALSE	2	6
+1447	NULL	Gen-Probe	NULL	12	USA	TRUE	FALSE	2	6
+1448	NULL	Fujirebio	NULL	12	USA	TRUE	FALSE	2	6
+1449	NULL	Nippon Shokubai	NULL	12	USA	TRUE	FALSE	2	6
+1450	NULL	Rohto Pharmaceutical	NULL	12	USA	TRUE	FALSE	2	6
+1451	NULL	QOL	NULL	12	USA	TRUE	FALSE	2	6
+1452	NULL	Mitsui	NULL	12	USA	TRUE	FALSE	2	6
+1453	NULL	Meiwa Kosan	NULL	12	USA	TRUE	FALSE	2	6
+1454	NULL	Olympus BM	NULL	12	USA	TRUE	FALSE	2	6
+1455	NULL	Dainihon Jochugiku	NULL	12	USA	TRUE	FALSE	2	6
+1456	NULL	Nippon Kayaku	NULL	12	USA	TRUE	FALSE	2	6
+1457	NULL	Terumo	NULL	12	USA	TRUE	FALSE	2	6
+1458	NULL	Solstice	NULL	12	USA	TRUE	FALSE	2	6
+1459	NULL	Adaptiv Biopharma	NULL	12	USA	TRUE	FALSE	2	6
+1460	NULL	Nitto Denko	NULL	12	USA	TRUE	FALSE	2	6
+1461	NULL	Behrman Capital	NULL	12	USA	TRUE	FALSE	2	6
+1462	NULL	Snowden-Pencer	NULL	12	USA	TRUE	FALSE	2	6
+1463	NULL	Medex	NULL	12	USA	TRUE	FALSE	2	6
+1464	NULL	Munchkin	NULL	12	USA	TRUE	FALSE	2	6
+1465	NULL	University of California	NULL	12	USA	TRUE	FALSE	2	6
+1466	NULL	University of Pennsylvania	NULL	12	USA	TRUE	FALSE	2	6
+1467	NULL	Oregenis	NULL	12	USA	TRUE	FALSE	2	6
+1468	NULL	Sanwa Kagaku Kenkyusho	NULL	12	USA	TRUE	FALSE	2	6
+1469	NULL	Charite University	NULL	12	USA	TRUE	FALSE	2	6
+1470	NULL	MIT Center for Biomedical Innovation	NULL	12	USA	TRUE	FALSE	2	6
+1471	NULL	Nepentes	NULL	12	USA	TRUE	FALSE	2	6
+1472	NULL	US Naval Medical Research Center	NULL	12	USA	TRUE	FALSE	2	6
+1473	NULL	CureDM	NULL	12	USA	TRUE	FALSE	2	6
+1474	NULL	AgaMatrix	NULL	12	USA	TRUE	FALSE	2	6
+1475	NULL	Oriel Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+1476	NULL	Minsheng 	NULL	12	USA	TRUE	FALSE	2	6
+1477	NULL	SS Pharmaceutical	NULL	12	USA	TRUE	FALSE	2	6
+1478	NULL	Essen BioScience	NULL	12	USA	TRUE	FALSE	2	6
+1479	NULL	Aestus Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+1480	NULL	Moveti	NULL	12	USA	TRUE	FALSE	2	6
+1481	NULL	ElexoPharma	NULL	12	USA	TRUE	FALSE	2	6
+1482	NULL	Diamyd Medical	NULL	12	USA	TRUE	FALSE	2	6
+1483	NULL	Gokyo Trading	NULL	12	USA	TRUE	FALSE	2	6
+1484	NULL	The People’s Liberation Army General Hospital 	NULL	12	USA	TRUE	FALSE	2	6
+1485	NULL	Natco Pharma	NULL	12	USA	TRUE	FALSE	2	6
+1486	NULL	Mepha	NULL	12	USA	TRUE	FALSE	2	6
+1487	NULL	Mesoblast	NULL	12	USA	TRUE	FALSE	2	6
+1488	NULL	Biomeks Ilac	NULL	12	USA	TRUE	FALSE	2	6
+1489	NULL	Ludwig Boltzmann Institute	NULL	12	USA	TRUE	FALSE	2	6
+1490	NULL	Pathway Medical Technologies	NULL	12	USA	TRUE	FALSE	2	6
+1491	NULL	Boston Biomedical	NULL	12	USA	TRUE	FALSE	2	6
+1492	NULL	Dompe	NULL	12	USA	TRUE	FALSE	2	6
+1493	NULL	Massachusetts General Hospital	NULL	12	USA	TRUE	FALSE	2	6
+1494	NULL	Proteostasis Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+1495	NULL	ProBioGen	NULL	12	USA	TRUE	FALSE	2	6
+1496	NULL	European Foundation for the Study of Diabetes	NULL	12	USA	TRUE	FALSE	2	6
+1497	NULL	Intellikine	NULL	12	USA	TRUE	FALSE	2	6
+1498	NULL	Prosidion	NULL	12	USA	TRUE	FALSE	2	6
+1499	NULL	Chi-Med	NULL	12	USA	TRUE	FALSE	2	6
+1500	NULL	Gladstone Institute	NULL	12	USA	TRUE	FALSE	2	6
+1501	NULL	Oncodesign	NULL	12	USA	TRUE	FALSE	2	6
+1502	NULL	Itero Biopharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1503	NULL	Population Council	NULL	12	USA	TRUE	FALSE	2	6
+1504	NULL	Antares	NULL	12	USA	TRUE	FALSE	2	6
+1505	NULL	Nerviano Medical Sciences	NULL	12	USA	TRUE	FALSE	2	6
+1506	NULL	Foundation Medicine	NULL	12	USA	TRUE	FALSE	2	6
+1507	NULL	SomaLogic	NULL	12	USA	TRUE	FALSE	2	6
+1508	NULL	IMS Health	NULL	12	USA	TRUE	FALSE	2	6
+1509	NULL	Ossianix	NULL	12	USA	TRUE	FALSE	2	6
+1510	NULL	Warp Drive Bio	NULL	12	USA	TRUE	FALSE	2	6
+1511	NULL	Caprion Proteomics	NULL	12	USA	TRUE	FALSE	2	6
+1512	NULL	Berna Biotech	NULL	12	USA	TRUE	FALSE	2	6
+1513	NULL	Lexicon Genetics	NULL	12	USA	TRUE	FALSE	2	6
+1514	NULL	Cadence	NULL	12	USA	TRUE	FALSE	2	6
+1515	NULL	Epitome	NULL	12	USA	TRUE	FALSE	2	6
+1516	NULL	International Partnership for Microbicides	NULL	12	USA	TRUE	FALSE	2	6
+1517	NULL	Albany Molecular Research	NULL	12	USA	TRUE	FALSE	2	6
+1518	NULL	Intra-Cellular Therapies 	NULL	12	USA	TRUE	FALSE	2	6
+1519	NULL	Elixir	NULL	12	USA	TRUE	FALSE	2	6
+1520	NULL	Dowpharma	NULL	12	USA	TRUE	FALSE	2	6
+1521	NULL	Kereos	NULL	12	USA	TRUE	FALSE	2	6
+1522	NULL	Iconix Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1523	NULL	Flamel	NULL	12	USA	TRUE	FALSE	2	6
+1524	NULL	Toyama Chemical	NULL	12	USA	TRUE	FALSE	2	7
+1525	NULL	QDose	NULL	12	USA	TRUE	FALSE	2	6
+1526	NULL	Corgentech	NULL	12	USA	TRUE	FALSE	2	6
+1527	NULL	TriPath Imaging	NULL	12	USA	TRUE	FALSE	2	6
+1528	NULL	Perlegen Biosciences	NULL	12	USA	TRUE	FALSE	2	6
+1529	NULL	Ardais	NULL	12	USA	TRUE	FALSE	2	6
+1530	NULL	Platform Computing	NULL	12	USA	TRUE	FALSE	2	6
+1531	NULL	BiaCore International	NULL	12	USA	TRUE	FALSE	2	6
+1532	NULL	LabBook	NULL	12	USA	TRUE	FALSE	2	6
+1533	NULL	Sequitur	NULL	12	USA	TRUE	FALSE	2	6
+1534	NULL	Hormos Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1535	NULL	Inhale Therapeutic Systems	NULL	12	USA	TRUE	FALSE	2	6
+1536	NULL	ECR Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1537	NULL	Eidogen-Sertanty	NULL	12	USA	TRUE	FALSE	2	6
+1538	NULL	Bio3 Research & Creabilis Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+1539	NULL	MDS Proteomics	NULL	12	USA	TRUE	FALSE	2	6
+1540	NULL	Orphan Australia	NULL	12	USA	TRUE	FALSE	2	6
+1541	NULL	Sintong Chemical Industrial	NULL	12	USA	TRUE	FALSE	2	6
+1542	NULL	Armstrong Laboratorios	NULL	12	USA	TRUE	FALSE	2	6
+1543	NULL	Meristem Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+1544	NULL	National Institute of Technology and Evaluation	NULL	12	USA	TRUE	FALSE	2	6
+1545	NULL	Aspreva	NULL	12	USA	TRUE	FALSE	2	6
+1546	NULL	Cambrex BioScience	NULL	12	USA	TRUE	FALSE	2	6
+1547	NULL	Human Metabolome Technologies	NULL	12	USA	TRUE	FALSE	2	6
+1548	NULL	Consortium	NULL	12	USA	TRUE	FALSE	2	6
+1549	NULL	Dharmacon	NULL	12	USA	TRUE	FALSE	2	6
+1550	NULL	Weston Medical	NULL	12	USA	TRUE	FALSE	2	6
+1551	NULL	Plavix	NULL	12	USA	TRUE	FALSE	2	6
+1552	NULL	Celestar	NULL	12	USA	TRUE	FALSE	2	6
+1553	NULL	Suntory	NULL	12	USA	TRUE	FALSE	2	6
+1554	NULL	Amersham Bioscience	NULL	12	USA	TRUE	FALSE	2	6
+1555	NULL	Keio Gijuka University	NULL	12	USA	TRUE	FALSE	2	6
+1557	NULL	MedGene Bioscience	NULL	12	USA	TRUE	FALSE	2	6
+1558	NULL	Suzuken	NULL	12	USA	TRUE	FALSE	2	6
+1559	NULL	FibroGen	NULL	12	USA	TRUE	FALSE	2	6
+1560	NULL	Metabasis Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+1561	NULL	Rikagaku Research Centre	NULL	12	USA	TRUE	FALSE	2	6
+1562	NULL	Chelsea Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+1563	NULL	Zoegene	NULL	12	USA	TRUE	FALSE	2	6
+1564	NULL	Opus Diagnostics	NULL	12	USA	TRUE	FALSE	2	6
+1565	NULL	Koken and Lorus	NULL	12	USA	TRUE	FALSE	2	6
+1566	NULL	Novirio Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1567	NULL	National Cancer Institute	NULL	12	USA	TRUE	FALSE	2	6
+1568	NULL	BioArctic Neuroscience	NULL	12	USA	TRUE	FALSE	2	6
+1569	NULL	Sanko Junyaku & FUJIREBIO	NULL	12	USA	TRUE	FALSE	2	6
+1570	NULL	DNAVEC	NULL	12	USA	TRUE	FALSE	2	6
+1571	NULL	Bukwang Pharm	NULL	12	USA	TRUE	FALSE	2	6
+1572	NULL	Neurogenetics	NULL	12	USA	TRUE	FALSE	2	6
+1573	NULL	Medisa Shinyaku	NULL	12	USA	TRUE	FALSE	2	6
+1574	NULL	Texas University	NULL	12	USA	TRUE	FALSE	2	6
+1575	NULL	Transition Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+1576	NULL	EntreMed	NULL	12	USA	TRUE	FALSE	2	6
+1577	NULL	Medisys	NULL	12	USA	TRUE	FALSE	2	6
+1578	NULL	Curis	NULL	12	USA	TRUE	FALSE	2	6
+1579	NULL	Ingenium	NULL	12	USA	TRUE	FALSE	2	6
+1580	NULL	SafeScience	NULL	12	USA	TRUE	FALSE	2	6
+1581	NULL	AGI Dermatics	NULL	12	USA	TRUE	FALSE	2	6
+1582	NULL	NewBiotics	NULL	12	USA	TRUE	FALSE	2	6
+1583	NULL	Inex Pharmaceutical	NULL	12	USA	TRUE	FALSE	2	6
+1584	NULL	Nobex	NULL	12	USA	TRUE	FALSE	2	6
+1585	NULL	Cogent Neuroscience	NULL	12	USA	TRUE	FALSE	2	6
+1586	NULL	Adprotech	NULL	12	USA	TRUE	FALSE	2	6
+1587	NULL	Bioniche Life Sciences	NULL	12	USA	TRUE	FALSE	2	6
+1588	NULL	Aurigene	NULL	12	USA	TRUE	FALSE	2	6
+1589	NULL	ZARS Pharma	NULL	12	USA	TRUE	FALSE	2	6
+1590	NULL	Affymetrix	NULL	12	USA	TRUE	FALSE	2	6
+1591	NULL	ProEthic Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1592	NULL	Replidyne	NULL	12	USA	TRUE	FALSE	2	6
+1594	NULL	Lipha	NULL	12	USA	TRUE	FALSE	2	6
+1595	NULL	Merz & Co	NULL	12	USA	TRUE	FALSE	2	6
+1596	NULL	Innotech	NULL	12	USA	TRUE	FALSE	2	6
+1597	NULL	BioInvent	NULL	12	USA	TRUE	FALSE	2	6
+1598	NULL	Altus Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1599	NULL	BioWa	NULL	12	USA	TRUE	FALSE	2	6
+1600	NULL	OriGene	NULL	12	USA	TRUE	FALSE	2	6
+1601	NULL	Accelerate Brain Cancer Cure	NULL	12	USA	TRUE	FALSE	2	6
+1602	NULL	Beaufour Ipsen	NULL	12	USA	TRUE	FALSE	2	6
+1603	NULL	"Cancer Research Technologies, UK"	NULL	12	USA	TRUE	FALSE	2	6
+1604	NULL	TolerRx	NULL	12	USA	TRUE	FALSE	2	6
+1605	NULL	Devgen	NULL	12	USA	TRUE	FALSE	2	6
+1606	NULL	Xenova	NULL	12	USA	TRUE	FALSE	2	6
+1607	NULL	BTG	NULL	12	USA	TRUE	FALSE	2	6
+1608	NULL	ICGEB	NULL	12	USA	TRUE	FALSE	2	6
+1609	NULL	Moffitt Cancer Center	NULL	12	USA	TRUE	FALSE	2	6
+1610	NULL	Sunway Biotech	NULL	12	USA	TRUE	FALSE	2	6
+1611	NULL	Oswaldo Cruz Foundation	NULL	12	USA	TRUE	FALSE	2	6
+1612	NULL	Ceregene	NULL	12	USA	TRUE	FALSE	2	6
+1613	NULL	Angiotech	NULL	12	USA	TRUE	FALSE	2	6
+1614	NULL	Brookwood Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1615	NULL	De Novo	NULL	12	USA	TRUE	FALSE	2	6
+1616	NULL	Epiontis	NULL	12	USA	TRUE	FALSE	2	6
+1617	NULL	Macrozyme	NULL	12	USA	TRUE	FALSE	2	6
+1618	NULL	UCLA	NULL	12	USA	TRUE	FALSE	2	6
+1619	NULL	RenaMed Biologics	NULL	12	USA	TRUE	FALSE	2	6
+1620	NULL	ViaCell	NULL	12	USA	TRUE	FALSE	2	6
+1621	NULL	Applied Genetic Technologies 	NULL	12	USA	TRUE	FALSE	2	6
+1622	NULL	Cangene	NULL	12	USA	TRUE	FALSE	2	6
+1623	NULL	"Academic Medical Centre, Netherlands"	NULL	12	USA	TRUE	FALSE	2	6
+1624	NULL	Excigen	NULL	12	USA	TRUE	FALSE	2	6
+1625	NULL	BioStratum	NULL	12	USA	TRUE	FALSE	2	6
+1626	NULL	Myosix	NULL	12	USA	TRUE	FALSE	2	6
+1627	NULL	The Johns Hopkins University	NULL	12	USA	TRUE	FALSE	2	6
+1628	NULL	Navitas	NULL	12	USA	TRUE	FALSE	2	6
+1629	NULL	Parion Sciences	NULL	12	USA	TRUE	FALSE	2	6
+1630	NULL	"Emcure, Hetero Drugs, and Strides Arcolab"	NULL	12	USA	TRUE	FALSE	2	6
+1631	NULL	Diatos	NULL	12	USA	TRUE	FALSE	2	6
+1632	NULL	4AZA Bioscience	NULL	12	USA	TRUE	FALSE	2	6
+1633	NULL	Purchase of royalty interest	NULL	12	USA	TRUE	FALSE	2	6
+1634	NULL	Tm Bioscience	NULL	12	USA	TRUE	FALSE	2	6
+1635	NULL	Activx Biosciences	NULL	12	USA	TRUE	FALSE	2	6
+1636	NULL	CyDex	NULL	12	USA	TRUE	FALSE	2	6
+1637	NULL	Emory University	NULL	12	USA	TRUE	FALSE	2	6
+1638	NULL	Harvard Stem Cell Institute	NULL	12	USA	TRUE	FALSE	2	6
+1639	NULL	Mpex Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1640	NULL	Immune Disease Institute	NULL	12	USA	TRUE	FALSE	2	6
+1641	NULL	EUSA Pharma	NULL	12	USA	TRUE	FALSE	2	6
+1642	NULL	Tolerx	NULL	12	USA	TRUE	FALSE	2	6
+1643	NULL	SAEC	NULL	12	USA	TRUE	FALSE	2	6
+1644	NULL	US Department of Defense	NULL	12	USA	TRUE	FALSE	2	6
+1645	NULL	Futura Medical	NULL	12	USA	TRUE	FALSE	2	6
+1646	NULL	Fabre-Kramer	NULL	12	USA	TRUE	FALSE	2	6
+1647	NULL	Alimentary Pharmabiotic Centre	NULL	12	USA	TRUE	FALSE	2	6
+1648	NULL	Epix Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1649	NULL	UK Wellcome Trust	NULL	12	USA	TRUE	FALSE	2	6
+1650	NULL	Ludwig Institute of Cancer Research 	NULL	12	USA	TRUE	FALSE	2	6
+1651	NULL	Institut Pasteur	NULL	12	USA	TRUE	FALSE	2	6
+1652	NULL	Aeras Global TB Vaccine Foundation	NULL	12	USA	TRUE	FALSE	2	6
+1653	NULL	Bio-Medisinsk 	NULL	12	USA	TRUE	FALSE	2	6
+1654	NULL	International AIDS Vaccine Initiative 	NULL	12	USA	TRUE	FALSE	2	6
+1655	NULL	Advancis	NULL	12	USA	TRUE	FALSE	2	6
+1656	NULL	Diversa	NULL	12	USA	TRUE	FALSE	2	6
+1657	NULL	Lavipharm Corp	NULL	12	USA	TRUE	FALSE	2	6
+1658	NULL	Elbion	NULL	12	USA	TRUE	FALSE	2	6
+1659	NULL	BioSynexus	NULL	12	USA	TRUE	FALSE	2	6
+1660	NULL	Unigene	NULL	12	USA	TRUE	FALSE	2	6
+1661	NULL	3M	NULL	12	USA	TRUE	FALSE	2	6
+1662	NULL	GeneLogic	NULL	12	USA	TRUE	FALSE	2	6
+1663	NULL	Genomics Collaborative	NULL	12	USA	TRUE	FALSE	2	6
+1664	NULL	First Genetic Trust	NULL	12	USA	TRUE	FALSE	2	6
+1665	NULL	Bioproject	NULL	12	USA	TRUE	FALSE	2	6
+1666	NULL	Sequenom	NULL	12	USA	TRUE	FALSE	2	6
+1667	NULL	Illumina	NULL	12	USA	TRUE	FALSE	2	6
+1668	NULL	Pacific Health Labs	NULL	12	USA	TRUE	FALSE	2	6
+1669	NULL	Sepsicure	NULL	12	USA	TRUE	FALSE	2	6
+1670	NULL	BioCurex	NULL	12	USA	TRUE	FALSE	2	6
+1671	NULL	Akela Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1672	NULL	Neuromed Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1673	NULL	Sinclair Pharma	NULL	12	USA	TRUE	FALSE	2	6
+1674	NULL	PamGene International	NULL	12	USA	TRUE	FALSE	2	6
+1675	NULL	Cara Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+1676	NULL	7TM Pharma	NULL	12	USA	TRUE	FALSE	2	6
+1677	NULL	Neurochem	NULL	12	USA	TRUE	FALSE	2	6
+1678	NULL	AdipoGenix	NULL	12	USA	TRUE	FALSE	2	6
+1679	NULL	TheraTech	NULL	12	USA	TRUE	FALSE	2	6
+1680	NULL	Microvision	NULL	12	USA	TRUE	FALSE	2	6
+1681	NULL	Vical	NULL	12	USA	TRUE	FALSE	2	6
+1682	NULL	Neuronyx	NULL	12	USA	TRUE	FALSE	2	6
+1683	NULL	Bionomics	NULL	12	USA	TRUE	FALSE	2	6
+1684	NULL	GenStar Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+1685	NULL	BioFrontera	NULL	12	USA	TRUE	FALSE	2	6
+1686	NULL	RiboTargets	NULL	12	USA	TRUE	FALSE	2	6
+1687	NULL	Maxia Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1688	NULL	Peptech	NULL	12	USA	TRUE	FALSE	2	6
+1689	NULL	AgraQuest	NULL	12	USA	TRUE	FALSE	2	6
+1690	NULL	Acura	NULL	12	USA	TRUE	FALSE	2	6
+1691	NULL	Gelita Medical	NULL	12	USA	TRUE	FALSE	2	6
+1692	NULL	Vascular Solutions 	NULL	12	USA	TRUE	FALSE	2	6
+1693	NULL	Allerex	NULL	12	USA	TRUE	FALSE	2	6
+1694	NULL	Arrow International/ Cobalt	NULL	12	USA	TRUE	FALSE	2	6
+1695	NULL	Mutual Pharmaceutical	NULL	12	USA	TRUE	FALSE	2	6
+1696	NULL	Pain Therapeutics 	NULL	12	USA	TRUE	FALSE	2	6
+1697	NULL	JapanBridge	NULL	12	USA	TRUE	FALSE	2	6
+1698	NULL	Life Science Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1699	NULL	Aphton	NULL	12	USA	TRUE	FALSE	2	6
+1700	NULL	Gateway Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1701	NULL	AnalytiCon Discovery	NULL	12	USA	TRUE	FALSE	2	6
+1702	NULL	NovoCardia	NULL	12	USA	TRUE	FALSE	2	6
+1703	NULL	Winston Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1704	NULL	Compugen	NULL	12	USA	TRUE	FALSE	2	6
+1705	NULL	Deltanoid Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1706	NULL	Covidien	NULL	12	USA	TRUE	FALSE	2	6
+1707	NULL	Steifel Laboratories	NULL	12	USA	TRUE	FALSE	2	6
+1708	NULL	BioMS Medical	NULL	12	USA	TRUE	FALSE	2	6
+1709	NULL	Applied Neurosolutions	NULL	12	USA	TRUE	FALSE	2	6
+1710	NULL	Suven Life Sciences	NULL	12	USA	TRUE	FALSE	2	6
+1711	NULL	University of Madrid	NULL	12	USA	TRUE	FALSE	2	6
+1712	NULL	BioSite	NULL	12	USA	TRUE	FALSE	2	6
+1713	NULL	Locus Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1714	NULL	Corcept Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+1715	NULL	HistoRx	NULL	12	USA	TRUE	FALSE	2	6
+1716	NULL	Gastrotech	NULL	12	USA	TRUE	FALSE	2	6
+1717	NULL	Towa Pharmaceutical	NULL	12	USA	TRUE	FALSE	2	6
+1718	NULL	Pharmaceutical Product Development]	NULL	12	USA	TRUE	FALSE	2	6
+1719	NULL	Cellular Genomics	NULL	12	USA	TRUE	FALSE	2	6
+1720	NULL	Neurion Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1721	NULL	PediaMed	NULL	12	USA	TRUE	FALSE	2	6
+1722	NULL	Ricerca	NULL	12	USA	TRUE	FALSE	2	6
+1723	NULL	Avera Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1724	NULL	aaiPharma	NULL	12	USA	TRUE	FALSE	2	6
+1725	NULL	D-Pharm	NULL	12	USA	TRUE	FALSE	2	6
+1726	NULL	Research collaboration	NULL	12	USA	TRUE	FALSE	2	6
+1727	NULL	Peplin Biotech	NULL	12	USA	TRUE	FALSE	2	6
+1729	NULL	Berlex	NULL	12	USA	TRUE	FALSE	2	6
+1730	NULL	Neurim Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1731	NULL	Sareum	NULL	12	USA	TRUE	FALSE	2	6
+1732	NULL	Ophtec	NULL	12	USA	TRUE	FALSE	2	6
+1733	NULL	NeuroNova	NULL	12	USA	TRUE	FALSE	2	6
+1734	NULL	CMC Biopharma	NULL	12	USA	TRUE	FALSE	2	6
+1735	NULL	Warren Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1736	NULL	Laboratoires Thea	NULL	12	USA	TRUE	FALSE	2	6
+1737	NULL	National Institute of Allergy and Infectious Diseases	NULL	12	USA	TRUE	FALSE	2	6
+1738	NULL	Elusys Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+1739	NULL	Biota Holdings	NULL	12	USA	TRUE	FALSE	2	6
+1740	NULL	Mt. Sinai School of Medicine	NULL	12	USA	TRUE	FALSE	2	6
+1741	NULL	Burnham Institute for Medical Research	NULL	12	USA	TRUE	FALSE	2	6
+1742	NULL	National Institutes of Health	NULL	12	USA	TRUE	FALSE	2	6
+1743	NULL	Georgetown University	NULL	12	USA	TRUE	FALSE	2	6
+1744	NULL	VasGene Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+1745	NULL	GenPat79	NULL	12	USA	TRUE	FALSE	2	6
+1746	NULL	Cerus	NULL	12	USA	TRUE	FALSE	2	6
+1747	NULL	Critical Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+1748	NULL	BioReliance	NULL	12	USA	TRUE	FALSE	2	6
+1749	NULL	ViroNovative	NULL	12	USA	TRUE	FALSE	2	6
+1750	NULL	Panacea Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1751	NULL	A&G Pharmaceutical	NULL	12	USA	TRUE	FALSE	2	6
+1752	NULL	Genaera 	NULL	12	USA	TRUE	FALSE	2	6
+1753	NULL	Photochemical 	NULL	12	USA	TRUE	FALSE	2	6
+1754	NULL	Oculex Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1755	NULL	Surmodics	NULL	12	USA	TRUE	FALSE	2	6
+1756	NULL	J David Gladstone Institute	NULL	12	USA	TRUE	FALSE	2	6
+1757	NULL	Foxhollow	NULL	12	USA	TRUE	FALSE	2	6
+1758	NULL	ParAllele BioScience	NULL	12	USA	TRUE	FALSE	2	6
+1759	NULL	Geron	NULL	12	USA	TRUE	FALSE	2	6
+1760	NULL	People’s Republic of China Ministry of Health	NULL	12	USA	TRUE	FALSE	2	6
+1761	NULL	Nastech Pharmaceutical	NULL	12	USA	TRUE	FALSE	2	6
+1762	NULL	BioImage	NULL	12	USA	TRUE	FALSE	2	6
+1763	NULL	DOV Pharmaceutical	NULL	12	USA	TRUE	FALSE	2	6
+1764	NULL	Thembalami Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1765	NULL	Igenium	NULL	12	USA	TRUE	FALSE	2	6
+1766	NULL	Amrad	NULL	12	USA	TRUE	FALSE	2	6
+1767	NULL	Neurogen	NULL	12	USA	TRUE	FALSE	2	6
+1768	NULL	GenPath (now Aveo)	NULL	12	USA	TRUE	FALSE	2	6
+1769	NULL	BioVex	NULL	12	USA	TRUE	FALSE	2	6
+1770	NULL	Brigham Young University	NULL	12	USA	TRUE	FALSE	2	6
+1771	NULL	Scynexis	NULL	12	USA	TRUE	FALSE	2	6
+1772	NULL	MSD	NULL	12	USA	TRUE	FALSE	2	6
+1773	NULL	Elitra Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1774	NULL	PeriCor Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+1775	NULL	Kurve Technology	NULL	12	USA	TRUE	FALSE	2	6
+1776	NULL	Novacea	NULL	12	USA	TRUE	FALSE	2	6
+1777	NULL	Oncomethylome Sciences	NULL	12	USA	TRUE	FALSE	2	6
+1778	NULL	Migenix	NULL	12	USA	TRUE	FALSE	2	6
+1779	NULL	Southern Research Institute	NULL	12	USA	TRUE	FALSE	2	6
+1780	NULL	Toyama	NULL	12	USA	TRUE	FALSE	2	6
+1781	NULL	Geneva	NULL	12	USA	TRUE	FALSE	2	6
+1782	NULL	Amsterdam Molecular Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+1783	NULL	Artus	NULL	12	USA	TRUE	FALSE	2	6
+1784	NULL	PSF Biotech	NULL	12	USA	TRUE	FALSE	2	6
+1785	NULL	Atugen	NULL	12	USA	TRUE	FALSE	2	6
+1786	NULL	Spotfire	NULL	12	USA	TRUE	FALSE	2	6
+1787	NULL	Europroteome	NULL	12	USA	TRUE	FALSE	2	6
+1788	NULL	Ecole Polytechnique Federale de Lausanne	NULL	12	USA	TRUE	FALSE	2	6
+1789	NULL	KineMed	NULL	12	USA	TRUE	FALSE	2	6
+1790	NULL	Biomira	NULL	12	USA	TRUE	FALSE	2	6
+1791	NULL	Monogram Biosciences	NULL	12	USA	TRUE	FALSE	2	6
+1792	NULL	Grupo Vita	NULL	12	USA	TRUE	FALSE	2	6
+1793	NULL	ProMetic Life Sciences	NULL	12	USA	TRUE	FALSE	2	6
+1795	NULL	CancerVax	NULL	12	USA	TRUE	FALSE	2	6
+1796	NULL	Nautilus	NULL	12	USA	TRUE	FALSE	2	6
+1797	NULL	InDex Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1798	NULL	GeneProt	NULL	12	USA	TRUE	FALSE	2	6
+1799	NULL	Modex Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+1800	NULL	TNO	NULL	12	USA	TRUE	FALSE	2	6
+1801	NULL	Sosei	NULL	12	USA	TRUE	FALSE	2	6
+1802	NULL	Dynogen Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1803	NULL	Nissan Chemical	NULL	12	USA	TRUE	FALSE	2	6
+1804	NULL	Profile Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+1805	NULL	Nikken	NULL	12	USA	TRUE	FALSE	2	6
+1806	NULL	Calbiochem	NULL	12	USA	TRUE	FALSE	2	6
+1807	NULL	Medigene	NULL	12	USA	TRUE	FALSE	2	6
+1808	NULL	ISTA Pharmaceutical	NULL	12	USA	TRUE	FALSE	2	6
+1809	NULL	Centocor	NULL	12	USA	TRUE	FALSE	2	6
+1810	NULL	Alfresa Pharma	NULL	12	USA	TRUE	FALSE	2	6
+1811	NULL	Tianjin Tanabe	NULL	12	USA	TRUE	FALSE	2	6
+1812	NULL	NEC	NULL	12	USA	TRUE	FALSE	2	6
+1813	NULL	Ark Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+1814	NULL	TB Alliance	NULL	12	USA	TRUE	FALSE	2	6
+1815	NULL	Vaccine alliance	NULL	12	USA	TRUE	FALSE	2	6
+1816	NULL	Sebo	NULL	12	USA	TRUE	FALSE	2	6
+1817	NULL	Hybridon	NULL	12	USA	TRUE	FALSE	2	6
+1818	NULL	Pharma Design	NULL	12	USA	TRUE	FALSE	2	6
+1819	NULL	Arakis and Vectura	NULL	12	USA	TRUE	FALSE	2	6
+1820	NULL	Triad Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+1821	NULL	Xenon Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1822	NULL	Cengent	NULL	12	USA	TRUE	FALSE	2	6
+1823	NULL	Transgenomic	NULL	12	USA	TRUE	FALSE	2	6
+1824	NULL	Valley Forge	NULL	12	USA	TRUE	FALSE	2	6
+1825	NULL	Igeneon	NULL	12	USA	TRUE	FALSE	2	6
+1826	NULL	Variagenics	NULL	12	USA	TRUE	FALSE	2	6
+1827	NULL	VistaGen Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+1828	NULL	Raven Biotechnologies	NULL	12	USA	TRUE	FALSE	2	6
+1829	NULL	Predix	NULL	12	USA	TRUE	FALSE	2	6
+1830	NULL	C2X Pharma	NULL	12	USA	TRUE	FALSE	2	6
+1831	NULL	Sapphire Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+1833	NULL	G2 Therapies	NULL	12	USA	TRUE	FALSE	2	6
+1834	NULL	ActiveSight	NULL	12	USA	TRUE	FALSE	2	6
+1835	NULL	A-Bio Pharma	NULL	12	USA	TRUE	FALSE	2	6
+1836	NULL	Aradigm	NULL	12	USA	TRUE	FALSE	2	6
+1837	NULL	Oxford University	NULL	12	USA	TRUE	FALSE	4	6
+1838	NULL	Paladin Labs	NULL	12	USA	TRUE	FALSE	2	6
+1839	NULL	Alliance Pharmaceutical	NULL	12	USA	TRUE	FALSE	2	6
+1840	NULL	ACO HUD	NULL	12	USA	TRUE	FALSE	2	6
+1841	NULL	KS Biomedix	NULL	12	USA	TRUE	FALSE	2	6
+1842	NULL	GenData Research	NULL	12	USA	TRUE	FALSE	2	6
+1843	NULL	CeNeS	NULL	12	USA	TRUE	FALSE	2	6
+1844	NULL	Sapphire Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1845	NULL	Cortech	NULL	12	USA	TRUE	FALSE	2	6
+1846	NULL	Kumamoto University	NULL	12	USA	TRUE	FALSE	2	6
+1847	NULL	Hydra Biosciences	NULL	12	USA	TRUE	FALSE	2	6
+1848	NULL	Quark Biotech	NULL	12	USA	TRUE	FALSE	2	6
+1849	NULL	Noxxon Pharma	NULL	12	USA	TRUE	FALSE	2	6
+1850	NULL	Oscient Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1851	NULL	Genome Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+1852	NULL	Renovis	NULL	12	USA	TRUE	FALSE	2	6
+1853	NULL	Cognizant Technology Solutions	NULL	12	USA	TRUE	FALSE	2	6
+1854	NULL	Chromos Molecular Systems	NULL	12	USA	TRUE	FALSE	2	6
+1855	NULL	University of Rochester	NULL	12	USA	TRUE	FALSE	2	6
+1856	NULL	Symyx	NULL	12	USA	TRUE	FALSE	2	6
+1857	NULL	Amersham	NULL	12	USA	TRUE	FALSE	2	6
+1858	NULL	Siro Clinpharm	NULL	12	USA	TRUE	FALSE	2	6
+1859	NULL	Guilford Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1860	NULL	Odyssey Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+1861	NULL	Neurotech	NULL	12	USA	TRUE	FALSE	2	6
+1862	NULL	Meridica	NULL	12	USA	TRUE	FALSE	2	6
+1863	NULL	CXR Biosciences	NULL	12	USA	TRUE	FALSE	2	6
+1864	NULL	Immunicon	NULL	12	USA	TRUE	FALSE	2	6
+1865	NULL	Hyseq	NULL	12	USA	TRUE	FALSE	2	6
+1866	NULL	ChrondoGene	NULL	12	USA	TRUE	FALSE	2	6
+1867	NULL	Ciphergen	NULL	12	USA	TRUE	FALSE	2	6
+1868	NULL	NeoTherapeutics	NULL	12	USA	TRUE	FALSE	2	6
+1869	NULL	NASA Ames Research Center	NULL	12	USA	TRUE	FALSE	2	6
+1870	NULL	Megapharm	NULL	12	USA	TRUE	FALSE	2	6
+1871	NULL	Genesis	NULL	12	USA	TRUE	FALSE	2	6
+1872	NULL	MediVas	NULL	12	USA	TRUE	FALSE	2	6
+1873	NULL	Inovio Biomedical	NULL	12	USA	TRUE	FALSE	2	6
+1874	NULL	Health Ministry of Scotland	NULL	12	USA	TRUE	FALSE	2	6
+1875	NULL	Peking Union Medical College Hospital	NULL	12	USA	TRUE	FALSE	2	6
+1876	NULL	Expression Analysis	NULL	12	USA	TRUE	FALSE	2	6
+1877	NULL	GVK Biosciences	NULL	12	USA	TRUE	FALSE	2	6
+1878	NULL	Trubion	NULL	12	USA	TRUE	FALSE	2	6
+1879	NULL	Taxolog	NULL	12	USA	TRUE	FALSE	2	6
+1880	NULL	Sienabiotech	NULL	12	USA	TRUE	FALSE	2	6
+1881	NULL	Ingenuity Systems	NULL	12	USA	TRUE	FALSE	2	6
+1882	NULL	Bioject Medical Technologies	NULL	12	USA	TRUE	FALSE	2	6
+1883	NULL	Tanox	NULL	12	USA	TRUE	FALSE	2	6
+1884	NULL	Neurome	NULL	12	USA	TRUE	FALSE	2	6
+1885	NULL	Necleonics	NULL	12	USA	TRUE	FALSE	2	6
+1886	NULL	Aegera Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+1887	NULL	Valois	NULL	12	USA	TRUE	FALSE	2	6
+1888	NULL	Beckman Coulter	NULL	12	USA	TRUE	FALSE	2	6
+1889	NULL	Pharmaplan	NULL	12	USA	TRUE	FALSE	2	6
+1890	NULL	Amdipharm	NULL	12	USA	TRUE	FALSE	2	6
+1891	NULL	Berlin Chemie	NULL	12	USA	TRUE	FALSE	2	6
+1892	NULL	Ony	NULL	12	USA	TRUE	FALSE	2	6
+1893	NULL	Osmotic Pharmaceutical Europe	NULL	12	USA	TRUE	FALSE	2	6
+1894	NULL	Lavipharm Group	NULL	12	USA	TRUE	FALSE	2	6
+1895	NULL	InfaCare Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1896	NULL	Napp Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1897	NULL	Angelini	NULL	12	USA	TRUE	FALSE	2	6
+1898	NULL	Grupo Uriach	NULL	12	USA	TRUE	FALSE	2	6
+1899	NULL	Dexcel	NULL	12	USA	TRUE	FALSE	2	6
+1900	NULL	Halozyme Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+1901	NULL	Raptor Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1902	NULL	VIA Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1903	NULL	ThromboGenics / BioInvent	NULL	12	USA	TRUE	FALSE	2	6
+1904	NULL	Ortho-Clinical Diagnostics and Novartis Vaccines & Diagnostics	NULL	12	USA	TRUE	FALSE	2	6
+1905	NULL	Borean	NULL	12	USA	TRUE	FALSE	2	6
+1906	NULL	SystemsX	NULL	12	USA	TRUE	FALSE	2	6
+1907	NULL	BioCryst	NULL	12	USA	TRUE	FALSE	2	6
+1908	NULL	Epitomics	NULL	12	USA	TRUE	FALSE	2	6
+1909	NULL	Epidauros	NULL	12	USA	TRUE	FALSE	2	6
+1910	NULL	SGX Structural GenmiX	NULL	12	USA	TRUE	FALSE	2	6
+1911	NULL	Dade Behring / Chiron Corp / Ortho Clinical	NULL	12	USA	TRUE	FALSE	2	6
+1912	NULL	Biovation	NULL	12	USA	TRUE	FALSE	2	6
+1913	NULL	Stressgen	NULL	12	USA	TRUE	FALSE	2	6
+1914	NULL	ICN Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1915	NULL	Trega Biosciences	NULL	12	USA	TRUE	FALSE	2	6
+1916	NULL	Ribapharm	NULL	12	USA	TRUE	FALSE	2	6
+1917	NULL	University of Edinburgh	NULL	12	USA	TRUE	FALSE	2	6
+1918	NULL	Dabur India	NULL	12	USA	TRUE	FALSE	2	6
+1919	NULL	Immuno-Biological Laboratories	NULL	12	USA	TRUE	FALSE	2	6
+1920	NULL	Chinese Academy of Medical Sciences	NULL	12	USA	TRUE	FALSE	2	6
+1921	NULL	SRI-International	NULL	12	USA	TRUE	FALSE	2	6
+1922	NULL	Inserm and Innogenetics	NULL	12	USA	TRUE	FALSE	2	6
+1923	NULL	French and US governments	NULL	12	USA	TRUE	FALSE	2	6
+1924	NULL	Aureus	NULL	12	USA	TRUE	FALSE	2	6
+1925	NULL	US Health and Human Services Department	NULL	12	USA	TRUE	FALSE	2	6
+1926	NULL	Provalis	NULL	12	USA	TRUE	FALSE	2	6
+1927	NULL	Cerep	NULL	12	USA	TRUE	FALSE	2	6
+1928	NULL	Atrix Laboratories	NULL	12	USA	TRUE	FALSE	2	6
+1929	NULL	Amphora Discovery	NULL	12	USA	TRUE	FALSE	2	6
+1930	NULL	Protein Mechanics	NULL	12	USA	TRUE	FALSE	2	6
+1931	NULL	IntegraGen	NULL	12	USA	TRUE	FALSE	2	6
+1932	NULL	Sapharco	NULL	12	USA	TRUE	FALSE	2	6
+1933	NULL	Labopharm	NULL	12	USA	TRUE	FALSE	2	6
+1934	NULL	Peptor	NULL	12	USA	TRUE	FALSE	2	6
+1935	NULL	Epimmune	NULL	12	USA	TRUE	FALSE	2	6
+1936	NULL	Inflazyme	NULL	12	USA	TRUE	FALSE	2	6
+1937	NULL	Virogen	NULL	12	USA	TRUE	FALSE	2	6
+1938	NULL	Carlsson Research AB	NULL	12	USA	TRUE	FALSE	2	6
+1939	NULL	ASTA Medica	NULL	12	USA	TRUE	FALSE	2	6
+1940	NULL	Ajinomoto	NULL	12	USA	TRUE	FALSE	2	6
+1941	NULL	Novasite Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1942	NULL	Avexa	NULL	12	USA	TRUE	FALSE	2	6
+1943	NULL	Women First Healthcare	NULL	12	USA	TRUE	FALSE	2	6
+1944	NULL	Barrier Therapeutics and Epitan	NULL	12	USA	TRUE	FALSE	2	6
+1945	NULL	Draxis Health	NULL	12	USA	TRUE	FALSE	2	6
+1946	NULL	Giuliani	NULL	12	USA	TRUE	FALSE	2	6
+1947	NULL	DevCo/Abbott Laboratories	NULL	12	USA	TRUE	FALSE	2	6
+1948	NULL	ML Laboratories	NULL	12	USA	TRUE	FALSE	2	6
+1949	NULL	Lipocine	NULL	12	USA	TRUE	FALSE	2	6
+1950	NULL	LigoCyte Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1951	NULL	Mayo Clinic	NULL	12	USA	TRUE	FALSE	2	6
+1952	NULL	Petrovax	NULL	12	USA	TRUE	FALSE	2	6
+1953	NULL	SLA Pharma	NULL	12	USA	TRUE	FALSE	2	6
+1954	NULL	BioSante	NULL	12	USA	TRUE	FALSE	2	6
+1955	NULL	JOMED	NULL	12	USA	TRUE	FALSE	2	6
+1956	NULL	SIRIM & TropBio Research	NULL	12	USA	TRUE	FALSE	2	6
+1957	NULL	Endotis Pharma	NULL	12	USA	TRUE	FALSE	2	6
+1958	NULL	FluVac Consortium	NULL	12	USA	TRUE	FALSE	2	6
+1959	NULL	Kadmus Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1960	NULL	Royal Philips Electronics	NULL	12	USA	TRUE	FALSE	2	6
+1961	NULL	Netherlands Vaccine Institute	NULL	12	USA	TRUE	FALSE	2	6
+1962	NULL	Max Planck Institute	NULL	12	USA	TRUE	FALSE	2	6
+1963	NULL	Selexis	NULL	12	USA	TRUE	FALSE	2	6
+1964	NULL	STW Technology Foundation & Radboud University	NULL	12	USA	TRUE	FALSE	2	6
+1965	NULL	Keel Pharmaceuticals	NULL	12	USA	TRUE	FALSE	2	6
+1966	NULL	HD Biosciences	NULL	12	USA	TRUE	FALSE	2	6
+1967	NULL	Uriach	NULL	12	USA	TRUE	FALSE	2	6
+1968	NULL	Cypress Bioscience	NULL	12	USA	TRUE	FALSE	2	6
+1969	NULL	BioDiem	NULL	12	USA	TRUE	FALSE	2	6
+1970	NULL	CARIM	NULL	12	USA	TRUE	FALSE	2	6
+1971	NULL	DoubleTwist	NULL	12	USA	TRUE	FALSE	2	6
+1972	NULL	Biobase GmbH	NULL	12	USA	TRUE	FALSE	2	6
+1973	NULL	BrainCells	NULL	12	USA	TRUE	FALSE	2	6
+1974	NULL	Milford Sound Science	NULL	12	USA	TRUE	FALSE	2	6
+1975	NULL	Tobira Therapeutics	NULL	12	USA	TRUE	FALSE	2	6
+1976	NULL	CanBas	NULL	12	USA	TRUE	FALSE	2	6
+1977	NULL	Galaxy Biotech	NULL	12	USA	TRUE	FALSE	2	6
+1978	NULL	Affymax	NULL	12	USA	TRUE	FALSE	2	6
+1979	NULL	II-Yang Pharmaceutical	NULL	12	USA	TRUE	FALSE	2	6
+1980	NULL	Beth Israel Deaconess Medical Centre	NULL	12	USA	TRUE	FALSE	2	6
+1981	NULL	Oxford Diabetes Centre	NULL	12	USA	TRUE	FALSE	2	6
+1982		SARCode Bioscience		12	USA	TRUE	FALSE	2	6
+1983		Alimera Sciences		12	USA	TRUE	FALSE	2	6
+1984		AB Science		12	"Paris, France"	TRUE	FALSE	3	2
+1985		Cempra Pharmaceuticals		12	"Chapel Hill, North Carolina"	TRUE	FALSE	2	6
+1986		Rib-X Pharmaceuticals		12	"New Haven, CT"	TRUE	FALSE	2	6
+1987		Biota Holdings Limited		6	"Melbourne, Australia"	TRUE	FALSE	2	12
+1988		BioCryst Pharmaceuticals		12	"Birmingham, AL, USA"	TRUE	FALSE	2	6
+1989		Probiotica Laboratorios		12	ROW	TRUE	FALSE	9	6
+1990		Nodality		12	USA	TRUE	FALSE	2	6
+1991	Brazilian Company formed by Critalia and Eurofarma for JV with Merck	Supera Farma		12	ROW	TRUE	FALSE	3	6
+1992		Zhejiang Hisun Pharmaceuticals		12	ROW	TRUE	FALSE	3	6
+1993		Prestige Brands		3	USA	TRUE	FALSE	9	6
+1994		Medicago		12	USA	TRUE	FALSE	2	6
+1995		University of Osaka		3	Japan	TRUE	FALSE	4	3
+1996		Nuron		12	USA	TRUE	FALSE	2	6
+1997		Nymox 		12	ROW	TRUE	FALSE	2	6
+1998		ChemGen Corp.		12	USA	TRUE	FALSE	2	6
+1999		Duke Translational Medicine Institute		12	USA	TRUE	FALSE	4	6
+2000		Pele Nova Biotechnologia		12	ROW	TRUE	FALSE	2	6
+2001		Gerot Lannach		12	Europe	TRUE	FALSE	3	2
+2002		Angiochem		12	ROW	TRUE	FALSE	2	8
+2003		ThromboGenics		12	Europe	TRUE	FALSE	2	2
+2004		Frik Ilac		12	Europe	TRUE	FALSE	3	6
+2005		FujiFilm		3	Japan	TRUE	FALSE	3	7
+2006		Emcure		12	ROW	TRUE	FALSE	9	6
+2007		Gene Signal		12	Europe	TRUE	FALSE	NULL	5
+2008		Daval International		12	Europe	TRUE	FALSE	2	4
+2009		Mentrik Biotech		12	USA	TRUE	FALSE	2	6
+2010		arGEN-X		12	Europe	TRUE	FALSE	2	2
+2011		Sangamo BioSciences		12	USA	TRUE	FALSE	2	6
+2012		Apricus Biosciences		12	USA	TRUE	FALSE	3	6
+2013		Apricus Bioscience		12	USA	TRUE	FALSE	3	6
+2014		Argos Therapeutics		12	USA	TRUE	FALSE	2	6
+2015		arGentis		12	USA	TRUE	FALSE	2	6
+2016		Alloksys Life Sciences		12	Europe	TRUE	FALSE	2	2
+2017		MorphoSys		12	Europe	TRUE	FALSE	2	2
+2018	PF - Added 03/26/2012	Pergamum		12	Europe	TRUE	FALSE	2	2
+2019		CBio		6	ROW	TRUE	FALSE	2	12
+2020		Biotest		12	Europe	TRUE	FALSE	3	2
+2021		TiGenix		12	Europe	TRUE	FALSE	2	2
+2022		Philogen		12	Europe	TRUE	FALSE	2	2
+2023	PF added to model 3/36/2012	AnGes MG		12	Japan	TRUE	FALSE	3	3
+2024	PF added to model 03/26/2012	XBiotech		12	USA	TRUE	FALSE	2	6
+2025		Digna Biotech		12	Europe	TRUE	FALSE	2	2
+2026		Trident Pharmaceuticals		12	USA	TRUE	FALSE	2	6
+2027		Neovacs		12	Europe	TRUE	FALSE	2	2
+2028		Biocon Biopharmaceuticals	Reports in Rupees. Need to add this currency if ever forecast company.	12	ROW	TRUE	FALSE	3	6
+2029		TxCell		12	Europe	TRUE	FALSE	2	2
+2030		KaloBios		12	USA	TRUE	FALSE	2	6
+2031		Protalix		12	ROW	TRUE	FALSE	2	6
+2032		Morphotek		12	USA	TRUE	FALSE	2	6
+2033		NovImmune		12	Europe	TRUE	FALSE	2	5
+2034		Noxxon		12	Europe	TRUE	FALSE	2	2
+2035		AM-Pharma		12	Europe	TRUE	FALSE	2	2
+2036		Rapid Pharmaceuticals		12	Europe	TRUE	FALSE	2	6
+2037		LTT Biopharma		3	Japan	TRUE	FALSE	3	7
+2038		InDex		12	Europe	TRUE	FALSE	2	2
+2039	Diagnostics Company	Meso Scale Discovery		12	USA	TRUE	FALSE	9	6
+2040		Natur Produkt International		12	Europe	TRUE	FALSE	3	2
+2042		Kai Pharmaceuticals		12	USA	TRUE	FALSE	2	6
+2043		Genetics Laboratory		12	USA	TRUE	FALSE	5	6
+2044	"Takeda announceed to acquire URL Pharma on 11th April, 2012. The deal is expected to close in 60 days. "	URL		12	USA	TRUE	FALSE	3	6
+2045		Advanced Cell Technology		12	USA	TRUE	FALSE	2	6
+2046		Pedinol		12	Europe	TRUE	FALSE	3	6
+2047		PolyMedix		12	USA	TRUE	FALSE	2	6
+2048		Delenex Therapeutics		12	Europe	TRUE	FALSE	2	5
+2049		AIM Therapeutics		12	ROW	TRUE	FALSE	2	8
+2050		BioMarck Pharmaceuticals		12	USA	TRUE	FALSE	2	6
+2051		ZaBeCor Pharmaceutical Co		12	USA	TRUE	FALSE	2	6
+2052		Hunter Immunology		12	ROW	TRUE	FALSE	2	12
+2053		Atlantic Healthcare	Company remains private	12	Europe	TRUE	FALSE	3	4
+2054		Immune Response Biopharma	http://www.immuneresponsebiopharma.com/Pages/aboutus.aspx	12	USA	TRUE	FALSE	2	6
+2055		Sterna Biologicals		12	Europe	TRUE	FALSE	NULL	2
+2056		Stempeutics		12	ROW	TRUE	FALSE	2	6
+2057		Synairgen		12	Europe	TRUE	FALSE	2	4
+2058		Mustafa Nevzat Pharmaceuticals		12	Europe	TRUE	FALSE	3	6
+2059		Opsona Therapeutics		12	Europe	TRUE	FALSE	2	2
+2060		Caisson Biotech		12	USA	TRUE	FALSE	2	6
+2061		Action Pharma		12	Europe	TRUE	FALSE	2	1
+2062		Fougera Pharmaceuticals		12	USA	TRUE	FALSE	3	6
+2063		University Medical Pharmaceuticals		12	USA	TRUE	FALSE	3	6
+2064		Atlantis Pharma		12	ROW	TRUE	FALSE	3	6
+2065		Furiex	PF: Added May 2012	12	USA	TRUE	FALSE	2	6
+2066		Alacer Corp.		12	USA	TRUE	FALSE	9	6
+2067		St. Jude Medical		12	USA	TRUE	FALSE	9	6
+2068		Nabriva Therapeutics		12	Europe	TRUE	FALSE	2	2
+2069	"Takeda announced to acquire Multilab, a Brazilian mid-sied pharma company, in May 2012. This deal is expected to close by the end of the second quarter of 2012.  "	Multilab		12	ROW	TRUE	FALSE	3	6
+2070		Drais Pharma		12	USA	TRUE	FALSE	3	6
+2071	"Kaketsuken's English name is ""Chemo-Sero-Therapeutic Research Institute"""	Kaketsuken		3	Japan	TRUE	FALSE	4	7
+2072		Swiss Herbal Remedies		12	ROW	TRUE	FALSE	9	8
+2073		Guangzhou Bioseal Biotech		12	ROW	TRUE	FALSE	9	6
+2074		Syngene		12	ROW	TRUE	FALSE	9	6
+2075		Stromedix		12	USA	TRUE	FALSE	2	6
+2076		Novast Laboratories		12	ROW	TRUE	FALSE	9	6
+2077		Ascent Pharmahealth		6	ROW	TRUE	FALSE	3	12
+2078		AC Immune		12	Europe	TRUE	FALSE	2	5
+2079		Seaside Therapeutics		12	USA	TRUE	FALSE	2	6
+2080		ICON		12	Europe	TRUE	FALSE	9	6
+2081		Prasco Laboratories		12	USA	TRUE	FALSE	9	6
+2082		Pervasis Therapeutics		12	USA	TRUE	FALSE	2	6
+2083		Enlight Biosciences		12	USA	TRUE	FALSE	9	6
+2084		National Cheng Kung University		12	ROW	TRUE	FALSE	4	3
+2085		Savira pharmaceuticals		12	Europe	TRUE	FALSE	2	5
+2086		Hua Medicine		12	ROW	TRUE	FALSE	3	6
+2087		Constellation Pharmaceuticals		12	USA	TRUE	FALSE	2	6
+2088		Verum Diagnostica		12	Europe	TRUE	FALSE	5	2
+2089		AiCuris		12	Europe	TRUE	FALSE	2	2
+2090		Meizler		12	ROW	TRUE	FALSE	3	6
+2091		Pluromed Inc		12	USA	TRUE	FALSE	9	6
+2092		Joslin Diabetes Center		12	USA	TRUE	FALSE	4	6
+2093		Newport Laboratories		12	USA	TRUE	FALSE	9	6
+2094		Daewoong		12	ROW	TRUE	FALSE	3	11
+2095		"KMG Chemicals, Inc."		12	USA	TRUE	FALSE	9	6
+2096		Synthon		12	Europe	TRUE	FALSE	2	2
+2097		Corimmun		12	Europe	TRUE	FALSE	2	2
+2098		Link Medicine		12	USA	TRUE	FALSE	2	6
+2099		Compania International 		12	ROW	TRUE	FALSE	3	6
+2100		Chimerix		12	USA	TRUE	FALSE	2	6
+2101		Welichem Biotech		5	ROW	TRUE	FALSE	2	8
+2102		Faes Farma		12	Europe	TRUE	FALSE	3	2
+2103		Threshold		12	USA	TRUE	FALSE	2	6
+2104		Hirosaki University		3	Japan	TRUE	FALSE	4	7
+2105		AREVA		12	USA	TRUE	FALSE	NULL	6
+2106		Yamasa Corp.		3	Japan	TRUE	FALSE	2	7
+2107		Cedars-Sinai Medical Center		12	USA	TRUE	FALSE	9	6
+2108		SatRx		12	Europe	TRUE	FALSE	2	2
+2109		Farma-Projekt		12	Europe	TRUE	FALSE	3	2
+2110		The Technical University Of Dresden		12	Europe	TRUE	FALSE	4	2
+2111		Taizhou China Medical City		12	ROW	TRUE	FALSE	7	6
+2112		Healthrageous		12	USA	TRUE	FALSE	5	6
+2113		Funxional Therapeutics		12	Europe	TRUE	FALSE	2	4
+2114		Zoetis		12	USA	TRUE	FALSE	9	6
+2115		Synergy Pharmaceuticals		12	USA	TRUE	FALSE	2	6
+2116		NGM Biopharmaceuticals		12	USA	TRUE	FALSE	2	6
+2117		Coherus BioSciences		12	USA	TRUE	FALSE	2	6
+2118		National Cancer Center Japan		3	Japan	TRUE	FALSE	4	7
+2119		Euthymics Bioscience		12	USA	TRUE	FALSE	2	6
+2120		Tranzyme	PF SEPT 2012 - Added	12	USA	TRUE	FALSE	2	6
+2121		ETH Zurich		12	Europe	TRUE	FALSE	4	5
+2122		Invion		12	ROW	TRUE	FALSE	2	12
+2123		Plethora Solutions		12	Europe	TRUE	FALSE	2	4
+2124		Onconova Therapeutics		12	USA	TRUE	FALSE	2	6
+2125		Broad Institute		12	USA	TRUE	FALSE	4	6
+2126		Vascular Pharmaceuticals		12	USA	TRUE	FALSE	2	6
+2127		Vanderbilt University		12	USA	TRUE	FALSE	4	6
+2128		University of Copenhagen		12	Europe	TRUE	FALSE	4	1
+2129		PrimeraDx		12	USA	TRUE	FALSE	5	6
+2130		Selexys		12	USA	TRUE	FALSE	2	6
+2131	Acquired by Takeda in Oct 2012	LigoCyte		12	USA	TRUE	FALSE	2	6
+2132		Kotobuki		3	Japan	TRUE	FALSE	3	7
+2133		Ardelyx		12	USA	TRUE	FALSE	2	6
+2134		Stallergenes	PF - Added OCT 2012	12	Europe	TRUE	FALSE	2	2
+2135		Inception Sciences		12	USA	TRUE	FALSE	2	6
+2136		MDxHealth		12	Europe	TRUE	FALSE	5	2
+2137		Neuraltus		12	USA	TRUE	FALSE	2	6
+2138		Verastem		12	USA	TRUE	FALSE	2	6
+2139		Horizon Discovery		12	Europe	TRUE	FALSE	2	4
+2140	"Acquired by Dainippon Sumitomo, as of Sep 2012"	Elevation Pharma		12	USA	TRUE	FALSE	2	6
+2141		DRI Capital		12	ROW	TRUE	FALSE	8	8
+2142		Genfar S.A.		12	ROW	TRUE	FALSE	9	6
+2143	veterinary pharmaceutical industry	Norbrook Laboratories Ltd		12	Europe	TRUE	FALSE	9	2
+2144		Next Wave		12	USA	TRUE	FALSE	2	6
+2145		Moksha8	"Company reports in Brazilian Reals, but put in USD - does not matter bec. we are not forecasting this company."	12	ROW	TRUE	FALSE	3	6
+2146		Vaxxas		12	ROW	TRUE	FALSE	2	12
+2147		Thrasos Therapeutics		12	ROW	TRUE	FALSE	2	8
+2148		Pharmaceutical Product Development		12	USA	TRUE	FALSE	3	6
+2149		Celtic Therapeutics		12	Europe	TRUE	FALSE	2	6
+2150		BaroFold		12	USA	TRUE	FALSE	9	6
+2151		Regenstrief Institute		12	USA	TRUE	FALSE	4	6
+2152		Pearl Therapeutics		12	USA	TRUE	FALSE	2	6
+2153		Oncolytics Biotech		12	USA	TRUE	FALSE	2	8
+2154		Adamas		12	USA	TRUE	FALSE	2	6
+2155		Aegerion Pharmaceuticals		12	USA	TRUE	FALSE	3	6
+2156		Innovative Medicines Initiative		12	Europe	TRUE	FALSE	7	2
+2157		Ampio Pharmaceuticals		12	USA	TRUE	FALSE	2	6
+2158		Benaroya Research Institute		12	USA	TRUE	FALSE	4	6
+2159		Pacira Pharmaceuticals		12	USA	TRUE	FALSE	2	6
+2160		Anchen		12	USA	TRUE	FALSE	2	6
+2161		Anchen Pharmaceuticals		12	USA	TRUE	FALSE	2	6
+2162		Fondazione Telethon		12	Europe	TRUE	FALSE	4	2
+2163		Boston Children's Hospital		12	USA	TRUE	FALSE	4	6
+2164		Cilag GmbH		12	Europe	TRUE	FALSE	3	2
+2165		Erytech Pharma		12	Europe	TRUE	FALSE	2	2
+2166		GSK Consumer Healthcare		12	Europe	TRUE	FALSE	9	4
+2167		GSK Consumer Nigeria		12	Europe	TRUE	FALSE	9	4
+2168		Apexigen		12	USA	TRUE	FALSE	2	6
+2169		Handok Pharmaceuticals		12	ROW	TRUE	FALSE	3	11
+2170		pSivida Corp.		6	USA	TRUE	FALSE	2	6
+2171		Hetero Labs		12	ROW	TRUE	FALSE	3	6
+2172		Alkem		12	ROW	TRUE	FALSE	3	6
+2173		Indchemie Health Specialties		12	ROW	TRUE	FALSE	3	6
+2174		Alkem Laboratories		12	ROW	TRUE	FALSE	3	6
+2175		High Energy Accelerator Research Organization		3	Japan	TRUE	FALSE	4	7
+2176		ProMining Therapeutics		12	Europe	TRUE	FALSE	2	6
+2177		Precision System Science		3	Japan	TRUE	FALSE	5	7
+2178		MAKScientific		12	USA	TRUE	FALSE	3	6
+2179		Prothena		12	Europe	TRUE	FALSE	2	2
+2180		BC Cancer Agency		12	ROW	TRUE	FALSE	7	8
+2181		Arbor Pharmaceuticals		12	USA	TRUE	FALSE	3	6
+2182		Sabin Vaccine Institute		12	USA	TRUE	FALSE	4	6
+2183		Crohn's and Colitis Foundation of Canada		12	NULL	TRUE	FALSE	9	8
+2184		MacroGenics		12	USA	TRUE	FALSE	2	6
+2185		Envoy		12	USA	TRUE	FALSE	2	6
+2186		Covagen		12	Europe	TRUE	FALSE	2	5
+2187		Proteus Digital Health		12	USA	TRUE	FALSE	9	6
+2188		Abdi Ibrahim		12	ROW	TRUE	FALSE	3	7
+2189		Kobe University		3	Japan	TRUE	FALSE	4	7
+2190		Medsintez	Russian company	12	ROW	TRUE	FALSE	3	4
+2191		Concepts in Health	Created 1/2013. Markets MidNite	12	USA	TRUE	FALSE	2	6
+2192		Prexton Therapeutics		12	Europe	TRUE	FALSE	2	5
+2193		Quartz Bio		12	Europe	TRUE	FALSE	2	5
+2194		Asceneuron		12	Europe	TRUE	FALSE	2	5
+2195		Auxogyn		12	Europe	TRUE	FALSE	5	2
+2196		VentiRx		12	USA	TRUE	FALSE	NULL	6
+2197		Dosch Pharmaceuticals Private Limited	"DOSCH is a diversified pharmaceutical Company in India, manufacturer of Veterinary Pharmaceuticals and Exporter of Bulk Drugs and Formulations."	12	Europe	TRUE	FALSE	3	4
+2198		CompleGen		12	USA	TRUE	FALSE	2	6
+2199		BioCrea		12	Europe	TRUE	FALSE	2	2
+2200		Polyphor		12	Europe	TRUE	FALSE	2	5
+2201		BioGenes		12	Europe	TRUE	FALSE	2	2
+2202		MD Anderson		12	USA	TRUE	FALSE	4	6
+2203		NeRRe Therapeutics		12	Europe	TRUE	FALSE	2	4
+2204		TauRx Therapeutics		12	ROW	TRUE	FALSE	2	6
+2205		Allon Therapeutics		12	ROW	TRUE	FALSE	2	8
+2206		Uteron Pharma SA		12	Europe	TRUE	FALSE	2	2
+2207		Arrowhead Research Corporation		12	USA	TRUE	FALSE	2	6
+2208		IGAN Biosciences		12	USA	TRUE	FALSE	2	6
+2209		AKVION		12	ROW	TRUE	FALSE	3	2
+2210		Lotus Tissue Repair		12	USA	TRUE	FALSE	2	6
+2211	NewVac is a subsidiary of ChemRar	NewVac		12	Europe	TRUE	FALSE	2	2
+2212		Pharmstandard JSC		12	Europe	TRUE	FALSE	2	2
+2213		Biologic E		12	ROW	TRUE	FALSE	3	6
+2214		Afraxis		12	USA	TRUE	FALSE	NULL	6
+2215		RQx		12	USA	TRUE	FALSE	2	6
+2216		Nereus		12	Europe	TRUE	FALSE	2	6
+2217		Chiasma		12	ROW	TRUE	FALSE	2	6
+2218	Joint venture between Samsung Biologics and Biogen Idec.	Samsung Bioepis		12	ROW	TRUE	FALSE	2	6
+2219		Repligen		12	USA	TRUE	FALSE	2	6
+2220		Bind Biosciences		12	USA	TRUE	FALSE	2	6
+2221		AbbVie	"Historical sales remain with Abbott following the split.  4/12 - AbbVie guided to over $18b in 2013 sales - added OP to AI, CV, CNS, GU, Met, MSP & Onc."	12	USA	TRUE	TRUE	1	6
+2222		Pernix Therapeutics		12	USA	TRUE	FALSE	3	6
+2223		Clinigen Group		12	Europe	TRUE	FALSE	3	4
+2224	"Only have one pipeline product: CLR-610, HRT for men."	Clarus Therapeutics		12	USA	TRUE	FALSE	3	6
+2225		Repros Therapeutics		12	USA	TRUE	FALSE	3	6
+2226		Trimel Pharmaceuticals		12	ROW	TRUE	FALSE	3	8
+2227		Presidio Pharmaceuticals		12	USA	TRUE	FALSE	2	6
+2228		Luminex		12	USA	TRUE	FALSE	5	6
+2229	Small company spun off from University of North Carolina at Chapel Hill lab.	Novan Therapeutics		12	USA	TRUE	FALSE	2	6
+2230		Obagi Medical Products		12	USA	TRUE	FALSE	3	6
+2231		Moderna Therapeutics		12	USA	TRUE	FALSE	2	6
+2232		Karolinska Institutet		12	Europe	TRUE	FALSE	4	9
+2233		Petrov Institute		12	Europe	TRUE	FALSE	2	2
+2234		BioLamina		12	USA	TRUE	FALSE	2	6
+2235		Axelar AB		12	Europe	TRUE	FALSE	2	9
+2236		BioMed X		12	Europe	TRUE	FALSE	9	2
+2237		University of Nagasaki		3	Japan	TRUE	FALSE	4	7
+2238		Tokyo Institute of Technology		3	Japan	TRUE	FALSE	4	7
+2239		Covis Pharmaceuticals		12	USA	TRUE	FALSE	3	6
+2240		AlphaCore Pharma		12	USA	TRUE	FALSE	2	6
+2241		Ascletis		12	ROW	TRUE	FALSE	2	6
+2242		Eyevensys		12	Europe	TRUE	FALSE	2	2
+2243		Institute of Chemical and Engineering Sciences (ICES)		12	ROW	TRUE	FALSE	7	6
+2244		Agenus		12	USA	TRUE	FALSE	2	6
+2245		Resolve		12	USA	TRUE	FALSE	2	6
+2246		Inviragen		12	USA	TRUE	FALSE	2	6
+2247		Eleven Biotherapeutics		12	USA	TRUE	FALSE	2	6
+2248		EspeRare Foundation		12	Europe	TRUE	FALSE	4	2
+2249		Nordic Bioscience		12	Europe	TRUE	FALSE	2	1
+2250		ConfometRx		12	USA	TRUE	FALSE	2	6
+2251		PeptiDream		3	Japan	TRUE	FALSE	3	3
+2252		Exemed Pharmaceuticals		12	ROW	TRUE	FALSE	3	6
+2253		NewBridge Pharmaceuticals		12	ROW	TRUE	FALSE	3	6
+2254		Trevena		12	ROW	TRUE	FALSE	2	6
+2255		Children’s Hospital & Research Center Oakland 		12	USA	TRUE	FALSE	9	6
+2256		German Cancer Research Center		12	Europe	TRUE	FALSE	9	2
+2257		"Conceptus, Inc."		12	USA	TRUE	FALSE	9	6
+2258		ChemAxon		12	Europe	TRUE	FALSE	9	10
+2259		ChromoTek		12	Europe	TRUE	FALSE	9	2
+2260		Perosphere		12	USA	TRUE	FALSE	3	6
+2261		Innovation Network Corporation of Japan		3	Japan	TRUE	FALSE	9	7
+2262		Zhejiang Beta Pharma		12	ROW	TRUE	FALSE	3	6
+2263		Alvine		12	USA	TRUE	FALSE	2	6
+2264		Sanford Applied Biosciences		12	USA	TRUE	FALSE	4	6
+2265		Edison Pharmaceuticals		12	USA	TRUE	FALSE	2	6
+2266		Retina Institute Japan		3	Japan	TRUE	FALSE	2	7
+2267		Avalon Ventures		12	USA	TRUE	FALSE	8	6
+2268		Cerecor		12	USA	TRUE	FALSE	2	6
+2269		Abide Therapeutics		12	USA	TRUE	FALSE	2	6
+2270		Speranza Therapeutics		12	Europe	TRUE	FALSE	2	2
+2271		AOP Orphan Pharmaceuticals		12	Europe	TRUE	FALSE	2	2
+2272	Lifecycle pharma became Veloxis in 2011	Veloxis Pharmaceuticals		12	Europe	TRUE	FALSE	3	1
+2273	Life cycle is now Veloxis	LifeCycle Pharma		12	Europe	TRUE	FALSE	NULL	1
+2274		US HHS		12	USA	TRUE	FALSE	7	6
+2275		TG Therapeutics		12	USA	TRUE	FALSE	2	6
+2276		BeiGene		12	ROW	TRUE	FALSE	2	6
+2277		Okairos		12	Europe	TRUE	FALSE	2	5
+2278		Medicines360		12	USA	TRUE	FALSE	4	6
+2279		Premacure AB		12	Europe	TRUE	FALSE	2	9
+2280		AltheRx		12	USA	TRUE	FALSE	3	6
+2281		Immunocore		4	Europe	TRUE	FALSE	2	4
+2282		Michael J. Fox Foundation		10	USA	TRUE	FALSE	4	6
+2283		Par Pharmeceutical		10	USA	TRUE	FALSE	2	6
+2284		Steigerwald Arzneimittelwerk		12	Europe	TRUE	FALSE	2	2
+2285		Adaptive Biotechnologies		12	USA	TRUE	FALSE	2	6
+2286		PharmaCell		12	Europe	TRUE	FALSE	2	2
+2287		EMD Millipore		10	USA	TRUE	FALSE	2	6
+2288		Cell Therapy Catapult		4	Europe	TRUE	FALSE	2	4
+2289		DKSH		12	Europe	TRUE	FALSE	9	5
+2290		Scripps Research Institute		10	USA	TRUE	FALSE	4	6
+2291		Xellia		12	Europe	TRUE	FALSE	3	6
+2292		Tolero Pharmaceuticals		10	USA	TRUE	FALSE	2	6
+2293		Nimbus Discovery		10	USA	TRUE	FALSE	2	6
+2294		UNITHER Pharmaceuticals		12	Europe	TRUE	FALSE	2	2
+2295		UPM Pharmaceuticals		10	USA	TRUE	FALSE	2	6
+2296		Aqua Pharmaceuticals		10	USA	TRUE	FALSE	3	6
+2297		Arno Therapeutics		10	USA	TRUE	FALSE	2	6
+2298		Tecnofarma		12	Europe	TRUE	FALSE	2	2
+2299		Clinical Research Services		12	Europe	TRUE	FALSE	9	2
+2300		Athera Biotechnologies		12	Europe	TRUE	FALSE	3	9
+2301		Renaissance Pharma		10	USA	TRUE	FALSE	3	6
+2302		National Taiwan University		12	ROW	TRUE	FALSE	4	6
+2303		Second Genome		10	USA	TRUE	FALSE	2	6
+2304		Aragon Pharmaceuticals		10	USA	TRUE	FALSE	3	6
+2305		Questcor Pharmaceuticals		10	USA	TRUE	FALSE	3	6
+2306		Abcam		4	Europe	TRUE	FALSE	2	4
+2307		CytomX		10	USA	TRUE	FALSE	2	6
+2308		Curie-Cancer		12	Europe	TRUE	FALSE	4	2
+2309		Sea Lane Biotechnologies		10	USA	TRUE	FALSE	2	6
+2310		Ohr Pharmaceutical		12	USA	TRUE	FALSE	2	6
+2311		Akebia Therapeutics		12	USA	TRUE	FALSE	NULL	6
+2312		Adynxx		12	USA	TRUE	FALSE	2	6
+2313		Sequella		12	USA	TRUE	FALSE	2	6
+2314		Bioventus		10	USA	TRUE	FALSE	2	6
+2315		Mimetogen Pharmaceuticals		12	ROW	TRUE	FALSE	2	8
+2316		Auspex		12	USA	TRUE	FALSE	2	6
+2317		Auspex Pharmaceuticals		12	USA	TRUE	FALSE	2	6
+2318		Sarepta Therapeutics		12	USA	TRUE	FALSE	2	6
+2319		Opalia Pharma		12	ROW	TRUE	FALSE	3	6
+2320		Brainstorm Cell Therapeutics		12	USA	TRUE	FALSE	2	6
+2321		Clinigen		6	Europe	TRUE	FALSE	3	4
+2322		Acetylon Pharmaceuticals		10	USA	TRUE	FALSE	3	6
+2323		Samsung BioLogics		12	ROW	TRUE	FALSE	2	11
+2324		Kolltan Pharmaceuticals		10	USA	TRUE	FALSE	3	6
+2325	"In 1998, Japan Tobacco (JT) purchased more than 50% of Torii's stock. In 1999, JT and Torii established a collaboration arrangement (Torii concentrates on marketing, while JT on R&D)."	Torii Pharmaceutical		3	Japan	TRUE	FALSE	3	7
+2327		NuPathe Inc.		12	USA	TRUE	FALSE	2	6
+2328		Specialised Therapeutics Australia		6	ROW	TRUE	FALSE	3	12
+2329		Sanford-Burnham Medical Research Institute		10	USA	TRUE	FALSE	4	6
+2330		Brigham & Women's Hospital		10	USA	TRUE	FALSE	4	6
+2331		Bioxyne		6	ROW	TRUE	FALSE	2	12
+2332		Ultragenyx		10	USA	TRUE	FALSE	3	6
+2333		Icahn School of Medicine at Mount Sinai		10	USA	TRUE	FALSE	4	6
+2334		Intas Pharmaceuticals		4	ROW	TRUE	FALSE	2	6
+2335		Translational Genomics Research Institute		10	USA	TRUE	FALSE	4	6
+2336		Amerigen Pharmaceuticals		10	USA	TRUE	FALSE	2	6
+2337		Blackfield		12	Europe	TRUE	FALSE	2	2
+2338		Sarah Cannon Research Institute		10	USA	TRUE	FALSE	4	6
+2339	EE - added for SFP http://www.rockwellmed.com/about-contact-us.htm	Rockwell Medical		12	USA	TRUE	FALSE	3	6
+2340		Myelin Repair Foundation		10	USA	TRUE	FALSE	4	6
+2341		Biological E		4	ROW	TRUE	FALSE	3	6
+2342		Baylor Research Institute		10	USA	TRUE	FALSE	4	6
+2343		Harbour Antibodies		12	Europe	TRUE	FALSE	2	2
+2344		Constitution Medical Investors		10	USA	TRUE	FALSE	8	6
+2345		R-Pharm		12	Europe	TRUE	FALSE	2	6
+2346		Seegene		12	ROW	TRUE	FALSE	2	11
+2347		Presage Biosciences		10	USA	TRUE	FALSE	2	6
+2348		Acton Pharmaceuticals		10	USA	TRUE	FALSE	9	6
+2349		Fudan University		12	ROW	TRUE	FALSE	4	6
+2350		OptiMedica		10	USA	TRUE	FALSE	2	6
+2351		Medicines Patent Pool		12	Europe	TRUE	FALSE	4	5
+2352		Prosetta Antiviral		10	USA	TRUE	FALSE	2	6
+2353		Cellworks		10	USA	TRUE	FALSE	2	6
+2354		Regenerex		10	USA	TRUE	FALSE	2	6
+2355		bluebird bio		10	USA	TRUE	FALSE	2	6
+2356		Dendright		6	ROW	TRUE	FALSE	2	12
+2357		Medytox		12	ROW	TRUE	FALSE	2	11
+2358		Alcobra Pharma		12	ROW	TRUE	FALSE	2	6
+2359		Government of Rwanda		12	ROW	TRUE	FALSE	7	6
+2360		PharmAkea		10	USA	TRUE	FALSE	2	6
+2361		Gliknik		10	USA	TRUE	FALSE	2	6
+2362		Mitokyne		10	USA	TRUE	FALSE	2	6
+2363		PATH		10	USA	TRUE	FALSE	4	6
+2364		X-Chem		10	USA	TRUE	FALSE	2	6
+2365		Gubra		12	Europe	TRUE	FALSE	2	1
+2366		Selvita		12	Europe	TRUE	FALSE	2	2
+2367		"University of Maryland, Baltimore"		10	USA	TRUE	FALSE	4	6
+2368		Pacific Biosciences		10	USA	TRUE	FALSE	2	6
+2369		Laboratorios Casen Fleet		12	Europe	TRUE	FALSE	2	2
+2370		Champions Oncology		4	Europe	TRUE	FALSE	2	4
+2371		Diaxonhit		12	Europe	TRUE	FALSE	5	2
+2372		Hutchison MediPharma		12	ROW	TRUE	FALSE	2	6
+2373		Avaxia Biologics		10	USA	TRUE	FALSE	2	6
+2374		Opexa Therapeutics		10	USA	TRUE	FALSE	2	6
+2375		National Research Program for Biopharmaceuticals		12	ROW	TRUE	FALSE	4	6
+2376		University of Queensland		6	ROW	TRUE	FALSE	4	12
+2377		Kadimastem		12	ROW	TRUE	FALSE	2	6
+2378		Grifols		12	Europe	TRUE	FALSE	2	2
+2379		immatics 		12	Europe	TRUE	FALSE	2	2
+2380		Sysmex		10	USA	TRUE	FALSE	5	6
+2381		IncellDx		10	USA	TRUE	FALSE	5	6
+2382		Effimune		12	Europe	TRUE	FALSE	2	2
+2383		DCPrime		12	Europe	TRUE	FALSE	2	2
+2384		InnoCore Pharmaceuticals		12	Europe	TRUE	FALSE	2	2
+2385		"Catalyst Pharmaceutical Partners, Inc."		12	USA	TRUE	FALSE	2	6
+2386	 	Bill & Melinda Gates Foundation		12	USA	TRUE	FALSE	4	6
+2387		Omeros		12	USA	TRUE	FALSE	2	6
+2388		TocopheRx		12	Europe	TRUE	FALSE	2	2
+2389	  	Biopharm GmbH		12	Europe	TRUE	FALSE	NULL	2
+2390		Alvogen		12	USA	TRUE	FALSE	3	6
+2391		Egalet		12	USA	TRUE	FALSE	3	6
+2392		Zafgen		12	USA	TRUE	FALSE	NULL	6
+2393		Apollo Endosurgery		12	Europe	TRUE	FALSE	2	6
+2394		Oncology Clinical and Translational Consortium		12	Europe	TRUE	FALSE	4	4
+2395		Nautilus Neurosciences		12	Europe	TRUE	FALSE	2	6
+2396		"AcelRx Pharmaceuticals, Inc."		12	USA	TRUE	FALSE	3	6
+2397		"Circuit Therapeutics, Inc."		12	Europe	TRUE	FALSE	2	6
+2398		American College of Cardiology		12	USA	TRUE	FALSE	4	6
+2399		Intrexon		12	USA	TRUE	FALSE	2	6
+2400		Structural Genomics Consortium		12	Europe	TRUE	FALSE	4	2
+2401		Ocera Therapeutics		12	USA	TRUE	FALSE	2	6
+2402		ZpearPoint AS	Added Swedish Krona as currency because there was no option for Norwegian Krone.	12	Europe	TRUE	FALSE	2	9
+2403		NEOMED		12	ROW	TRUE	FALSE	4	8
+2404		ANI Pharmaceuticals		12	USA	TRUE	FALSE	2	6
+2405		Octapharma		12	Europe	TRUE	FALSE	2	5
+2406		Insulet		12	USA	TRUE	FALSE	6	6
+2407		ZF Polfarma		12	Europe	TRUE	FALSE	9	2
+2408		Tolera Therapeutics		12	USA	TRUE	FALSE	2	6
+2409		Perrigo 	"Perrigo acquired Elan in December 2013 and moved HQ to Ireland. Only Rx this impacts is Tysabri, which Perrigo will receive royalties on (from Biogen)."	6	Europe	TRUE	FALSE	3	6
+2410		Probiodrug		12	Europe	TRUE	FALSE	2	2
+2411		Lieber Institute for Brain Development		12	USA	TRUE	FALSE	4	6
+2412		Avilion		12	Europe	TRUE	FALSE	9	4
+2413	"Specialty pharmaceutical company with strengths in GI and cystic fibrosis treatments. U.S., Canada, and E.U. manufacturing and commercialization. "	Aptalis		12	USA	TRUE	FALSE	3	6
+2414		Altaris Capital Partners		12	USA	TRUE	FALSE	8	6
+2415		"Altaris Capital Partners, LLC"		12	USA	TRUE	FALSE	8	6
+2416		Aerial Biopharma		12	USA	TRUE	FALSE	2	6
+2417		ClearPath Development		12	USA	TRUE	FALSE	3	6
+2418		Organogenesis		12	USA	TRUE	FALSE	2	6
+2419		Natrogen 		12	USA	TRUE	FALSE	2	6
+2420		Virtici		12	USA	TRUE	FALSE	3	6
+2421		Celdara Medical		12	USA	TRUE	FALSE	3	6
+2422		National Institute of Biomedical Innovation		3	Japan	TRUE	FALSE	4	7
+2423	"Crealta is a specialty pharmaceutical company formed to acquire, develop, and market specialty pharmaceutical products."	Crealta		3	USA	TRUE	FALSE	3	6
+2424		Supernus Pharmaceuticals		12	USA	TRUE	FALSE	NULL	6
+2425		Amarantus BioScience Holdings		12	USA	TRUE	FALSE	2	6
+2426		Emergent Biosolutions		12	USA	TRUE	FALSE	2	6
+2427		Eureka Therapeutics		12	USA	TRUE	FALSE	2	6
+2428		Sprout Pharmaceuticals		12	USA	TRUE	FALSE	2	6
+2429		CoStim Pharmaceuticals		12	USA	TRUE	FALSE	2	6
+2430		Symplmed		12	USA	TRUE	FALSE	3	6
+2431		Prana Biotechnology		12	ROW	TRUE	FALSE	2	12
+2432		Iroko Pharmaceuticals		12	USA	TRUE	FALSE	3	6
+2433		Genervon Biopharmaceuticals		12	USA	TRUE	FALSE	2	6
+2435		Mallinckrodt		12	Europe	TRUE	FALSE	3	6
+2436	Small biopharmaceutical company focused on ophthalmologic diseases. 	Ophthotech		12	USA	TRUE	FALSE	2	6
+2437		Titan Pharmaceuticals		12	USA	TRUE	FALSE	2	6
+2438		Finox AG		12	Europe	TRUE	FALSE	2	5
+2439		Oryzon Genomics		12	Europe	TRUE	FALSE	2	2
+2440		IQuum		12	USA	TRUE	FALSE	5	6
+2441		Isarna Therapeutics		12	Europe	TRUE	FALSE	2	2
+2442		Fraunhofer-Gesellschaft		12	Europe	TRUE	FALSE	9	2
+2443		Evestra		12	USA	TRUE	FALSE	2	6
+2444		Gebro Pharma		12	Europe	TRUE	FALSE	3	2
+2445		smartox		12	Europe	TRUE	FALSE	9	2
+2446		SK Chemicals		12	ROW	TRUE	FALSE	2	11
+2447		Dance Biopharm		12	USA	TRUE	FALSE	2	6
+2448		FKD Therapies Oy		12	Europe	TRUE	FALSE	2	2
+2449		Forum Pharmaceuticals		12	USA	TRUE	FALSE	2	6
+2450	"JEB May 2014: Added Company in order to capture a deal between the wholly owned subsidary of NantHealth, NantBioScience, and Celgene which occured in January 2014."	NantHealth		12	USA	TRUE	FALSE	2	6
+2451	JEB May 2014: Added Company in order to capture a deal between MolecularMD and Celgene which occured in February 2014 .	MolecularMD		12	USA	TRUE	FALSE	5	6
+2452		Bioceros		12	Europe	TRUE	FALSE	2	2
+2453	JEB May 2014: Added Company in order to capture a deal between Alector and J&J which occured in March 2014 .	Alector		12	USA	TRUE	FALSE	2	6
+2454	"JEB May 2014: Added Company in order to capture a deal between  SINO Tech a subsidiary company of MicroPort reached an agreement with J&J's medical device business, Cordis, in January 2014."	MicroPort		12	ROW	TRUE	FALSE	2	6
+2455	JEB May 2014: Added Company in order to capture a deal between Nogra Pharma (formerly Giuliani International) and Roche which occured in January 2014	Nogra Pharma		12	Europe	TRUE	FALSE	2	2
+2456	JEB May 2014: Added Company in order to capture a deal between BiOasis Technologies and AstraZeneca which occured in Marcfh 2014. 	biOasis Technologies 		12	ROW	TRUE	FALSE	2	6
+2457	"May 2014. Added company, in order to capture deal between FOB Synthesis and AstraZeneca, which occured in January 2014. "	FOB Synthesis		12	USA	TRUE	FALSE	2	6
+2458	"May 2014. Added company, in order to capture deal between Capricor Therapeutics and J&J, which occured in January 2014. "	Capricor Therapeutics		12	USA	TRUE	FALSE	2	6
+2459	"May 2014. Added company, in order to capture deal between Spero Therapeutics and Roche, which occured in April 2014."	Spero Therapeutics		12	USA	TRUE	FALSE	2	6
+2460	"May 2014. Added company, in order to capture deal between Discuva and Roche, which occured in February 2014."	Discuva		12	Europe	TRUE	FALSE	2	4
+2461	"May 2014. Added company, in order to capture deal between TARIS Biomedical and AstraZeneca, which occured in October 2013."	TARIS Biomedical		12	USA	TRUE	FALSE	2	6
+2462	"May 2014. Added company, in order to capture deal between Affimed's subsidary Amphivena and J&J's Janssen which occured in July 2013."	Affimed		12	Europe	TRUE	FALSE	2	2
+2463	"May 2014. Added company, in order to capture deal between Celgene and Bionor Laboratories which occured in February 2014."	Bionor Laboratories		12	USA	TRUE	FALSE	2	6
+2464	"May 2014. Added company, in order to capture deal between Celgene and Bionor Laboratories which occured in February 2014."	Bionor 		12	USA	TRUE	FALSE	2	6
+2465		BIKEN		12	Japan	TRUE	FALSE	4	3
+2466		European Commission		12	Europe	TRUE	FALSE	7	2
+2467		"Clementia Pharmaceuticals, Inc."		12	ROW	TRUE	FALSE	2	5
+2468		VIB		12	Europe	TRUE	FALSE	7	2
+2469		Carmot Therapeutics		12	USA	TRUE	FALSE	2	6
+2470		Crystal Bioscience		12	USA	TRUE	FALSE	2	6
+2471		"Zhejiang Chiral Medicine Chemicals Co., Ltd."		12	ROW	TRUE	FALSE	6	6
+2472		Duke Clinical Research Institute		12	USA	TRUE	FALSE	4	6
+2473		Immuneering		12	USA	TRUE	FALSE	2	6
+2474		Triphase Accelerator		12	ROW	TRUE	FALSE	NULL	6
+2475		Galena Biopharma		12	USA	TRUE	FALSE	3	6
+2476		Peking University 		12	ROW	TRUE	FALSE	4	2
+2477		Labrys Biologics		12	USA	TRUE	FALSE	2	6
+2478		Kadmon Pharmaceuticals		12	Europe	TRUE	FALSE	2	6
+2479		Mayne Pharma		6	ROW	TRUE	FALSE	2	12
+2480		PreCision Dermatology		12	USA	TRUE	FALSE	3	6
+2481		Voyant Biotherapeutics		12	USA	TRUE	FALSE	2	6
+2482		CURx Pharma		12	USA	TRUE	FALSE	2	6
+2483		Green Light Biosciences		12	USA	TRUE	FALSE	2	6
+2484		Bayer CropScience		12	Europe	TRUE	FALSE	2	2
+2485		Ezose Sciences Inc.		12	USA	TRUE	FALSE	2	6
+2486		Ichor Medical Systems		12	USA	TRUE	FALSE	2	6
+2487		National Comprehensive Cancer Network		12	USA	TRUE	FALSE	4	6
+2488		Cumberland Pharmaceuticals		12	USA	TRUE	FALSE	2	6
+2489	Changed name from Celtic Therapeutics in 2013. 	Auven Therapeutics		12	USA	TRUE	FALSE	2	6
+2490		Agendia		12	Europe	TRUE	FALSE	5	2
+2491		Boca Pharmacal		12	USA	TRUE	FALSE	3	6
+2492		DAVA Pharmaceuticals		12	USA	TRUE	FALSE	3	6
+2493		Grupo Farmaceutico Somar		12	ROW	TRUE	FALSE	3	6
+2494		Trianni		12	USA	TRUE	FALSE	2	6
+2495		Healios		3	Japan	TRUE	FALSE	2	7
+2496		Tohoku University		3	Japan	TRUE	FALSE	4	7
+2497		iPierian		12	USA	TRUE	FALSE	2	6
+2498		Bio Products Laboratory		12	Europe	TRUE	FALSE	3	4
+2499		RegeneRx		12	USA	TRUE	FALSE	2	6
+2500		Whitehead Institute		12	USA	TRUE	FALSE	4	6
+2501		Shenzhen University Health Science Center		12	ROW	TRUE	FALSE	4	6
+2502		Mission Pharmacal		12	USA	TRUE	FALSE	NULL	6
+2503	"The GHIT Fund is a partnership between the Government of Japan, a consortium of Japanese pharmaceutical companies (Astellas Pharma Inc.; Daiichi Sankyo Company Ltd.; Eisai Co., Ltd.; Shionogi & Co., Ltd.; Takeda), the Bill & Melinda Gates Foundation, to advance the research and development of new medicines, vaccines and diagnostics to fight infectious diseases in the developing world."	Global Health Innovative Technology Fund		12	Japan	TRUE	FALSE	9	6
+2504	"Contracting analytical services of environmental, electronic and pharmaceutical sectors"	Sumika Chemical Analysis Service		1	Japan	TRUE	FALSE	9	6
+2505		Union Chemicals 		12	ROW	TRUE	FALSE	NULL	6
+2506	"BioPorto Diagnostics A/S is an in-vitro diagnostics company that provides healthcare professionals in clinical and research settings a range of diagnostic tests and antibodies. HQ in Copenhagen, Denmark"	BioPorto		12	Europe	TRUE	FALSE	5	6
+2507	United Kingdom: The National Institute for Health Research (NIHR) is funded through the Department of Health to improve the health and wealth of the nation through research.	National Institute for Health Research		12	Europe	TRUE	FALSE	7	6
+2508	"The Massachusetts Life Sciences Center (MLSC) is a quasi-public agency of the Commonwealth of Massachusetts tasked with implementing the Massachusetts Life Sciences Act, a 10-year, $1-billion initiative that was signed into law in June of 2008. "	Massachusetts Life Sciences Center		12	USA	TRUE	FALSE	9	6
+2509	"Promethera® Biosciences is a Belgian pharmaceutical company, spin-off of the Université Catholique de Louvain, that develops innovative treatment based on allogeneic adult stem cell technology.  "	Promethera Biosciences		12	Europe	TRUE	FALSE	3	6
+2510		Liverpool University		12	Europe	TRUE	FALSE	4	6
+2511	"Diplomat serves patients and physicians in all 50 states as the nation’s largest independent specialty pharmacy. Headquartered in Flint, Mich., the company focuses on medication management programs for people with specialized, long-term medical needs, including cancer, HIV, Hepatitis C, multiple sclerosis and many other serious or chronic conditions. "	Diplomat		12	USA	TRUE	FALSE	3	6
+2512	"Headquartered in Ann Arbor, Michigan, Aastrom Biosciences is dedicated to the development of stem cell treatments for critical cardiovascular diseases."	Aastrom Biosciences		12	USA	TRUE	FALSE	2	6
+2513		Cleveland Clinic		12	USA	TRUE	FALSE	4	6
+2514	"ChromaDex® is an innovative natural products company that discovers, acquires, develops and commercializes proprietary-based ingredient technologies through its unique business model which utilizes its wholly-owned synergistic business units, including ingredient technologies, natural product fine chemicals (known as “phytochemicals”), chemistry and analytical testing services and product regulatory and safety consulting (as Spherix Consulting). "	ChromaDex 		12	USA	TRUE	FALSE	9	6
+2515	"Hi-Tech Pharmacal is a specialty pharmaceutical company that develops, manufactures and markets generic and branded prescription and OTC products. "	Hi-Tech Pharmacal		12	USA	TRUE	FALSE	3	6
+2516	TauTona Group is an early stage healthcare private equity fund.	TauTona Group		12	USA	TRUE	FALSE	8	6
+2517	contract development and manufacturing organization (CDMO)	Particle Sciences 		12	USA	TRUE	FALSE	9	6
+2518	privately held generic pharmaceutical company focused on developing and marketing therapies in Thailand	Silom Medical Company		12	ROW	TRUE	FALSE	3	6
+2519	HQ in Saudi Arabia	Tabuk Pharmaceuticals		12	ROW	TRUE	FALSE	3	6
+2520	"The Quebec Clinical Research Organization in Cancer (Q-CROC) aims to position the province of Québec at the national and international forefront of personalized medicine in cancer, so that patients can access the most cutting-edge treatments.  "	Quebec Clinical Research Organization in Cancer		12	ROW	TRUE	FALSE	4	6
+2521	"HQ: San Diego, California"	Lumena Pharmaceuticals		12	USA	TRUE	FALSE	2	6
+2522	"HQ: Berkeley, CA "	"Aduro BioTech, Inc."		12	USA	TRUE	FALSE	2	6
+2523	Australian biopharmaceutical company 	Fibrotech		12	ROW	TRUE	FALSE	2	6
+2524	"HQ: Bangalore, India"	Connexios Life Sciences		12	ROW	TRUE	FALSE	2	6
+2525	"HQ: Jupiter, FL"	BioRestorative Therapies		12	USA	TRUE	FALSE	2	6
+2526	venture capital and private equity firm 	20/20 HealthCare Partners		12	USA	TRUE	FALSE	8	6
+2527	Chinese University	Tianjin Medical University		12	ROW	TRUE	FALSE	4	6
+2528		True Diagnostics		12	USA	TRUE	FALSE	2	6
+2529	"HQ: Ruggell, Liechtenstein"	Pantec Biosolutions		12	Europe	TRUE	FALSE	6	6
+2530		Boston Scientific		12	USA	TRUE	FALSE	6	6
+2531		University of Tsukuba		12	Japan	TRUE	FALSE	4	6
+2532		AADi		12	USA	TRUE	FALSE	2	6
+2533		Global Medical Excellence Cluster		12	Europe	TRUE	FALSE	4	6
+2534	Chilean pharmaceutical company 	CFR Pharmaceuticals		12	ROW	TRUE	FALSE	3	6
+2535	 	Metabolon 		12	USA	TRUE	FALSE	2	6
+2536	 	KBI Biopharma 		12	USA	TRUE	FALSE	2	6
+2537	 	Beryllium		12	USA	TRUE	FALSE	2	6
+2538	"HQ: Charlotte, NC"	FSC Laboratories		12	USA	TRUE	FALSE	3	6
+2539		Adaptimmune 		12	Europe	TRUE	FALSE	2	6
+2540	"HQ: Shanghai, China"	Ark Biosciences		12	ROW	TRUE	FALSE	2	6
+2541		Dimension Therapeutics		12	USA	TRUE	FALSE	2	6
+2542	pharma-based consortium 	Quebec Consortium for Drug Discovery		12	ROW	TRUE	FALSE	9	6
+2543		Academic Drug Discovery Consortium		12	USA	TRUE	FALSE	4	6
+2544		Energesis Pharmaceuticals		12	USA	TRUE	FALSE	2	6
+2545		BIND Therapeutics		12	USA	TRUE	FALSE	2	6
+2546		Cellectis		12	Europe	TRUE	FALSE	2	6
+2547		Melinta Therapeutics		12	USA	TRUE	FALSE	2	6
+2548		Clovis Oncology		12	USA	TRUE	FALSE	2	6
+2549		Tetraphase Pharmaceuticals		12	USA	TRUE	FALSE	2	6
+2550		CTI BioPharma		12	USA	TRUE	FALSE	2	6

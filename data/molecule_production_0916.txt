@@ -1,0 +1,5156 @@
+id	molecule_name	technology_id
+2	abacavir	3
+3	abacavir  +  zidovudine  +  lamivudine	3
+5	abatacept	5
+6	abciximab	5
+7	abiraterone	3
+9	acadesine	3
+10	ACAM-Cdiff	8
+11	ACAM-FluA	NULL
+12	acamprosate	3
+13	acarbose	3
+14	aceclofenac	3
+15	aciclovir	3
+18	adalimumab	5
+19	adefovir	3
+20	Afelimomab	5
+22	afutuzumab	5
+23	agalsidase alfa	4
+24	agalsidase beta	4
+26	agomelatine	3
+27	albiglutide	4
+29	albuterol	3
+30	alefacept	4
+31	RG1439	3
+32	alemtuzumab	5
+33	alendronate	3
+34	alfuzosin	3
+35	imiglucerase	4
+36	aliskiren	3
+37	almorexant	3
+38	almotriptan	3
+39	alogliptin	3
+40	alpha-glucosidase	4
+42	alprazolam	3
+43	alteplase	4
+44	alteplase / tenecteplase	4
+45	ALVAC2	8
+46	alvimopan	3
+47	alvocidib	3
+48	ambrisentan	3
+50	amikacin inhale	3
+51	amiodarone	3
+52	amlodipine	3
+53	amoxicillin  +  clavulanic acid	3
+54	amphetamine salts	3
+55	amphotericin B	3
+56	amphotericin liposomal	3
+57	ampicillin  +  sulbactam	3
+58	anacetrapib	3
+60	anastrozole	3
+61	Angiocept	5
+62	anidulafungin	3
+63	anrukinzumab	5
+67	anti-NRP1	NULL
+69	anti-thymocyte rabbit immunoglobulin	5
+70	anti-TNF-alpha polyclonal antibody fragment	5
+71	apixaban	3
+72	apremilast	3
+74	arformoterol	3
+75	aripiprazole	3
+76	armodafinil	3
+78	vadimezan	3
+79	asenapine	3
+80	ataciguat	3
+81	atazanavir	3
+82	atenolol	3
+83	atomoxetine	3
+84	atorvastatin	3
+85	atorvastatin + amlodipine	3
+86	atrasentan	3
+88	Avandia + simvastatin	3
+89	AVE5530	3
+90	ombrabulin	3
+91	aviptadil	2
+92	axitinib	3
+93	azacitidine	3
+94	azelnidipine	3
+95	azilsartan	3
+97	azilsartan medoxomil	3
+98	azithromycin	3
+99	aztreonam	3
+101	insulin peglispro	4
+104	beclomethasone	3
+105	BMS-224818	4
+107	belinostat	3
+108	benazepril + amlodipine	3
+109	bendamustine	3
+110	benidipine	3
+111	beperminogene perplasmid	6
+112	bepotastine besilate	3
+113	beraprost	3
+114	betahistine	3
+115	interferon-beta 1b	4
+116	betamethasone propionate	3
+117	bevacizumab	5
+118	tonapofylline	3
+119	BI-1744-CL	3
+120	intedanib	3
+121	afatinib	3
+122	bicalutamide	3
+123	bifeprunox	3
+124	bimatoprost	3
+125	bisoprolol	3
+126	bivalirudin	3
+127	blonanserin	3
+128	emepepimut-S	8
+129	dibotermin alpha	4
+130	BMS-708163	NULL
+131	boceprevir	3
+132	bortezomib	3
+133	bosentan	3
+134	bosutinib	3
+135	botulinum toxin type A	4
+136	brimonidine	3
+137	brinzolamide	3
+138	brivanib alaninate	3
+139	brivaracetam	3
+140	buccal fentanyl	3
+141	budesonide	3
+142	formoterol + budesonide 	3
+145	bupropion	3
+146	bupropion + zonisamide	3
+147	canakinumab	5
+148	candesartan cilexitil	3
+149	cangrelor	3
+150	capadenoson	NULL
+153	carbamazepine extended-release	3
+155	carfilzomib	3
+156	cariprazine	3
+157	carisbamate 	3
+158	carmegliptin	3
+159	CHF-4226	3
+160	CHF-5188	3
+161	carperitide	3
+162	carvedilol	3
+163	casopitant	3
+164	caspofungin	3
+165	PF-0494856	8
+166	cediranib	3
+167	cefaclor	3
+168	cefazolin	3
+169	cefcapene pivoxil	3
+170	cefdinir	3
+171	cefepime	3
+172	cefotiam	3
+173	cefozopran	3
+174	cefprozil	3
+176	ceftazidime	3
+177	ceftobiprole	3
+179	cefuroxime axetil	3
+180	celecoxib	3
+182	certolizumab	5
+183	cetilistat	3
+185	cetuximab	5
+186	ChimeriVax-JE	8
+188	ciclesonide	3
+190	cilazapril	3
+192	cinacalcet	3
+193	BAY-58-2667	3
+194	ciprofloxacin	3
+195	citalopram	3
+196	cladribine	3
+197	clarithromycin	3
+198	clevidipine	3
+199	clindamycin	3
+200	clofarabine	3
+201	clonidine	3
+202	clopidogrel bisulfate 	3
+203	CMV vaccine	8
+204	colesevelam hydrochloride	3
+205	conjugated oestrogens	3
+206	contraceptives	3
+207	corifollitropin alfa	4
+208	CTS-21166	3
+209	cyclobenzaprine ER	3
+210	cyclosporine A	3
+211	cyclosporin	3
+212	cyproterone	3
+213	cyproterone + ethinyl estradiol	3
+214	Cytomegalovirus	NULL
+215	CMV gB subunit vaccine	8
+216	dabigatran etexilate	3
+217	dacetuzumab	5
+218	daclizumab	5
+219	dalbavancin	3
+220	dalcetrapib	3
+221	dalteparin sodium	2
+224	daptomycin injection	3
+225	darbepoetin alpha	4
+226	darifenacin	3
+227	darotropium	3
+228	darotropium + 642444	3
+229	darunavir	3
+230	darusentan	3
+231	dasatinib	3
+232	decitabine	3
+233	deferasirox	3
+235	degarelix	2
+236	Dengue	NULL
+237	Dengue fever	NULL
+238	denileukin diftitox	4
+240	denufosol tetrasodium	3
+241	desloratadine	3
+242	desogestrel	3
+243	desogestrel + ethinyl estradiol	3
+244	desvenlafaxine	3
+246	dexlansoprazole	3
+247	Diabetes compound	4
+248	dibotermin alfa	4
+249	diclofenac	3
+250	diltiazem	3
+251	latrepirdine	3
+252	dimethyl fumarate	3
+253	diosmectite	3
+254	Diphteria/Tetanus/Pertussis	8
+256	gabapentin gastric retentive	3
+257	docetaxel	3
+258	domperidone	3
+259	donepezil	3
+260	donepezil transdermal	3
+261	doripenem	3
+262	dornase alpha	4
+263	dorzolamide / dorzolamide + timolol	3
+264	TKI258	3
+265	doxazosin	3
+266	doxepin	3
+267	doxecalciferol	3
+268	doxorubicin	3
+269	dronabinol	3
+270	dronedarone	3
+271	drospirenone + ethinyl estradiol 	3
+272	drospirenone + oestradiol	3
+273	drotrecogin alfa activated	4
+274	DTaP booster vaccine	8
+275	DTaP vaccine	8
+276	DTP-HepB-Hib	NULL
+277	DTaP-HepB-Polio-Hib	8
+278	DTP-Polio-Hib	8
+279	edoxaban	3
+280	rhApo2L/TRAIL	4
+281	duloxetine	3
+283	dutogliptin	3
+284	dydrogesterone	3
+285	ebastine	3
+286	EBV vaccine	8
+287	ecabet	3
+289	edaravone	3
+290	efalizumab	5
+291	efavirenz	3
+292	efungumab	5
+293	elcatonin	2
+294	eldecalcitol	3
+295	elesclomol	3
+296	eletriptan	3
+297	elotuzumab	5
+299	emtricitabine + tenofovir + efavirenz	3
+300	enalapril	3
+301	enfuvirtide	2
+302	enoxaparin	2
+303	entacapone	3
+304	entecavir	3
+305	LY317615	3
+306	eperisone	3
+307	epirubicin	3
+308	eplerenone	3
+309	eplivanserin	3
+311	epoprostenol	3
+312	epratuzumab	5
+313	eprosartan	3
+314	Epstein-Barr virus	NULL
+315	eptacog alfa	4
+316	eptifibatide	3
+317	ERb agonist	3
+318	eribaxaban	NULL
+319	eribulin	3
+320	E-5564	3
+321	erlotinib	3
+322	ertapenem	3
+323	erythromycin	3
+324	peginesatide	4
+325	epoetin beta	4
+326	escitalopram	3
+327	eslicarbazepine acetate	3
+328	esmirtazapine	3
+329	esomeprazole	3
+330	eszopiclone	3
+331	etanercept	5
+332	ethinyloestradiol + desogestrel	3
+333	etizolam	3
+334	etonogestrel	3
+335	etonogestrel + ethinyl estradiol	3
+336	etoricoxib	3
+337	etravirine	3
+338	everolimus	3
+339	exemestane	3
+341	exenatide LAR	4
+342	hydromorphone - extended-release	3
+343	Modified-release nicotinic acid + laropiprant	3
+344	ezetimibe	3
+345	ezetimibe + atorvastatin	3
+346	octocog alfa	4
+347	famciclovir	3
+348	famotidine	3
+350	farglitazar	NULL
+351	felodipine	3
+352	fenofibrate	3
+353	fenofibrate + simvastatin	3
+354	fentanyl	3
+355	fentanyl - transmucosal	3
+356	ferric gluconate complex	3
+357	ferroquine	3
+358	fesoterodine	3
+359	fexofenadine	3
+361	filgrastim	4
+362	finasteride	3
+363	firategrast	3
+364	flibanserin	3
+365	flomoxef	3
+366	Flu Cell Culture	NULL
+367	Flu Micro-Injection	8
+369	Flu pandemia–EUN5N1 Egg	8
+370	Flu Pandemia-H7	NULL
+372	Flu pre-pandemic	NULL
+373	H5N1 pandemic influenza vaccine	8
+374	fluconazole	3
+376	fluoxetine	3
+377	flutamide	3
+378	fluticasone propionate	3
+379	formoterol + fluticasone propionate	3
+380	fluticasone furoate	3
+381	fluticasone furoate + 159802	3
+382	fluticasone furoate + 642444	3
+383	fluticasone furoate + milveterol	3
+384	fluvastatin	3
+385	fluvoxamine	3
+387	fondaparinux	2
+388	formoterol	3
+389	fosamprenavir	3
+390	fosaprepitant	3
+391	fosinopril	3
+392	frovatriptan	3
+394	fulvestrant	3
+395	gabapentin	3
+397	galantamine	3
+398	galiximab	5
+399	ganciclovir	3
+401	gatifloxacin	3
+402	GBS	8
+403	gefitinib	3
+404	gemcitabine	3
+405	gestodene + ethinyloestradiol	3
+406	gimatecan	NULL
+407	glatiramer acetate	2
+408	glimepiride	3
+409	GLP-1 Fc	4
+410	GLP-1 PEG	2
+411	NVA237	3
+412	glycopyrronium + indacaterol	3
+414	goserelin	4
+415	granisetron	3
+417	elvitegravir	3
+419	guanfacine ER	3
+420	H5N1pre-pandemic influenza vaccine	8
+421	Helicobacter pylori vaccine	8
+422	Hepatitis C Vaccine	8
+423	Hepatitis E virus	NULL
+424	Hepatitis vaccine	8
+425	Hib+HepB+Dtap+IPV	NULL
+427	HIV	NULL
+428	HIV (Thailand)	NULL
+429	HIV attachment inhibitor	3
+430	HIV integrase inhibitor	NULL
+431	HIV vaccine	8
+432	HPV 9-valent vaccine	NULL
+434	human ghrelin	4
+435	human insulin	4
+436	HPV vaccine	8
+437	human thrombin	4
+438	hyaluronic acid	3
+439	hydrocodone  +  acetaminophen / hydrocodone  +  ibuprofen	3
+440	hydrocodone + chlorpheniramine	3
+441	hylan G-F 20	2
+443	ibandronate	3
+444	iboctadekin	4
+445	ibuprofen + famotidine	3
+446	idebenone	3
+447	idonurate sulfatase	4
+448	idrabiotaparinux	2
+449	IL-1beta antibody	5
+451	imidapril	3
+452	imipenem + cilastin	3
+453	immunoglobulin	5
+456	infliximab	5
+457	influenza vaccine	8
+458	iloprost	3
+460	inotuzumab ozogamicin	5
+461	insulin aspart	4
+462	insulin detemir	4
+463	insulin glargine	4
+464	insulin glulisine	4
+465	insulin lispro / insulin lispro + protamine suspension	4
+466	Human and animal insulins	4
+467	interferon alpha	4
+468	interferon alpha 2b	4
+469	interferon-beta 1a	4
+470	interferon beta 1b	4
+471	Iosmapimod	3
+472	ipilimumab	5
+473	forigerimod	2
+474	ipratropium bromide	3
+475	irbesartan	3
+476	irinotecan	3
+477	iron sucrose	3
+478	isavuconazole	3
+479	isosorbide dinitrate	3
+480	isotretinoin	3
+481	itraconazole	3
+482	ivabradine	3
+483	ixabepilone	3
+484	Japanese Encephalitis Virus vaccine	8
+485	JNJ-17305600	NULL
+486	JNJ-37822681	3
+487	ketoconazole	3
+488	lacosamide	3
+489	lactulose	3
+490	lamivudine	3
+491	lamotrigine	3
+493	lansoprazole	3
+494	lanthanum carbonate	3
+495	lapatinib	3
+497	larotaxel	3
+498	lasofoxifene	3
+499	latanoprost	3
+500	lenalidomide	3
+501	lenograstim	4
+502	lercanidipine	3
+505	leuprolide	2
+506	levalbuterol	3
+507	levetiracetam	3
+508	levocetirizine	3
+509	levodopa + carbidopa	3
+510	levofloxacin	3
+511	levofloxacin / ofloxacin	3
+512	levonorgestrel	3
+513	levonorgestrol + ethinyloestradiol	3
+514	levothyroxine	3
+515		3
+516	limaprost	3
+518	linagliptin	3
+519	linezolid	3
+520	liposomal belotecan	3
+521	lipoxin	NULL
+522	liraglutide	2
+523	lisdexamphetamine	3
+524	lisinopril	3
+526	Local anaesthetics	3
+527	lonaprisan	NULL
+529	oxycodone - long-acting oral	3
+530	lopinavir  +  ritonavir	3
+531	loratadine	3
+532	lorcaserin	3
+533	losartan	3
+535	loxoprofen	3
+537	lubiprostone	3
+538	HCD122	5
+539	lumiracoxib	3
+540	solanezumab	5
+541	LY2140023	3
+543	LY2624803	3
+544	LY450139	3
+546	nitrofurantoin monohydrate	3
+547	maraviroc	3
+548	MCC-847	3
+549	MBP8298	3
+550	mebeverine	3
+552	medroxyprogesterone	3
+554	meloxicam	3
+555	memantine	3
+556	Men ACWY vaccine	8
+557	menatetrenone	3
+558	Meninge ACYW-conj	8
+559	MCV-4	8
+561	meropenem	3
+562	mesalamine	3
+563	mesalazine	3
+564	arhalofenate	3
+565	metaxalone	3
+566	metformin / metformin + glyburide	3
+567	methylnaltrexone	3
+568	methylphenidate CR	3
+569	methylprednisolone	3
+571	metoprolol	3
+572	micafungin	3
+573	PKC412	3
+574	milnacipran	3
+575	milveterol	3
+576	minodronate	3
+577	mipomersen	7
+578	mirabegron	3
+579	mirtazapine	3
+580	mitemcinal	3
+581	Modified-release nicotinic acid  + laropiprant + simvastatin	3
+582	MK-5442	NULL
+583	MMR + varicella vaccine	8
+584	MnB rLp2086	NULL
+585	modafinil	3
+586	mometasone + formoterol	3
+587	mometasone + indacaterol	3
+588	mometasone + oxymetazoline	3
+589	mometasone furoate	3
+590	montelukast	3
+591	montelukast + mometasone	3
+592	morphine - extended release	3
+593	morphine - extended release	3
+595	motavizumab	5
+597	moxidectin	NULL
+598	moxifloxacin	3
+599	moxonidine	3
+601	mycophenolic acid	3
+602	nab-paclitaxel	3
+603	nadroparin	2
+604	nalmefene	3
+605	naltrexone depot	3
+606	naltrexone + bupropion	3
+608	nartograstim	4
+609	fentanyl - nasal	3
+611	nateglinide	3
+612	nebivolol	3
+613	nelarabine	3
+614	neratinib	3
+615	LY-2216684	3
+616	nerispirdine	NULL
+617	nesiritide	3
+618	nevirapine	3
+619	Extended-release niacin	3
+620	Extended-release niacin  +  lovastatin	3
+621	Extended-release niacin  +  simvastatin	3
+622	nicardipine 	3
+623	nicergoline	3
+624	nicorandil	3
+625	nifedipine	3
+626	nilotinib	3
+627	nimotuzumab	5
+628	nomegestrol + estrogen	3
+629	NV1FGF	6
+630	Obesity compound	NULL
+631	ocrelizumab	5
+633	octreotide	2
+634	odanacatib	3
+635	oestradiol valerate + dienogest	3
+636	Oestrogen receptor beta agonist	5
+637	ofatumumab	5
+638	ofloxacin	3
+639	olanzapine	3
+640	olanzapine  +  fluoxetine	3
+641	olapatadine	3
+642	olmesartan	3
+643	olmesartan + amlodipine	3
+644	olopatadine	3
+645	omalizumab	5
+646	omega-3-acid ethyl ester concentrate	3
+647	omeprazole	3
+648	omeprazole + sodium bicarbonate	3
+649	ondansetron	3
+650	orlistat	3
+651	orvepitant	3
+652	oseltamivir	3
+653	ostarine	3
+654	otamixaban	3
+655	otelixizumab	5
+656	other vaccines	8
+657	oxaliplatin	3
+658	oxcarbazepine	3
+659	oxybutynin	3
+660	oxycodone	3
+661	oxycodone + acetaminophen	3
+662	oxymorphone	3
+663	BAY-80-6946	3
+664	paclitaxel	3
+665	paclitaxel poliglumex	NULL
+666	paediatric vaccine	8
+668	paliperidone	3
+669	paliperidone palmitate IM long acting injectable	NULL
+670	palivizumab	5
+671	palonosetron	3
+672	R667	3
+673	pancreatin	3
+675	panipenem	3
+676	panitumumab	5
+677	LBH589	3
+678	pantoprazole	3
+679	paricalcitol	3
+680	paroxetine	3
+681	SOM230	2
+682	patupilone	3
+685	pegfilgrastim	4
+687	peg-interferon alpha 2b	4
+688	peg-interferon lambda	4
+689	pegvisomant	4
+691	pemetrexed	3
+692	perindopril	3
+696	picoplatin	3
+697	pilsicainide	3
+698	pimecrolimus	3
+699	pioglitazone	3
+701	piracetam	3
+702	pirfenidone	3
+703	pitavastatin	3
+704	pleconaril	NULL
+705	plerixafor	3
+706	Streptococcus pneumonia	8
+707	Pneumococcal vaccine	8
+708	polysaccharide-K	3
+709	posaconazole	3
+710	posaconazole (I.V.)	NULL
+713	pramipexole	3
+714	pramlintide	2
+716	pranlukast	3
+718	pravastatin	3
+719	pregabalin	3
+720	preladenant	3
+721	progesterone	3
+722	progestogen dienogest	3
+723	prolonged-release melatonin	3
+724	propafenone	3
+725	propofol	3
+726	Pseudomonas aeuriginosa vaccine	8
+727	quetiapine	3
+728	quinapril	3
+730	rabeprazole	3
+731	Rabies	5
+734	raltegravir	3
+735	ramelteon	3
+736	ramipril	3
+737	ramosetron	3
+738	ramucirumab	5
+739	ranibizumab	5
+741	ranitidine	3
+742	ranolazine	3
+743	rasagiline	3
+744	rasburicase	4
+745	rebamipide	3
+746	nonacog alfa	4
+747	octocog alfa	4
+748	follitropin alfa	4
+749	recombinant follitropin alfa + recombinant human luteinizing hormone	4
+750	recombinant human albumin	4
+751	thrombin alfa	4
+752	recombinant insulin	4
+753	recombinant thyrotropin alpha	4
+754	remogliflozin	3
+755	repaglinide	3
+756	retapamulin	3
+757	retigabine	3
+758	retosiban	3
+764	ribavirin	3
+765	rifaximin	3
+766	rilapladib	3
+767	rilpivirine	3
+768	rimonabant	3
+769	riociguat	3
+770	risedronate	3
+771	risperidone	3
+772	ritonavir	3
+773	rituximab	5
+774	rivaroxaban	3
+775	rivastigmine	3
+776	rivoglitazone	3
+777	rizatriptan	3
+778	robatumumab	5
+779	rocuronium bromide	3
+780	rofecoxib	3
+782	rolapitant	NULL
+784	romiplostim	5
+785	ronacaleret	NULL
+786	ropinirole	3
+787	rosiglitazone	3
+789	rosiglitazone + metformin	3
+790	rosiglitazone XR	NULL
+791	rosuvastatin	3
+792	rotavirus vaccine	8
+793	rotigotine	3
+794	somatropin	4
+795	ruboxistaurin	3
+796	rufinamide	3
+797	S. pneumoniae (adult)	NULL
+798	NW-1015	3
+799	sagopilone	3
+800	salbutamol	3
+801	salbutamol + ipratropium bromide	3
+802	salmeterol	3
+803	salmeterol + fluticasone propionate	3
+804	salmon calcitonin	2
+806	saquinavir	3
+807	saredutant	3
+808	sarpogrelate	3
+810	SCH-530348	3
+811	romosozumab	5
+812	SD-6010	3
+813	Seasonal inluenza vaccine	8
+815	sertindole	3
+816	sertraline	3
+817	sevelamer hydrochloride / sevelamer carbonate	3
+818	sevoflurane	3
+819	sibutramine	3
+820	sildenafil	3
+821	silodosin	3
+822	simvastatin	3
+823	simvastatin + ezetimibe	3
+824	sipuleucel-T	9
+825	sirolimus	3
+826	sitafloxacin	3
+827	sitagliptin	3
+828	sitagliptin + metformin / sitagliptin + metformin XR	3
+829	sitamaquine	NULL
+830	sitaxentan	3
+831	SLV 308	3
+832	SM-13496	3
+833	sodium oxybate	3
+834	sodium valproate	3
+835	sofinicline	3
+836	solabegron	3
+837	solifenacin	3
+838	solifenacin/tamsulosin	3
+839	somatropin	4
+840	sorafenib	3
+841	sotrastaurin	3
+842	Staph Vaccine	NULL
+843	stavudine	3
+844	pneumococcal vaccine	8
+845	strontium ranelate	3
+846	sugammadex sodium	3
+847	Sulopenem	3
+848	sulpiride	3
+849	sumatriptan	3
+850	sumatriptan + naproxen	3
+851	sunitinib	3
+852	tacrolimus	3
+853	tadalafil	3
+854	tafenoquine	3
+856	talampanel	3
+857	talmapimod	3
+858	taltirelin	3
+859	tamoxifen	3
+860	tamsulosin	3
+861	tandutinib	3
+862	tanespimycin	3
+863	tanezumab	5
+864	tapentadol	3
+865	tasisulam	3
+867	tazarotene	3
+868	teceleukin	4
+869	tedisamil	3
+870	tegaserod	3
+872	telavancin	3
+873	telbivudine	3
+874	telcagepant	3
+875	telithromycin	3
+876	telmisartan	3
+877	temozolomide	3
+878	temsirolimus	3
+879	tenecteplase	4
+880	tenofovir	3
+881	tenofovir disoproxil + emtricitabine	3
+882	teplizumab	5
+883	teprenone	3
+884	terbinafine	3
+885	teriflunomide	3
+886	teriparatide	2
+887	tesamorelin	4
+888	testosterone gel	3
+890	thalidomide	3
+891	theophylline	3
+892	thrombin	4
+893	thyroid preparations	3
+894	tiagabine	3
+895	tibolone	3
+896	ticagrelor	3
+897	ticlopidine	3
+898	tigecycline	3
+899	timolol	3
+900	tiotropium	3
+901	tiotropium + BI-1744	3
+902	tiotropium + salmeterol	3
+903	tipifarnib	3
+904	tipranavir	3
+906	tobramycin	3
+909	topiramate	3
+910	topotecan	3
+911	totrombopag	3
+912	trabectedin	3
+913	tramadol / tramadol + acetaminophen	3
+914	trandolapril	3
+915	fentanyl - transdermal	3
+916	transdermal lidocaine	3
+917	transdermal oxybutynin	3
+918	Acref	3
+919	trastuzumab	5
+921	travel vaccine	8
+922	travoprost	3
+923	tremelimumab	5
+924	treprostinil	3
+925	tretinoin	3
+926	triamcinolone acetonide	3
+927	triptorelin	2
+929	TroVax	8
+930	Tuberculosis	NULL
+931	urapidil	3
+932	ursodesoxycholic acid	3
+933	ustekinumab	5
+935	valaciclovir	3
+936	valganciclovir	3
+937	valproate semi-sodium	3
+938	valsartan	3
+940	valsartan + amlodipine	3
+941	vancomycin	3
+942	vandetanib	3
+943	vardenafil	3
+944	varenicline	3
+945	varicella zoster vaccine	8
+946	Varicella Zoster virus	NULL
+948	vedolizumab	5
+950	Velcalcetide	2
+951	venlafaxine	3
+952	verapamil	3
+953	vernakalant hydrochloride	3
+954	verteporfin	3
+955	vicriviroc	3
+956	vigabatrin	3
+957	vilazodone	3
+958	vildagliptin / vildagliptin + metformin	3
+959	vinflunine	3
+960	vinorelbine	3
+961	vitamin B	3
+962	voglibose	3
+963	volinanserin	3
+964	voriconazole	3
+965	voriconazole / anidulafungin	3
+966	vorinostat	3
+967	warfarin	2
+968	West Nile	NULL
+969	xaliproden	NULL
+970	cabozantinib	3
+973	YM 443	3
+974	YM-150	4
+975	zafirlukast	3
+976	zaleplon	3
+977	zibotentan	3
+978	zidovudine  +  lamivudine	3
+979	ziprasidone	3
+980	zoledronate	3
+982	zolmitriptan	3
+983	zolpidem	3
+984	zonisamide	3
+985	zybrestat	3
+986	PEG-epoetin beta	4
+987	palifermin	4
+988		4
+990	balugrastim	4
+991	BEA-2180-BR	3
+992	TMC310911	3
+993	tasocitinib	3
+994	642444	3
+995	anti-CD38 MAb	5
+996	AMG 172	5
+997	paritaprevir	3
+1000	bazedoxifene + conjugated oestrogens	3
+1001	tocilizumab	5
+1002	arzoxifene	3
+1004	eltrombopag 	3
+1005	agatolimod	3
+1007		NULL
+1008		NULL
+1009	PF-3654746	3
+1010		NULL
+1011	PF-4360365	5
+1012		NULL
+1013		NULL
+1014		NULL
+1015	PH-797804	3
+1016	gepirone ER	NULL
+1017	mepolizumab	5
+1018		NULL
+1020	BHQ880	5
+1021		NULL
+1022		3
+1023	Other Smoking Cessation Agents	3
+1024	Other Addiction Agents	3
+1025	Other Alcohol Dependence Agents	3
+1026		3
+1027		3
+1028		NULL
+1029		NULL
+1030		3
+1031		3
+1032		3
+1033		3
+1034		3
+1035		3
+1036		3
+1037		NULL
+1038		5
+1039	AZD2516	3
+1040	minodronate	3
+1041	Other Wakefulness-promoting Agents	3
+1043	PEGylated interferon	4
+1045	galunisertib	3
+1048	AME-133v	5
+1049		3
+1050	moxetumomab pasudotox	5
+1051	siltuximab	5
+1053	navitoclax	3
+1066		NULL
+1067	ASP2905	NULL
+1068	TC-6683	3
+1069	1034702	3
+1070		NULL
+1071		NULL
+1073		NULL
+1074	begacestat	NULL
+1075		NULL
+1076		NULL
+1077		NULL
+1078		3
+1079		3
+1080		3
+1084		3
+1085		3
+1087		3
+1088		3
+1089		3
+1090		3
+1091		3
+1092		3
+1093		3
+1094		3
+1095		3
+1096		3
+1097		3
+1098		3
+1099		3
+1100		8
+1101		8
+1102		8
+1103		8
+1104		8
+1105		3
+1106		3
+1107		NULL
+1108		5
+1109	pertuzumab	5
+1111		3
+1114	NIC002	8
+1115	1014802	3
+1116		NULL
+1117	suvorexant	3
+1118		NULL
+1119	MK-8998	3
+1120		3
+1121	MK-0594	NULL
+1122	MK-8368	NULL
+1124	SEP-225289	3
+1125	SEP-227162	3
+1126	SEP-228432	3
+1127	tapentadol	3
+1128		NULL
+1129		NULL
+1130		NULL
+1131	transdermal felbinac	3
+1132	AZD2281	3
+1134	AMG 208	3
+1135	capecitabine	3
+1136	lumiliximab	NULL
+1137	M200	NULL
+1139		NULL
+1140		NULL
+1141	T-62	3
+1142		NULL
+1143		NULL
+1144	lestaurtinib	3
+1145	CEP-11981	3
+1146	CEP-9722	3
+1147	CEP-18770	3
+1150	totrombopag 	3
+1151	GSK 1278863	3
+1153	dexamethasone	3
+1154		3
+1155	briakinumab	5
+1156	vatreptacog alfa	4
+1157	rFVIIa long acting	4
+1159	motesanib	3
+1160	turoctocog alfa	4
+1161	rFVIIa	4
+1163	rFVIIa	4
+1164	SBR759	3
+1165		3
+1166	pixantrone	3
+1167		NULL
+1168	CS-0777	3
+1169	raloxifene	3
+1170	Fenofibric acid + rosuvastatin	3
+1171		3
+1172	epoetin / darbepoetin alfa	4
+1173	SAR110894D	3
+1174	amrubicin	3
+1175	retaspimycin hydrochloride	3
+1176		3
+1177	EZN-2208	3
+1178	HSP90 Inhibitor	3
+1179		NULL
+1180		NULL
+1182	methotrexate	3
+1183	SMP-986	3
+1184	hyaluronic acid	3
+1185	YM311	3
+1186	PI3K/mTOR dual inhibitor	3
+1188		NULL
+1189	laninamivir	3
+1190		3
+1191	MT203	5
+1193	golimumab	5
+1194		NULL
+1195		NULL
+1196	coleneuramide	3
+1197	MP-435	3
+1198	TA-5493	3
+1199	dimethylfumarate and monoethylfumarate salts	3
+1200	ONO-5334	3
+1201	epalrestat	3
+1202	testosterone undecanoate	3
+1203		NULL
+1204		3
+1206	CC-11050	3
+1207	JNK-930	NULL
+1208	sotatercept	5
+1209	cabazitaxel	3
+1210	pomalidomide	3
+1211	capsaicin	3
+1213	darinaparsin	3
+1214	ABT-751	3
+1215	tamibarotene	3
+1216	fludarabine phosphate	3
+1217		3
+1218	alemtuzumab	5
+1219		3
+1221		NULL
+1222	fostamatinib	3
+1223		NULL
+1225	anti-glypican MAb	5
+1227	atiratecan	3
+1228	RG1583	2
+1230	Anti-CD4	5
+1231	RG3637	5
+1232	Anti-oxLDL	5
+1233	Apomab	5
+1234	huMAb OX40L	5
+1235	IAP antagonist	3
+1236	MEK inhibitor	3
+1237	MetMAb / anti-cMet	5
+1238	RG7321	3
+1240	Inclacumab	5
+1241		5
+1243	11 beta HSD inhibitor	3
+1244	Y2R peptide agonist	2
+1245	VPAC2 agonist	3
+1246		3
+1247		3
+1248	danoprevir	3
+1249		NULL
+1250	fezakinumab	5
+1251	11 beta HSD inhibitor	3
+1252	Anti-NRP1	5
+1253	rhuMAb beta7	5
+1255	RG-7416	5
+1257	BHT-3021	8
+1258	ABT-869	3
+1259	RG7414	5
+1260	GDC-0980	3
+1261	IGF-IR MAb	5
+1262	RG1578	3
+1263	P2X3 antagonist	3
+1264	bitopertin	3
+1265	MVA-HPV-IL2	8
+1266	MEM3454	3
+1267	vismodegib	3
+1268	G secretase inhibitor	3
+1269		3
+1270	IGF1 PEG	4
+1271	MDM2 antagonist	3
+1272	huMAb EGFR	5
+1273	MEK inhibitor	3
+1274	vemurafenib	3
+1275	CKI27	3
+1276	RG7334	5
+1277		3
+1279	serine palmitoyltransferase inhibitor	3
+1280	bazedoxifene	3
+1281		NULL
+1282		NULL
+1283		3
+1285	naproxen + esomeprazole	3
+1286	cetirizine	3
+1287	RG7415	5
+1288		3
+1289		3
+1290		NULL
+1291	dapoxetine	3
+1292		3
+1293		3
+1294	hyperglycosolated follicle stimulating hormone	4
+1296	epirubicin / doxorubicin	3
+1297		3
+1298	elvitegravir / cobicistat / tenofovir / emtricitabine FDC	3
+1299		3
+1300		3
+1301		3
+1302	cicletanine	3
+1303		3
+1304		3
+1305	GS-9411	3
+1309	estradiol	3
+1310	Other AChEIs	3
+1311	fentanyl buccal film	3
+1312		4
+1317	Other Dopaminergics	3
+1318		3
+1319		3
+1320	gabapentin enacarbil	3
+1321	lixisenatide	2
+1322		NULL
+1323		4
+1324	rilotumumab	5
+1325		3
+1326	darapladib	3
+1328		NULL
+1329	rosiglitazone + glimepiride	3
+1330		3
+1331	melphalan	3
+1335	oxaliplatin	3
+1336	Other Triptans	3
+1337		3
+1338		5
+1339	velneperit	3
+1340	aprepitant / fosaprepitant	3
+1341	saxagliptin	3
+1343		3
+1344		4
+1345		3
+1346	bupropion	3
+1348	Other Noradrenergics	3
+1349	cilengitide	2
+1350	octaparine	4
+1351	sitagliptin	3
+1353	belimumab	5
+1354	B7RP-1 inhibitor	5
+1355	AMG 811	5
+1356	CNTO 136	5
+1357		4
+1358	olaratumab	5
+1360		3
+1362	315234	5
+1364	AMG 108	5
+1365	AMG 191	5
+1366	AMG 827	5
+1367	Other NSAIDs	3
+1368		3
+1369	AZD2066	3
+1370		3
+1371	anagrelide	3
+1372		3
+1373		3
+1375	vonoprazan	3
+1376		NULL
+1377	PF-4217329	NULL
+1378	PF-4523655	7
+1379	SAD448	3
+1381	Other Anti-convulsants	3
+1382		3
+1383		NULL
+1384	denosumab	5
+1385		3
+1386	tafluprost	3
+1387		NULL
+1388	axomadol	3
+1389	SEP-227900	3
+1390	AMG 747	3
+1391	bixalomer	3
+1392		3
+1393	quetiapine	3
+1394		NULL
+1395		3
+1396		NULL
+1397	MK-1496	3
+1398	MK-4409	3
+1399		NULL
+1400		3
+1401	tafluprost	3
+1402	HSP90 Inhibitor	3
+1403	buparlisib	3
+1404	prasugrel	3
+1405	LCL161	3
+1406	sonidegib	3
+1407	lanreotide	3
+1408	Anti-convulsants	3
+1409	Anti-depressants	3
+1411	Anti-NKG2D	5
+1412	Other Neuropathic Pain Agents	3
+1413		3
+1414	Y-39983	3
+1415	Other Benzodiazepines	3
+1416		3
+1417		3
+1418	isopropyl unoprostone	3
+1420		3
+1421		3
+1422		3
+1423		3
+1424	PF-04554878	3
+1425		NULL
+1426		NULL
+1428		NULL
+1429		NULL
+1430		NULL
+1431	SAR164877 / REGN475	5
+1432	trebananib	5
+1433	ganitumab	5
+1435		3
+1436	AGG-523	3
+1437	ATN-103	NULL
+1438		3
+1439		NULL
+1440	letrozole	3
+1441	rilpivirine/FTC/TDF/	3
+1442	anti-IL-17 mAb 	5
+1443	calcipotriol	3
+1444	calcipotriene and betamethasone	3
+1445		3
+1446	tadalafil	3
+1447		3
+1448	maxacalcitol	3
+1449	sevelamer	3
+1450		NULL
+1451		NULL
+1452		3
+1453	Other Hypnotics	3
+1454		4
+1455		4
+1457	telaprevir	3
+1458		3
+1459		NULL
+1460		3
+1461		3
+1462		NULL
+1463		3
+1464		NULL
+1465		3
+1466		3
+1467		3
+1468		NULL
+1469	VX-689	3
+1470		NULL
+1471		NULL
+1472	denosumab	5
+1474	zanamivir	3
+1475		3
+1476		3
+1477		3
+1478		3
+1479		3
+1482		3
+1484	trospium chloride	3
+1485	CS-1008	5
+1486		4
+1487	1399686	3
+1488		NULL
+1489	Hib-MenCY-TT	8
+1490	morphine + naltrexone	3
+1491		3
+1492	teduglutide	4
+1493	IMMU-106	5
+1494	SLV334	3
+1495	daglutril - discontinued - not sure when - July 2011	3
+1496		NULL
+1497		NULL
+1498		NULL
+1499		3
+1500		3
+1502	azilsartan / azilsartan medoxomil	3
+1504	TT-063	3
+1505	parogrelil	3
+1506	luseogliflozin	3
+1508		3
+1509	alprostadil	3
+1510	botulinum toxin B	4
+1511	eszopiclone	3
+1513	Other Immunomodulators - MS	3
+1514	mecobalamin	3
+1515	levodopa + benserazide	3
+1516	E-2012	3
+1517	mosapride	3
+1518		NULL
+1519		3
+1520	farletuzumab	5
+1521		8
+1522		3
+1523		3
+1524		5
+1525	irofulven	3
+1526		3
+1527	celivarone	3
+1529	Other Musculoskeletal Agents	3
+1530		3
+1531	EGb761 	3
+1532		NULL
+1533	Org 43902	3
+1534	Other AD Agents	3
+1535	abobotulinumtoxin A	4
+1537	methylphenidate / dexmethylphenidate	3
+1538	Other Stimulants	3
+1539		3
+1540		3
+1541		3
+1542		3
+1543	relugolix	3
+1544	camostat mesilate	3
+1545		3
+1546	testosterone gel	3
+1547	norethindrone + ethinylestradiol	3
+1548	norethindrone acetate + ethinylestradiol	3
+1549		3
+1550	macrogol	3
+1551		3
+1552		3
+1555	clevudine	3
+1556	exenatide / exenatide LAR	2
+1558		3
+1559	sibutramine	3
+1560	ER-803064	3
+1561	valrubicin	3
+1562	octreotide	4
+1563		NULL
+1566		3
+1567	caldaret	3
+1568	edaravone	3
+1570	fingolimod	3
+1571	bupivacaine	3
+1572	cariprazine	3
+1573		NULL
+1574	carbonaceous absorbent	3
+1575		3
+1576	garenoxacin	3
+1577	piperacillin + tazobactam	3
+1578	clarithromycin	3
+1580		3
+1582	tucotuzumab celmoleukin	5
+1583	long acting growth hormone	4
+1584	adecatumumab	5
+1585	aurora kinase inhibitor	3
+1586	NHS-IL2-LT	4
+1587	DI17E6	5
+1588		4
+1589	BG-00010	4
+1590	cancer vaccine	8
+1591	pimasertib hydrochloride	3
+1593	Anti-TWEAK 	5
+1594	sonepcizumab	5
+1595	lixivaptan 	3
+1596	recombinant FGF-18	2
+1597	rFIXfc	4
+1598	GRC-3886	3
+1599	roflumilast	3
+1600	eliglustat tartrate	3
+1601	ataluren	3
+1603	larazotide acetate	3
+1607	avotermin	3
+1608	migalastat	3
+1610	afegostat	3
+1611	alendronate effervescent	3
+1613	sodium chondroitin sulfate	3
+1614	duvoglustat	3
+1615		3
+1616		3
+1617		3
+1618	PDE4 inhibitor	3
+1619		3
+1620	PDE5 inhibitor	3
+1621	topical androgen	3
+1622	desmoteplase	4
+1624	anamorelin	3
+1626		3
+1627	ONO-4641	3
+1628	Lu AA24530	3
+1630	BMS-936558	5
+1631	Lu AA39959	3
+1632	methylnaltrexone	3
+1633	Lu AE58054	3
+1634	Lu AA24493	3
+1635	ONO-7746	3
+1636	Lu AA38466	3
+1638	vanutide cridificar	8
+1639	scyllo-inositol	3
+1640		3
+1641		3
+1642		3
+1643		3
+1646	VX-809	3
+1647	decernotinib	3
+1648	lansoprazole	3
+1651	leuprolide	2
+1652	CDP6038	5
+1653	VX-770	3
+1654	MP-124	3
+1655		3
+1656	teneligliptin	3
+1657	metformin 	3
+1658	lunacalcipol	3
+1660		3
+1661	canagliflozin	3
+1662	recombinant human serum albumin	4
+1663	ranirestat	3
+1665		3
+1666		3
+1667	DSP-8658	3
+1670	irbesartan + amlodipine	3
+1671	SMP-028	3
+1672	TLR-7 agonist	3
+1675	peramirvir	3
+1677	LAS-186323	3
+1678	modithromycin	3
+1681	cetrorelix	3
+1682	SB-737004	3
+1683		3
+1684	S-555739	3
+1685	Lusutrombopag	3
+1687	S-444823	3
+1689	LAS41002	3
+1690		3
+1692		3
+1694		3
+1695	S-222611	3
+1696	KW-2450	3
+1697	anagrelide	3
+1698		5
+1699	abuse-deterrent oxycodone	3
+1700	sonedenoson	3
+1701	fentanyl sublingual	3
+1702	pegfilgrastim	4
+1703		3
+1704		3
+1705	diazepam autoinjector 	3
+1706	sevelamer	3
+1707	mesalazine	3
+1708	istradefylline	3
+1709	apomorphine hydrochloride	3
+1710	pralatrexate	3
+1711		3
+1712		NULL
+1714	KW2478	3
+1715	tivantinib	3
+1716	KRN330	5
+1717	BIW-8962	5
+1718		4
+1719	ASKP1240	5
+1720		3
+1721		4
+1722	KRN23	5
+1723	prulifloxacin	3
+1724	AZD6765	3
+1725	ceftaroline	3
+1726		NULL
+1727	AZD8529	3
+1728	AZD5904	3
+1729	AZD3241	3
+1730	AZD6280	3
+1731	TC-5619	3
+1732	AZD3043	3
+1733		3
+1734	AZD2423	3
+1735		3
+1736	AZD1480	3
+1737	MEDI-575	5
+1738	MEDI-573	5
+1739		8
+1740		8
+1742	AZD9164	NULL
+1743	AZD2551	3
+1744	LCQ908	3
+1745	elinogrel	3
+1746		3
+1747		4
+1750	PF-217830	3
+1751	1322322	3
+1752		3
+1753		3
+1754		3
+1755	ABT-325	5
+1756		3
+1760	aclidinium	3
+1761	aclidinium + formoterol	3
+1763	bapineuzumab	5
+1764	tolterodine ER	3
+1765	follitropin-beta	4
+1769	peficitinib	3
+1770	velaglucerase alfa	4
+1771	fentanyl - sublingual	3
+1772		3
+1773	olmesartan	3
+1775	iloperidone	3
+1776		11
+1777	miriplatin	3
+1778	canagliflozin	3
+1779	S1P1 receptor antagonist	3
+1780	linifanib	3
+1782		5
+1783	RG7417	5
+1784	CB3304	3
+1785	seocalcitol	3
+1786	levomilnacipran	3
+1788	crizotinib	3
+1789		3
+1790	alendronate	3
+1791	veliparib	3
+1792		NULL
+1793		3
+1794		NULL
+1795		5
+1796		NULL
+1798	recombinant calcitonin	4
+1799	secukinumab	5
+1800	formoterol + mometasone furoate	3
+1801	SCH-900237	8
+1804	indacaterol	3
+1805	indacaterol + glycopyrronium	3
+1806	vabicaserin	3
+1807	mometasone + indacaterol	3
+1808	irdabisant	3
+1809	anti-TNF	5
+1810	once daily hydromorphone	3
+1811	IV celecoxib	3
+1812		4
+1813	gataparsen	7
+1814	gemcitabine prodrug	3
+1815	litronesib	3
+1816	elF-4E ASO	7
+1817	TGF Beta antibody	5
+1818	BAFF antibody	NULL
+1819	Taltorvic	3
+1820	pagoclone	3
+1821	trastuzumab emtansine	5
+1822	gantenerumab	5
+1823	figitumumab	5
+1824	aztreonam lysine	3
+1825		3
+1826	CVT-6883	3
+1827	TMC278/FTC/TDF	3
+1828	GS-9256	3
+1829	VX-222	3
+1830		3
+1831		3
+1832	radiprodil	3
+1835	betrixaban	3
+1836		3
+1837		NULL
+1838	SCH-527123	3
+1839	malaria vaccine	8
+1840		NULL
+1843	mycophenolate mofetil	3
+1844	SCH-721015	6
+1845		NULL
+1846		NULL
+1847	iguratimod	3
+1848	sifalimumab	5
+1849	H1N1 pandemic influenza	8
+1850	tetrabenazine	3
+1851	semaglutide	2
+1852	recombinant Factor XIII	4
+1853	NN7999	4
+1854	SC long-acting rFVIIa derivative	4
+1855	Long-acting growth hormone	4
+1856	Anti-C5aR	5
+1857	Anti-IL20	5
+1858	carglumic acid	NULL
+1859	SAR153192	5
+1861	FOV2302	3
+1862		5
+1863	SAR103168	3
+1864		3
+1865	granisetron	3
+1866	Other Neurology Treatments	3
+1867	ipragliflozin	3
+1868	AGS-PSCA	5
+1869		NULL
+1870	ASP0777	3
+1871		3
+1872		NULL
+1873	mifamurtide	12
+1874		2
+1875	orteronel	3
+1877	TAK701	5
+1878		NULL
+1879		NULL
+1881		NULL
+1882	zoledronic acid	3
+1883	AMPA PAM	3
+1884	JNJ-31001074	3
+1885	S-288310	8
+1886		3
+1887	fentanyl citrate	NULL
+1888	tivozanib	NULL
+1889		5
+1890	anti-CD19	5
+1891	anti-PD-LI	5
+1892	Anti-CD30	5
+1893	anti-CD70 antibody drug conjugate	5
+1894	anti-CD70 antibody drug conjugate	5
+1895	vortioxetine	3
+1896	rivastigmine	3
+1897	clobazam	3
+1898	Flu intradermal micro-injection US	NULL
+1899	naloxegol	3
+1900	narlaprevir	NULL
+1901		NULL
+1902		3
+1903	MK-3415A	5
+1904		3
+1905		3
+1906		3
+1907		8
+1908		3
+1909		NULL
+1910	filgrastim	4
+1911	pegfilgrastim	4
+1912	MK-7246	NULL
+1913		NULL
+1914	atacicept	4
+1915		2
+1916		3
+1917		NULL
+1918	Other Serotonergics	3
+1919	paquinimod	3
+1920	linaclotide	3
+1921	pazopanib	3
+1922	ALD-518	5
+1923	AZD7268	3
+1924	AZD2327	3
+1926	oxybutynin vaginal ring	3
+1927	progesterone ring 	3
+1928	laquinimod	3
+1929	albuferon beta	3
+1930		2
+1931	CT-011	5
+1932		9
+1933	Other Anti-psychotic Agents	3
+1934	recombinant Factor XIII	4
+1935	JNJ-18038683	3
+1936		3
+1937	SSR125543	3
+1938	SSR411298	3
+1940	albuferon	4
+1941	QAX576	5
+1942		3
+1943	mavoglurant	3
+1944		3
+1945		3
+1946		5
+1947		NULL
+1948	doxercalciferol	3
+1950	remestemcel-L	9
+1951	testosterone	3
+1952	valsartan + aliskiren	3
+1953	treprostinil	3
+1954	E5501	3
+1955		3
+1956	silodosin	3
+1957		3
+1958	MABA081	3
+1959	BEA-2180-BR	NULL
+1960	OpRA II	3
+1961	bupivacaine TTS	3
+1962	Other Depression Treatments	3
+1964	ferumoxytol 	3
+1965	perifosine	3
+1967	GRC 6211	3
+1968	iGluR5 antagonist	3
+1969	acetyl salicylic acid	3
+1971		5
+1972		5
+1973	buprenorphine / buprenorphine + naloxone	3
+1974	anatibant	3
+1975	ceftriaxone	3
+1976	peg-interferon alpha 2a	4
+1977		3
+1978	ribavirin	3
+1979	diclofenac sodium gel	3
+1980	regorafenib	3
+1981	L19-SIP	5
+1982	immunoconjugate	5
+1983	LAS41007	3
+1984	nabiximols	3
+1985	collagenase	4
+1986	pramlintide + leptin	4
+1987	dipyridamole + aspirin	3
+1988	macitentan	3
+1990	alfacalcidol	3
+1991	vernakalant - oral	3
+1992		NULL
+1993	Lu 02-750	3
+1994		3
+1995	tafluprost	3
+1996	conatumumab	5
+1997	oxatomide	3
+1998	TAK-937	3
+2000	razupenem	3
+2001	doxycycline	3
+2002	abediterol	3
+2003	pozanicline	3
+2004	163090	3
+2005	Metazym	3
+2006	249320	5
+2007	XL-413	3
+2008	SMO antagonist	3
+2009	cixutumumab	5
+2010	zicronapine	3
+2011	icatibant	2
+2013	tivozanib	3
+2014	ADL-5859	3
+2015		NULL
+2016	ADL-5747	3
+2017	sapropterin	3
+2018	SGN-35	5
+2019	laronidase	4
+2020	galsulfase	4
+2021	Alzheimer's disease vaccine	8
+2022	repaglinide	3
+2023	ABT-510	3
+2024	natalizumab	5
+2025	IMC-11F8	5
+2026	piclozotan	3
+2028		3
+2029	levonorgestrel + ethinyl estradiol	3
+2030	desogestrel + ethinyl estradiol	3
+2031	beclomethasone	3
+2032	custirsen	7
+2033	dutasteride / dutasteride + tamsulosin 	3
+2034	saracatinib	3
+2035	imatinib	3
+2036		3
+2038	ruxolitinib	3
+2039	AZD3480	3
+2040	JNJ-17216498	3
+2041		7
+2043	losmapimod	3
+2044		NULL
+2045		NULL
+2046	1144814	3
+2048	dalfampridine	3
+2050	ATI355	5
+2052	S-234462	3
+2053	dalfampridine	3
+2054	inhaled insulin	4
+2055	tasocitinib	3
+2056	PF-4308515	3
+2057	PF-5212368	NULL
+2058	fosdagrocorat	3
+2059	PF-3654764	3
+2060	PF-4764793	NULL
+2061		NULL
+2062	AMG 655 	5
+2063	CP-601927	3
+2064	PF-2400013	3
+2065	PF-2545920	3
+2066	PF-3049423	3
+2067	PF-4455242	3
+2068	begacestat	NULL
+2069	PF-5212377	3
+2070	PF-3463275	3
+2071	PF-4447943	3
+2072	PF-4494700	3
+2073	vanutide cridificar	8
+2074	SAM-531	3
+2075	PF-4427429	5
+2076	PF-4457845	3
+2077	PF-4531083	3
+2078	romidepsin	3
+2079	semuloparin	4
+2080	TC-5214	3
+2081	Iosmapimod	3
+2082	mifamurtide	NULL
+2083	rindopepimut	8
+2084	rindopepimut	8
+2085		3
+2086	obinutuzumab	5
+2087	561679	3
+2088	gabapentin enacarbil	3
+2089	nitazoxanide	3
+2090	nitazoxanide	3
+2091	omalizumab	5
+2092	ABCA1 inducer	3
+2093	mGluR5 antagonist	3
+2094	triple reuptake inhibitor	3
+2095	TAAR1 partial agonist	3
+2096	RG1662	3
+2097	obinutuzumab	5
+2098	insulin aspart	4
+2099	biphasic insulin aspart	4
+2100	insulin aspart	4
+2101	PDA-001	9
+2104	NN9068	2
+2105	NN1952	2
+2106	NN9924	2
+2107	NN9161	4
+2108		3
+2109	anti-IL17a MAb	5
+2110	YM150	4
+2111	AQW051	3
+2112	BAF 312	3
+2113	QAX028	3
+2114	LCZ696	3
+2115	QAV680	3
+2116	QGE031	5
+2117	canakinumab	5
+2118	sotrastaurin	3
+2119	BGS649 	3
+2120	amadacycline	3
+2121	"carbamazepine, I.V."	3
+2122	dilmapimod 	3
+2123	velaglucerase alfa	4
+2124	eculizumab	5
+2125	cabazitaxel	3
+2126	NV1FGF	6
+2127	FOV1101	3
+2128	SAR231893	5
+2129	alirocumab	5
+2130	canakinumab	5
+2131	betrixaban	3
+2132	canakinumab	5
+2133	reslizumab	5
+2134	reslizumab	5
+2135	MK-7288	3
+2136		3
+2137	oxybutynin gel	3
+2138	LY3009104	3
+2139	Other NMDA Antagonists	3
+2140	pridopidine	3
+2141	gimeracil + oteracil + tegafur	3
+2142	tegafur + uracil	3
+2143	calcium folinate	3
+2144	fingolimod	3
+2145		NULL
+2146	dexlansoprazole	3
+2147	omega-3-acid ethyl ester concentrate	3
+2148	TAK-733	3
+2149	davalintide	4
+2150		NULL
+2151	quizartinib 	3
+2152	acotiamide	3
+2153	AGS-16M8F	5
+2154	sibutramine	3
+2155	mitiglinide	3
+2156		3
+2157	miglustat	3
+2158		NULL
+2159	roflumilast	3
+2160	eliglustat tartrate	3
+2161	Other COMT Inhibitors	3
+2162	ONO-2745	NULL
+2163	imidafenacin	3
+2164		3
+2165	aprepitant	3
+2166	romiplostim	5
+2167		2
+2168	alpha-glucosidase	4
+2169	bendamustine	3
+2170	bendamustine	3
+2171	BGS-649 	3
+2172		3
+2173		3
+2174	bupivacaine	3
+2175	AGN-209323	3
+2176	letaxaban 	NULL
+2177		3
+2178		NULL
+2179	idursulfase-IT	4
+2180	HGT-1410	4
+2181	HGT-2610	4
+2182	SPD 535	3
+2183		NULL
+2184		3
+2185		3
+2186	peramivir	3
+2187	rilonacept	4
+2188	Other Atypical Anti-psychotic Agents	3
+2189	A-623	5
+2190	paquinimod	3
+2191	Anti IL-17	NULL
+2192	dimethyl fumarate	3
+2193	AZD8566	NULL
+2194	belinostat	3
+2195	riluzole	3
+2196	selexipag	3
+2197	Unknown cardiovascular compound	3
+2198	JNJ-42160443	5
+2199	S/GSK1349572	3
+2200	Other Pain Agents	3
+2201	beraprost 	3
+2202	MenACWY-TT	8
+2203	rotavirus vaccine	8
+2204	705498	3
+2205	656933	NULL
+2206	MK-7243	8
+2207	MK-3641	8
+2208	imatinib	3
+2209	Other PD Agents	3
+2210		3
+2211	cetirizine	3
+2212	Other Migraine Agents	3
+2213	olodaterol	3
+2214	vardenafil	3
+2215	naftopidil	3
+2216	aclidinium + formoterol	3
+2217	alfacalcidol	3
+2218	573719 + 642444	3
+2220	drisapersen	7
+2221	booster vaccines	8
+2222		NULL
+2223		8
+2224	tiotropium + BI-1744	3
+2225	Other Psychiatry Treatments	3
+2226	botulinum toxin type A	4
+2227	exenatide / exenatide LAR	2
+2228	interferon alpha 2b	4
+2229	aclidinium	3
+2230	sumatriptan injectable	3
+2231	vilanterol	3
+2232	sumatriptan injectable	3
+2233	BIIB033	5
+2234	salbutamol	3
+2235		4
+2236		4
+2237	PRT128	3
+2238	serelaxin 	4
+2239	carglumic acid	3
+2240	tocofersolan	2
+2241	calfactant	4
+2242	stannsoporfin	2
+2243	mercaptamine	3
+2244		NULL
+2245		NULL
+2246	apaziquone	3
+2247	tiotropium + olodaterol	3
+2248	salmeterol + fluticasone propionate	3
+2249	573719 + vilanterol	3
+2250	cobicistat	3
+2251		3
+2252	VX-765	3
+2253	1278863	3
+2254		3
+2255	2245840	3
+2256	256073	3
+2257	1362885	3
+2258	1265744	NULL
+2259		NULL
+2260	mesenchymal-epithelial transition factor (C-met) kinase inhibitor	3
+2261	GSK184072	3
+2263	totrombopag	3
+2264	milnacipran	3
+2265	escitalopram	3
+2266	PTC-124	3
+2267	mizoribine	3
+2268	fosaprepitant	3
+2269	bendamustine	3
+2270		8
+2271	HPV 9-valent vaccine	8
+2272	beraprost	3
+2273	valganciclovir	3
+2274	levodopa + benserazide	3
+2275	triptorelin	2
+2276	afuresertib	3
+2277	2118436	3
+2278	2126458	3
+2279	2141795	3
+2280	256066	3
+2281	mepolizumab	5
+2282	1325756	3
+2283	dilmapimod	3
+2284	1070806	5
+2285	1223249	5
+2287	557296	3
+2288	CCX025	3
+2289	1605786	3
+2290		8
+2291	GSK-2197870A	8
+2292	UCB 2892	3
+2293	omecamtiv mecarbil	3
+2294	mogamulizumab	5
+2295		5
+2296		3
+2297	AMG 157	5
+2298		NULL
+2299	AMG 167	5
+2300	AMG 853	3
+2301	TV-1102	7
+2302		3
+2303		NULL
+2304	pitavastatin	3
+2305		5
+2306		3
+2307	ceftazidine / NXL-104	3
+2308	ceftaroline / NXL-104	NULL
+2310		3
+2311	AZD8418	3
+2312	Staphylococcus aureus vaccine 	8
+2313	TLR-7 agonist	3
+2314	PF-4856884	5
+2315	PF-4382923	5
+2316	PF-5122371	3
+2318		3
+2319		5
+2320	PF-03084014	3
+2321	PF-03446962	5
+2322		5
+2323		3
+2324		3
+2325	PF-4217903	3
+2326	PF-4605412	5
+2327	PF-4691502	3
+2328	PF-477736	3
+2329	PF-4929113	3
+2330	WAY-178357	3
+2331	PF-562271	3
+2332	fezakinumab	5
+2333	PF-5230895 	5
+2334		3
+2335	filorexant 	3
+2336		NULL
+2337	dacomitinib	3
+2338	daptomycin injection	8
+2339		3
+2340	Glycine Uptake Inhibitor	3
+2341		4
+2342		3
+2343		3
+2344		3
+2345	meningitis B vaccine	8
+2346	PD-0332991	3
+2347	agatolimod	5
+2348		3
+2349	Other Opioid Analgesics	3
+2350		5
+2351		3
+2352		4
+2353		3
+2354		3
+2355	dalotuzumab	5
+2356	dinaciclib	3
+2357	AS-3201	3
+2358	rindopepimut	8
+2359	tucotuzumab celmoleukin	5
+2360	naproxcinod	3
+2361	ferumoxytol	3
+2362	PDA-001	9
+2363		3
+2364		3
+2365		3
+2366		2
+2367		3
+2368	ATX-MS-1467	2
+2369	alisporivir 	3
+2370	recombinant calcitonin	4
+2371	NIM811	3
+2372	RSV604	3
+2373	IC-43	8
+2374	GRC 15300	3
+2375	proisletide acetate	2
+2376	Pseudomonas aeruginosa vaccine	8
+2377	testosterone gel	3
+2378		3
+2379	mesalazine	3
+2380	alogliptin	3
+2381	vildagliptin	3
+2382	daclizumab	5
+2383	flibanserin	3
+2384	iniparib	3
+2385	Traficet-EN	3
+2386	vernakalant hydrochloride	3
+2387	domperidone	3
+2388	zuclopenthixol	3
+2389	melitracene	3
+2390	flupenthixol	3
+2391	nortriptyline	3
+2392	amitriptyline	3
+2393	chlorprothixene	3
+2394	lofepramine	3
+2395	formoterol + aclidinium	3
+2396	NSA-789	3
+2397	galantamine	3
+2398	galantamine	3
+2399	galantamine	3
+2400	HTC-867	3
+2401	zaleplon	3
+2402	amitriptyline	3
+2403	viloxazine	3
+2404	timiperone	3
+2405	Glycine Uptake Inhibitor	3
+2406	AMPA PAM	3
+2407	levodopa + carbidopa	3
+2408	levodopa + carbidopa	3
+2409	felbamate	3
+2410	mianserin	3
+2411	asenapine	3
+2412	carbidopa + levodopa	3
+2413	Nitrendipine	3
+2414	nisoldipine	3
+2415	nimodipine	3
+2416	sotalol	3
+2417	iloprost	3
+2418	telmisartan	3
+2419	lepirudin	4
+2420	topiramate	3
+2421	aprotinin	3
+2422	ganaxolone	3
+2423	clonazepam	3
+2425	gantenerumab	5
+2426	citalopram	3
+2427	citalopram	3
+2428	naratriptan	3
+2429	buproprion	3
+2430	sumatriptan	3
+2431	rizatriptan	3
+2432	isosorbide mononitrate	3
+2433	propranolol	3
+2434	argatroban	3
+2435	lacidipine	3
+2436	labetalol	3
+2437	nicorandil	3
+2438	cilazapril	3
+2439	fosinopril	3
+2440	abciximab	5
+2441	betaxolol	3
+2442	denopamine 	3
+2443	docarpamine	3
+2444	carbazochrome sodium sulphonate	3
+2445	argatroban	3
+2446	MP-124	3
+2447	clozapine	3
+2449	BGG492	3
+2450	CAD106	8
+2451	tolcapone	3
+2452	U3-1287	5
+2453	incadronate disodium	3
+2454	amifostine	3
+2455	clodronate	3
+2456		3
+2457	ibritumomab tiuxetan	5
+2458	BIW-8405	5
+2459	MEDI-563	5
+2460	daclizumab	5
+2461	flunisolide	3
+2463	haloperidol	3
+2464	DTaP	8
+2465	eslicarbazepine	3
+2466	indacaterol + mometasone furoate	3
+2467	zonisamide	3
+2468	OX-NLA	3
+2469	zonisamide	3
+2470	zonisamide	3
+2471	droxidopa	3
+2472	perospirone	3
+2473	618334	3
+2474	TDaP	8
+2475	DTaP+IPV	8
+2476	haloperidol	3
+2477	biperiden	3
+2478	TDaP+HiB	8
+2479	nimetazepam	3
+2480	DTaP+IPV+HiB	8
+2481	DTaP+IPV+HiB	8
+2482	DTaP+IPV+HiB+HepB	8
+2483	lofepramine	3
+2484	theophylline	3
+2485	ODC-9101	3
+2486	SGN-35	5
+2487	TPI-ASM8	7
+2488	istradefylline	3
+2490	carboplatin	3
+2491	nefazodone	3
+2492	escitalopram	3
+2493	buspirone	3
+2494	citalopram	3
+2495	naltrexone oral	3
+2496	arsenic trioxide	3
+2497	escitalopram	3
+2498	liposomal doxorubicin	3
+2499	bexarotene	3
+2500	MN-001	3
+2501	doxifluridine	3
+2502	primidone	3
+2503	DTaP+Hib-IPV	8
+2504	LT-NS001	3
+2505	polysaccharide-K 	12
+2506	atorvastatin + amlodipine	3
+2507	candesartan cilexitil	3
+2508	interferon beta	4
+2509	amlodipine	3
+2510	pindolol	3
+2511	dobutamine	3
+2512	lisinopril	3
+2513	efonidipine	3
+2514	nisoldipine	3
+2515	pravastatin +  fenofibrate 	3
+2516	clonidine hydrochloride	3
+2517	ADX415 	3
+2518	miriplatin	3
+2519	bendamustine	3
+2520	oral polio vaccine	8
+2521	inactivated polio vaccine	8
+2522	seasonal influenza vaccine	8
+2523	perindopril	3
+2524	anti-NGF	5
+2525	sevoflurane	3
+2526	anti-thymocyte globulin rabbit	5
+2527	diltiazem 	3
+2528	fresolimumab	5
+2529	Dengue fever vaccine	8
+2530	omega-3-acid ethyl ester concentrate	3
+2531	ifosfamide	3
+2532	nedaplatin	3
+2533	levosimendan	3
+2534	mesna	3
+2535	monteplase	3
+2536	fasudil	3
+2537	Tuberculosis vaccine	8
+2538	ubidecarenone	3
+2539	nilutamide	3
+2540	isosorbide dinitrate	3
+2541	flecainide	3
+2542	cilazapril	3
+2543	metildigoxin	3
+2544	rezatomidine	3
+2545	hydrocodone + acetaminophen	3
+2546	SXN-100323	3
+2547	PIV-3 vaccine	8
+2548	RSV vaccine	8
+2549	RSV+PIV-3 vaccine	8
+2550	Meningococcal vaccine ACWY	8
+2551	fentanyl inhaled	3
+2552	fulranumab	5
+2553	lenograstim	4
+2554	dopamine	3
+2555	cladribine	3
+2556	buserelin	2
+2557	trabectedin	3
+2558	dolasetron	3
+2559	alteplase	4
+2560	medroxyprogesterone acetate	3
+2561	mirimostim	3
+2562	5-fluorouracil	3
+2563	pimobendan	3
+2564	mexiletine	3
+2565		NULL
+2566	lacidipine	3
+2567	ozagrel hydrochloride	3
+2568	landiolol hydrochloride	3
+2569	Human and animal insulins	4
+2570	buccal insulin	4
+2571	milrinone	3
+2572	HGT	4
+2573	barnidipine	3
+2574	nilvadipine	3
+2575	oprelvekin	4
+2576	conivaptan	3
+2577	delapril	3
+2578	manidipine	3
+2579	MCHR1	3
+2580	glucagon	4
+2581	glucagon	4
+2582	nateglinide	3
+2583	CSG452	3
+2584	AVE0897	3
+2585	thyroid tablets	3
+2586	Corticosteroids	3
+2587	liothyronine	3
+2588	gemfibrozil	3
+2589	levothyroxine	3
+2590	methimazole	3
+2591	liothyronine	3
+2592	levothyroxine	3
+2593	dihydroxycholecalciferol	3
+2594	sonedenoson	3
+2595	amiodarone	3
+2596	glibenclamide	3
+2597	spironolactone	3
+2598	gliclazide	3
+2599	glipizide	3
+2600	somatropin	4
+2601	mecasermin	4
+2602	PRA-027	3
+2603	metformin	3
+2604	ticlopidine	3
+2605	elagolix	3
+2606	AMG167	5
+2607	salmon calcitonin	2
+2608	ipriflavone	3
+2609	S. pneumoniae + H. influenzae vaccine	8
+2610	Streptococcus pneumoniae vaccine	8
+2611	calcitriol	3
+2612	Varicella Zoster virus vaccine	8
+2613	calcitriol	3
+2614	ulipristal	3
+2615	ibandronic acid	3
+2616	naproxen	3
+2617	ketorolac 	3
+2618	aspirin+butalbital+caffeine	3
+2619	acetaminophen+butalbital+caffeine	3
+2620	VAP-1	5
+2621	tegafur + uracil	3
+2622	tropisetron	3
+2623	aldesleukin	4
+2624	molgramostim	4
+2625		NULL
+2626		3
+2627		7
+2628		3
+2629		3
+2630	toremifene	3
+2631	Bacillus Calmette-Guerin	8
+2632	fluvastatin	3
+2633	deferoxamine mesylate	3
+2634	lisinopril	3
+2635	nitroglycerin patch 	3
+2636	lovastatin	3
+2637	busulfan	3
+2638	sevelamer	3
+2639	human thrombin	4
+2640	thrombin alfa	4
+2641		5
+2642	urapidil	3
+2643	nitroglycerin patch	3
+2645	Orplatna	3
+2646	Orplatna	3
+2647	laromustine	3
+2648	NX-473	3
+2649	alprostadil alfadex	3
+2650	AP5346 	3
+2651	apomorphine	3
+2652	SLx-2101	3
+2653	iGluR5 antagonist	3
+2654	allystrenol	3
+2655	terazosin	3
+2656	propiverine	3
+2657	oxycodone + ibuprofen	3
+2658	propiverine	3
+2659	ONO-5839	3
+2660	oxybutynin patch	3
+2661	oxybutynin patch	NULL
+2662	870086	3
+2663	oxybutynin patch	3
+2664	PF-610355	3
+2665	estrogen + methyltestosterone	3
+2666	conjugated estrogens	3
+2667	estrogen	3
+2668	AZD3199	3
+2669	estradiol gel	3
+2670	estradiol + norethisterone	3
+2671	PPSV23	8
+2672	mumps vaccine	8
+2673	paquinimod	3
+2674	mumps vaccine	8
+2675	PPSV23	8
+2676	conjugated estrogen	3
+2677	Hib+HepB+DTaP+IPV	8
+2678	olodaterol + tiotropium	3
+2679	Staphylococcus aureus vaccine	8
+2681		3
+2682	montelukast + mometasone furoate	3
+2683	choriogonadotropin alfa	4
+2684	recombinant human lutenizing hormone	4
+2685	desmopressin	3
+2686	duloxetine	3
+2687	SCH-900237	8
+2688	CYC682	3
+2689	pixantrone	3
+2690	IPI504	3
+2691	argatroban	3
+2692	captopril	3
+2693	radio-labeled tositumomab	5
+2694	furosemide	3
+2695	denileukin diftitox	4
+2696	L19-TNF-alpha	4
+2697	imatinib	3
+2698	temocapril	3
+2699	perindopril	3
+2700	AMG 317	5
+2701	Ramipril 	3
+2702	AZD1981	3
+2703	CAT-354	5
+2704	MEDI-528	5
+2705	2190915	3
+2706	679586	5
+2707	captopril	3
+2708	AP768	3
+2709	AZD5985	3
+2710	AZD8075	3
+2711	interferon alfa-2a	4
+2712	perindopril	3
+2713	PF-3526299	NULL
+2714	PF-3893787	NULL
+2715	paclitaxel polyglumex	3
+2716	PF-4191834	NULL
+2717	tesetaxel	3
+2718	testosterone patch	3
+2719	AZD1236	3
+2720	AZD9668	3
+2721	indomethacin	3
+2722	PF-3635659	NULL
+2723	610677	3
+2724	VR-776	3
+2725	ziconotide	2
+2726		8
+2727	M200	5
+2728	flutamide	3
+2729	INNO-507	3
+2730	fimasartan 	3
+2731	lidocaine + prilocaine	3
+2732	raloxifene	3
+2733	testosterone gel	3
+2734	testosterone gel	3
+2735	darinaparsin	3
+2736		3
+2737	degarelix	2
+2738	tasonermin	3
+2739	histrelin	2
+2740	sivelestat sodium hydrate	3
+2741	testosterone injection	3
+2742	testosterone patch	3
+2743	goserelin	2
+2744	transdermal indomethacin	3
+2745	calfactant	4
+2746	tiaramide	3
+2747	nafarelin	3
+2748	anti-CD40L	5
+2749	anti-CD40L	5
+2750	CDP7657	5
+2751	Polyethylene glycol + sodium chloride	3
+2752	diltiazem	3
+2753	nifedipine	3
+2754	diltiazem	3
+2755	adomiparin	3
+2756		7
+2757	vorinostat	3
+2758	tirofiban	3
+2759	tirofiban	3
+2760	ticlopidine	3
+2761	metoprolol	3
+2762	palifermin	4
+2763	oblimersen - discontinued September 2012	7
+2764	plitidepsin	3
+2765	danegaptide 	2
+2766	ACT-GRO-777	7
+2767	glembatumumab vedotin	5
+2768	dimesna	3
+2769	LOR-2040	7
+2770	cinitapride	3
+2771	dimesna	3
+2772	pinaverium bromide	3
+2773	ADL-7445	3
+2774	ADL-5945	3
+2775	ibodutant	3
+2776	velusetrag	3
+2777	alprostadil	3
+2778	alosetron	3
+2779	HDM AIT	8
+2780	ecallantide 	4
+2781	metopimazine	3
+2782	naftidrofuryl oxalate	3
+2783	alprostadil alfadex	3
+2784	colesevelam hydrochloride	3
+2785	anti-thrombin alpha	4
+2786	SCH-619734	3
+2787	urokinase	4
+2788	reteplase	4
+2789	reteplase 	4
+2790	desmoteplase	4
+2791	AIN-457	5
+2792	interferon beta 1a	4
+2793	morphine	3
+2794	morphine	3
+2795	etidronate	3
+2796	budesonide	3
+2797	omeprazole	3
+2798	lansoprazole	3
+2799	pantoprazole	3
+2800	omeprazole	3
+2801	SAR153191	5
+2802	ecabet	3
+2803	teprenone	3
+2804	lafutidine	3
+2805	ranitidine	3
+2806	risedronate / risedronate delayed-release	3
+2807	morphine	3
+2808	salmon calcitonin	2
+2809	piketoprofen	3
+2810	nabiximols	3
+2811	MLN0415	3
+2812	nabiximols	3
+2813	nabiximols	3
+2814	baclofen	3
+2815	cimetidine	3
+2816	dronabinol	3
+2817	aprepitant / fosaprepitant	3
+2818	aprepitant / fosaprepitant	3
+2819	brimonidine	3
+2820	adapelene	3
+2821	dapsone gel	3
+2822	onabotulinumtoxin A	11
+2823	alitretinoin	3
+2824	azelaic acid	3
+2825	brimonidine + timolol	3
+2826	bimatoprost + timolol 	3
+2827	diquafosol tetrasodium	3
+2828	epinastine	3
+2829	IOP Lowering	3
+2830	human recombinant IL-10	4
+2831	ketorolac	3
+2832	clotrimazole + betamethasone	3
+2833	nedocromil	3
+2834	diclofenac + hyaluronic acid gel	3
+2835	betamethasone	3
+2836	gatifloxacin	3
+2837	enoxacin	3
+2838	fluocinonide	3
+2839	sparfloxacin	3
+2840	becocalcidiol	3
+2841	bimosiamose	3
+2842	atovaquone and proguanil	3
+2843	prednisolone	3
+2844	triamcinolone	3
+2845	ampicillin	3
+2846	amoxicillin	3
+2847	flucloxacillin	3
+2848	ticarcillin + clavulanic acid 	3
+2849	voclosporin	2
+2850	mupirocin	3
+2851	tafluprost	3
+2852	ponesimod	3
+2853	TA-5439	3
+2854	anti IL-23	5
+2855	dorzolamide	3
+2856		3
+2857	carboxymethylcellulose	3
+2858	BTT-1023	5
+2859	amoxicillin	3
+2860	CNTO-1959	3
+2861	carboxymethylcellulose	3
+2862	petrolatum + mineral oil	3
+2863	vaniprevir	3
+2864	pazufloxacin mesilate	3
+2865	sulphacetamide + prednisolone	3
+2866	prednisolone	3
+2867	amantadine	3
+2868	artemether and lumefantrine	3
+2869	clofazimine	3
+2870	delavirdine mesylate	3
+2871	moxifloxacin	3
+2872	valganciclovir	3
+2873	cefodizime	3
+2874	fenticonazole	3
+2875	mefloquine	3
+2876	fumagillin	3
+2877	zuclopenthixol	3
+2878	flupenthixol	3
+2879	chlorprothixene	3
+2880	cefpirome	3
+2881	cephalexin	3
+2882	haloperidol	3
+2883	moxalactam	3
+2884	haloperidol	3
+2885	tosufloxacin	3
+2886	piperacillin	3
+2887	nimetazepam	3
+2888	melitracen	3
+2889	cefmenoxime	3
+2890	carumonam	3
+2891	nortriptyline	3
+2892	amitriptyline	3
+2893	lofepramine	3
+2894	lofepramine	3
+2895	mianserin	3
+2896	interferon beta 1a	4
+2897	ELND002	3
+2898	BHT-3009	8
+2899	RG7413	5
+2900	tasocitinib	3
+2901	239512	3
+2902	586529	3
+2903	649868	3
+2904	742457	3
+2905	933776	5
+2906	zoledronic acid	3
+2907	rebamipide	3
+2908	BI44370	3
+2909	V2006	3
+2910	scyllo-inositol	3
+2911	ELND006	3
+2912	JNJ-26990990	3
+2913	IDX899	3
+2914	TAK-065	3
+2915	AZD7295	3
+2916	V950	8
+2918	PF-5212371	3
+2919	TAK-428	3
+2920	CR-665	NULL
+2921	CP-533536	3
+2922	1482160	3
+2923	Local anesthetics	3
+2924	CAM-3001	NULL
+2925	BMS-582949	NULL
+2926	LY-2127399	5
+2927	PF-5212374	NULL
+2928	PF-4236921	3
+2929	TAK-285	3
+2930	AZD4769	3
+2931	AZD8931	3
+2932	S/GSK 1265744	3
+2933	S/GSK1265744	3
+2934	S/GSK1265744	3
+2935	dolutegravir	3
+2936	maraviroc	3
+2937	pancrelipase	3
+2938	PF-868554	3
+2939		3
+2940	sulfamidase-IT	4
+2941	hydrocodone - extended release	3
+2942	indomethacin - transdermal	3
+2943	vanutide cridificar	8
+2944	AAB-001	5
+2945	cariprazine	3
+2951	RG1594	5
+2952	ORE-1001	3
+2954	CSG452	3
+2956	RG4934	5
+2957	Anti-M1 prime MAb	5
+2959	ipatasertib	3
+2960	RG7594	5
+2961	RG7348	3
+2962	cariprazine	2
+2964	acamprosate	3
+2965	mitoxantrone	3
+2966	milnacipran	3
+2967	milnacipran	3
+2968	irbesartan + trichloromethiazide 	3
+2969	KHK-4563	5
+2971	NT-702	3
+2972	ODC-9101	3
+2973	TPI-ASM8	7
+2974	udenafil	3
+2975	udenafil	3
+2976	PF-2341066	3
+2977		NULL
+2978	custirsen	7
+2979		3
+2980	interferon-beta 1b	4
+2981	BI-2536	3
+2982	efatutazone	3
+2983	pirfenidone	3
+2984	urelumab	5
+2985	SAR3419	5
+2986	CHK-1 Inhibitor	NULL
+2987	VX-770	3
+2988	ciclesonide	3
+2989	ciclesonide	3
+2990	roflumilast	3
+2991	levocetirizine	3
+2992	brimonidine / brimonidine + timolol	3
+2993	bimatoprost / bimatoprost + timolol	3
+2994	bimatoprost / bimatoprost + timolol	3
+2995	latanoprost / latanoprost + timolol	3
+2996	Y-39983	3
+2997	taprenepag	3
+2998	travoprost / travoprost + timolol	3
+2999	paroxetine	3
+3000	AR-12286	3
+3001	DE-104	3
+3002	lomerizine	3
+3003	pegaptinib	3
+3004	pegaptinib	3
+3005	ketorolac	3
+3006	olopatadine	3
+3007	diquafosol tetrasodium	3
+3008	diquafosol tetrasodium	3
+3009	PF-5212365	3
+3010	cyclosporine A	3
+3011	cyclosporin A	3
+3012	AL-43546	3
+3013	EGP-437	3
+3014	ASP4058	3
+3015	PF-5212365	3
+3016	ferric gluconate complex	3
+3017	prucalopride	3
+3018	formoterol + budesonide	3
+3019	PF-4360365	5
+3020	inhaled prochlorperazine	3
+3021	corifollitropin alfa	4
+3022	BL-1020	3
+3023	cariprazine	2
+3024	varenicline	3
+3025	pergolide	3
+3026	NXN-188	3
+3027		5
+3028	lithium carbonate	3
+3029	formoterol + budesonide	3
+3030	formoterol + fluticasone propionate	3
+3031	Hepatitis B vaccine	8
+3032	ezogabine	3
+3033	anatibant	3
+3034	BMS-753493	NULL
+3035	E7974	3
+3036	KOS-1584	3
+3037	metformin 	3
+3038	interferon beta	4
+3039	AUY922	3
+3040	PF-4929113	3
+3041	gestodene + ethunylestradiol	3
+3042	gestodene + ethinyl estradiol	3
+3043	edoxaban	3
+3044	ulipristal acetate	3
+3045	ulipristal acetate	3
+3046	ramucirumab	5
+3047	olmesartan + azelnidipine	3
+3048	quadrivalent influenza vaccine	8
+3049	pazopanib	3
+3050	vorapaxar	3
+3051	tesamorelin	4
+3053	miconazole	3
+3054	econazole	3
+3055	fosfluconazole	3
+3056	pazopanib	3
+3057	beraprost 	3
+3058	RDEA806	3
+3059	DE-104	3
+3060	elvucitabine	3
+3061	NS3 protease inhibitor	3
+3062	danoprevir	3
+3063	CDP-7657	5
+3064	A-623	2
+3065	tavaborole	3
+3067	cetrorelix	3
+3068	darifenacin	3
+3069	semuloparin	4
+3070	darifenacin	3
+3071	test generic	3
+3072	influenza vaccine	8
+3073	prulifloxacin	3
+3074	formoterol + beclomethasone	3
+3075	HRT range	3
+3076	HRT range	3
+3077	pediatric vaccine	8
+3078	pediatric vaccine	8
+3079	pediatric vaccine	8
+3080	pediatric vaccine	8
+3081	Hepatitis vaccine	8
+3082	Hepatitis vaccine	8
+3083	Hepatitis vaccine	8
+3084	Dengue fever vaccine	8
+3085	Dengue fever vaccine	8
+3087	HIV vaccine	8
+3088	Human insulins	4
+3089	Human and animal insulins	4
+3090	Tuberculosis vaccine	8
+3091		3
+3092	travoprost / travoprost + timolol	3
+3093	Tuberculosis vaccine	8
+3094	travel vaccine	8
+3095	travel vaccine	8
+3096	istradefylline	3
+3097	ibuprofen + famotidine	3
+3098	other vaccines	8
+3099	other vaccines	8
+3100	tafluprost	3
+3101	other vaccines	8
+3102	influenza vaccine	8
+3103	influenza vaccine	8
+3104	Flu Micro-Injection	8
+3105	influenza vaccine	8
+3106	methylphenidate patch	3
+3107	rosiglitazone / rosiglitazone + metformin / rosiglitazone + glimepiride	3
+3108	recombinant insulin	4
+3109		NULL
+3110	BMS-690514	3
+3111	intetumumab	5
+3112	Icrucumab	5
+3113	RAF265	3
+3114	SU-14813	3
+3115	V934/V935	7
+3116	TAK-448	3
+3117		3
+3118	1614235	3
+3119		3
+3120		3
+3121		3
+3122		3
+3123		3
+3124	BI-10773	3
+3125	BI-44847	3
+3126		3
+3127		3
+3128		3
+3129		3
+3130		3
+3131		3
+3132		3
+3133		3
+3134	fasiglifam hemihydrate	3
+3135		3
+3136	CMV vaccine	8
+3137	CMV vaccine	8
+3138	CMV gB subunit vaccine	8
+3139	CMV gB subunit vaccine	8
+3140	other vaccines	8
+3141	travel vaccine	8
+3142	travel vaccine	8
+3143	Tuberculosis vaccine	8
+3144	Hepatitis vaccine	8
+3145	Lu AE04621	3
+3146	INM-176	3
+3147	cefpodoxime	3
+3148	cefotaxime	3
+3149	tacrine	3
+3150	cefaclor	3
+3151	cefoperazone/ sulbactam	3
+3152	ceftibuten	3
+3153	cefixime	3
+3154	sulpiride	3
+3155	TAK-599	3
+3156	sulpiride	3
+3157	amisulpiride	3
+3158	NXL-201	3
+3159	pimavanserin	3
+3160	FV-100	3
+3161	brotizolam	3
+3162	diazepam	3
+3163	interferon alphacon-1	4
+3164	combination therapy	2
+3165	talipexole	3
+3166	interferon alphacon-1 	4
+3167	recombinant interferon alpha-2b 	4
+3168	tasimelteon	3
+3169	roxithromycin	3
+3170	Cethromycin	3
+3171	fidoxamicin	3
+3172	EDP-420	3
+3173	TMC120	3
+3174	emtricitabine	3
+3175	zidovudine	3
+3176	didanosine	3
+3177		3
+3178	co-trimoxazole	3
+3179	gentamicin	3
+3180	teicoplanin	3
+3181	teicoplanin	3
+3182	minocycline	3
+3183	quinupristin / dalfopristin	3
+3184	clofazimine	3
+3185	iclaprim	3
+3186	oritavancin	3
+3187	NXL-104	3
+3188	inhaled tobramycin and fosfomycin	3
+3189	PF-2341272 	3
+3190	valganciclovir	3
+3191	CMV-IGIV	5
+3192	cidofovir	3
+3193	amolimogene bepiplasmid	7
+3194	ANA598	3
+3195	IDX-184	3
+3196	PSI-7851	3
+3197	BI-207127 	3
+3198	ANA773	3
+3199	bavituximab	5
+3200	ChronVac-C	7
+3201	GI-5005	7
+3202	IMO-2125	3
+3203	TT-033	7
+3204	INCB9471	3
+3205		5
+3206	bevirimat	3
+3207	PRO-140	5
+3208	TRI-1144	4
+3209	VRX-496 	6
+3210	ME-1211	3
+3211	penicillin G benzathine + penicillin G procaine	3
+3212	amprenavir	3
+3213	indinavir	3
+3214	nelfinavir	3
+3215	nelfinavir	3
+3216	PPL-100	3
+3217	gemifloxacin	3
+3218	delavirdine mesylate	3
+3219	fipamezole	3
+3220	fipamezole	3
+3221	imatinib	3
+3222	HGT-4510	4
+3223	ALN-RSV01 	7
+3224	ALN-RSV01 	7
+3225	favipiravir	3
+3226	BMS-945429	5
+3227	PF-5230896	5
+3228	LY-2439821	5
+3229	CAM-3001	5
+3230	taspoglutide	2
+3231	manidipine	3
+3232	propafenone	3
+3233	NN9925	2
+3234	NN1218	4
+3235	E-6201	3
+3236	terafenacin	3
+3237	vanutide cridificar	8
+3238	adapalene	3
+3239	morphine hydrochloride	3
+3240	morphine	3
+3241	velneperit	3
+3242		3
+3243	cMet kinase inhibitor	3
+3244	EMD-1204831	2
+3245	PDA-001	9
+3246	meningitis C vaccine	8
+3247	MPSV4	8
+3248	MnB rLp2086	8
+3249	morphine	3
+3250	Anti-IL20	5
+3251	Anti-C5aR-215	5
+3252	hydrocodone + ibuprofen	3
+3253	buprenorphine transdermal	3
+3254	morphine-6-glucuronide	3
+3255	morphine - intranasal	3
+3256	intranasal ketamine	3
+3257	fentanyl intranasal	3
+3258	parecoxib	3
+3259	ketoprofen poultice	3
+3260	naproxen	3
+3261	topical diclofenac sodium	3
+3262	ketorolac 	3
+3263	CG-100649	3
+3264	influenza vaccine	8
+3265	influenza vaccine	8
+3266	influenza vaccine	8
+3267	pandemic influenza vaccine	8
+3268	pandemic influenza vaccine	8
+3269	seasonal influenza vaccine	8
+3270	vaccine patch	8
+3271	influenza vaccine	8
+3272	pandemic influenza vaccine	8
+3273	seasonal influenxa vaccine	8
+3274	Hemophilus influenzae b vaccine	8
+3275	MMR	8
+3276	DTP+Hib vaccine	8
+3277	Travellers’ diarrhea vaccine	8
+3278	CHF-4227	3
+3279	recombinant human PTH	4
+3280	human parathyroid hormone	3
+3281	human parathyroid hormone	3
+3282	XP19986	3
+3283	laninamivir	3
+3284	Group B Streptococcus	8
+3285		3
+3286	vecuronium bromide	3
+3287	dibotermin 	4
+3288	SAM-531	3
+3289	RG7351	3
+3290	selegiline	3
+3291	selegiline	3
+3292	modafinil	3
+3293	RG1646	3
+3294	rocuronium bromide	3
+3295	iron dextran injectable	3
+3296	SQ109	3
+3297	PF-4995274	3
+3298	PF-4958242	3
+3299	eflornithine	3
+3300	purified vero rabies vaccine	8
+3301	rotavirus vaccine	8
+3302		2
+3303	ADL-7445 / ADL-5945	3
+3304	albitiazolium bromide - DISCONTINUED February 2012	NULL
+3305	Anti-PNAG mAb	5
+3306	contraceptives	3
+3307	contraceptives	3
+3308	PF-4191834	3
+3309	collagenase	4
+3310	TTP-399	3
+3311	ospemifene	3
+3313	REC-0422	3
+3314		3
+3315	ceftaroline + avibactam	3
+3316	fingolimod	3
+3317	seasonal influenza vaccine	8
+3318	vaccine patch	8
+3319	cetuximab	5
+3320	adapelene	3
+3321	formoterol + budesonide	3
+3322	apremilast	3
+3323	nomegestrol + estrogen	3
+3324	CC-233	3
+3325	nab-docetaxel	3
+3326	nab-thiocolchicine dimer	3
+3327	nab-rapamycin	3
+3328	tanzisertib	3
+3329	PDA-001	9
+3330	cenplacel-L	9
+3331	vandetanib	3
+3332		3
+3333	IFNbeta-1a extended release	4
+3334	CCX-025	3
+3335	lurasidone	3
+3336	encenicline	3
+3337	salmeterol + fluticasone propionate	3
+3338	formoterol / budesonide	3
+3339	fluticasone propionate	3
+3340	fluticasone propionate	3
+3341	pitavastatin	3
+3342	mercaptamine	3
+3343	human hemin	4
+3344	NN7088	4
+3345	mAb2021	4
+3346	Anti-IL21	5
+3347	idursulfase-IT	4
+3348	Gamma secretase inhibitor	3
+3349	ceftazidine + avibactam	3
+3350	ceftaroline	3
+3351	clonidine	3
+3352	GLP-1 Fc	4
+3353		4
+3354		8
+3355	atopaxar 	3
+3356	afatinib	3
+3357	fulranumab	5
+3358	saxagliptin + metformin XR	3
+3359	saxagliptin + metformin XR / saxagliptin + metformin IR	3
+3360	sitagliptin + pioglitazone	3
+3361	TAK-960	3
+3362	galantamine	3
+3364	BK-4SP	8
+3365	eribulin	3
+3366		3
+3367	ipilimumab	5
+3368	linsitinib	3
+3369	OSI-027	3
+3370		3
+3371	bendamustine	3
+3372		7
+3373	pramipexole	3
+3374	fluorouracil + salicyclic acid	3
+3375	SYN-115	3
+3376	SYN-118	3
+3377	pegloticase	4
+3378	febuxostat	3
+3379	nab-paclitaxel	3
+3380	GSK - 557296	3
+3381	azilsartan / azilsartan medoxomil	3
+3382		NULL
+3383	olmesartan + amlodipine	3
+3384	KNS-760704 	3
+3385	laquinimod	3
+3386	denosumab	5
+3387	darexaban	4
+3388	ASP-7035	3
+3389	asenapine	3
+3390	vorapaxar	3
+3391	pramlintide + metreleptin	4
+3392	eldecalcitol	3
+3393	CRTH2 antagonist	3
+3394	Anti-FGFR3 MAb	5
+3395	IAP antagonist	3
+3396	anti-CD22	5
+3397	anti-HER3 MAb	5
+3398	beclomethasone	3
+3399	aflibercept	4
+3404	GS 9451	3
+3405	GS-5885	3
+3406		3
+3407	escitalopram	3
+3408	escitalopram	3
+3409	carfilzomib	3
+3410	LAS100977 + ICS	3
+3411	LAS41003	3
+3412	LAS41004	3
+3413	afutuzumab / obinutuzumab	5
+3414		4
+3415	liprotomase	4
+3416	testosterone 	3
+3417	apaziquone	3
+3418	AMG 820	5
+3419	SER-120	3
+3420	AMG 900	3
+3421		3
+3422	AZD5213	3
+3423	MEDI-578	5
+3424	octreotide implant	3
+3425	RTA-402	3
+3426	MK-3102	3
+3427	MK-3697	3
+3428	pneumococcal vaccine	8
+3429	MK-8342	3
+3430	lonafarnib	NULL
+3431		NULL
+3432		NULL
+3433	terguride	3
+3434	UK-396082	3
+3435	PF-3715455	3
+3436		3
+3437		3
+3438		3
+3439		3
+3440	bococizumab	5
+3441		NULL
+3442		NULL
+3443	PF-5208762	4
+3444		3
+3445	PF-04449913	3
+3446	GRC15300	3
+3447	MM-121	5
+3448	Anti-PNAG mAb	5
+3449	anti-CD38 MAb	5
+3450	SAR566658	5
+3451	SAR-302503	3
+3452	SAR101099	3
+3453	SAR104772	3
+3454	SAR114137	3
+3455	IKK-beta inhibitor	3
+3456	cyclosporine + prednisolone	3
+3458	SAR100842	3
+3459	desmopressin	3
+3460	tranexamic acid	3
+3461	ozagrel hydrochloride	3
+3462	beraprost	3
+3463	PF-4382923	5
+3464	CNV1014802	3
+3465	CNV2197944	3
+3466	IPX066	3
+3468	migalastat	3
+3469	alemtuzumab	5
+3470	cladribine	3
+3471	volasertib	3
+3472	BMS-241027	3
+3473	triple reuptake inhibitors	3
+3474	MenB vaccine	8
+3475	JNJ-42160443	5
+3476	PG-110	5
+3477	RG1678	3
+3478	recombinant anti-thrombin	4
+3479	empagliflozin	3
+3480	linagliptin	3
+3481	BMS-708163	3
+3482	ONO-2745	3
+3483	NERI IV	3
+3484	ketorolac	3
+3485	tasimelteon	3
+3486	FOV1101	3
+3487	memantine	3
+3488	vilazodone	3
+3489	ABR-215050	3
+3490	dihydroergotamine	3
+3491	siltuximab	5
+3492	gabapentin GR	3
+3493	dabrafenib	3
+3494	trametinib	3
+3495	ABT-888	3
+3496	azelastine	3
+3497	montelukast	3
+3498	PF-05089771	3
+3499	"dihydroergotamine, inhaled"	3
+3500	teduglutide	4
+3501	ezogabine	3
+3502	brotizolam	3
+3504	levodopa + carbidopa GR	3
+3505	apixaban	3
+3506	GSK557296	3
+3507	fentanyl citrate	3
+3508		NULL
+3509	repaglinide	3
+3510		3
+3511	vinpocetine	3
+3512	ezogabine / retigabine	3
+3513	bupropion extended-release	3
+3514	idebenone	3
+3515	PI3K delta inhibitor	3
+3516	cilostazol	3
+3517	MVA-HPV-IL2	8
+3518	TV-1101	7
+3519	flecainide	3
+3520	nitroglycerine 	3
+3521	nitroglycerine patch	3
+3522	tolperisone	3
+3523	lisinopril	3
+3524	carisoprodol	3
+3525	tramadol	3
+3526	tramadol	3
+3527		3
+3528	methylnaltrexone	3
+3529	ADL-5945	3
+3530	nicotine conjugate vaccine	8
+3531	inhalant colistin	3
+3532	belagenpumatucel-L	7
+3533	GRT 6005	3
+3534	Id-KLH/GM-CSF	8
+3535	ruxolitinib	3
+3536	azilsartan medoxomil 	3
+3537	TAK-272	3
+3538	ASP8477	3
+3539	subcutaneous rituximab	5
+3540	tebipenem	3
+3541	fidaxomicin	3
+3542	ruxolitinib	3
+3543	acyclovir	3
+3544	clobazam	3
+3545	azacitidine	3
+3546	candesartan	3
+3547	E7080	3
+3548	tetrabenazine	3
+3549	NETU-PALO FDC	3
+3550	liprotamase	4
+3551	UCB0942	3
+3552	olokizumab	5
+3553		7
+3555	tofacitinib	3
+3556	tetrabenazine	3
+3557	boceprevir	3
+3558	alendronate	3
+3559	paliperidone / paliperidone palmitate	3
+3560	paliperidone / paliperidone palmitate	3
+3561	rFVIIIFc	4
+3562	"Long-acting rFactor IX, rFIXfc"	4
+3563	baminercept	5
+3564	BG00010	2
+3565	BIIB-023	5
+3566	CD40L-Fab	5
+3567	RG7128	3
+3568		3
+3569	RetinoStat	6
+3570		3
+3571	REGN846	5
+3572	SSR411298	3
+3573	romiplostim	5
+3574		NULL
+3575	anti-CD3 mAb	5
+3576	Enteripep PTH	2
+3577	albiglutide	2
+3578	2245840	3
+3579	1278863	3
+3580	2336805	3
+3581	2485852	3
+3582	2018682	3
+3583	Focal adhesion kinase inhibitor	3
+3584	vestipitant	3
+3585	705498	3
+3586	1322888	3
+3587	1440115	3
+3588	685698	3
+3589		8
+3590		8
+3591	belimumab	5
+3592	roflumilast	3
+3593		2
+3594	GSK2321138A	8
+3595		3
+3597	clindamycin + benzoyl peroxide	3
+3598	tazarotene	3
+3599	calcipotriol	3
+3601	clindamycin phosphate + tretinoin	3
+3602	epoetin alfa	4
+3603	DEB025	3
+3604	edoxaban	3
+3605	ceftaroline	3
+3606	AZD5658	3
+3607	selumetinib	3
+3608	AZD2461	3
+3609	AZD3514	3
+3610	MEDI551	5
+3611	AZD4547	3
+3612	AZD2014	3
+3613	MEDI-3617	5
+3614	AZD5363	3
+3615	MEDI-565	5
+3616	AZD5847	3
+3617	AZD9742	3
+3618	AZD2423	3
+3619	AZD8683	3
+3620	AZD5423	3
+3621	AZD5069	3
+3622	rufinamide	3
+3623	MEDI-551	5
+3624	MEDI-557	5
+3625		3
+3626	hypoxia-inducible factor prolyl hydroxylase	3
+3627	finerrnone	3
+3628	pegylated Factor VIII	4
+3629	BAY 79-4620	5
+3630		NULL
+3631		NULL
+3632	gatifloxacin	3
+3633	levetiracetam	3
+3634	AZD9819	3
+3635	AZD4017	3
+3636	MDX1333	5
+3637	MEDI-570	5
+3638	MEDI-546	5
+3639	diquafosol tetrasodium	3
+3640	botulinum toxin B	4
+3641	IDX899	3
+3642	lersivirine	3
+3643	brinzolamide / brinzolamide + timolol	3
+3644		2
+3646	EPA + DHA	3
+3647	fentanyl - transdermal	3
+3648	fentanyl - transmucosal	3
+3649	dorzolamide / dorzolamide + timolol	3
+3650	fentanyl - BEMA	3
+3651	AV299	5
+3652	tivozanib	3
+3653	clindamycin + benzoyl peroxide	3
+3654	tazarotene	3
+3655	AVE8062	3
+3656	MORAb-009	5
+3657	mesalazine	3
+3658	lanreotide	3
+3659	ritodrine	3
+3660	silodosin	3
+3661	trastuzumab SC	5
+3662	azithromycin + chloroquine	3
+3663	tramadol - extended release	3
+3664	lafutidine	3
+3665	rebamipide	3
+3666	ABT-267	3
+3667	ABT-126	3
+3668	ABT-288	3
+3669	ABT-384	3
+3670	elotuzumab	5
+3671		NULL
+3672		5
+3673	AMG-181	5
+3674	AMG 319	3
+3675	AMG 337	3
+3676	AMG 780	5
+3677	GM-CSF	8
+3678	BMS-986001	3
+3679	belatacept	4
+3680	TGR5 agonist	NULL
+3681		3
+3682	FGF21-PKE Adnectin	NULL
+3683	NS5B inhibitor	3
+3684	VEGF R-2 Adnectin	5
+3685	evacetrapib	3
+3686		NULL
+3687		NULL
+3688		3
+3689	V212	8
+3690	navarixin	3
+3691	SCH-900222	NULL
+3692	ADL-5747	3
+3693		NULL
+3694		NULL
+3695		NULL
+3696	ATN-192	NULL
+3697	AAB-003	5
+3698		NULL
+3699	doxecalciferol	3
+3700	follitropin alfa	4
+3701	WT1 peptide vaccine	8
+3702	WT1 peptide vaccine	8
+3703	anti-IL6 MAb	5
+3704	CC-223	3
+3705	CH5424802	3
+3706	PA799	3
+3707	LY451395	NULL
+3708	LY-2886721	3
+3709	LY2886721	3
+3710	AAB-003	NULL
+3711	PF-5089771	3
+3712	PH-797904	NULL
+3713	Fx-1006A	3
+3714		NULL
+3715		4
+3716		3
+3717		4
+3718	U3-1565	5
+3719	RG7201	3
+3720		3
+3721	S-488410	2
+3722	beclomethasone	3
+3723	medroxyprogesterone	3
+3724	fentanyl - buccal	3
+3725	orantinib	3
+3726	trifluridine + TPI	3
+3727	ethynylcytidine	3
+3728	trabectedin	3
+3729	elpamotide	8
+3730	STAT3 inhibitor	3
+3731	OPB-51602	3
+3732	OTS11101	8
+3733	rotigotine patch	3
+3734	OPC-34712	3
+3735	saxagliptin / saxagliptin + metformin	3
+3736	delamanid	3
+3737	OPC-6535	3
+3738	OPC-6535	3
+3739	tolvaptan	3
+3740	Emixustat	3
+3741	TAC-201	3
+3742	NST-141	3
+3743	piperacillin + tazobactam	3
+3745	Lu AF11167	3
+3746	tafamidis meglumine	3
+3747	ACT-128800	3
+3748	bazedoxifene	3
+3749	JNJ-31001074	3
+3750	gabapentin enacarbil	3
+3751	colistin	3
+3752	azithromycin	3
+3753	fidaxomicin	3
+3754	nab-17AAG	3
+3755	ACE-031	4
+3756	heparan N-sulfatase	4
+3757	pregabalin	3
+3758	SXN-100323	4
+3759	KW-0761	5
+3760	abiraterone	3
+3761	NXL-104	3
+3762	telaprevir	3
+3763	idelalisib	3
+3764	itraconazole	3
+3765	pralatrexate	3
+3766	RG7204	3
+3767	guanfacine	3
+3768	M0003	3
+3769	M0002	3
+3770	telaprevir	3
+3771		7
+3772	aflibercept	4
+3773	rilpivirine	3
+3774	lurasidone	3
+3775		3
+3776		NULL
+3777	omacetaxine mepesuccinate	3
+3778	fimasartan 	3
+3779	TASQ	3
+3780	recombinant factor IX	4
+3781	recombinant porcine factor VIII 	4
+3782	talimogene laherparepvec	8
+3783	valsartan	3
+3784	somatropin	4
+3785	alendronate	3
+3787	sarecycline	3
+3788	topical alprostadil	3
+3789	oxycodone - abuse-deterrent	3
+3790	telaprevir	3
+3791	brentuximab vedotin	5
+3792	peg-interferon alpha 2b	4
+3793	cabozantinib	3
+3794	linagliptin / linagliptin + metformin	3
+3795	Insulin glargine	4
+3796	AMG 479	5
+3797	fentanyl intranasal	3
+3798	fentanyl - intranasal	3
+3799	RG1594	5
+3800	norethindrone + ethinyl estradiol	3
+3801	norethindrone + ethinyl estradiol	3
+3802	Sclerostin MAb	5
+3803	LY-2300559	3
+3804	LY-2090314	3
+3805	LY-2603618	3
+3806		4
+3807	progesterone gel	3
+3808	progesterone gel	3
+3809	ganetespib	3
+3810	ulipristal acetate	3
+3811	vintafolide 	3
+3812	fentanyl - buccal	3
+3813	dornase alpha	4
+3814	GRT 6006	3
+3815	NE-10064	3
+3816	IDP 115	3
+3817	IDP 107	3
+3818	IDP-108	3
+3819	IDP 113	3
+3820	metronidazole	3
+3821	pimecrolimus	3
+3822	aciclovir + hydrocortisone	3
+3823	palifosfamide	3
+3824	indibulin	3
+3825	ACH-1625	3
+3826	laquinimod	3
+3827	thiarabine	3
+3828	AC105	3
+3829	naptumomab estafenatox	5
+3830	Unknown antibiotic	3
+3831	CRTH2 receptor antagonist 	3
+3832	vemurafenib	3
+3833		3
+3835	cadazolid	3
+3836	lapuleucel-T	9
+3837	dexpirronium	3
+3838	flupirtine	3
+3839	valsartan + amlodipine	3
+3840	QAW039	3
+3841	sotirimod 	3
+3842	QGE031	5
+3843	metreleptin	4
+3844	D-3263 HCI	3
+3845	mericitabine	3
+3846	GC33	5
+3847	GC33	5
+3848	cariprazine	3
+3849	Cathepsin S Antagonist	3
+3850	BRAF Kinase Inhibitor	3
+3851	anti-CD44	5
+3852	RG7432	3
+3853	PDL1 inhibitor	5
+3854	RG7450	5
+3855	RG7458	5
+3856	RG7596	5
+3857	RG7599	5
+3858	ABT-199	3
+3859	GDC-0425	3
+3860	RG7603	3
+3861	RG7604	3
+3862	GIP/GLP-1 dual agonist	2
+3863	BI-54903	3
+3864	volasertib	3
+3865	empagliflozin	3
+3866	BI671800	3
+3867	BI-811283	3
+3868	BI836826	3
+3869	BI836845	3
+3870	BI-847325	3
+3871	BI-836826	5
+3872	BI-836845	5
+3873	BI-44370	3
+3874	BI-671800	3
+3875	BI-137882	3
+3876	AbGn-168	5
+3877	RG7128	3
+3878	BI-853520	3
+3879	RG7090	3
+3880	BI-135585	3
+3881	HIV integrase inhibitor	3
+3882	BI-113823	3
+3883	BI-11634	3
+3884	BI-660848	3
+3885	BI-831266	3
+3886	dalfampridine	3
+3887	debrase	3
+3888		9
+3889	pan Bcl-2 inhibitor	3
+3890	NX 1207	3
+3891	peg-avonex	2
+3892	BIIB-037	5
+3893	SAR231893	5
+3894	REGN910	5
+3895	SAR125844	3
+3896	SAR407899	3
+3897	NN1953	2
+3898	SAR339658	5
+3899	SAR156597	5
+3900	everolimus	3
+3901	vandetanib	3
+3902	AGN-214868 / SXN-100323	4
+3903	S-707106	3
+3904	asimadoline	3
+3905	evacetrapib	3
+3906	zolpidem	3
+3907		8
+3908	AZD2820	3
+3909	AZD2927	3
+3910	tralokinumab	5
+3911		5
+3912	AZD3839	3
+3913	mGlu2 PotCys	3
+3914	COL-144	3
+3915	KKW0761	5
+3916	khk-2866	5
+3917	LY-2523355	3
+3918	AZD5099	3
+3919	AZD2115	3
+3920	KHK-6188	3
+3921	MEDI-2338	5
+3922	MEDI-8968	5
+3923		NULL
+3924		NULL
+3925	verapamil	3
+3926	MK-4305	3
+3927	crizotinib	3
+3928	sublingual zolpidem	3
+3929	sublingual zolpidem	3
+3930	teriflunomide	3
+3931	arx-424	2
+3932	mapracorat	3
+3933		3
+3934	dehydroepiandrosterone	3
+3935	beloxepin	3
+3936	AEZS-112	3
+3937	macimorelin	3
+3938	zoptarelin doxorubicin	2
+3939	talactoferrin	4
+3940	ALXN-6000	5
+3941	Staccato loxapine	3
+3942	AN-2728	3
+3944	pimecrolimus	3
+3945	a-002	3
+3946	A-001	3
+3947	a-002	3
+3948	PEG-epoetin beta	4
+3949	ulipristal acetate	3
+3950	PGL2-2001	3
+3951	simeprevir	3
+3952	LAS41002	3
+3953	Vaxem Hib	8
+3954	ASP-0113	8
+3955	MAXY-4	4
+3956	Vemurafenib	3
+3957	semuloparin	4
+3958	bendamustine	3
+3959	asparaginates	3
+3960	spironolactone	3
+3961	lisinopril + amlodipine	3
+3962	daclatasvir	3
+3963	AMG 827	5
+3964	Anti-IP10	5
+3965	p38 Kinase inhibitor	3
+3966	Anti-CD28	5
+3967	Anti-IL6	5
+3968	telmisartan + hydrochlorothiazide	3
+3969	telmisartan + amlodipine 	3
+3970	IL-21	5
+3971	Anti-CD137	5
+3972	Raf Kinase Inhibitor	3
+3973	AM152	3
+3974	IPH2102	5
+3975		5
+3976	atrasentan	3
+3977	lixisenatide	2
+3978	ABT-639	3
+3979		3
+3980	ABT-767	3
+3981	ABT-413	3
+3982		5
+3983		3
+3984		3
+3985	oxymetazoline	3
+3986	PF-05236812	5
+3987		3
+3988		3
+3989	carlumab	5
+3990	flu-mAb	5
+3991		3
+3992	MK-4618	3
+3993	MK-3222	5
+3994	rilimogene galvacirepvec	8
+3995	litronesib	3
+3996		5
+3997		5
+3998	ozoralizumab	5
+3999		5
+4000		5
+4001	anrukinzumab	5
+4002		5
+4003	tafamidis meglumine	3
+4004	oxycodone + naltrexone	3
+4005	PD-325901	3
+4006	PF-05082566	5
+4007	4-antigen Staph Aureas	8
+4008		3
+4009	Anti-NKG2A	5
+4010	IDegLira	2
+4011	NN1731	4
+4012	turoctocog alfa	4
+4013	ferroportin	5
+4014	hepcidin	5
+4015	Hedgehog antagonist	3
+4016		3
+4017	ralimetinib	3
+4018		3
+4019		3
+4020		3
+4021	p70/AKT Inhibitor	3
+4022		5
+4023	VEGFR3 inhibitor	5
+4024		5
+4025		5
+4026		5
+4027		5
+4028	doxorubicin	3
+4029	CDK 4/6 Inhibitor	3
+4030	gandotinib	3
+4031		3
+4032	LY3039478	3
+4033	lixisenatide + Lantus	2
+4034	warfarin 	3
+4035	mipomersen	7
+4036	MultiStem	9
+4037	BMS 394136	3
+4038		3
+4039	axomadol	3
+4040	tafamidis meglumine	3
+4041	vernakalant - oral	3
+4042	Lercanidipine + enalapril 	3
+4043	ibuprofen + famotidine	3
+4044	valsartan	3
+4045	ALXN-6000	5
+4046	talactoferrin	4
+4047	barasertib	3
+4048	ARRY424704	3
+4049	BMS-754807	3
+4050	emibetuzumab	5
+4051	ronciclib	3
+4052	CVX241	5
+4053	CXCR4 inhibitor	5
+4054	FGFR inhibitor	3
+4055	flanvotumab	5
+4056	GSK3 inhibitor	3
+4057	JAK 2 inhibitor	3
+4058	anti-PD-LI	5
+4059	BAY86-9766	3
+4060	MK-0752	3
+4061	MK-1775	3
+4062	MK-2206	3
+4063	MK-4827	3
+4064	MK-8033	3
+4065	MLN4924	3
+4066	alisertib	3
+4067	ixazomib citrate	3
+4068	Notch inhibitor	3
+4069	pan Bcl-2 inhibitor	3
+4070	PF-5212384	3
+4071	narnatumab	5
+4072	sepantronium bromide	3
+4073	BMS-982470	4
+4074	aprepitant / fosaprepitant	3
+4075		3
+4076	palonosetron	3
+4077	HIV integrase inhibitor	3
+4078	ferroportin	5
+4079		4
+4080	anti-hepcidin MAb	5
+4081		4
+4082	moroctocog alfa	4
+4083	oral contraceptives	3
+4084	erteberel	3
+4085	LY-2452473 + tadalafil	3
+4086	recombinant factor IX	4
+4087	recombinant factor IX	4
+4088	RTA-402	3
+4089	azilsartan	3
+4090	ronacaleret	3
+4091	bentamapimod	3
+4092	deferiprone	3
+4093	influenza vaccine	8
+4094	BI-54903 + Spiriva	3
+4095	nintedanib	3
+4097	crizotinib	3
+4098	buprenorphine - transdermal	3
+4099	nomegestrol + estrogen	3
+4100	tramadol / tramadol + acetaminophen	3
+4101	ARQ197	3
+4102	crizotinib	3
+4103	oral contraceptives	3
+4104		3
+4105		3
+4106	Other MS Agents	3
+4107		NULL
+4108	erlotinib	3
+4109	epoprostenol	3
+4110		8
+4111		3
+4112	tretinoin	3
+4113	dasatinib	3
+4114	oral contraceptives	3
+4115	RG3616	3
+4116	interferon-beta 1a	4
+4117	paroxetine	3
+4118	plovamer	2
+4119	simtuzumab	5
+4120	LY2951742	5
+4121	mGlu2 Pot/Cys	3
+4122	Staccato loxapine	3
+4123	LY-2928057	5
+4124	NXL-104	3
+4125	telaprevir	3
+4126	fingolimod	3
+4127	liposomal vincristine sulfate	3
+4128	liposomal topotecan	3
+4129	liposomal vinorelbine	3
+4130	vitamin K3	3
+4131	anti-endosialin MAb	5
+4132	ODM-201	3
+4133	asunaprevir	3
+4134	tegobuvir	3
+4135	lipegfilgrastim	4
+4136	PSI-7977	3
+4137		3
+4138	certolizumab	5
+4139	fluorouracil + salicyclic acid	3
+4140	Human insulins	4
+4141	glycopyrronium	3
+4142	nomegestrol + estradiol	3
+4143		8
+4145	ONO-4641	3
+4146	emepepimut-S	8
+4147	Dengue fever vaccine	8
+4148	other vaccines	8
+4149	pediatric vaccine	8
+4150	travel vaccine	8
+4151	Tuberculosis vaccine	8
+4152	esomeprazole	3
+4153	MetMAb / anti-cMet	5
+4154	OPA-6566	3
+4155	RTH-258	5
+4156	mechlorethamine 	3
+4157	mechlorethamine 	3
+4158	natalizumab	5
+4159	escitalopram	3
+4160	escitalopram	3
+4161	olanzapine	3
+4162	risperidone	3
+4163	venlafaxine	3
+4164	abicipar pegol	4
+4165	fentanyl - sublingual	3
+4166	asenapine	3
+4167	ODM-201	3
+4168	Recombinant porcine Factor VIII	4
+4169	histamine dihydrochloride	3
+4170	budesonide	3
+4171	formoterol	3
+4172	azelastine + fluticasone	3
+4173	azelastine	3
+4174	indacaterol + glycopyrronium	3
+4175	ketoprofen + omeprazole	3
+4176	naproxcinod	3
+4177	Staccato loxapine	3
+4178	PDA-001	9
+4179	aclidinium	3
+4180	morphine	3
+4181	varespladib 	3
+4183	ferric carboxymaltose	3
+4185	DS-7309	3
+4186	dextromethorphan + quinidine	3
+4187		3
+4188	GS 7340	3
+4189	dolutegravir	3
+4190	DiaPep-277	2
+4191	DS-7309	3
+4192	imiquimod	3
+4193	clindamycin + tretinoin	3
+4194	clindamycin + tretinoin	3
+4195	tretinoin	3
+4196	dolutegravir / abacavir / lamivudine FDC	NULL
+4197	LGT209	5
+4198	levothyroxine	3
+4199	TTP-399	3
+4200	Staph aureus	8
+4201	omalizumab	5
+4202	RG7598	5
+4203	Anti-TWEAK MAb	5
+4204	RO5028442	3
+4205		5
+4206	RO-4602522	3
+4207	RG7129	3
+4208	MetMAb / anti-cMet	5
+4209	lebrikizumab	5
+4210	Staph aureus	8
+4213	ponatinib	3
+4214	Azacitidine	3
+4215	ACE-536	4
+4216	deferiprone	3
+4217		3
+4218	setipiprant	3
+4219	MnB rLp2086	8
+4220		3
+4221	REGN846	5
+4222		4
+4223		3
+4224		3
+4225		4
+4226	ferric carboxymaltose	3
+4227	iron sucrose	3
+4228	sustained-release somatropin	4
+4229	sustained-release somatropin	4
+4230	sustained-release somatropin	4
+4231	somatropin	4
+4232	somatropin	4
+4233	somatropin	4
+4234		7
+4235		3
+4236	StarGen	6
+4237	SAR231893	5
+4238	ilorasertib	3
+4239		5
+4240	ABT-700	5
+4241	ABT-652	3
+4242	 	5
+4243	S1P1 + S1P5 modulator	3
+4244	tregalizumab	5
+4245		8
+4246		8
+4247	LY-2623091	3
+4248	dolutegravir / abacavir / lamivudine FDC	3
+4249	thiarabine	3
+4250	VX-770	3
+4251	VX-809	3
+4252	LAS100977 + ICS	3
+4253	ATL313	3
+4254		NULL
+4255	betafectin PGG glucan	10
+4256	ceftazidime + avibactam	3
+4257	fidaxomicin	3
+4258	MT-1303	3
+4259	MT-7716	3
+4260	testosterone gel	3
+4261	sitagliptin + simvastatin	3
+4262		3
+4263	mirabegron	3
+4264	abatacept	5
+4265	mGlu2/3 prodrug	3
+4266	ferric citrate	3
+4267	candesartan + hydrochlorothiazide	3
+4268	candesartan + amlodipine	3
+4269	rebamipide	3
+4270	sarilumab	5
+4271	brexpiprazole	3
+4273	tbo-filgrastim	4
+4274		4
+4275	Other Huntington's Disease Agents	3
+4276	Other Stroke Recovery Agents	3
+4277	Other ALS Agents	3
+4278	Other Muscle Relaxants	3
+4279	Other Neurotoxins	4
+4280	empagliflozin + linagliptin	3
+4282	rilonacept	4
+4283	exenatide implant	2
+4284	various	3
+4285		NULL
+4286		NULL
+4287		NULL
+4288		NULL
+4289	telatinib	3
+4290	SNDX-275	3
+4291	MK-8931	3
+4292	Panvac	8
+4293	darunavir/emtricitabine/GS-7340/cobicistat FDC	3
+4295	rMenB / MenACWY combination	8
+4296	lisdexamphetamine	3
+4297	guanfacine ER	3
+4298	herpes zoster vaccine	8
+4299	GSK1437173A	8
+4300	exenatide 	2
+4301	GS-6620	3
+4302	GS-9669	3
+4303	PSI-938	3
+4304		3
+4305		3
+4306		3
+4307	esterol + progestin	3
+4308		3
+4309	MEK inhibitor	3
+4310	NHS-IL-12	5
+4311	ARRY-382	3
+4312	CC-115	3
+4313	Rivoglitazone	3
+4314	CC-122	3
+4315	Betamethasone sustained-release	3
+4316	DE105	3
+4317		3
+4318	ARG098	5
+4319		3
+4320	pegylated irinotecan	3
+4321	aceclofenac	3
+4322	aceclofenac	3
+4323	SYM001	5
+4324	SM101	5
+4325	ALX-0681	5
+4326	recombinant von Willebrand factor	4
+4327	patiromer calcium	3
+4328	lesinurad	3
+4329	LAPS-hGH	4
+4330	anamorelin	3
+4331	hGH-XTEN	4
+4332	elosulfase alfa	4
+4334	Aes-103	3
+4336	recombinant human alpha-mannosidase	4
+4337	anti-sclerostin mAb	5
+4338	human parathyroid hormone	3
+4339	human parathyroid hormone-related peptide analog	4
+4340	glucagon-like peptide-2 agonist	2
+4341	latanoprost (ophthalmic suspension)	3
+4342		3
+4343		3
+4344	latanoprost	3
+4345	NCX116	3
+4346	axitinib	3
+4347	E7820	3
+4348	ESBA105	5
+4349	CNTO-2476	9
+4350	ASP-5034	3
+4351	darunavir / cobicistat	3
+4352	ASG-16M8F	5
+4353	ASG-5ME	5
+4354	ASP-1707	2
+4355	ASP-9521	3
+4356	AGS-22M6E	5
+4357	ASP-7373	8
+4358	ASP-7374	8
+4359	ASP-0306	3
+4360	linaclotide	3
+4362	CYT387	3
+4363	AC-220	3
+4365	ezatiostat hydrochloride	3
+4366	canfosfamide	3
+4367	PCI-32765	3
+4368	Factor VIIa inhibitor	3
+4369	abexinostat	3
+4370	AMG 221	3
+4371	liposomal cytarabine + daunorubicin	3
+4372	ceritinib	3
+4373	encorafenib	3
+4374	CHR-2797	3
+4376	CHR-2797	3
+4377	DSP-8658	3
+4378	DSP-1053	3
+4379	TAK-361S	8
+4380	PLX-3397	3
+4381	alendronate	3
+4382	BI 224436	3
+4383	ASP7373	8
+4384	ASP7374	8
+4385	KD-287	8
+4386	tedizolid	3
+4387	tedizolid	3
+4388	neratinib	3
+4389	olodaterol + BI-54903	3
+4391	nalmefene	3
+4392	SYN115	3
+4393	asimadoline	3
+4394	tarafenacin	3
+4395	HA-irinotecan	3
+4396	secukinumab	5
+4397	lafutidine	3
+4398	oxybutynin vaginal ring	3
+4399	edaravone	3
+4400	epoetin alfa	4
+4401	darbepoetin alfa	4
+4402	nartograstim	4
+4403	buprenorphine - BEMA	3
+4404	intranasal ketorolac	3
+4405	rhBMP-2	4
+4406	gabapentin enacarbil	3
+4407	rotigotine patch	3
+4408	PF-02545920	3
+4409	PF-03049423	3
+4410	PF-04427429	5
+4411	PF-04531083	3
+4412	PF-04958242	3
+4413	PF-05089771	3
+4414	PF-05180999	3
+4415	PF-05297909	3
+4416	PF-05212377	3
+4417	AAB-003	5
+4418	mGluR2 PAM	3
+4419	lifitegrast	3
+4420	ibrutinib	3
+4421	AAB-003	5
+4422	BART	5
+4423	BART	5
+4424	paroxetine	3
+4425	INX-189	3
+4426	extended release Rebif	4
+4427	INS117548	3
+4428	INS115644	3
+4429	AL8309B	3
+4430	pasireotide / pasireotide LAR	2
+4431	fluocinolone acetonide intraocular implant	3
+4432	levoleucovorin	3
+4433	BMS-820836	3
+4434	BMS-866949	3
+4435	AIN457	5
+4436	BCT197	3
+4437	BYL719	3
+4438	LCI699	3
+4439	LFF571	2
+4440	binimetinib	3
+4441	elvitegravir/emtricitabine/GS-7340/cobicistat FDC	3
+4442	elvitegravir/emtricitabine/GS 7340/cobicistat FDC	3
+4443	darunavir/emtricitabine/GS 7340/cobicistat FDC	3
+4444	Sodium Hyaluronate Ophthalmic Solution	3
+4446	TRPV1 antagonist	3
+4447	PF-04634817	3
+4449	vismodegib	3
+4450	etonogestrel + ethinylestradiol vaginal ring	3
+4451	iloprost	3
+4452	zolmitriptan	3
+4453	IB1001	4
+4454	clonazepam	3
+4455	idebenone	3
+4456	masitinib	3
+4457	RG7790	3
+4458	ANA773	3
+4459	HER3 inhibitor	5
+4460	anti-CSF1R MAb	5
+4461	anti-TSLP MAb	5
+4462	MDM2 antagonist	3
+4463	RG7600	5
+4464	anti-IL17 MAb	5
+4465	RG7667	3
+4466	CB-315	3
+4467	NN9223	2
+4468	Long-acting Growth Hormone	4
+4469	lepirudin	4
+4470	C1 esterase inhibitor [human]	4
+4471	polmacoxib	3
+4472	mirogabalin	3
+4473	AGN-209323	3
+4474	ASP-3652	3
+4475	perifosine	3
+4476	ivacaftor	3
+4477		3
+4478	insulin glargine	4
+4479	insulin glargine	4
+4480	trelagliptin	3
+4481	dupilumab	5
+4482	REGN910	5
+4484	SAR100842	3
+4486	ivacaftor/lumacaftor	3
+4487	ivacaftor+VX-661	3
+4488	fostamatinib	3
+4489	AD02	8
+4490	CEM-102	3
+4491	bitopertin	3
+4493	vanutide cridificar	8
+4494	dabrafenib	3
+4495	trametinib	3
+4496	ceftaroline	3
+4497	ADX71149	3
+4498	MEDI546	5
+4499	CXA-101 plus tazobactam	3
+4500	delafloxacin	3
+4501	dalbavancin	3
+4502	glycopyrronium	3
+4503	pergolide	3
+4504	indacaterol + glycopyrronium	3
+4505	indacaterol	3
+4506	sitagliptin + atorvastatin	3
+4507	tafluprost	3
+4508	sofosbuvir	3
+4509	dorzolamide + timolol	3
+4510	bendamustine	3
+4511	collagenase	4
+4512	aclidinium	3
+4513	aclidinium	3
+4514	formoterol + aclidinium	3
+4515	PPSV23	8
+4516	GLPG-0634	3
+4517	MT103	5
+4518	AN2898	3
+4520	camicinal	3
+4521	bevenopran	3
+4522	laninamivir	3
+4523	peramivir	3
+4524	ipragliflozin	3
+4525	canagliflozin / canagliflozin + metformin	3
+4527	beclomethasone dipropionate	3
+4529	solitomab	5
+4530	talimogene laherparepvec	8
+4531	talimogene laherparepvec	8
+4532	HIV Maturation Inhibitor	3
+4533		3
+4534	rilotumumab	5
+4535	AMG 579	3
+4536	CD19 inhibitor	5
+4537		4
+4538	BMS-945429	5
+4539	CNTO 136	5
+4540	LY3009104	3
+4541	LY-2127399	5
+4542	LY-2439821	5
+4543	Alpha-7 nicotinic agonist	3
+4544		NULL
+4545		3
+4546		3
+4547	CCR1 antagonist	3
+4548		4
+4549	denosumab	5
+4550	A-623	2
+4551	lipegfilgrastim	4
+4552	micafungin	3
+4553	dimethyl fumarate	3
+4554	azilsartan	3
+4555	SLV354	3
+4556		5
+4557	IL-1 inhibitor 	5
+4558	zoledronic acid	3
+4559		5
+4560		5
+4561	ASP-4901	3
+4562	NX-1207	4
+4563		3
+4564	MDCO-2010	3
+4565	MDCO-216	2
+4566	Argatroban 	3
+4570	BAY 1002670	3
+4571	diclofenac + hyaluronic acid gel	3
+4572	clopidogrel - intravenous	3
+4573		8
+4574	EXC 001	7
+4575		4
+4576		3
+4577	Rivipansel	3
+4578		4
+4579	epoetin alfa	4
+4580	darbepoetin alpha	4
+4582		8
+4583	cinacalcet	3
+4584		3
+4586		NULL
+4587	certolizumab	5
+4588	silodosin	3
+4589	tolterodine 	3
+4590		3
+4591	BBI503	3
+4592	radium-223	12
+4593	Rituximab	5
+4594	RDEA-594	3
+4595	BGS649	3
+4596		8
+4597	rituximab	5
+4598	rituximab biosimilar	5
+4599	dolutegravir	3
+4600	recombinant microplasmin	4
+4601	ocriplasmin	4
+4602	norethindrone + ethinyl estradiol	3
+4603	AVL-292	3
+4604	tribenoside + lidocaine	3
+4605	pediatric vaccine	8
+4606	measles / rubella vaccine	8
+4607	influenza vaccine	8
+4608	encephalitis vaccine	8
+4609	EMD-531444	8
+4610	omeprazole	3
+4611	Chondrogen	9
+4612	GS-101	7
+4613	hyperimmune goat serum	NULL
+4614	ocaratuzumab	5
+4615	AGS-009	5
+4616		5
+4617		2
+4619		2
+4620	MOR-04357	5
+4621	DPK-060	2
+4622	BT-063	5
+4623	Cpn10	4
+4624		5
+4625		9
+4626	hyperimmune goat serum	5
+4627	MOR-04357	5
+4628	NF-kappa B decoy oligo	7
+4629	F8-IL10	5
+4630	Cpn10	4
+4631	INV-103	4
+4632		7
+4633	disitertide	2
+4634	DV-1179	7
+4635		4
+4636	IFN alpha kinoid	8
+4637	IMO-3100	7
+4638	Itolizumab	5
+4640	HF-1020	4
+4641		5
+4642	VLA-1 mAb	5
+4643	KB-003	5
+4644	MORab-022	5
+4645	NI-0701	5
+4647		7
+4648	anti-IFN gamma	5
+4649	NI-0801	5
+4650		7
+4651	NOX-E36	4
+4652	ocaratuzumab	5
+4653	Bovine alkaline phosphatase	2
+4654		5
+4655		9
+4656		8
+4657	NI-0401	5
+4658		2
+4659		2
+4660		5
+4661		9
+4662	midismase	4
+4663	DIMS-0150	7
+4664	mogamulizumab	5
+4665		8
+4666	bupivacaine depot	3
+4667	Alpha-7 nicotinic agonist	3
+4668	CGRP antagonist	3
+4669	PF-03654746	3
+4670	KAI-4169	3
+4671	fresolimumab	5
+4672	AUY922	3
+4673	peginesatide	2
+4674	LY-686017	3
+4675	RG7636	5
+4676	LFG316	5
+4677	sonepcizumab	5
+4678	sonepcizumab	5
+4679	Embryonic stem-derived retinal pigment epithelial (RPE) cells 	9
+4680	UshStat	9
+4681	fenretinide 	3
+4682	EC-145	3
+4683	Anti-CXCR4	5
+4684	BBI608	3
+4685	aripiprazole lauroxil / aripiprazole pro-drug depot	3
+4686	CK-2017357	3
+4687		5
+4688	amrubicin	3
+4689	K115	3
+4690	CYT003-QbG10	8
+4691	disitertide	2
+4694	gevokizumab	5
+4695	anti-IL6	3
+4696	PMX-30063	3
+4697	ESBA-105	5
+4698	salirasib	3
+4699	ono-2952	3
+4700	ono-4053	3
+4701	ono-9054	3
+4702	ASP-7174	3
+4703	ASP-7147	3
+4704	ASP9226	3
+4705	ASP-9603	3
+4706	ASP-7991	3
+4707	ASP-2409	4
+4708	MT-3995	3
+4709	MP-157	3
+4710	AIM-102	2
+4711	BIO-11006	2
+4712	CNTO-3157	5
+4713	CNTO-3157	5
+4714	Excellair	7
+4715	HI-1640V	8
+4716	P-276-00	3
+4717	TGF beta inhibitor	3
+4718	MLN2480	3
+4719	MLN0128	3
+4720	MLN1117	3
+4721	TAK-259	3
+4722	TAK-441	3
+4723	DS-7250	3
+4724	DS-2248	3
+4725	DS-7423	3
+4726	ARQ 092	3
+4727	CS-4771	3
+4728	DS-8587	3
+4729	PLX-5622	3
+4730	SUN13837	3
+4731	DSP-6952	3
+4732	DSP-0565	3
+4733	sirolimus opthalmic injection	3
+4734	ISIS 2302	7
+4735	IR-7777	8
+4736	GED-0301	7
+4737	XOMA-052	5
+4738	IFNgamma	5
+4739	SB-010	7
+4740	Stempeucel	9
+4741	Stempeucel	9
+4742	SYN-101	4
+4743	brimonidine	3
+4744	OCV-501	8
+4745	OCV105	8
+4746		5
+4747	2140944	3
+4748	OPN-305	5
+4749	IR-501	8
+4750	XmAb-5871	5
+4751	IR-502	8
+4752	POT4	2
+4753	darapladib	3
+4754	GW824575 	3
+4756	AL60371	3
+4757	S-488210	8
+4758	hydrocodone + acetaminophen	3
+4759	BAF312	3
+4760	SAR97276	3
+4762	REC-1819	3
+4763	REC-0438	3
+4764	melanocyte-stimulating hormone peptide analog	2
+4765	avanafil	3
+4766		4
+4767	nabiximols	3
+4768		8
+4769	lisdexamphetamine	3
+4770	oxycodone - injectable	3
+4771	S-117957	3
+4772		8
+4773	ALS-2200	3
+4774	ALS-2158	3
+4775	insulin degludec	4
+4776	insulin degludec + insulin aspart	4
+4777	dapagliflozin / dapagliflozin + metformin	3
+4778	taliglucerase alfa	4
+4779	AAV-based gene therapy	6
+4780	recombinant human lysosomal acid lipase	4
+4782	ridaforolimus	3
+4783		5
+4784	PEG-FGF21	4
+4785	GPR119 agonists	3
+4786	BAY 1026153	3
+4787	bimatoprost	3
+4788	LCQ908	3
+4789		3
+4790	CVX-096	2
+4791		3
+4792		3
+4793	ertugliflozin	3
+4794		3
+4795		3
+4796		NULL
+4797	OAP-189	5
+4798		5
+4799	eluxadoline	3
+4800	LX-1033	3
+4801	TH-302	3
+4802	rituximab biosimilar	5
+4803	cardiovascular	NULL
+4804	safotibant	3
+4806	recombinant human acid sphingomyelinase	4
+4807	GZ404477/SAR404477	6
+4808	XL147	3
+4809	XL765	3
+4810	Genz644282	3
+4811	sFLT01	6
+4812	nivolumab	5
+4813	vericiguat	3
+4814	BAY86-8050	3
+4815	BAY1067197	3
+4816	enzalutamide	3
+4817	desazadesferrithiocin salt	3
+4818	SPD-602	3
+4819	SAR127963	3
+4820	REGN1033	5
+4821	SAR228810	5
+4822	DHA and GLP	3
+4823	catridecacog	4
+4824	apomorphine	3
+4825	perampanel	3
+4826	RG7412	5
+4827	BC-3781	3
+4828	BC-3781	3
+4829	RGH-618	3
+4830	Ranolazine + Dronedarone 	3
+4832	IPV / DPT vaccine	8
+4833	LY-2439821	5
+4834	LY3022855	5
+4835	TAK-259	3
+4836	avarofloxacin	3
+4837	PMX-30063	3
+4838	SMN-Rx	7
+4839	STX-100	5
+4840	DSP-2230	3
+4841		9
+4842	inhaled loxapine	3
+4843	staccato loxapine	3
+4844	teneligliptin	3
+4845	AP26113	3
+4846	bafetinib	3
+4847	DCC2036	3
+4848	lorcaserin	3
+4849	bedaquiline	3
+4850	AIC246	3
+4851	rhBMP-2	4
+4852	sodium oxybate	3
+4854	acamprosate	3
+4855	acamprosate	3
+4856	raxibacumab	5
+4857	carbamazepine 	3
+4858	diclofenac sodium - topical	3
+4859	atorvastatin + amlodipine	3
+4860	QAX576	5
+4861	PA-824	3
+4862	levodopa + carbidopa XR / IPX066	3
+4863	naltrexone depot	3
+4864	vilanterol + fluticasone furoate 	3
+4865	phentermine + topiramate	3
+4866	lubiprostone	3
+4867	COR-1	2
+4868	dalcetrapib	3
+4869	CMX157	3
+4870	WBI-1001	3
+4871	Rilpivirine / Truvada FDC	3
+4872	liraglutide	2
+4873	itraconazole	3
+4874	doravirine	3
+4875	serrapeptase	2
+4876	aripiprazole depot	3
+4877	S-297995	3
+4879	GDC0084	3
+4880	GDC0575	3
+4881	arbaclofen	3
+4882	faldaprevir	3
+4883	nintedanib	3
+4884	empagliflozin + metformin	3
+4885	faldaprevir + BI-207127	3
+4886	BI-655066	3
+4887	BI-695502	3
+4888	BI-1015550	3
+4889	BI-411034	3
+4890	empagliflozin + linagliptin	3
+4891	dabrafenib/trametinib	3
+4892	BI-1021958	3
+4893	BI-144807	3
+4894		5
+4895	AZD1208	3
+4896		5
+4897	volitinib	3
+4898		5
+4899	AMG-139	5
+4900	MEDI-5872	5
+4902		5
+4903	AMG 157	5
+4904	1070806	5
+4905	1995057	5
+4906	2374697	3
+4907	2586881	4
+4908	2661380	5
+4909	2330672	3
+4910	teduglutide	4
+4911	2586184	3
+4912	2941266	3
+4913	2251052	3
+4914	salmeterol + fluticasone propionate	3
+4915	fluticasone propionate	3
+4916	356278	3
+4917	rilapladib	3
+4918	PI3K inhibitor	3
+4919	trametinib + BKM120	3
+4920	trametinib + 2110183	3
+4921	dabrafenib + trametinib	3
+4922	tramadol	3
+4923	2245035	3
+4924	2269557	3
+4925	2339345	3
+4926	EFdA	3
+4927	abacavir + lamivudine	3
+4928	fentanyl - transdermal	3
+4929	dilmapimod	3
+4930	umeclidinium	3
+4931	vilanterol + umeclidinium	3
+4932	NY-ESO-1	8
+4933	PRAME	4
+4934	WT1 immunnotherapeutic	4
+4935	astuprotimut-R	8
+4936	2696273	6
+4937	HIV vaccine	8
+4938		8
+4939	ethyl icosapentate	3
+4940	oprozomib	3
+4941	E7016	3
+4942	FX125L	3
+4946	S-524101	8
+4947	liraglutide	2
+4948	neutrazumab	5
+4949	NN1954	4
+4950	NN9926	2
+4951	SPD 547	3
+4952	radezolid	3
+4953	Other COPD Products	3
+4954	necitumumab	5
+4955	FG-3019	5
+4956	sirukumab	5
+4957	TAK-357	3
+4958	TAK-063	3
+4959	ITI-214	3
+4960	Metabolic Disease 	3
+4961	daratumumab	5
+4962	EB-1010	3
+4963	TZP-102	3
+4964	solifenacin + tamsulosin	3
+4965	atazanavir / cobicistat	3
+4967	E-10030	3
+4968	rigosertib	3
+4969	ZP-2929	3
+4970	RG7440	3
+4971	GDC-0973	3
+4972		3
+4973	RDX5791	3
+4974	recombinant VEGF	4
+4975	NP001	3
+4976	Sym004	5
+4977	glycopyrrolate bromide	3
+4978	E2609	3
+4979	recombinant follicle stimulating hormone	4
+4980	methylphenidate XR	3
+4981	BAY 94-9343	5
+4982	VX-787	3
+4983	pembrolizumab	5
+4984	MK-8742	3
+4985	AGN 208397	3
+4986	DE-117	3
+4987	RX-10045	3
+4988	tenapanor	3
+4989	URAT-1 Inhibitor	3
+4990	GPR-119 Agonist	3
+4991	CSG-452	3
+4992	NN8717	4
+4993	formoterol + glycopyrrolate	3
+4994	Reolysin	4
+4995	DS-8500	3
+4996		3
+4997	memantine XR + donepezil	3
+4998	RG-7459	3
+4999	treprostinil	3
+5000	atrasentan	3
+5001	lomitapide	3
+5002	S-120083	3
+5003	danazol 	3
+5004	ONO-8055	3
+5005	BCX-4208	3
+5006	beclabuvir	3
+5007	XEN402	3
+5008	PF-5280014	5
+5009	daunorubicin 	3
+5010	carmustine intracranial implant wafer	3
+5011	BAN2401	5
+5012	ABT-436	3
+5013	I.V. esketamine	3
+5014	EVP-0962	3
+5015	AL-208	2
+5016	TRx0237	3
+5017	plecanatide	3
+5018	ANG2-VEGF MAb	5
+5019	RG7203	3
+5020	TMC647055	3
+5021	norethindrone acetate	3
+5022	momelotinib	3
+5023	pacritinib	3
+5024	PRT062070	3
+5025	NS-018	3
+5026	NN9927	2
+5027	NN1436	4
+5028	NPI-0052	3
+5029	oral octreotide	2
+5030	guanfacine carrierwave	3
+5031	human arylsulfatase A	4
+5032	anti-CD19 ADC	5
+5033	ARRY-520	3
+5034	BAX 855	4
+5035	testosterone undecanoate	3
+5036	Enclomiphene citrate	3
+5038	PPI-668	3
+5039	SB204	3
+5040	telapristone acetate	3
+5041	nomegestrol acetate + estradiol vaginal ring	3
+5042	Ingenol mebutate gel	3
+5043	MM-398	3
+5044	AXL1717	3
+5045	CC-292	3
+5046	long-acting G-CSF	4
+5047	ivacaftor+VX-983	3
+5048	brinzolamide + brimonidine	3
+5049	Pegylated recombinant human hyaluronidase	4
+5050	aldoxorubicin	3
+5051	norethindrone + ethinyl estradiol	3
+5052	inhaled SGRM	3
+5053	2647544	3
+5054	Prophage cancer vaccine	8
+5055	Testosterone pellet	3
+5056	anti-CD19 antibody	5
+5057	SAR245409 	3
+5058	CEM-101	3
+5059		3
+5060	BI-655064	3
+5061	loxapine	3
+5062	opicapone	3
+5063	PSMA/CD3-bispecific BiTE antibody	5
+5064	Recombinant anti-CDR-bi-singlechain- Fv-diphtheria toxin fusion protein	5
+5065	AOP-2014	4
+5066	anagrelide retard	3
+5067	ferric trimaltol	3
+5068	AV-0113	9
+5069	lancovutide	3
+5070	AOP-200704	3
+5071	nabilone	3
+5072	inhaled colistimethate 	3
+5073	esmolol	3
+5074	nalbuphin	3
+5075	naloxone	3
+5076	naltrexone	3
+5077	sultiame	3
+5078	pexastimogene devacirepvec	4
+5079	BLB-750	8
+5080	BOL-303259-X	3
+5081	safinamide	3
+5082	ublituximab	5
+5083	Syk Inhibitor	3
+5084	MMP9 inhibitor	5
+5085	varlitinib	3
+5086	AZD3965	3
+5087	CC-220	3
+5088	RG3039	3
+5089	erythrocyte-encapsulated L-asparaginase	11
+5090	dexmecamylamine	3
+5091	ASP3662	3
+5092	midazolam	3
+5093	mecasermin rinfabate	4
+5094	BN82451	3
+5095	CK-2127107	3
+5096	buprenorphine + naloxone	3
+5097	flavopiridol	3
+5098	androgen receptor antagonist	3
+5099	squalamine	3
+5100	AYX1	7
+5101	"tetrabenazine, deuterium-substituted analogue "	3
+5102	"venlafaxine, deuterated"	3
+5103	SGN-CD33A	5
+5104	ImmTAC-gp100	5
+5105	NGF peptidomimetic	3
+5106	ALN-TTR02	7
+5107	MDT-637	3
+5108	eteplirsen	7
+5109	norethindrone acetate + ethinyl estradiol chewable tablets	3
+5110	MSC-NTF	9
+5111	c-Met inhibitor	3
+5112	LY-2812176	5
+5113	ASP9853	3
+5114	ASP2215	3
+5115	ASG-15ME	5
+5116	PI3K-alpha/-beta inhibitor	3
+5117	FGFR kinase inhibitor	3
+5118	DOT 1L inhibitor	3
+5119	GDC0094	3
+5120	MEDI-6469	5
+5121	albaconazole	3
+5122	TAK-385	2
+5123	MLN0264	5
+5124	ISIS-TTR Rx	7
+5125	sumatriptan transdermal patch	3
+5126	Oralair	8
+5127		3
+5128	evolocumab 	5
+5129	fenofibrate + simvastatin	3
+5130	RG7652	5
+5131		3
+5132		3
+5133		3
+5134		NULL
+5135	ivabradine	3
+5136		3
+5137		3
+5138		3
+5139	memantine	3
+5140	bosutinib	3
+5141	fidaxomicin	3
+5142	TG1001	5
+5143	PI3K delta inhibitor	3
+5144	seasonal influenza vaccine	8
+5146	autologous anti-CD19 T-cell therapy	9
+5147	ALN-PCS	7
+5148	PCSK9 Mab	5
+5149	BMS-981164	5
+5150	anti-IL-31 humanized monoclonal antibody	5
+5151	ACE910	5
+5152	Anti-myostatin MAb	5
+5153	TGF beta R2 inhibitor	5
+5154	mogalizumab	5
+5155	mogalizumab	5
+5156	brodalumab	5
+5157	MEDI-6012	4
+5158	ALV003	4
+5159	Anti-Fucosyl GM1	5
+5160	EBI-005	4
+5161	efinaconazole	3
+5162	ABT-072	3
+5163	dasabuvir	3
+5164	sofosbuvir + ledipasvir	3
+5165	IDX719	3
+5166		3
+5167	nicardipine	3
+5168	JTT-302	3
+5169	Factor XIa Inhibitor	3
+5170	Factor XIa Inhibitor	3
+5171	DS-1040	3
+5172	ASP1517	3
+5173	AKB-6548	3
+5174	LY2623091	3
+5175	AZD9150	3
+5176	AZD9291	3
+5177	Chk1 Inhibitor II	3
+5178	MK-1775	3
+5179	ONO-7268 MX1	8
+5180	palbociclib	3
+5181		3
+5182	LY2979165	3
+5183	LY2940094	3
+5184	PEG-Relaxin	2
+5185	RG7697	2
+5186	WT2725	8
+5187	HDM AIT	8
+5188	AMG 232	3
+5189	Anti-LAG3	5
+5190		3
+5191	BLB-750	8
+5192	cobimetinib	3
+5193	bimagrumab	5
+5194	lampalizumab	5
+5195	balugrastim	4
+5196	topiramate XR	3
+5197	nabiximols	3
+5198	quetiapine	3
+5199	peginterferon beta-1a	4
+5200	ocrelizumab	5
+5201	transdermal lidocaine	3
+5202	gabapentin enacarbil	3
+5203	NP-1998	3
+5204	capsaicin	3
+5205		7
+5206		7
+5207	amrubicin	3
+5208	nepafenac ophthalmic suspension	3
+5209	AL-60371	3
+5210	Soluble Ferric Pyrophosphate	3
+5211	sucroferric oxyhydroxide	3
+5212	sucroferric oxyhydroxide	3
+5213	budesonide MMX	3
+5214	semaglutide	2
+5215		3
+5216		3
+5217		2
+5218		3
+5219		3
+5220		3
+5221	2890457	3
+5222		2
+5223	anti-CXCR5	5
+5224		3
+5225	PF-06273340	3
+5226		5
+5227		3
+5228	RG7415	5
+5229		3
+5230	ASP8232	3
+5231	DHODH inhibitor	3
+5232	AZD3293	3
+5233	cediranib	3
+5234	Myostatin Adnectin	5
+5235	AZD-7624	3
+5236	2256294	3
+5237	glycopyrronium bromide	3
+5238	2126458	3
+5239		3
+5240		3
+5241	RO-4602522	3
+5242		3
+5243	formoterol fumarate	3
+5244		3
+5245		3
+5246	SEP-363856	3
+5247	LY-3002813; N3pG-Abeta mAb	5
+5248	LY-2886721	3
+5249	MK-1602	3
+5250	TV-1380	4
+5251	metadoxine SR	3
+5252	MG-01CI	3
+5253	simtuzumab	5
+5254	obeticholic acid	3
+5255	obeticholic acid	3
+5256	MEDI-2070	5
+5257	Anti-IL21	5
+5258	AMG 334	5
+5259	BMN 111	4
+5260	BMN 701	4
+5261	amifampridine phosphate	3
+5262	BMN 673	3
+5263	BMN 190	4
+5264	PEGylated recombinant phenylalanine ammonia lyase	4
+5265	ALXN 1102/1103	4
+5266	Asfotase Alfa	4
+5267	cyclic pyranopterin monophosphate	3
+5268	DS-7113	3
+5269	BAY 1179470	5
+5270	BI-811283	3
+5271	BI-836858	5
+5272	XmAb (1)	5
+5273	XmAb (2)	5
+5274	small molecule from Evotec	3
+5275	DS-3078	3
+5276	DS-3032	3
+5277	nelipepimut-S	8
+5278	leukocyte interleukin	10
+5279	XMT-1107	3
+5280	vemurafenib	3
+5281	Pomalidomide	3
+5282	ASP-3325	3
+5283	KHK-7580	3
+5284	KRP-203	3
+5285	KRP-203	3
+5286	POL7080	2
+5287	VX15/2503	5
+5288	RG7321	3
+5289	MPDL3280A 	5
+5290	alectinib	3
+5291	URC102	3
+5292	RG7745	5
+5293	RG7795	3
+5294	RG7863	3
+5295	Nanobody therapy	5
+5296	BI-113608	3
+5297	BI-860585	3
+5298	Maribavir	3
+5299	VP 20621	11
+5300	SHP622	3
+5301	idarucizumab	5
+5302	BI-409306	3
+5303	BI-187004-CL	3
+5304	BAY 85-8501	3
+5305	amifampridine phosphate	3
+5306	ALKS-5461	3
+5307	Anti-PD-L1	5
+5308	cyclin-dependent kinase 4/6 inhibitor	3
+5309	naproxen + esomeprazole	3
+5310	fentanyl - intranasal	3
+5311	alectinib	3
+5312	ADS-5102	3
+5313	Epidiolex	3
+5314	hydrocodone bitartrate	3
+5315	OMS824	3
+5316	anamorelin	3
+5317	sustained-release somatropin	4
+5318	anamorelin	3
+5319	LGX818+MEK162	3
+5320	romosozumab	5
+5321	morphine + oxycodone	NULL
+5322	oxycodone HCl/naloxone HCl	3
+5323	NU100	4
+5324	Beloranib	3
+5325	GS-5885	3
+5326	CSL362	5
+5327	azilsartan medoxomil 	3
+5328	KRN23	4
+5329	C1 esterase inhibitor [human]	4
+5330	eculizumab	5
+5331	QPI-1002	7
+5332	cardiotrophin-1	4
+5333	basiliximab	5
+5334	TOL101	5
+5335	lymphocyte immune thyglobuline	5
+5336	dapagliflozin / dapagliflozin + metformin	3
+5337	MEDI-4736	5
+5338	valbenazine	3
+5339	memantine XR + donepezil	3
+5340	ALN-TTR02	7
+5341	ALN-TTRsc	7
+5342	ALN-TTRsc	7
+5343	ONO-4059	3
+5344	KUX-1151 	3
+5345	ITI-007	3
+5346	JZP-110	3
+5347	Prothrombin complex concentrate	4
+5348	Prothrombin complex concentrate	4
+5349	AG-221	3
+5350	ferric citrate	3
+5351	TAK-114	3
+5352	vosaroxin	3
+5353	BL-8040	2
+5354	ofatumumab	5
+5355	encenicline	3
+5356	oxcarbazepine extended-release	3
+5357	eltoprazine 	3
+5358	NN1956	4
+5359	metadoxine extended-release 	3
+5360	otlertuzumab	5
+5361	Anthrivig	5
+5362	"Recombinant Protective Antigen Anthrax Vaccine, Purified)"	4
+5363	Anthrax Vaccine Adsorbed with CPG 7909 Adjuvant	8
+5364	Fully Human Anthrax Monoclonal Antibody	5
+5365	bremelanotide	2
+5366	flibanserin	3
+5367	PBT2	3
+5368	diclofenac	3
+5369	indomethacin	3
+5370		3
+5371	GM604	6
+5372	febuxostat	3
+5373	ivabradine	3
+5374		3
+5375		3
+5376		3
+5377	GCS-100	3
+5378	hydrocodone bitartrate	3
+5379	nabiximols	3
+5380	tesamorelin	4
+5381	oxycodone HCl + acetaminophen	3
+5382	Clonidine	NULL
+5383	buprenorphine/naloxone buccal film	3
+5384	fondaparinux	2
+5385	tafluprost + timolol	3
+5386	nadroparin	2
+5387	vatiquinone 	3
+5388	C1 esterase inhibitor [human]	4
+5389	abaloparatide SC	4
+5390	HDM-SLIT	8
+5391	TO-203	8
+5392	treprostinil	3
+5394	"cysteamine bitartrate, delayed-release"	4
+5395	PF-2545920	3
+5396	buprenorphine HCL	3
+5397	darbepoetin alpha	4
+5398	RG7641	14
+5399	RG7800	3
+5400	RG7716	14
+5401	RG7813	5
+5402	cipargaminum	3
+5403	osilodrostat	3
+5404	luminespib	3
+5405	LJM716	5
+5406	HSC835	9
+5407	ORY-1001	3
+5408	NaP2b inhibitor	3
+5409	TS-111	3
+5410	TS-091	3
+5411	AZD1775	3
+5412	AZD6738	3
+5413	MEDI-0680	5
+5414		8
+5415		8
+5416		8
+5417	AMG 595	5
+5418	BAN2401	5
+5419	E2609	3
+5420	denosumab	5
+5421	ORM-12741	3
+5422	ORM-12741	3
+5423	RG7841	5
+5424	GDC0853	3
+5425	LGK974	3
+5426	LGH447	3
+5427	JNJ-42756493	3
+5428	Quisinostat	3
+5429	BMS-986115	3
+5430	PF-06342674	14
+5431	PF-06260414	14
+5432	CXCR4 peptide inhibitor	2
+5433	TAK-659	3
+5434	MLN7243	3
+5435	PF-06263507	5
+5436	PF-06463922	3
+5437	PF-06647263	5
+5438	SAR260301	3
+5439	pimasertib + SAR405838	3
+5440	SAR405838	3
+5441	SCH-900353	3
+5442	Votrient + pembrolizumab	5
+5443	BAY 1163877	5
+5444	BAY 1125976	3
+5445	anti-Her3 mAb	5
+5446	ApoA1 upregulating agent	3
+5447	Votrient + pembrolizumab	5
+5448	uprosertib + trametinib	3
+5449	MEDI-4736 + tremelimumab	5
+5450	Dance 501	4
+5451	BAY 1143572	3
+5452	AMP-224	5
+5453	maribavir	3
+5454	cabotegravir	3
+5455	AMG 282	5
+5456	Ferroportin Monoclonal Antibody	5
+5457	TGF Alpha antibody	5
+5458	tanezumab	5
+5459	ABBV-399	5
+5460	Anti-CD20/CD3 DVD-Ig 	5
+5461	ABT-414	5
+5462	ASP5878	3
+5463	ASP8273	3
+5464	DS-8273	5
+5465	PLX8394	3
+5466	EPZ-5687	3
+5467	CBP/beta-catenin inhibitor 	3
+5468	Prostaglandin E receptor 4 antagonist	NULL
+5469	N3pG-amyloid beta monoclonal antibody	5
+5470		NULL
+5471	pomaglumetad methionil	NULL
+5472	CSF-1R	5
+5473	AMG 333	3
+5474	AMG 581	3
+5475	Selectikine	5
+5476	Dual p70S6K/AKT inhibitor	3
+5477	ONO-7268MX2	8
+5478	TAS-114	3
+5479	TAS-115	3
+5480	OPB-111077	3
+5481	OCV-C02	8
+5482		3
+5483	SGI-110	3
+5484	AT13387	3
+5485	AT7519	3
+5486	AZD4901	3
+5487	MEDI-8111	4
+5488	AZD1419	3
+5489	AZD4721	3
+5490	AZD0914	3
+5491	LC-10	5
+5492	MEDI-9287	8
+5493	AZD6423	3
+5494	JNJ-54861911	3
+5495	JNJ-42165279	3
+5496	CNTO-6785	5
+5497	EDP239	3
+5498	IC-84	8
+5499	EXE-844	3
+5500	JNJ-56914845	3
+5501	insulin glargine	4
+5502		2
+5503		3
+5504	ALN-AT3	7
+5505	CSL689 rVIIa-FP	4
+5506	CSL 654 rIX-FP	4
+5507	CSL627 rFVIII	4
+5508	Anti-thrombin gamma	4
+5509	1278863	3
+5510	Hepcidin mAb	11
+5511	Factor X	4
+5512	DS-1093	3
+5513	Romiplostim	10
+5514	Peginesatide	4
+5515	SHP602	3
+5516	2696275	6
+5517	thymosin beta-4	2
+5518	TTP488	3
+5519	AR-13324	3
+5520	AR 13324 + latanoprost	3
+5521	colchicine	3
+5522	molindone	3
+5523	GRT 6005	3
+5524	conivaptan	3
+5525		3
+5526		3
+5527	CO-1686	3
+5528	ACE910/RG6013	4
+5529	Netupitant - Palonosetron	3
+5530	Netupitant - Palonosetron	3
+5531	sumatriptan injectable	3
+5532	sumatriptan + naproxen	3
+5533	eravacycline	3
+5534	Motolimod	3
+5535	midostaurin	3
+5536		3
+5537	duvelisib	3
+5538	cobimetinib	3
+5539		7
+5540	GS-5816	3
+5541	inhaled insulin	4
+5542	warfarin	3

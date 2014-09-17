@@ -1,0 +1,4476 @@
+id	brand_name	research_code	molecule_id
+1	Other Cephalosporins		1382
+2	CAD106	CAD106	2450
+3	Tasigna	AMN-107	626
+4	AP768		2708
+6	NSA-789	NSA-789	2396
+7	Alvocidib 		5097
+8	ERb agonist		317
+9	Lamictal	lamotrigine	491
+10	Nolvadex		859
+11	Valtrex		935
+12	Zonegran	E2090	984
+14	GBS		402
+15	Collategene	AMG 0001	111
+16	JNJ-17305600	NULL	485
+17	Natrecor		617
+18	LY2140023	LY2140023	541
+19	Neupogen		361
+20	Veramyst	685698	380
+21	talampanel	talampanel	856
+23	Pulmicort		141
+24	Provenge		824
+25	Other CD-20 Targeted Agents		1338
+26	Other Motility Disorder Treatments		1096
+27	PF-3882845		3133
+29	Rapaflo		821
+30	Other Atypical Anti-psychotic Agents		2188
+31	TAK-065	TAK-065	2914
+33	Noxafil		709
+34	Other Anti-metabolites		2085
+35	Other Anti-neoplastic Antibiotics		1337
+37	Stelara	CNTO-1275	933
+38	239512		2901
+39	PF-3185043	NULL	NULL
+41	AMG 477	NULL	NULL
+42	Lunesta	SEP-190	330
+44	Sonata	zaleplon	2401
+47	Norvasc		52
+48	Omnaris	ciclesonide	2989
+49	rolapitant		2786
+50	LY-2469298	LY-2469298	1048
+51	Hanp		161
+52	glycopyrronium		411
+53	Roaccutane		480
+54	Percocet	oxycodone + acetaminophen	661
+55	Cordarone 		2595
+56	Plendil		351
+58	Medrol / Solu-Medrol		569
+59	Topamax	topiramate	909
+60	CBP-501		1874
+61	MK-4101	NULL	NULL
+62	Gastrom		2802
+63	Streptococcus pneumonia vaccine		706
+65	Accolate		975
+67	relugolix		5122
+68	Rikelta	brivaracetam	139
+70	Fluad pediatric		813
+71	tanespimycin		862
+72	232802		1204
+73	Replagal	agalsidase alfa	23
+74	Prepandrix		373
+75	Viagra		820
+76	Levitra		2214
+77	LY-498582		1968
+78	Flomox		169
+80	CNTO 95		3111
+82	Kaletra		530
+83	Crestor		791
+85	selumetinib	ARRY142886	3607
+86	QAX028		2113
+87	Amevive	ASP-0485	30
+88	Other Neurology Treatments		1866
+89	PF-3893787		2714
+90	Androcur		212
+91	Aranesp		225
+93	Kuvan		2017
+94	R1511		1128
+95	eldecalcitol	CT-081	294
+96	IL-1beta antibody		449
+97	Starsis		611
+98	LY-2181308	LY-2181308	1813
+99	Unifive	NULL	276
+100	Glucophage / Glucovance		566
+101	Symlin		714
+102	Latixa		742
+103	MK-6186	MK-6186	1904
+105	Epstein-Barr virus	NULL	314
+106	Ketek		875
+107	Zolip		353
+108	Meropen		561
+110	Glakay		557
+111	Prometrium		721
+112	AMG 222		3332
+114	Proscar		362
+115	CS-1036		3127
+116	CE-326579	NULL	NULL
+117	PD-200390		1010
+118	Inhibace		2542
+120	Azilect	rasagiline	743
+122	Androgel		888
+123	Other Anti-convulsants		1381
+124	ProAir		29
+125	solanezumab	LY2062430	540
+126	SAR501788	NULL	NULL
+127	AMG 557	MEDI 5872	1354
+128	Org 34167		1116
+129	Letairis		48
+130	Hepatitis E virus	NULL	423
+131	Savella	milnacipran	574
+132	Advate	recombinant Factor VIII	747
+133	Zarnestra		903
+134	256066		2280
+135	Azmacort		926
+137	Other Biguanides		1079
+138	AZD1305	NULL	NULL
+139	XPR2886	NULL	NULL
+140	Marinol	dronabinol	269
+141	Contrave		606
+142	Spiriva + salmeterol		902
+143	Aprela		1000
+145	ronacaleret	751689	4090
+146	TAK-379	NULL	NULL
+147	PF-2413873	PF-2413873	1319
+149	Selbex		2803
+150	TAK-285	TAK-285	2929
+151	azilsartan medoxomil		97
+152	Erythromycin brands		323
+153	Elocon / Fulmeta	Sch-32088	589
+154	AMG 108	AMG 108	1364
+156	AMG 102		1324
+157	PF-3557156	NULL	NULL
+158	Cerazette		242
+159	CNTO 136	CNTO 136	1356
+160	Vicodin CR	NULL	NULL
+161	Carbatrol	carbamazepine extended-release	153
+163	Mevalotin		718
+164	1482160	1482160	2922
+165	Rinderon		116
+167	Influenza Vaccines - Sanofi Pasteur MSD		457
+168	Flulaval / Fluarix		457
+170	Taxotere		257
+172	PF-4136309	PF-4136309	2015
+173	CTS-21166	CTS-21166	208
+174	telcagepant	telcagepant	874
+177	Invanz		322
+178	Ditropan XL		659
+180	Other Fibrates		2184
+181	Hepsera		19
+183	Xyzal	levocetirizine	2991
+184	Duodopa / Duopa	levodopa + carbidopa	509
+185	motavizumab		595
+186	Hycamtin		910
+187	AZD1656		3121
+188	PF-3654746	PF-3654746	4576
+189	Xatral		34
+190	Nizoral		487
+191	Zemplar		679
+192	Other Wakefulness-promoting Agents		1041
+195	Flector	transdermal diclofenac epolamine	249
+196	Fosrenol		494
+197	CR-665	CR-665	2920
+198	L19-IL2	NULL	NULL
+199	Toviaz		358
+200	Saizen		839
+201	Brilinta	AZD-6140	896
+202	Other NSAIDs		1367
+203	AZD4017		3635
+204	PS948115		1837
+205	Gasmotin		1517
+206	Thyroid preparations		893
+207	L19-TNF-alpha		2696
+208	MK-0633	NULL	NULL
+209	679586		2706
+210	Clarinex		241
+211	Eraxis		62
+212	Cefzon		170
+213	Lovaza		646
+214	Ceredist	taltirelin	858
+215	Other Noradrenergics		1348
+216	AZD1446	AZD1446	1068
+217	Vidaza		3545
+218	Vitekta	GS 9137	417
+219	Other AD Agents		1534
+220	AMG 853		2300
+222	darotropium	NULL	227
+223	Hectorol	Hectorol	267
+224	Prozac	fluoxetine	376
+226	BHQ880		1020
+227	SAR115740	NULL	NULL
+228	Emend for Injection		390
+230	Biaxin		197
+231	TAK-428	TAK-428	2919
+232	Azactam		99
+234	Comfyde	RWJ-333369	157
+235	Diabetes compound 1		247
+236	Sustiva		291
+237	Obesity compound 1		630
+238	DGAT Inhibitors		3128
+239	AVE1625	NULL	NULL
+240	Lotriga	TAK-085	2147
+241	AG-14699	PF-1367338	3431
+242	Other ESA Agents (Oncology)		1454
+243	MK-1597	NULL	NULL
+244	Other Migraine Agents		2212
+245	Anti-convulsants		1408
+246	SNX-5422		3040
+247	Vimpat	lacosamide	488
+248	Arranon		613
+249	BeneFIX	recombinant factor IX 	746
+250	1144814	1144814	2046
+251	Orencia		4264
+253	HIV-Thailand	NULL	428
+254	losmapimod	GW856553	2043
+255	Recothrom		751
+257	AMG 785	AMG 785	5320
+259	Other Anti-platelets		1084
+260	Other Osteoporosis Treatment Products		1171
+261	Aptivus		904
+262	Firstcin		173
+263	FluMist		457
+264	Other Leukotriene Antagonists		1422
+266	Qutenza	NGX-4010	5204
+267	Erbitux		3319
+268	Other Immunomodulators - Hepatitis		1455
+269	MK-3577	MK-3577	2334
+270	1018921		2045
+271	PF-232798		2343
+273	Other Abl Inhibitors		1036
+274	923295	NULL	NULL
+277	Otezla	CC-10004	3322
+278	Elidel		3944
+279	rilapladib	659032	4917
+280	Other Immunomodulators - transplant		1345
+282	Claritin		531
+283	Altace		736
+284	Other Smoking Cessation Agents		1023
+285	ASP2314	NULL	NULL
+287	Avonex	interferon-beta 1a	4116
+288	Solabegron	GW-427353B; ALX-001	836
+290	Lotrel		108
+291	Kogenate	Factor VIII	346
+292	Isoptin		952
+293	AUY922	AUY922	5404
+295	Org 28611		1281
+296	motesanib	AMG 706	1159
+297	NOMAC / E2		3323
+299	ABT-279	NULL	NULL
+300	Elaprase		447
+301	Treximet	sumatriptan + naproxen	5532
+302	TP300	SUSPENDED 2Q 2011	1227
+303	Sensipar		192
+305	Lantus		463
+307	Herceptin		919
+309	AMG 191	AMG 191	1365
+310	AZD8055		3924
+311	Casodex		122
+312	Angeliq		272
+313	Other Ophthalmology Treatments		1097
+314	QAU145	NULL	NULL
+315	Campral / Regtect	acamprosate	4855
+316	Remeron	mirtazapine	579
+317	Preluent	XRP0673	654
+318	MK-0941		3131
+319	Unasyn		57
+320	Faslodex		394
+321	729327		2044
+323	Zortress / Certican		338
+324	West Nile	NULL	968
+325	PF-3654764		2059
+326	Abilify	OPC-14597	75
+328	Levemir		462
+329	Intrinsa		2718
+330	Cefamezin		168
+332	Xyrem	JZP-6	4852
+333	Other Asthma Products		1420
+335	Fosamax		33
+337	Pansporin		172
+338	Acofide	YM-443	2152
+339	Other Anti-emetics		1343
+340	Aromasin		339
+341	Byetta LAR	NULL	341
+342	Selzentry		2936
+343	Asmanex + oxymetazoline		588
+344	Asmanex		589
+345	nimotuzumab	DE-766	627
+346	Omnitrope		839
+347	Natazia / Qlaira		635
+348	Other Menopausal Treatments		1526
+350	MK-0594	MK-0594	1121
+351	Influenza Vaccines - Sanofi		457
+352	Other Contraceptives		1491
+354	Xinlay		86
+355	larotaxel		497
+356	Neu-Up		4402
+357	Coumadin		967
+358	AMG 745		4687
+359	Thalomid		890
+360	Other Macrolides		1476
+361	SSR128428	NULL	NULL
+362	Zithromax		98
+363	EBV vaccine		286
+364	Nasacort		926
+365	Tecfidera	BG-12	2192
+366	fluticasone furoate + 159802	NULL	381
+367	SD-6010	SD-6010	3432
+368	Combivir		978
+370	AEE788	NULL	NULL
+371	Lunivia	NULL	330
+372	human ghrelin	SUN-11031	434
+373	New generation 'flu vaccine		457
+374	Trileptal	oxcarbazepine	658
+376	Oxytrol		2660
+377	Other ACE Inhibitors		1078
+378	StemEx		3888
+379	agomelatine	AG0178	26
+380	Amaryl		408
+381	Menveo		556
+382	Other NMDA Antagonists		2139
+383	ferroquine	SSR 97193	357
+384	HIV integrase inhibitor	HIV integrase inhibitor	3881
+385	Rotarix		792
+386	BGT226	NULL	NULL
+387	PF-4236921	PF-4236921	4695
+388	ASA404	ASA404	78
+389	taspoglutide		3230
+390	Thrombin-JMI		892
+391	Javlor		959
+392	PF-4194471		1028
+393	VR632		3321
+394	Zinacef		179
+395	eribaxaban	NULL	318
+396	Linzess		1920
+397	AMG 811	AMG 811	1355
+398	Copaxone	glatiramer acetate	407
+399	Opalmon		516
+401	farglitazar		350
+402	copanlisib	BAY 80-6946	663
+403	Other Anti-histamines		1400
+404	Fentanyl		1167
+405	Taxol		664
+406	MK-6213	NULL	NULL
+407	LY2157299	LY2157299	1045
+408	1004723	NULL	NULL
+411	sagopilone		799
+412	Org 26828		1282
+415	ASKP1240		1719
+416	YM155		4072
+417	Nerventra	laquinimod	3826
+418	Neurobion		961
+419	Pentasa		3657
+420	Equasym XL	methylphenidate MR	568
+421	SCH 532706		1902
+422	elotuzumab		3670
+424	Benet		770
+425	Harnal / Omnic		860
+426	BMS-754807		4049
+427	AMG 714		1223
+428	NM100060	NULL	NULL
+429	Dacogen		232
+433	AIN457	AIN457	1799
+434	Glucobay		13
+435	CytoFab	AZD9773	70
+436	Elcitonin		293
+437	semagacestat	LY450139	544
+438	AZD7325		1726
+439	184072		2261
+440	Zestril		524
+441	Depakene	sodium valproate	834
+442	Gran		361
+445	159802	NULL	NULL
+446	Actonel	risedronate	770
+447	Zoloft	sertraline	816
+448	totrombopag	NULL	911
+449	MK-5757		1120
+451	Amlodin		52
+452	Geodon	ziprasidone	979
+453	IL-23 Ab	NULL	NULL
+454	Tussionex		440
+455	Ventavis		458
+456	mitemcinal		580
+457	DPP-IV Inhibitor	NULL	NULL
+458	MK-5395		1143
+461	Gardasil		436
+462	talmapimod	NULL	857
+463	Raptiva		290
+464	lipoxin		521
+465	AirFluSal	VR315	2248
+468	AZD9668		2720
+469	SU-14813		3114
+471	Luvox	fluvoxamine	385
+472	Synflorix	PHiD-CV	844
+474	Other Quinolones		1479
+476	AZD1386	AZD1386	1368
+477	Lidoderm	transdermal lidocaine	916
+478	Other Lipid-modifying Products		2185
+479	Other Alcohol Dependence Agents		1025
+480	932121		1752
+481	Vargatef	BIBF 1120	4095
+483	Advicor		620
+484	Urief		3660
+486	AZD2327	AZD2327	1924
+487	1521498		3117
+489	Fortum		176
+490	Eulexin		2728
+491	Albrec / Medway	GB-1057	750
+492	Kadcyla	trastuzumab-DM1	1821
+493	PF-610355		2664
+497	AZD1236		2719
+498	Abraxane		3379
+499	Blopress		148
+500	Prexige	lumiracoxib	539
+501	Niaspan		619
+502	Perdipine / Perdipine LA		5167
+504	TOBI		906
+505	Mosquirix	257049	1839
+506	AMG 827	AMG 827	1366
+507	SCH-721015		1844
+508	BMP-2	BMP-2	129
+510	Other Psoriasis Treatments		1541
+511	BIBT-986		1130
+512	Meliane		405
+514	saredutant		807
+515	Tyzeka / Sebivo		873
+516	selurampanel	BGG492	2449
+517	cangrelor		149
+518	Irbetan		475
+519	liposomal belotecan		520
+520	Bystolic		612
+521	Other IBD Agents		1093
+523	Mobic	meloxicam	554
+524	Protelos		845
+525	MK-0893		3130
+526	V934/V935		3115
+527	PF-734200	NULL	NULL
+528	Other Dermatology Agents		1539
+529	bifeprunox		123
+530	Other Addiction Agents		1024
+531	ASP1941	ASP1941	1867
+532	axitinib		92
+533	Hyalein		438
+534	capadenoson	NULL	150
+536	MEDI-557		3624
+537	PF-3635659		2722
+539	Duphalac		489
+540	MK-5442		582
+541	Myslee	zolpidem	983
+542	Dalvance		219
+543	Other Risk Factor Products		1091
+544	Nauzelin		2387
+545	Rivoglitazone	DE101	4313
+546	PF-4856884	CovX 060	2314
+547	Trizivir		3
+550	LCI699	LCI699	5403
+551	GW870086X		2662
+552	ABT-510		2023
+553	Mozobil		705
+556	VX-689	NULL	NULL
+557	Zegerid		648
+558	Nutropin		839
+559	Visudyne	CL-318952	954
+560	carmoterol + budesonide		160
+561	S-2367		950
+562	tralokinumab	CAT-354	3910
+564	odanacatib	MK-0822	634
+565	Other Aromatase Inhibitors		1372
+566	Nasonex	mometasone furoate	589
+567	Other Respiratory Products		1022
+569	AZD2516	AZD2516	1039
+570	dacomitinib	PF-299804	2337
+571	Infanrix / Pediarix		275
+572	Intron A		2228
+573	Avapro		475
+574	Other Bone-resorption Inhibitors		1385
+575	ADL5859	NULL	NULL
+576	PAZ-417		1076
+577	Tanzeum / Eperzan	GSK-716155	27
+580	peg-interferon lambda		688
+581	volinanserin		963
+582	PF-3049423	PF-03049423	2066
+584	Entyvio	MLN-002	948
+585	Other Depression Treatments		1962
+587	Propecia	MK-0906	362
+588	Oxis Turbuhaler		388
+589	Influenza vaccine		457
+590	Zerit		843
+591	Other Beta-2 Agonists		1466
+592	Other Respiratory Virus Treatments		1288
+593	SCIO-469		1221
+594	Velcade		132
+595	Vesicare		837
+597	Caduet		4859
+598	Botox	onabotulinumtoxin A	2822
+600	Eligard		505
+601	Saforis		515
+603	Somatuline		3658
+604	Neutrogin		501
+605	Adalat		625
+607	Org 43902		1533
+608	Arzerra	ofatumumab	637
+610	Miacalcic 		804
+611	AZD7268	AZD7268	1923
+612	1322322	1322322	1751
+613	Pediacel		2503
+614	Ciltyri		309
+615	Zofran		649
+616	CE-224535		991
+617	Razadyne / Reminyl	galantamine	397
+618	ABT-072	ABT-072	5162
+619	Targacept	NULL	NULL
+620	Adderall XR	amphetamine salts	54
+621	Other Topical Immunomodulators		1542
+622	Monopril		391
+623	milveterol	NULL	575
+624	Cialis		853
+625	Talion	bepotastine besilate	112
+626	Acomplia		768
+628	LY2599506		2306
+629	niraparib		4063
+630	Flonase / Flixonase		378
+632	962040	962040	1917
+633	PF-4191834	PF-4191834	3308
+634	Baraclude		304
+635	isavuconazole		478
+636	BMS-690514		3110
+637	Rhinocort	budesonide	141
+638	Fablyn		498
+641	Plavix		202
+642	epratuzumab		312
+644	Regpara		192
+645	Yasmin / Yaz / Yasminelle		271
+646	Revlimid		500
+647	Other immunomodulators - IBD		1094
+648	Asmanex + Foradil		586
+649	Risperdal Consta		771
+650	Mavik / Tarka		914
+651	AZD2066	AZD2066	1369
+652	YM311		1185
+653	Hexyon		277
+654	ProQuad		583
+655	Thyrogen		753
+657	Other Lower GI Agents		1095
+658	TAK-453-SR		1107
+660	Methycobal	E0302	1514
+662	tanezumab	tanezumab	5458
+665	CS-0777	CS-0777	1168
+666	MLN4924		4065
+667	Other Antibiotics		1395
+668	CS-7017		2982
+669	Xanax	alprazolam	42
+670	Fragmin		221
+671	lonaprisan	NULL	527
+672	Protopic	FK-506	852
+673	Tygacil		898
+674	anacetrapib	MK-0859	58
+675	Physiotens		599
+676	pleconaril		704
+677	QAT370	NULL	NULL
+679	Kepivance		2762
+681	dirucotide	NULL	549
+682	Celecox	celecoxib	180
+683	Provigil	modafinil	585
+684	Elastase inhibitor	NULL	NULL
+685	Venoglobulin		453
+686	Onon		716
+688	Depakine	sodium valproate	834
+689	MK-8368	MK-8368	1122
+691	Topotecin		476
+692	Maxalt	rizatriptan	2431
+693	Matrifen	transdermal fentanyl	915
+694	649868	649868	2903
+695	PF-2393296		1012
+696	PF-251802	NULL	NULL
+698	RSV604	RSV604	2372
+700	CP-800569	NULL	NULL
+701	Asmanex + indacaterol	QMF149	587
+702	Instanyl	nasal fentanyl	609
+703	Coniel		110
+704	Visanne		722
+705	pardoprunox	SLV 308	831
+706	ReoPro		2440
+707	ataciguat	NULL	80
+708	lucatumumab		538
+709	Asacol / Delzicol	Z-206	562
+711	Serevent		802
+712	Zocor		822
+713	Other Alkylating Agents		1330
+714	SAR153191	SAR153191	2801
+715	midostaurin	PKC412	5535
+716	Avandaryl		1329
+717	Other Glaucoma Treatments		1099
+719	PD-360324	PD-360324	4575
+721	Beleodaq	PXD101	2194
+722	Eloxatin		657
+723	Sutent		851
+724	BEA-2180-BR	BEA-2180-BR	991
+725	AFQ056	AFQ056	1943
+726	Prevacid		1648
+727	Avastin		117
+729	SUN-13834	SUN-13834	1519
+730	Zosyn	YP-18	1577
+731	Invirase / Fortovase		806
+732	Spiriva	tiotropium	900
+734	aleglitazar	RG1439	31
+735	Flutiform		3030
+736	Onglyza / Kombiglyze XR		3735
+739	Extavia	interferon-beta 1b	115
+740	Lipanthyl		352
+741	Hepatitis C Vaccine		422
+742	mirabegron	YM-178	578
+743	PF-2391677	NULL	NULL
+744	TroVax		929
+745	Synvisc	hylan G-F 20	441
+747	AZD9639	NULL	NULL
+748	Multaq		270
+749	orvepitant		651
+752	Nootropil	piracetam	701
+755	MK-5932	NULL	NULL
+756	TV-1102	ATL-1102	2301
+758	Enablex		3070
+759	Voltaren	diclofenac	249
+760	AMG 221		4370
+761	TAK-438		1375
+762	Serc	betahistine	114
+763	Synthroid		514
+764	MK-0524B	MK-0524B	581
+765	Zyprexa	olanzapine	639
+766	ASP2535		1066
+767	742457	742457	2904
+768	Creon		2937
+769	Fasturtec		744
+770	Ixiaro	IC51	484
+772	Zolinza		2757
+773	AZD8529	AZD8529	1727
+775	MK-8998	MK-8998	1119
+776	Zantac		2805
+777	carmegliptin	NULL	158
+779	Skelaxin	metaxalone	565
+780	Other Blood Products Agents		1486
+781	ASP2151		1188
+782	AZD4877	NULL	NULL
+783	enzastaurin		305
+785	1614235	1614235	3118
+786	468816		1955
+788	Atrovent	ipratropium bromide	474
+790	rosiglitazone XR		790
+791	sitamaquine		829
+792	Micardis		876
+793	Yentreve		2686
+794	Tanatril		451
+795	Microgynon		513
+799	Other Anti-cholinergics		1447
+801	11-beta HSD Inhibitor		3119
+802	PF-3864086		1013
+803	Mycograb		292
+804	Depas	etizolam	333
+805	Humalog / Humalog Mix		465
+806	Femara		1440
+807	minodronate		576
+808	Other Anti-androgens		1373
+809	Segard		20
+810	Relpax	eletriptan	296
+811	Fraxiparine		5386
+812	Zomig	zolmitriptan	4452
+813	Other Anti-coagulants		2167
+814	AQW051	AQW051	2111
+817	NIC002	NIC002	1114
+818	telaprevir	MP-424	1457
+820	fluticasone furoate + milveterol	NULL	383
+821	Helicobacter pylori vaccine		421
+822	LY3012207	IMC-3G3	1358
+824	SAD448	SAD448	1379
+826	Ebixa	memantine	555
+828	Ultram / Ultracet	tramadol / tramadol + acetaminophen	913
+829	CP-533536	CP-533536	2921
+830	618334	618334	2473
+831	QAX576		4860
+833	PF-2575799	NULL	NULL
+835	Lexiva		389
+836	moxidectin		597
+837	OxyContin	oxycodone	660
+838	Durotep	transdermal fentanyl	354
+839	Gemzar		404
+840	celivarone		1527
+841	Gaster		348
+842	Aprovel		475
+843	PegIntron		687
+844	retosiban		758
+846	Cleocin		199
+847	HIV attachment inhibitor		429
+850	Flomax / Omnic		860
+852	ASP2905	ASP2905	1067
+853	SSR180575	NULL	NULL
+854	denufosol		240
+855	Fuzeon		301
+856	Plusvent		803
+857	Other Influenza Vaccines		1101
+858	Other Penems		1477
+860	BMS-582949	BMS-582949	2925
+861	Geninax		1576
+863	MK-0752		4060
+864	586529	586529	2902
+865	neratinib		4388
+866	Sigmart		624
+867	teriparatide	SUN-E3001	886
+868	Clolar		200
+869	sotrastaurin	AEB071	2118
+870	AZD8330		4048
+872	acadesine	SCH 9000395	9
+873	Herbesser		250
+874	Other Thrombolytics		1312
+875	AZD9056	NULL	NULL
+876	PF-4878691	NULL	NULL
+878	panobinostat	LBH589	677
+879	BMS-753493	BMS-753493	3034
+880	Inspra		308
+881	Cipralex	escitalopram	326
+882	Procoralan		482
+884	galiximab		398
+885	Other Pain Agents		2200
+886	Funguard		572
+888	Nexium		4152
+889	Circadin	prolonged-release melatonin	723
+890	Theodur		891
+892	LY2334737	LY2334737	1814
+893	cinaciguat	BAY-58-2667	193
+894	Mircera		986
+896	Ciprobay		194
+897	AZD5672	NULL	NULL
+898	Tracleer		133
+899	Other Vaccine Products		1104
+900	TAK-100	NULL	NULL
+901	Cipro DPI		194
+902	Tricor		352
+903	Xopenex		506
+904	PF-217830	PF-217830	1750
+905	ALVAC2	NULL	45
+907	Amitiza		4866
+908	Dogmatyl		3156
+909	Imunace		868
+910	Yondelis		2557
+911	MK-1682	NULL	NULL
+913	Mirena		512
+914	Basen		962
+915	Gamma secretase inhibitor		1071
+917	Diflucan		374
+918	masilukast		548
+919	Prilosec		647
+920	315234	315234	1362
+921	TAK-700	TAK-700	1875
+922	Volibris		48
+923	MBX-102		564
+925	SAR389644		1195
+926	Ontak		2695
+929	Amrix	cyclobenzaprine ER	209
+930	BIBW-2948-BS		1129
+931	Strattera	atomoxetine	83
+932	Nebido		2741
+934	RAF265		3113
+935	SBR759	SBR759	1164
+938	pasireotide	SOM230	681
+939	MK-3281		1754
+940	Humulin		435
+941	Levoxyl		514
+942	insulin peglispro	LY-2605541	101
+943	Xigris		273
+944	PF-4548043	NULL	NULL
+945	SSR103800	NULL	NULL
+946	alemtuzumab	alemtuzumab	32
+947	Diabetes compound 2		247
+949	trebananib	AMG 386	1432
+950	Diovan		938
+951	Atacand		148
+952	PF-4457845	PF-4457845	2076
+953	Sandimmune / Neoral	OLO-400	210
+954	Pradaxa		216
+955	Other Infertility Treatments		1747
+956	Ionsys		354
+957	ASP9831		3135
+959	Prevencor		84
+960	IMOJEV		186
+961	Gonax		235
+962	patupilone	EPO906	682
+963	Coversyl 	perindopril	2712
+965	Implanon		334
+966	Promacta / Revolade		1004
+967	Combivent		801
+968	Oblean		183
+969	Arcoxia	etoricoxib	336
+970	Daytrana	methylphenidate	3106
+971	Nplate	AMG-531	784
+972	Nexavar		840
+974	MK-2206		4062
+975	ASP8825		1328
+977	remogliflozin	NULL	754
+978	Arxxant	LY-333531	795
+980	Other Incontinence Products		1106
+982	ABT-724		1180
+983	Zyrtec	cetirizine	1286
+984	Sandostatin		633
+985	Pravachol		718
+986	SAR3419	SAR3419	2985
+987	arzoxifene		1002
+988	Ebrantil		2642
+989	KOS-1584	KOS-1584	3036
+990	Sancuso		1865
+992	Evista		2732
+993	PF-4447943	PF-4447943	2071
+994	Opana / Opana ER	oxymorphone	662
+995	Aciphex / Pariet		730
+996	Navelbine		960
+997	BACE inhibitor		1070
+1001	TAK-591	TAK-591	2177
+1002	Maxipime		171
+1003	Menactra	MCV-4	559
+1004	PF-3715455		3435
+1005	PF-885706	NULL	NULL
+1006	R7232		1249
+1007	Omnicef		170
+1010	AZD7762		3923
+1011	Actilyse		43
+1012	Augmentin		53
+1013	idrabiotaparinux	SSR126517E	448
+1014	Avinza	extended release morphine sulfate	593
+1015	Aloxi		4076
+1016	Metalyse		879
+1018	dovitinib	TKI258	264
+1019	Cytovene		399
+1021	Cancidas		164
+1024	Depakote	valproate semi-sodium	937
+1026	Dilatrend		162
+1027	TAK-448	TAK-448	3116
+1028	Luvox CR	fluvoxamine	385
+1029	Synagis		670
+1030	preladenant	SCH 420814	720
+1031	Vfend / Eraxis combination		965
+1032	CP-866087	NULL	NULL
+1034	Xarelto		774
+1035	Other Travel Vaccines		1103
+1036	LCZ696	LCZ696	2114
+1037	Rebif	interferon-beta 1a	469
+1038	Seroquel	FK949E	727
+1039	Alimta		691
+1040	Gonal F		748
+1041	Humatrope		839
+1042	Other Azoles		1475
+1043	Valdoxan	agomelatine	26
+1044	dacetuzumab	RG3636	217
+1045	Vasotec		300
+1047	TT-223		1812
+1048	Pralia		1472
+1050	Hematide		324
+1051	firategrast	683699	363
+1052	Fluvirin		457
+1055	Adempas	BAY63-2521	769
+1056	Temodar		877
+1057	Urso		932
+1058	Other Microtubule Modulators		1325
+1060	Other Supportive Care Agents		1292
+1061	Cubicin		224
+1062	Enbrel	etanercept	331
+1064	Epogen		3602
+1065	Evithrom		2639
+1066	Rabies		731
+1067	Daxas	APTA-2217	2990
+1068	Serdolect	sertindole	815
+1069	Genotropin		839
+1070	Kynapid	MK-6621	953
+1071	MK-3207		1142
+1072	Aricept	donepezil	259
+1073	gimatecan	NULL	406
+1074	PF-4856880	PF-4856880	2014
+1076	Actiq	TA-8317	355
+1077	octreotide	SMS 995	633
+1078	Xenical		650
+1079	AmBisome		55
+1080	Nasea		737
+1081	Gracevit	DU-6859a	826
+1082	Other Protease Inhibitors		1452
+1083	AZD1152		4047
+1084	Maintate		125
+1086	Sunrythm		697
+1087	NovoNorm / Prandin		755
+1088	Keppra	L-059	507
+1089	AZD1940	NULL	NULL
+1090	Espo / Nesp		1172
+1091	Somavert		689
+1092	Other Diabetes Products		1080
+1093	Lupuzor	IPP-201101	473
+1094	Loxonin	loxoprofen	535
+1095	AZD5904	AZD5904	1728
+1096	Famvir		347
+1098	Metadate CD	methylphenidate MR	568
+1099	RotaTeq		2203
+1100	Anti-depressants		1409
+1101	MBX-2044		2348
+1103	Angiocept		61
+1106	Other Hypnotics		1453
+1107	Tekturna		36
+1108	Ellence		307
+1109	SAR407899	SAR407899	3896
+1110	Ambien / Stilnox	zolpidem	983
+1111	Other Endocrinology Products		1087
+1112	Cozaar / Hyzaar		533
+1113	UK-453061		2342
+1114	PF-2545920	PF-2545920	5395
+1115	Macrobid		546
+1116	Myfortic	ERL-080	601
+1117	Other Polyenes		1413
+1118	BI-2536		2981
+1119	BMS-777607		1021
+1120	MEDI-528		2704
+1122	PF-2400013	PF-2400013	2064
+1123	Neupro	SPM-962	3733
+1126	Prezista		229
+1127	Viramune		618
+1128	MK-1220	NULL	NULL
+1129	ABT-325	ABT-325	1755
+1130	Zinbryta	daclizumab	2460
+1132	Avodart / Jalyn / Duodart		2033
+1133	IMA-026		1794
+1134	PF-4523655	RTP801i	1378
+1136	Cipro		194
+1137	Boniva / Bonviva	ibandronate	443
+1140	MK-4074		3132
+1142	Marvelon		332
+1143	Camptosar		476
+1144	AZD8931		2931
+1145	Fastic		611
+1146	PCSK9 Adnectin		3353
+1147	Iressa		403
+1148	ocrelizumab		5200
+1149	MK-0773		1913
+1150	AZD3199		2668
+1151	PD-299685	PD-299685	1318
+1153	Other ESAs	NULL	NULL
+1154	BEZ235		1186
+1155	TAK-363		1462
+1156	PRA-027		2602
+1158	tandutinib	MLN 0518	861
+1159	PF-4802540	PF-4802540 / TS-032	1111
+1160	Cefzil		174
+1162	Anti IL-1	NULL	NULL
+1165	Coreg		162
+1166	Vectibix		676
+1167	filorexant 	MK-6096	2335
+1168	Other Herpes Treatments		1461
+1169	GRC 6211	GRC 6211	1967
+1170	Nuvaring		335
+1171	Pergoveris		749
+1172	LY2275796		1816
+1174	Comtan / Stalevo	entacapone	303
+1175	Norvir		772
+1176	2190915	2190915	2705
+1177	Cardura		265
+1178	Livalo		2304
+1179	solifenacin/tamsulosin		838
+1180	tremelimumab	PF-675206	923
+1181	424887	NULL	NULL
+1182	Activase / TNKase		44
+1183	dalcetrapib	RG1658	220
+1184	Simplirix		2270
+1185	Dimebon	PF-01913539	251
+1187	Gabitril	tiagabine	894
+1188	Other Corneal & External Eye Products		1098
+1189	LXR Agonist	XL652	2629
+1190	945237		1753
+1191	AGS-8M4		2150
+1192	Atripla		299
+1193	Flu pre-pandemic	NULL	372
+1195	Topina	topiramate	909
+1196	Other Immunomodulators - Psoriasis		1540
+1197	TAK-593	NULL	NULL
+1198	amikacin inhale		50
+1200	Brovana		74
+1202	Relistor		3528
+1203	almorexant	almorexant	37
+1205	Vancocin		941
+1206	Other EGF Pathway Inhibitors (Biologics)		1038
+1207	ASK8007		1872
+1208	MEDI-534		2549
+1209	Lipitor		84
+1211	LY2624803	LY2624803	543
+1212	856553	NULL	NULL
+1214	AGS-16M18		3714
+1215	Finibax		261
+1216	Ziagen		2
+1217	Cleviprex		198
+1220	Zeffix		490
+1221	Accupril		728
+1222	IP receptor agonist	NULL	NULL
+1223	PF-3463275	PF-3463275	2070
+1224	PF-3526299		2713
+1225	Humira	adalimumab	18
+1226	Abelcet		56
+1227	Epogin		325
+1228	Lupron		505
+1229	LY3012217	IMC-A12	2009
+1230	Airtal	aceclofenac	4321
+1231	Rezonic		163
+1232	Tamiflu		652
+1234	Risperdal	risperidone	771
+1235	Vfend		964
+1236	AVE-5530		89
+1237	Sabril	vigabatrin	956
+1238	zibotentan	ZD4054	977
+1239	MK-0736		3776
+1240	835726	NULL	NULL
+1241	anrukinzumab	IMA-638	4001
+1242	Tykerb / Tyverb		495
+1244	Other Echinocandins		1026
+1245	Other Immunomodulators - MS		1513
+1247	Emerflu		369
+1248	Other Hormonal Products		1551
+1249	Almogran	almotriptan	38
+1250	Meninge ACYW-conj		558
+1251	Exforge		3839
+1252	Dobupal	venlafaxine	951
+1253	Reyataz		81
+1254	Vicodin / Vicoprofen	hydrocodone  +  paracetamol / hydrocodone  +  ibuprofen	439
+1255	Remoxy	long-acting oral oxycodone	529
+1257	Bondronat		2615
+1258	Flucelvax / Optaflu		457
+1259	Fabrazyme		24
+1260	brivanib		138
+1261	Xifaxan		765
+1262	Zelnorm / Zelmac		870
+1263	Other Sulphonylureas		1085
+1264	Exjade	ICL670	233
+1265	Avandamet		789
+1267	BAY 60-4552	NULL	NULL
+1268	Cimzia	CDP-870	4587
+1269	Allegra		359
+1271	AMG 317		2700
+1273	Teveten		313
+1274	Ferrlecit		3016
+1275	Merrem		561
+1278	Pegasys	RG442	1976
+1279	1399686	1399686	1487
+1280	Galvus / Eucreas		958
+1282	MK-5108	VX-689	1469
+1283	Tritace		736
+1284	Duphaston		284
+1285	esmirtazapine	esmirtazapine	328
+1286	V950	V950	2916
+1287	Celebrex	celecoxib	180
+1288	Restasis	cyclosporin	211
+1289	Vivitrol	naltrexone depot	4863
+1290	Januvia		827
+1291	Recentin	AZD-2171	5233
+1292	PF-3932295	NULL	NULL
+1293	Adentri	BG 9928	118
+1294	Sprycel		4113
+1295	Caelyx		268
+1296	Vibativ		872
+1297	Other Nasal Steroids		1417
+1298	MK-1006	NULL	NULL
+1299	AZD8848	DSP-3025	2313
+1300	Axert	almotriptan	38
+1301	Entereg		46
+1302	Tredaptive		343
+1303	Zetia		344
+1304	461364	NULL	NULL
+1305	PF-4171327	PF-4171327	2058
+1306	Aldurazyme		2019
+1309	Remodulin		924
+1310	zybrestat		985
+1311	AZD3241	AZD3241	1729
+1314	Other Musculoskeletal Agents		1529
+1316	Depo-Provera		552
+1317	Neulasta	KRN125	685
+1318	Tazorac / Zorac	AGN-190168	867
+1320	carmoterol	TA-2005	159
+1321	Frandol		479
+1322	Forteo		886
+1323	MK-0249	NULL	NULL
+1325	Diabetes compound 3		247
+1326	NA808	NA808	1279
+1327	Xolair		4201
+1328	Bridion	MK-8616	846
+1330	AGS-1C4D4		1868
+1332	Celexa		2427
+1333	Other Anti-hypertensive Agents		1545
+1334	Other NNRTIs		1445
+1335	AZD4769		2930
+1336	Simponi		1193
+1337	Remicade		456
+1338	Pantozol		678
+1339	SSR411298	SSR411298	1938
+1340	Other Immunomodulators - Oncology (Biologics)		1344
+1341	AZD6918	NULL	NULL
+1342	SSR150106	NULL	NULL
+1343	ABT-751	ABT-751	1214
+1344	Cervarix		436
+1348	705498		3585
+1349	dulanermin		280
+1350	Zebinix	eslicarbazepine	327
+1351	Prorenal		516
+1352	Pirespa		702
+1353	Other Triptans		1336
+1354	AZD6482	NULL	NULL
+1355	Doribax		261
+1356	Lyrica	pregabalin	3757
+1357	Diprivan		725
+1358	sofinicline	ABT-894	835
+1359	MLN0415	MLN0415	2811
+1361	SBI-087	PF-5230895 	1795
+1363	Boostrix		274
+1364	Ebastel		285
+1366	Frova	frovatriptan	392
+1367	Thelin	PF-1228305	830
+1368	cariprazine	RGH-188	3848
+1369	Other Calcium Antagonists		1089
+1371	Opaxio		2715
+1372	Prograf	FK-506	852
+1373	xaliproden		969
+1376	azilsartan	TAK-536	4089
+1378	SOM230	NULL	NULL
+1379	Bosulif	SKI-606	5140
+1380	Lovenox		302
+1381	AZD1981		2702
+1382	Zometa		980
+1384	SSR97225	NULL	NULL
+1386	Empatic		146
+1387	L19-SIP		1981
+1388	PH-797804		1015
+1389	Arixtra		5384
+1390	Duspatal		550
+1392	Concerta	methylphenidate CR	568
+1393	Tysabri	natalizumab	4158
+1394	Requip	ropinirole	786
+1395	Prevnar family		844
+1396	Other Obesity Treatments		1293
+1397	Fluarix		457
+1398	Krestin		2505
+1399	Mirapex	pramipexole	713
+1400	Other Stimulants		1538
+1402	Actos		699
+1403	tasisulam	LY-573636	865
+1404	Rituxan / MabThera		773
+1405	robatumumab		778
+1406	rolofylline	KW3902	1720
+1407	Angiomax		126
+1408	Sermion	nicergoline	623
+1409	Rozerem	TAK-375	735
+1410	AZD6765	AZD6765	1724
+1411	Other COMT Inhibitors		2161
+1412	BMS-641988	NULL	NULL
+1413	fluticasone furoate	GW-685698	380
+1414	Avelox		598
+1415	Meridia / Reductil		819
+1416	Anplag		808
+1418	Symbicort		3029
+1419	Ceclor		167
+1420	Pneumococcal vaccine	NULL	707
+1421	PF-489791	PF-489791	4008
+1422	Kremezin	MP-146	1574
+1424	CellCept		1843
+1425	AZD8075		2710
+1427	AZD8566	AZD8566	2193
+1430	Kentera		2663
+1431	Liptruzet	MK-0653C	345
+1432	Retin A / Renova	NSC-122758	925
+1433	ProMune	PF-3512676	1005
+1434	Zeftera / Zevtera		177
+1435	Catapres		201
+1436	Smecta		253
+1437	Vyvanse / Elvanse	S-877489	4769
+1438	2245840	SRT-2104	3578
+1439	Alvesco		2988
+1440	Other Beta-blockers		1088
+1441	Other PD Agents		2209
+1442	Zovirax		3543
+1444	Rebetol		764
+1445	598809	NULL	NULL
+1446	Namenda	memantine	555
+1448	MK-1903		1992
+1449	AZD6370		3123
+1450	TAK-442	TAK-442	2176
+1451	Flu Cell Culture		366
+1452	163090	163090	2004
+1453	MK-8245		1836
+1455	GSI-136		1073
+1456	AZD5985		2709
+1457	dutogliptin		283
+1458	teplizumab		882
+1459	Other Serotonergics		1918
+1460	PF-4494700	TTP-488	2072
+1461	Stocrin		291
+1462	eritoran	E-5564	320
+1463	Sulopenem		847
+1464	ASP0265	ASP0265	1463
+1466	Decapeptyl		927
+1467	vicriviroc		955
+1468	vabicaserin	PF-5208769	1806
+1470	961081	961081	1958
+1471	anti-NRP1		67
+1472	Foradil		388
+1473	Exelon / Exelon Patch	rivastigmine	775
+1474	Rapamune		825
+1476	Timoptic / Timoptic XE		899
+1477	Other Alpha Blockers		1105
+1478	Janumet / Janumet XR		828
+1479	Thymoglobulin		2526
+1480	Tecemotide	ONO-7165	4146
+1481	Procrit / Eprex		3602
+1482	Other GERD/PUD Products		1092
+1483	Welchol		204
+1484	Diane		213
+1486	dasabuvir	ABT-333	5163
+1487	Primaxin		452
+1488	Other 5-Alpha Reductase Inhibitors		1746
+1490	Cymbalta	duloxetine	281
+1491	Vytorin		823
+1492	Prevnar	PCV7	844
+1493	Other Proton Pump Inhibitors		1049
+1495	GAP-134		1792
+1496	Levaquin / Floxin		511
+1497	933776	933776	2905
+1499	picoplatin	Discontinued August 2011 filing for bankruptcy	2648
+1500	MK-7288	MK-7288	2135
+1502	Other Nucleoside Analogues		1459
+1503	moxetumomab pasudotox	CAT-8015	1050
+1504	756050	NULL	NULL
+1505	TAK-683	NULL	NULL
+1506	NovoSeven	rFVIIa	315
+1507	Jurnista	extended-release hydromorphone	342
+1508	ABT-263	RG7433	1053
+1510	Copegus		1978
+1511	Serostim		839
+1512	Cerezyme		35
+1513	Xeloda	R340	1135
+1514	Olmetec		642
+1515	Viread		880
+1518	Zoladex		2743
+1519	otelixizumab	otelixizumab	3575
+1523	MK-1775		5178
+1524	Intelence		337
+1525	Venofer		4227
+1526	Allelock		644
+1528	Wellbutrin	bupropion	145
+1529	JNJ-37822681	JNJ-37822681	486
+1530	Oestrogen receptor beta agonist		636
+1532	Other Angiotensin-II Antagonists		1500
+1533	1292263		2254
+1534	QAE397		2456
+1535	Truvada		881
+1536	PF-4480682		1014
+1537	Other Psychiatry Treatments		2225
+1538	IMC-18F1	LY3012212	3112
+1539	PF-4325667	NULL	NULL
+1541	AVE0897		2584
+1542	Pristiq	desvenlafaxine	244
+1543	Radicut	MCI-186	289
+1545	Zanidip		502
+1546	Modiodal		3292
+1547	Fludara		1216
+1548	Simcor		621
+1550	Kytril		415
+1551	Cravit	DL-8280	510
+1552	ABT-670		1179
+1553	SCH 900518		1900
+1554	aviptadil		91
+1555	Integrilin		316
+1556	Victoza		522
+1557	Other Inhaled Steroids		1467
+1558	UK-369003	NULL	NULL
+1559	MK-5046	NULL	NULL
+1560	TAK-875	TAK-875	3134
+1561	Artist		162
+1562	Pulzium		869
+1563	AZD0837	NULL	NULL
+1564	Other Dopaminergics		1317
+1565	MK-8033		4064
+1566	MK-8984	NULL	NULL
+1567	Arimidex		60
+1568	Silenor	SO-101	266
+1569	Apidra		464
+1571	Zyvox		519
+1572	Protonix		678
+1573	Lamisil		884
+1574	Other Erectile Dysfunction Drugs		1957
+1575	ATI355	ATI355	2050
+1576	Calblock		94
+1577	bapineuzumab	bapineuzumab	2944
+1578	Nuvigil	armodafinil	76
+1580	inotuzumab ozogamicin		460
+1581	urelumab	BMS-66513	2984
+1582	MEDI-560		2547
+1583	anti IL-23	LY-2525623	2854
+1584	610677		2723
+1585	Isentress		734
+1586	Renagel / Renvela		817
+1587	Actemra / RoActemra	R1569	1001
+1588	Myonal	eperisone	306
+1589	Other AChEIs		1310
+1590	ACC-001	ACC-001	3237
+1591	Pulmozyme		3813
+1592	Neurontin	gabapentin	395
+1594	Obesity compound 2		630
+1595	Vioxx		780
+1596	vancomycin		941
+1598	glycopyrronium + indacaterol	NULL	412
+1599	TAK-783	NULL	NULL
+1601	Invivac		457
+1603	681323	681323	2283
+1604	AZD7295		2915
+1605	DB-772d		3508
+1606	LY686017	NULL	NULL
+1607	MK-3984	NULL	NULL
+1608	Concor		125
+1609	MK-4118	NULL	NULL
+1610	Avandia + simvastatin		88
+1612	nalmefene	nalmefene	604
+1613	paliperidone palmitate IM long acting injectable		669
+1614	palovarotene		672
+1615	safinamide	ME2125	5081
+1616	MEDI-559		2548
+1617	V512	NULL	NULL
+1618	ACAM-Cdiff		10
+1619	Rocephin		1975
+1620	Lexapro	MLD-55	3408
+1621	Zostavax		945
+1622	Other Anti-Viral Agents		1465
+1623	Sumiferon		467
+1624	Mercilon		243
+1625	Adacel		254
+1628	Other Anti-fungal Agents		1416
+1629	JNJ-18038683	JNJ-18038683	1935
+1630	JNJ-26990990	JNJ-26990990	2912
+1631	HSD-016		1793
+1632	JNJ-17216498	JNJ-17216498	2040
+1633	Other Statins		2156
+1634	AGN211745	NULL	NULL
+1635	SAR21609		1194
+1636	Influvac		457
+1637	Singulair		590
+1638	1014802	1014802	1115
+1639	NeoRecormon		325
+1640	iboctadekin	SB-485232	444
+1641	Lonasen	blonanserin	127
+1642	Leuplin		505
+1643	1034702	1034702	1069
+1645	nerispirdine	HP-184	616
+1646	BMS-741672		3126
+1647	Campath		1218
+1648	tafenoquine		854
+1649	NIM811	NIM811	2371
+1650	posaconazole		710
+1651	Irribow		737
+1653	LY-2523355	Eg5 inhibitor	1815
+1654	darusentan		230
+1655	Ranexa		742
+1660	paritaprevir	ABT-450	997
+1661	Ixempra		483
+1663	Lucentis	RG-3645	739
+1665	Other Cardiology Products		1090
+1668	PF-4064900		1029
+1669	LY2590443	NULL	NULL
+1670	SSR125543	SSR125543	1937
+1672	Carbenin		675
+1673	Norditropin		794
+1674	Ventolin range		800
+1675	256073	256073	2256
+1677	Sporanox		481
+1678	Other Cytotoxic Agents		1027
+1679	Glucokinase Activator		3129
+1681	Prevacid / Takepron		493
+1683	Aflunov	NULL	420
+1684	Epivir		490
+1685	Other Neuropathic Pain Agents		1412
+1687	SAB378	NULL	NULL
+1689	Flu Pandemia-H7		370
+1690	Other NRTIs		1421
+1692	AZD6280	AZD6280	1730
+1694	Flolan		311
+1695	Recalbon	minodronate	576
+1698	Other Anti-psychotic Agents		1933
+1699	Other Benzodiazepines		1415
+1701	Dorner		113
+1702	Intuniv / Intuniv XR	S-877503	4297
+1703	Perjeta	R1273	1109
+1704	Livial		895
+1705	Other Hepatitis Vaccines		1100
+1706	AZD2624	NULL	NULL
+1707	QVAR		104
+1708	Treanda		4510
+1709	Revatio		820
+1710	ACAM-FluA		11
+1712	SAR351034	NULL	NULL
+1714	SAR97276	SAR97276 	4760
+1715	Tarivid		638
+1716	ostarine	NULL	653
+1717	Torisel		878
+1718	PF-4856882	NULL	NULL
+1720	Kadian	morphine ER	592
+1721	Other Penicillins		1478
+1722	656933		2205
+1724	Tenormin		82
+1725	GLP-1 PEG		410
+1726	Pantoloc		678
+1727	CS-866DM		1881
+1728	GC33	GC33	1225
+1729	Other Insulins		1323
+1730	Flumarin		365
+1731	Symbyax	olanzapine  +  fluoxetine	640
+1732	Effexor	venlafaxine	951
+1733	Tarceva		4108
+1735	Kyprolis		3409
+1736	elesclomol		295
+1737	Aptiom	SEP-0002093	327
+1738	Bosatria		1017
+1739	Altabax		756
+1740	BI-44847		3125
+1741	Testogel		2734
+1743	PF-4629991		992
+1744	gepirone ER		1016
+1745	DTP-HepB-Polio-Hib		1018
+1747	PF-4287881	PF-4287881	1030
+1748	PK-3716539		1031
+1749	Bonoteo	YM 529 	1040
+1750	Cylatron		1043
+1756	test product		1108
+1759	SEP-225289		1124
+1760	SEP-227162	SEP-227162	1125
+1761	SEP-228432	SEP-228432	1126
+1762	Nucynta / Palexia	tapentadol	1127
+1763	Seltouch	transdermal felbinac	1131
+1764	olaparib	AZD2281	1132
+1766	AMG 208	AMG 208	1134
+1767	lumiliximab		1136
+1768	volociximab		2727
+1770	Anti-Cripto mAb		1139
+1771	Anti-IGF-1R		1140
+1772	T-62		1141
+1773	lestaurtinib	CEP-701	1144
+1774	CEP-11981	CEP-11981	1145
+1775	CEP-9722	CEP-9722	1146
+1776	delanzomib	CEP-18770	1147
+1780	fresolimumab	GC1008	4671
+1781	Ozurdex	SK-0503	1153
+1783	briakinumab	ABT-874	1155
+1785	NN7128		1157
+1786	NN1841	rFXIII	1852
+1788	NN7720	NN7720	1161
+1789	NN1810	rFXIII	1934
+1790	rFVIIa	BAY86-6150	1163
+1791	Genz-644470	Genz-644470	1165
+1792	pixantrone	BBR 2778	1166
+1793	Certriad		1170
+1794	SAR110894	SAR110894D	1173
+1795	Calsed		4688
+1796	IPI-504	IPI-504	1175
+1797	IPI-493	IPI-493	1176
+1798	PEG-SN38	EZN-2208	1177
+1799	BIIB021		1178
+1801	Rheumatrex		1182
+1802	afacifenacin	SMP-986	1183
+1803	Suvenyl	hyaluronic acid	1184
+1804	ARC-100		1190
+1805	namilumab	MT203	1191
+1806	veltuzumab	IMMU-106	1493
+1807	coleneuramide	MCC257	1196
+1808	MP-435	MP-435	1197
+1809	TA-5493	TA-5493	1198
+1810	Fumaderm		1199
+1811	ONO-5334	ONO-5334	1200
+1812	Kinedak	ONO-2235	1201
+1813	Pomalyst / Imnovid	CC-4047	1210
+1814	CC-11050	CC-11050	1206
+1815	tanzisertib	CC-930	3328
+1816	Sotatercept	ACE-011	1208
+1819	Zinapar	ZIO-101	2735
+1820	tamibarotene	TM-411	2729
+1821	OC DHEA	OC DHEA	1217
+1822	E2 DRSP	E2 DRSP	1219
+1823	E-6201	E-6201	1560
+1824	fostamatinib		4488
+1826	RG7424	RG7424	1230
+1827	lebrikizumab	MILR1444A	4209
+1828	RG7418	RG7418	1232
+1829	RG7425	RG7425	1233
+1830	RG4930	DISCONTINUED 2Q 2011	1234
+1831	RG7419	RG7419	1235
+1832	RG7420	RG7420	1236
+1833	RG3638	RG3638	1237
+1834	pictilisib	RG7321	5288
+1836	RG1512	RG1512	1240
+1837	RG1671	RG1671	1241
+1838	RG3477	ACT-128800	1779
+1839	RG4929	RG4929	1243
+1840	RG7089	RG7089	1244
+1841	RG7103	RG7103	1245
+1845	fezakinumab	PF-5212367	1250
+1846	RG7234	RG7234	1251
+1847	RG7347	RG7347	1252
+1850	RG-7416	RG-7416	1255
+1852	RG7426	RG7426	1257
+1853	RG3635		1258
+1854	parsatuzumab	RG7414	1259
+1855	RG7422	RG7422	1260
+1856	RG1507	RG1507	1261
+1857	RG1578	RG1578	1262
+1858	RG1646	RG1646	3293
+1859	RG1678	GLYT1 inhibitor	1264
+1861	RG3487	DISCONTINUED APRIL 2011	1266
+1863	RG4733	RG4733	1268
+1864	RG4996	RG4996	1269
+1865	RG7010	RG7010	1270
+1866	RG7112	RG7112	1271
+1867	RG7160	RG7160	1272
+1868	RG7167	RG7167	1273
+1870	RG7304		1275
+1871	RG7334	RG7334	1276
+1872	RG7376	PLX-5568	1277
+1874	PS-386113	PS-386113	1283
+1876	Vimovo		5309
+1877	rontalizumab		5228
+1879	Priligy		1291
+1880	hyperglycosolated FSH	AS-900672	1294
+1882	Farmorubicin / Adriacin		1296
+1883	tesofensine		1297
+1884	Stribild		1298
+1886	GS-9450		1300
+1887	GS-9190		1301
+1888	cicletanine		1302
+1889	tecadenoson		1303
+1890	Inhaled fosfomycin/tobramycin	GS-9310/11	1304
+1891	GS-9411		1305
+1895	Estraderm		1309
+1898	Tyrisa	GSK480848	1326
+1899	Alkeran		1331
+1900	Elplat		1335
+1901	velneperit	S-2367	3241
+1902	Emend / Ivemend		2818
+1904	Wellbutrin XL	bupropion XL	3513
+1906	cilengitide	EMD-121974	1349
+1908	Glactiv	ONO-5435	1351
+1909	NT-702	NT-702	1505
+1910	Benlysta	belimumab	3591
+1911	Roxadustat	FG-4592	5172
+1912	tafluprost	MK-2452	1401
+1913	lesogaberan	AZD3355	1370
+1914	Xagrid		1371
+1915	Kiklin	ASP1585 / AMG223	1391
+1917	Prolia	denosumab	1384
+1920	axomadol		4039
+1921	SEP-227900	SEP-227900	1389
+1922	AMG 747	AMG 747	1390
+1923	ASP3291	ASP3291	1392
+1924	FK949E		5198
+1926	IMC-EB10	IMC-EB10	1396
+1927	MK-1496	MK-1496	1397
+1928	MK-4409	MK-4409	1398
+1929	MK-2578	MK-2578	1399
+1930	HSP990	HSP990	1402
+1931	buparlisib	BKM120	1403
+1932	Effient		1404
+1933	LCL161	LCL161	1405
+1934	LDE225	LDE225	1406
+1936	NN-8555	NN-8555	1411
+1937	RKI983	RKI-983	1414
+1938	Rescula	UF-021	1418
+1939	PF-4620110	PF-4620110	1423
+1940	PF-4554878	PF-4554878	1424
+1941	PF-4856883	PF-4856883	1425
+1942	PF-3716539		2344
+1943	Xiaflex	PF-5076985	1985
+1945	AVE0675	AVE0675	1429
+1946	AVE0118	AVE0118	1430
+1947	fasinumab	SAR164877 / REGN475	1431
+1948	BLI-489	BLI-489	1435
+1949	AGG-523	AGG-523 (PF-5212371)	1436
+1951	HTC-867	HTC-867	2400
+1952	OAP-189	OAP-189	1439
+1953	rilpivirine + Truvada		1441
+1955	Dovonex	BMS-181161	1443
+1956	Taclonex	LEO-80185	1444
+1957	Adcirca		1446
+1958	Oxarol		1448
+1959	Renagel		1449
+1960	Other ESA (ex-oncology) Agents		1450
+1962	Other Women's health treatments		1458
+1963	Other Men's HRT products		1460
+1966	Relenza		1474
+1970	Sanctura XR		1484
+1971	tigatuzumab	CS-1008	1485
+1972	Menhibrix		1489
+1973	Embeda	morphine + naltrexone	1490
+1974	Revestive		3500
+1975	SLV334	SLV334	1494
+1976	daglutril	SLV306	1495
+1977	SLV320		1496
+1978	SLV337		1497
+1979	SLV338		1498
+1980	SLV341		1499
+1983	Bonviva	ibandronate	443
+1984	TT-063	TT-063	1504
+1985	Lusefi	TS-071	1506
+1987	TS-022	TS-022	1508
+1988	Palux		1509
+1992	Madopar	levodopa + benserazide	2274
+1993	E-2012	E-2012	1516
+1994	E-3210		1518
+1995	farletuzumab	MORAb-003	1520
+1996	Amolimogene	E-7101	1521
+1998	E-7820		1523
+2000	irofulven	MGI-114	1525
+2001	Other Iron / Phosphate Regulators		1530
+2002	Tanakan	EGb761 	1531
+2003	Other Asthma & COPD Combination Products		3681
+2004	Dysport	abobotulinumtoxin A	1535
+2006	Ritalin / Focalin	methylphenidate / dexmethylphenidate	1537
+2007	Foipan		1544
+2008	Fortesta		1546
+2009	Loestrin 24 Fe		1547
+2010	Femcon FE		1548
+2011	Forlax		1550
+2014	Revovir		1555
+2016	Careram	T-614	1847
+2018	sibutramine	KES524	1559
+2019	Valstar		1561
+2020	octreotide implant		3424
+2021	PRO 2000		1563
+2022	pagoclone	pagoclone	1820
+2024	TA-8995	TA-8995	1566
+2025	caldaret	MCC-135	1567
+2026	edaravone	MCI-186	1568
+2028	Optesia	bupivacaine	1571
+2029	MP-214	MP-214	1572
+2030	TA-5538		1573
+2031	colestilan		1575
+2032	Clarith		1578
+2033	atacicept		1914
+2036	ARX 201		1583
+2037	adecatumumab		1584
+2038	AS703569		1585
+2039	NHS-IL2-LT	EMD-521873	5475
+2040	DI17E6	EMD 525797	1587
+2042	Neublastin	BG00010	3564
+2043	survivac		1590
+2044	AS703026	MSC1936369	1591
+2046	Anti-TWEAK		3565
+2047	Asonep		1594
+2048	Lixar	VPA-985	1595
+2049	sprifermin	FGF-18	1596
+2051	oglemilast		1598
+2053	ataluren	PTC-124	1601
+2055	SPD550		1603
+2058	Juvista	RN-1001	1607
+2059	Amigal		3468
+2061	Plicera		1610
+2062	alendronate effervescent		1611
+2064	Uracyst		1613
+2065	HGT-3510		1614
+2068	Alpha Agonists	AGN XX/YY	1617
+2069	PDE4 inhibitor		1618
+2071	PDE5 inhibitor		1620
+2072	Androgen Tear		1621
+2073	desmoteplase		2790
+2075	anamorelin	ONO-7643	1624
+2077	ONO-8539	ONO-8539	1626
+2078	ONO-4641	ONO-4641/ MSC2430913A	4145
+2079	tedatioxetine	Lu AA24530	1628
+2080	Lu AA34893		1994
+2081	ONO-4538	MDX-1106	1630
+2082	Lu AA39959	Lu AA39959	1631
+2083	ONO-3849	ONO-3849	1632
+2084	Lu AE58054	Lu AE58054	1633
+2085	Lu AA24493	Lu AA24493	1634
+2086	ONO-7746		1635
+2087	Lu AA38466	Lu AA38466	1636
+2091	VX-813		1642
+2092	ELND-004		1643
+2095	VX-809		1646
+2096	VX-509	VX-509	1647
+2097	prochymal		1950
+2100	VX-770		1653
+2101	MP-124	MP-124	2446
+2102	TA-6666		1655
+2105	MT-2832	CTA-018	1658
+2107	MP-136		1660
+2108	Invokana / Vokanamet		4525
+2109	GB-1057		1662
+2111	DSP-3235		1665
+2112	DSP-7238		1666
+2113	DSP-8658	DSP-8658	4377
+2114	prulifloxacin		1723
+2116	Aimix	DSP-8153	1670
+2117	SMP-028		1671
+2118	DSP-3025	AZD8848	1672
+2120	Abediterol	LAS100977	2002
+2121	S-021812		1675
+2122	ASLAN-003	ASLAN-003	1677
+2123	S-013420		1678
+2124	Sativex		5379
+2127	S-0139		1682
+2128	LAS41001	LAS41001	1683
+2129	S-555739		1684
+2130	Lusutrombopag	S-888711	1685
+2132	S-444823		1687
+2137	S-265744		1692
+2138	S-247303		1694
+2139	S-222611		1695
+2140	KW-2450	KW-2450	1696
+2141	KRN654	KRN654	1697
+2142	KW-0761		3915
+2144	MRE0094	MRE0094	1700
+2145	KW-2246	KW-2246	1701
+2146	KRN125		1702
+2147	AGS-003		1703
+2148	AGS-004		1704
+2149	Vanquix	diazepam autoinjector 	1705
+2150	Phosblock		2638
+2154	Folotyn		3765
+2155	KW-2449	KW-2449	1711
+2157	KW2478	KW2478	1714
+2158	KRN330	KRN330	1716
+2159	BIW-8962	BIW-8962	1717
+2160	NU206	NU206	1718
+2161	KW-3357		5508
+2162	KRN23	KRN23	5328
+2163	TC-5619	TC-5619	1731
+2164	AZD3043	AZD3043	1732
+2165	AZD6088		1733
+2166	AZD2423		3618
+2167	AZD6714	AZD6714	1735
+2168	AZD1480	AZD1480	1736
+2169	MEDI-575	MEDI-575	1737
+2170	MEDI-573	MEDI-573	1738
+2171	MEDI-550	MEDI-550	1739
+2172	MEDI-3250	MEDI-3250	3907
+2174	AZD9164		1742
+2175	AZD2551		1743
+2176	LCQ908	LCQ908	1744
+2180	Semprana	MAP-0004	3499
+2187	Detrol LA		1764
+2188	Follistim / Puregon		1765
+2191	ASP015K	ASP015K	1769
+2193	Abstral	KW-2246	1771
+2194	Other HDAC Inhibitors		1772
+2195	Benicar / Olmetec		1773
+2197	Fanapt	iloperidone	1775
+2198	Mycobacterial cell wall-nucleic acid complex (MCNA)	EN3348	1776
+2199	Miripla		2518
+2200	linifanib	ABT-869	1780
+2202	RG7417	RG7417	1783
+2203	noscapine	CB3304	1784
+2204	seocalcitol		1785
+2205	Fetzima	F2695 SR	1786
+2208	PN2034	PN2034	1789
+2209	Bonalon		1790
+2210	SMC-021	SMC021	1798
+2211	Dulera		1800
+2212	HDM AIT	MK-8237	2779
+2215	Arcapta / Onbrez	QAB149	4505
+2216	Onbrez + glycopyrronium	QVA149	1805
+2218	CEP-26401	CEP-26401	1808
+2219	CEP-37247	CEP-37247	1809
+2220	CEP-33236	CEP-33236	1810
+2221	CEP-33222		1811
+2222	TGF Beta antibody	LY2382770	1817
+2223	ridaforolimus		1819
+2224	figitumumab	CP-751871	1823
+2225	Cayston		1824
+2227	GS-6201		1826
+2229	GS-9256	GS-9256	1828
+2230	lomibuvir		1829
+2231	VX-759		1830
+2232	VX-985		1831
+2233	radiprodil	RGH-896	1832
+2239	sifalimumab	MEDI-545	1848
+2240	H1N1 pandemic influenza vaccine		1849
+2241	Xenazine	tetrabenazine	3548
+2242	semaglutide	NN9535	1851
+2243	N9-GP	NN7999	1853
+2244	NN7129	NN7129	1854
+2245	NN8630	NN8630	1855
+2246	Carbaglu		2239
+2247	SAR153192		1859
+2249	FOV2302	FOV2302	1861
+2251	SAR103168		1863
+2252	SAR548304		1864
+2254	ASP0777	ASP0777	1870
+2255	ASP4178		1871
+2256	Mepact		1873
+2258	TAK701	TAK701	1877
+2259	TAK901		1878
+2264	S-288310	S-288310	1885
+2266	TA-8317		1887
+2269	MDX-1342	MDX-1342	1890
+2271	MDX-1401	MDX-1401	1892
+2272	MDX-1411	MDX-1411	1893
+2273	MDX-1203	MDX-1203	1894
+2274	Brintellix	Lu AA21004	1895
+2275	Rivastach Patch	ONO-2540	1896
+2277	Flu ID		1898
+2278	naloxegol	NKTR-118	1899
+2279	actoxumab + bezlotoxumab	MK-3415A	1903
+2280	SCY-078	MK-3118	1905
+2281	MK-6406	MK-6406	1906
+2283	MK-4618	MK-4618	3992
+2284	MK-6913	MK-6913	2339
+2285	MK-4214	MK-4214	1910
+2286	MK-6302	MK-6302	1911
+2287	MK-7246		1912
+2288	A-623	A-623	3064
+2289	Other Rheumatic Disease Treatments		1916
+2290	paquinimod	57-57	2673
+2294	oxybutynin vaginal ring	DR-3001	1926
+2295	Milprosa	DR-201	1927
+2296	TV-1390	TV-1390	1929
+2297	Dia-Pep-277		1930
+2298	Pidilizumab	CT-011	1931
+2299	Stem-Ex		1932
+2302	Zalbin / Joulferon	ABF656	1940
+2303	CP118	CP118	1942
+2304	OX-NLA	OX-NLA	2468
+2305	rupatadine		1945
+2306	TSH		1947
+2309	Aveed		1951
+2310	Valturna		1952
+2311	Tyvaso		1953
+2312	avatrombopag		1954
+2313	Silodyx		1956
+2314	OpRA II	LY2196044	1960
+2315	Eladur	DUR-843	1961
+2316	perifosine		4475
+2317	Feraheme / Rienso		2361
+2319	Aspirin Cardio		1969
+2322	Subutex / Suboxone	buprenorphine / buprenorphine + naloxone	1973
+2323	anatibant	XY-2405	3033
+2324	INCB18424		1977
+2325	Voltaren Gel	diclofenac sodium gel	1979
+2326	Stivarga	BAY 73-4506	1980
+2327	MN-IC	MN-IC	1982
+2328	LAS41007	LAS41007	1983
+2329	Aggrenox		1987
+2330	Opsumit	ACT-064992	1988
+2332	Alfarol		1990
+2334	Lu 02-750	Lu 02-750	1993
+2335	Saflutan	MK-2452	1995
+2336	Celtect		1997
+2337	TAK-937	TAK-937	1998
+2338	razupenem	PTZ601	2000
+2339	Doryx		2001
+2340	pozanicline	ABT-089	2003
+2341	Metazym	HGT-1111	2005
+2342	249320	249320	2006
+2343	BMS-863233	XL-413	2007
+2344	BMS-833923	XL-139	2008
+2345	zicronapine	Lu 31-130	2010
+2346	Firazyr	icatibant	2011
+2348	tivozanib		3652
+2350	Naglazyme		2020
+2351	AD02	AD02	2021
+2353	necitumumab	IMC-11F8	4954
+2354	piclozotan	SUN N4057	2026
+2356	SUN11031	SUN11031	2028
+2357	Quartette	DR-103	2029
+2358	LeCette	DR-1021	2030
+2361	saracatinib	AZD0530	2034
+2362	TAK-329		2036
+2364	ispronicline	TC-1734	2039
+2367	Ampyra	dalfampridine	2048
+2370	S-234462	S-234462	2052
+2372	Afrezza		5541
+2374	PF-4308515	PF-4308515	2056
+2375	PF-5212368	ILV-095	2057
+2376	PF-4764793		2060
+2377	test		5502
+2378	conatumumab		2062
+2379	CP-601927	CP-601927	2063
+2380	PF-4455242	PF-4455242	2067
+2381	PF-5212362	PF-5212362	2068
+2382	PF-5212377	PF-5212377	2069
+2383	PF-5236806	PF-5236806	2073
+2384	PF-5212365	PF-5212365	3288
+2385	PF-4427429	PF-4427429	2075
+2386	PF-4531083	PF-4531083	2077
+2387	Istodax		2078
+2389	TC-5214	TC-5214	2080
+2394	verucerfont	561679	2087
+2395	Horizant	ASP8825	5202
+2396	nitazoxanide	NTZ	2090
+2397	RG7273	RG7273	2092
+2398	RG7090	RG7090	3879
+2399	RG7166	RG7166	2094
+2400	RG7351	RG7351	3289
+2401	RG1662	RG1662	2096
+2402	Gazyva / Gazyvaro	GA101	2097
+2404	NovoMix		2099
+2405	NovoRapid / NovoLog		2100
+2406	PDA-001	PDA-001	3330
+2411	OG217SC	NN9924	2106
+2412	NN9161	NN9161	2107
+2413	WC 3016	WC 3016	2108
+2416	QAV680		2115
+2417	QGE031	QGE031	3842
+2419	PTK796	PTK796	2120
+2420	I.V. carbamazepine	I.V. carbamazepine	2121
+2421	Vpriv	velaglucerase alfa	2123
+2422	Soliris		5330
+2423	Jevtana	XRP6258	2125
+2424	Temusi	XRP0038	2126
+2426	dupilumab	REGN-668	4481
+2427	Poluent	RENG727 / SAR236553	2129
+2428	ACZ885	ACZ885	2132
+2429	betrixaban		2131
+2430	Cinquil	CEP-38072	2134
+2431	Gelnique		2137
+2432	INCB-28050		2138
+2433	Huntexil	ACR16	2140
+2434	TS1		2141
+2435	UFT		2621
+2436	Uzel		2143
+2438	Dexilant	TAK-390MR	2146
+2439	TAK-733	TAK-733	2148
+2440	davalintide		2149
+2441	AC-220		2151
+2442	AGS-16M8F	AGS-16M8F	2153
+2443	KES-524		2154
+2444	Glufast		2155
+2445	Zavesca / Vevesca / Brazaves		2157
+2448	Cerdelga	Genz-112638	2160
+2450	Staybla	ONO-8025	2163
+2452	Emend	ONO-7436	2165
+2453	Myozyme / Lumizyme		2168
+2455	BGS-649 	BGS-649 	2171
+2456	PF-4418948	PF-4418948	2172
+2457	PF-4967544		2173
+2458	Posidur	DUR-843	2174
+2459	AGN-209323	AGN-209323	2175
+2460	idursulfase-IT	HGT-2310	2179
+2461	sulfamidase-IT	HGT-1410	2940
+2462	HGT-2610	HGT-2610	2181
+2463	SPD 535	SPD 535	2182
+2464	Rapiacta	S021812	2186
+2465	Arcalyst		4282
+2466	Rilutek	riluzole	2195
+2467	selexipag	ACT-293987	2196
+2468	Unknown cardiovascular compound		2197
+2469	JNJ-42160443	JNJ-42160443	2552
+2470	S/GSK1349572	S-349572 	2199
+2472	Nimenrix	GSK-134612	2202
+2473	Grastek	SCH-697243	2687
+2474	Ragwitek	SCH-39641	2207
+2478	Striverdi	BI-1744-CL	2213
+2479	Flivas		2215
+2481	Onealfa	alfacalcidol	2217
+2484	drisapersen	2402968	2220
+2485	Adult Booster Vaccines		2221
+2486	Meningitis / Pneumonia Vaccines		2223
+2488	Byetta / Bydureon		1556
+2489	Eklira	LAS34273	4179
+2490	Sumavel DosePro	sumatriptan injectable	5531
+2491	vilanterol	642444	2231
+2492	anti-LINGO1	NOGO-A	2233
+2493	Proventil		2234
+2496	elinogrel	PRT128	2237
+2497	Reasanz	RLX030	2238
+2498	Vedrop		2240
+2499	Infasurf		2745
+2500	Stanate		2242
+2501	Cystadrops		2243
+2503	thrombosis inhibitor		2245
+2504	Apaziquone	EO-1	2246
+2507	Tybost	GS-9350	2250
+2508	GS-9667		2251
+2509	VX-765	VX-765	2252
+2510	1278863		5509
+2511	1362885	1362885	2257
+2512	foretinib	1363089	2260
+2514	2285921	2285921	2263
+2515	Toledomin	milnacipran	2967
+2516	Esertia	escitalopram	2265
+2517	Bredinin	50924-49-7	2267
+2518	ONO-7847	MK-0517	2268
+2519	Levact / Ribomustin		2269
+2520	V503	V503	2271
+2521	YM533	YM533	2272
+2522	Valcyte / Cymevene	RG127	2273
+2523	Trelstar		2275
+2524	2110183	2110183	2276
+2526	2126458		5245
+2527	2141795	2141795	2279
+2529	danirixin	1325756	2282
+2530	1070806	1070806	4904
+2531	ozanezumab	1223249	2285
+2535	Vercirnon	1605786	2289
+2536	Hexavalent combination vaccine		2290
+2537	Heptavalent combination vaccine		2291
+2538	UCB 2892	UCB 2892	2292
+2539	omecamtiv mecarbil	AMG 423	2293
+2540	AMG 761	KW-0761	5154
+2541	evolocumab 	AMG 145	5128
+2542	AMG 151	AMG 151	2296
+2543	AMG 157	AMG 157	2297
+2544	AMG 167	AMG 167	2299
+2546	IL-23 antibody		2305
+2550	AZD8329	AZD8329	2310
+2551	AZD8418	AZD8418	2311
+2552	PF-5230894		2312
+2556	PF-2341472		2318
+2557	CP-870893		2319
+2558	PF-3084014		2320
+2559	PF-3446962		2321
+2560	PF-3732010		2322
+2561	PF-3758309	PF-3758309	2323
+2562	PF-3814735		2324
+2563	PF-4217903	PF-4217903	2325
+2564	PF-4605412		2326
+2565	PF-4691502	PF-4691502	2327
+2566	PF-477736	PF-477736	2328
+2567	PF-4929113	PF-4929113	2329
+2568	PF-5208766	WAY-178357	2330
+2569	PF-562271	PF-562271	2331
+2570	PF-5212367	ILV-094	2332
+2571	PF-5230895 	SBI-827	2333
+2574	SCH 900435	Org 25935	2340
+2575	taliglucerase alfa		2341
+2576	PF-5212366 		3248
+2577	palbociclib	PD-0332991	5180
+2578	PF-3512676		2347
+2579	Other Opioid Analgesics		2349
+2580	Other Immunomodulators - Rheumatic Diseases		2350
+2581	Other PPAR Modulators		2351
+2582	Other Growth Hormone-related Treatments		2352
+2583	Other Class Ic Anti-arrhythmic		2353
+2584	Other Class III Anti-arrhythmic		2354
+2585	dalotuzumab	MK-0646	2355
+2586	dinaciclib	MK-7965	2356
+2587	ranirestat	AS-3201	2357
+2588	PF-04948568	CDX-110	2358
+2589	tucotuzumab celmoleukin	EMD-273066	2359
+2590	naproxcinod	naproxcinod	2360
+2591	ramoplanin		2363
+2592	TD-1252		2364
+2593	AFN-1252		2365
+2595	AR-709		2367
+2596	ATX-MS-1467	ATX-MS-1467	2368
+2599	Pseudomonas aeruginosa vaccine	IC-43	2373
+2601	Pancreate		2375
+2602	KB001		2376
+2603	Testim		2377
+2605	Lialda / Mezavant		2379
+2606	Nesina / Liovel / Vipidia / Oseni / Kazano		2380
+2608	Zenapax		2382
+2609	Girosa		2383
+2610	iniparib	BSI-201	2384
+2612	Brinavess	MK-6621	2386
+2613	Cisordinol / Clopixol	zuclopenthixol	2877
+2614	Dixeran	melitracen	2888
+2615	Fluanxol	flupenthixol	2878
+2616	Noritren	nortriptyline	2891
+2617	Saroten	amitriptyline	2892
+2618	Truxal	chlorprothixene	2879
+2619	Tymelyt	lofepramine	2893
+2620	formoterol + Eklira		2395
+2622	Reminyl	galantamine	3362
+2623	Elavil	amitriptyline	2402
+2624	Vivalan	viloxazine	2403
+2625	Tolopelon	timiperone	2404
+2626	Org 25935	Glycine Uptake Inhibitor	2405
+2627	Org 26576	AMPA PAM	2406
+2628	Sinemet	levodopa + carbidopa	2408
+2629	Taloxa	felbamate	2409
+2630	Tolvon	mianserin	2895
+2631	Saphris / Sycrest	asenapine	2411
+2632	Parcopa		2412
+2633	Bayotensin		2413
+2634	Baymycard		2414
+2635	Nimotop 		2415
+2636	Betapace		2416
+2637	Ilomedin		2417
+2638	Pritor 		2418
+2639	Refludan		4469
+2641	Trasylol 		2421
+2642	ganaxolone	ganaxolone	2422
+2645	gantenerumab	RG1450/RO4909832	2425
+2646	Cipramil		2426
+2647	Amerge / Naramig	naratriptan	2428
+2648	Zyban	buproprion	2429
+2649	Imitrex / Imigran	sumatriptan	2430
+2650	Imdur		2432
+2651	Inderal 		2433
+2652	Argatroban		2434
+2653	Lacipil 		2435
+2654	Trandate		2436
+2655	Adancor		2437
+2656	Dynorm 		2438
+2657	Fozitec 		2439
+2658	Kerlong		2441
+2659	Kalgut		2442
+2660	Tanadopa 		2443
+2661	Adona AC-17		2444
+2662	Novastan		2445
+2663	Clozaril / Leponex	clozapine	2447
+2665	Tasmar	tolcapone	2451
+2666	patritumab		2452
+2667	Bisphonal		2453
+2668	Ethyol		2454
+2669	Bonefos		2455
+2670	Zevalin		2457
+2672	Aerospan		2461
+2674	Haldol	haloperidol	2463
+2675	Tripedia		2464
+2677	Onbrez + Asmanex	QMF149	2466
+2679	Excegran	zonisamide	2469
+2680	Trerief	zonisamide	2470
+2681	Dops	droxidopa	2471
+2682	Lullan	perospirone	2472
+2683	Daptacel		2474
+2684	Tetravac / Quadracel 		2475
+2685	Serenace	haloperidol	2884
+2686	Akineton	biperiden	2477
+2687	TriHIBit		2478
+2688	Erimin	nimetazepam	2887
+2689	Pentacel		2480
+2690	Pentaxim		2481
+2691	Hexavac		2482
+2692	Gamanil	lofepramine	2483
+2693	Euphylline		2484
+2696	Nouriast	KW-6002	3096
+2698	Paraplatin		2490
+2699	Serzone / Dutonin		2491
+2700	Entact	escitalopram	2492
+2701	BuSpar		2493
+2702	Elopram	citalopram	2494
+2703	ReVia		2495
+2704	Trisenox		2496
+2705	Myocet		2498
+2706	Targretin		2499
+2707	tipelukast		2500
+2708	Furtulon		2501
+2709	Mysoline	primidone	2502
+2710	LT-NS001	LT-NS001	2504
+2711	Astucor		2506
+2712	Parapres		3546
+2713	Feron		3038
+2714	Astudal 		2509
+2715	Blocklin		2510
+2716	Dobutrex 		2511
+2717	Longes		2512
+2718	Landel 		2513
+2719	Sular 		2514
+2720	PravaFen		2515
+2721	Jenloga XR 		2516
+2722	ADX415 	ADX415 	2517
+2724	mOPV1		2520
+2725	IPOL		2521
+2726	Fluzone High-Dose IM		2522
+2727	Aceon		2523
+2729	Ultane / Sevorane	sevoflurane	818
+2730	Cardizem LA		250
+2732	Omacor		2530
+2733	Ifomide 		2531
+2734	Aqupla		2532
+2735	Simdax 		2533
+2736	Uromitexan 		2534
+2737	Cleactor		2535
+2738	Eril 		2536
+2740	Neuquinon 		2538
+2741	Anandron / Nilandron 		2539
+2742	Nitorol 		2540
+2743	Tambocor		3519
+2744	Lanirapid 		2543
+2745	rezatomidine	AGN-203818	2544
+2746	Lortab		2545
+2748	Mencevax ACWY		2550
+2749	Fentanyl Taifun	fentanyl inhaled	2551
+2750	Granocyte		2553
+2751	Inovan / Pre Dopa 		2554
+2752	Leustatin		2555
+2753	Suprefact 		2556
+2754	Anzemet		2558
+2755	Activacin		2559
+2756	Hysron-H200		2560
+2757	Leukoprol		2561
+2758	5-FU		2562
+2759	Acardi 		2563
+2760	Mexitil 		2564
+2761	TAK-472		2565
+2762	Motens / Caldine 		2566
+2763	Cataclot 		2567
+2764	Onoact 		2568
+2765	Oral-lyn		2570
+2766	Milrila 		2571
+2768	Hypoca 		2573
+2769	Nivadil		2574
+2770	Neumega		2575
+2771	Vaprisol		5524
+2772	Adecut 		2577
+2774	MCHR1		2579
+2775	Glucagon G		2580
+2776	Glucagon Novo / GlucaGen		2581
+2777	Starlix		2582
+2778	CSG452		2583
+2779	Armour Thyroid		2585
+2780	Corticosteroids		2586
+2781	Cytomel		2587
+2782	Lopid 		2588
+2783	Levothroid		2589
+2784	Tapazole		2590
+2785	Thyrolar		2591
+2786	Euthyrox		2592
+2787	Rocaltrol	calcitriol	2613
+2788	MRE-0094		2594
+2789	Euglucon		2596
+2790	Aldactone		2597
+2791	Glimicron		2598
+2792	Glucotrol / Glucotrol XL		2599
+2793	Growject		2600
+2794	Increlex		2601
+2795	Melbin		2603
+2796	Panaldine / Ticlid 		2760
+2797	elagolix	NBI-56418	2605
+2798	AMG167	AMG167	2606
+2800	Osten	ipriflavone	2608
+2801	NTHi-Pneumo vaccine 		2609
+2802	Streptococcus pneumoniae vaccine 		2610
+2803	Varicella Zoster virus vaccine	GSK1437173A	2612
+2804	EllaOne		3045
+2807	Toradol		3262
+2808	Fiorinal		2618
+2809	Fioricet		2619
+2810	VAP-1	VAP-1	2620
+2811	Navoban		2622
+2812	Proleukin		2623
+2813	Leucomax		2624
+2815	Delta PKC Inhibitor / KAI 9803	KAI 9803	2627
+2816	IKACh inhibitor / NTC-801	NTC-801	2628
+2817	Fareston		2630
+2818	OncoTICE		2631
+2819	Lescol / Lochol		2632
+2820	Desferal		2633
+2821	Prinivil 		2634
+2822	Nitro-Dur		2635
+2823	Mevacor 		2636
+2824	Busulfex		2637
+2826	Nitrocor		2643
+2827	satraplatin		2646
+2828	Cloretazine		2647
+2829	Edex		2649
+2830	ProLindac	AP5346 	2650
+2831	Uprima		2651
+2832	SLx-2101		2652
+2833	LY-545694 	LY-545694 	2653
+2834	Perselin		2654
+2835	Hytrin		2655
+2836	Bup-4		2658
+2837	Combunox		2657
+2838	ONO-5839		2659
+2839	Estratest		2665
+2840	Premarin Family		2666
+2841	Estrofem / Innofem		2667
+2842	Estrogel		2669
+2843	NovoFem		2670
+2845	Mumpsvax		2674
+2846	Pneumovax 23		2675
+2847	Presomen		2676
+2848	V419		2677
+2849	Striverdi + Spiriva 	BIBW-2948-BS	2678
+2850	V710		2679
+2852	AS-900672		2681
+2853	Singulair + mometasone furoate	MK-0476C	2682
+2854	Ovidrel		2683
+2855	Luveris		2684
+2856	DDAVP		2685
+2858	sapacitabine	CYC682	2688
+2859	Pixuvri		2689
+2860	retaspimycin	IPI504	2690
+2861	Slonnon 		2691
+2862	Captoril 		2692
+2863	Bexxar		2693
+2864	Lasix 		2694
+2865	QTI571	QTI571	2697
+2866	Acecol 		2698
+2867	Delix / Tritace 		2701
+2868	Capoten 		2707
+2869	Roferon-A		2711
+2870	tesetaxel		2717
+2871	Infree	indomethacin	2721
+2872	VR-776		2724
+2873	Prialt	ziconotide	2725
+2874	CYT006-AngQb	Discontinued - Aug 2012 - CYT006-AngQb	2726
+2876	Prilocaine Lidocaine Plethora	PSD-502	2731
+2877	Tostrex		2733
+2878	PS-433540 	PS-433540 	2736
+2879	Firmagon		2737
+2880	Beromun		2738
+2881	Vantas		2739
+2882	Elaspol	ONO-5046	2740
+2883	Androderm		2742
+2885	Solantal	tiaramide	2746
+2886	Nasanyl		2747
+2889	CDP-7657	CDP-7657	3063
+2890	Colyte		2751
+2891	Tiazac 		2752
+2892	Procardia 		2753
+2893	Tildiem		2754
+2894	M118 	M118 	2755
+2895	ISIS-FXIRx	ISIS-FXIRx	3771
+2896	Aggrastat 		2759
+2897	Seloken / Toprol XL 		2761
+2898	Genasense		2763
+2899	aplidin		2764
+2900	danegaptide 	ZP1609 / GAP-134	2765
+2901	AS1411		2766
+2902	CR011-vcMMAE		2767
+2903	Tavocept		2771
+2904	LOR-2040		2769
+2905	Cidine		2770
+2906	Dicetel		2772
+2907	ADL-7445		2773
+2908	ADL-5945		3529
+2909	ibodutant	MEN-15596	2775
+2910	velusetrag	TD-5108	2776
+2911	Liple 		2777
+2912	Lotronex		2778
+2914	Kalbitor 		2780
+2915	Vogalene		2781
+2916	Praxilene		2782
+2917	Prostandin 		2783
+2918	Cholestagel 		2784
+2919	ATryn		3478
+2920	Kinlytic 		2787
+2921	Retavase 		2788
+2922	Rapilysin 		2789
+2923	Anpec	MH-200	2793
+2924	Opso		2794
+2925	Didronel		2795
+2926	Entocort CR		2796
+2927	Omeprazon		2797
+2928	Opiren		2798
+2929	Peptazol		2799
+2930	Norpramin		2800
+2931	Stogar		2804
+2932	MH-200/Pacif	MH-200	2807
+2933	Calcitonia Almirall	salmon calcitonin	2808
+2934	Calmatel / Picalm	piketoprofen	2809
+2935	Gabalon		2814
+2936	Tagamet		2815
+2938	Differin		2820
+2939	Aczone		2821
+2940	Toctino		2823
+2941	Azelex		2824
+2942	Combigan	brimonidine + timolol	2825
+2943	Ganfort	bimatoprost + timolol 	2826
+2944	Prolacria	diquafosol tetrasodium	3008
+2945	Elestat		2828
+2946	IOP Lowering	AC-262271	2829
+2947	Prevascar		2830
+2948	Acular	ketorolac	2831
+2949	Lotrisone		2832
+2950	Alocril	nedocromil	2833
+2951	Solaraze		2834
+2952	Diprolene AF		2835
+2953	Gatiflo		2836
+2954	Flumark		2837
+2955	Vanos		2838
+2956	Spara		2839
+2957	becocalcidiol		2840
+2958	bimosiamose		2841
+2959	Malarone		2842
+2961	Trivaris		2844
+2962	Penbritin		2845
+2963	Amoxil		2846
+2965	Timentin		2848
+2966	voclosporin		2849
+2967	Bactroban		2850
+2968	Taflotan / Tapros	DE-085	3100
+2969	ponesimod	ACT-128800	3747
+2970	TA-5439		2853
+2972	945273		2856
+2973	Celluvisc	carboxymethylcellulose	2861
+2974	BTT-1023		2858
+2975	Pasetocin		2859
+2976	guselkumab	CNTO-1959	2860
+2977	Lacri-Lube	petrolatum + mineral oil	2862
+2978	vaniprevir	MK-7009	2863
+2979	Pazucross		2864
+2980	Blephamide	sulphacetamide + prednisolone	2865
+2981	Pred Forte	prednisolone	2866
+2982	Symmetrel		2867
+2983	Coartem/Riatem 		2868
+2984	Lamprem		2869
+2985	Rescriptor		3218
+2986	Octegra		2871
+2987	Darilin		2872
+2988	Diezme		2873
+2989	Lomexin		2874
+2990	Lariam		2875
+2991	Flisint		2876
+2992	Broact		2880
+2993	Keflex		2881
+2995	Shiomarin		2883
+2996	Ozex	T3262	2885
+2997	Pentcillin		2886
+2998	Bestcall		2889
+2999	Amasulin		2890
+3001	Biferonex	interferon beta 1a	2896
+3002	ELND002	ELND002	2897
+3003	BHT-3009	BHT-3009	2898
+3004	etrolizumab	RG7413	2899
+3005	Aclasta		2906
+3006	rebamipide	OPC759	2907
+3007	BIIB014	BIIB014	2909
+3008	ELND005	AZD-103	1639
+3009	ELND006	ELND006	2911
+3011	PF-5212371	AGG-523	2918
+3012	Local anesthetics	Local anesthetics	2923
+3013	LY-2127399	LY-2127399	2926
+3014	PF-5212374	PF-5212374	2927
+3016	S/GSK1265744	S-265744LAP	2934
+3017	S/GSK-1349572	S/GSK-1349572	2935
+3018	Filibuvir		2938
+3020	CEP-33237	CEP-33237	2941
+3021	Serastar / Zempack	indomethacin	2942
+3023	RGH-188	RGH-188	2962
+3024	ORE-1001		2952
+3026	RG4934	RG4934	2956
+3027	RG7449	MEMP-1972A	2957
+3029	RG7440	RG7440	2959
+3030	RG7594	RG7594	2960
+3031	RG7348	RG7348	2961
+3032	Novantrone	mitoxantrone	2965
+3033	Ixel	milnacipran	2966
+3034	Irtra	S-474474	2968
+3035	benralizumab	BIW-8405	2969
+3037	parogrelil		2971
+3038	OC-000459		2972
+3039	ASM8	TPI-ASM8	2973
+3040	Udenafil ED	WC 3043	2974
+3045	Betaseron / Betaferon	interferon-beta 1b	2980
+3046	Esbriet		2983
+3047	SCH 900776	SCH 900776	2986
+3049	Alphagan / Alphagan P / Combigan	AGN-190342	2992
+3051	Lumigan / Lumigan 0.01 / Ganfort	AGN-024	2994
+3052	Xalatan / Xalacom	PhXA-41	2995
+3053	Y-39983	Y-39983	2996
+3054	taprenepag	PF-4217329	2997
+3056	Paxil / Seroxat	paroxetine	2999
+3057	AR-12286	AR-12286	3000
+3058	DE-104	DE-104	3059
+3059	lomerizine	DE-090	3002
+3060	Macugen		3004
+3062	Patanol / Pataday	AL-4943A	3006
+3063	begacestat	PF-5212365	3009
+3065	Ikervis	Cyclokat	3011
+3066	AL-43546	AL-43546	3012
+3067	EGP-437	EGP-437	3013
+3068	ASP4058	ASP4058	3014
+3069	Resolor		3017
+3070	ponezumab	PF-4360365	3019
+3071	AZ-001	AZ-001	3020
+3072	Elonva	ORG-36286 / MK-8962	3021
+3073	BL-1020	BL-1020	3022
+3074	Chantix / Champix	CP-526555	3024
+3075	Permax		4503
+3076	NXN-188	NXN-188	3026
+3077	Lithobid	lithium carbonate	3028
+3078	Heplisav		3031
+3080	E7974	E7974	3035
+3081	Melbin / Metgluco	SMP-862	3037
+3083	FC Patch Low	BAY-86-5016	3042
+3085	Ella		3044
+3086	Cyramza	LY3009806; IMC-1121B	3046
+3087	Rezaltas		3047
+3088	Fluzone QIV		3048
+3089	Votrient	pazopanib	3049
+3090	Zontivity	SCH-530348	3050
+3091	Egrifta		5380
+3093	Monistat		3053
+3094	Pevaryl/Spectazole 		3054
+3095	Prodif		3055
+3096	pazopanib		3056
+3097	L-314d QID - BPS	L-314d QID	3057
+3098	RDEA806		3058
+3099	elvucitabine		3060
+3100	BMS 650032		3061
+3101	danoprevir	RG7227 / ITMN-191	3062
+3102	Kerydin		3065
+3104	NS-75B		3067
+3107	Pruvel		3073
+3108	Foster	CHF-1535	3074
+3109	HRT range - Novo Nordisk		3075
+3110	HRT range - Actavis		3076
+3111	Pediatric Vaccines - Merck		3077
+3112	Pediatric Vaccines - Novartis		3078
+3113	Pediatric Vaccines - Sanofi Pasteur MSD		3079
+3114	Pediatric Vaccines - sanofi-aventis		3080
+3115	Hepatitis vaccines - GSK		3081
+3116	Hepatitis vaccines - Merck		3082
+3118	Dengue fever vaccine - GSK		3084
+3119	Dengue fever vaccine - sanofi-aventis		3085
+3121	HIV vaccine - Novartis		3087
+3122	Human Insulins - Novo Nordisk		3088
+3123	Insulins - sanofi-aventis		3089
+3124	Tuberculosis vaccine - GSK	GSK692342	3090
+3125	Other Hematology Agents		3091
+3126	Travatan / Travatan Z / DuoTrav	AL-6221	3092
+3128	Travel Vaccines - Novartis		3094
+3131	Other Vaccines - sanofi-aventis		3098
+3133	Other Vaccines - Merck		3101
+3135	Influenza Vaccines - Novartis		3103
+3136	Intanza / Fluzone ID		3104
+3137	Fluzone High Dose IM		3105
+3138	Avandia products		3107
+3139	Linjeta		3108
+3140	CMV vaccine - AstraZeneca		3136
+3141	CMV vaccine - sanofi-aventis		3137
+3142	Cytomegalovirus vaccine - GlaxoSmithKline	GSK1492903A	3138
+3143	Cytomegalovirus vaccine - Novartis	GSK1492903A	3139
+3144	Other Vaccines - SPMSD		3140
+3145	Travel Vaccines - sanofi-aventis		3141
+3146	Travel Vaccines - SPMSD		3142
+3147	Tuberculosis vaccine - sanofi-aventis	GSK692342	3143
+3148	Hepatitis Vaccines - SPMSD		3144
+3149	Lu AE04621	Lu AE04621	3145
+3150	INM-176	INM-176	3146
+3151	Banan		3147
+3152	Claforan		3148
+3153	Cognex		3149
+3154	Kefral		3150
+3155	Sulperazon		3151
+3156	Isocef 		3152
+3157	Cefspan		3153
+3158	Dogmatil		3154
+3159	TAK-599		3155
+3160	Solian		3157
+3161	aminocandin		3158
+3162	Nuplazid	ACP-103	3159
+3163	FV-100		3160
+3165	Valium	diazepam	3162
+3166	Advaferon		3163
+3167	Rebetron		3164
+3168	Domin		3165
+3169	Infergen		3166
+3170	Locteron		3167
+3172	Rulid		3169
+3173	Cethromycin		3170
+3175	Modithromycin	EDP-420	3172
+3176	dapivirine		3173
+3177	Emtriva		3174
+3178	Retrovir		3175
+3179	Videx		3176
+3180	Amdoxovir	DAPD	3177
+3181	Bactrim		3178
+3182	Garamycin		3179
+3183	Targocid		3181
+3184	Minocin		3182
+3185	Synercid		3183
+3186	Lamprene		3184
+3187	iclaprim		3185
+3188	Orbactiv		3186
+3189	NXL-104		3187
+3190	GS-9310/11 	GS-9310/11 	3188
+3192	Valixa		3190
+3193	CytoGam		3191
+3194	Vistide		3192
+3195	E7101		3193
+3196	ANA598		3194
+3197	IDX-184		3195
+3198	PSI-7851		3196
+3199	deleobuvir		3197
+3200	ANA773		3198
+3201	bavituximab		3199
+3202	ChronVac-C		3200
+3203	GI-5005		3201
+3204	IMO-2125		3202
+3205	TT-033		3203
+3206	INCB9471		3204
+3207	ibalizumab	TNX-355	3205
+3208	MPC-4326 		3206
+3209	PRO-140		3207
+3210	TRI-1144		3208
+3211	VRX-496 		3209
+3213	Bicillin		3211
+3214	Agenerase		3212
+3215	Crixivan		3213
+3216	Viracept		3215
+3217	PPL-100		3216
+3218	Factive		3217
+3219	fipamezole		3220
+3220	Glivec / Gleevec	QTI-571	3221
+3221	ACE-031	ACE-031	3222
+3222	ALN-RSV01 		3224
+3223	favipiravir	T-705	3225
+3224	BMS-945429	BMS-945429	3226
+3225	PF-5230896	PF-5230896	3227
+3226	LY-2439821	LY-2439821	3228
+3227	mavrilimumab	CAM-3001	3229
+3228	Calslot 		3231
+3229	Rytmonorm		3232
+3230	NN9925	NN9925	3233
+3231	FIAsp	NN1218	3234
+3232	E-6201 topical		3235
+3233	terafenacin		3236
+3235	morphine hydrochloride		3239
+3236	MS Contin		3240
+3238	EMD-1214063		3243
+3239	EMD-1204831	EMD-1204831	3244
+3240	Meningitec		3246
+3241	Menomune		3247
+3242	Pguard		3249
+3243	NN-8226	NN-8226	3250
+3244	NN-8210	NN-8210	3251
+3245	Reprexain		3252
+3247	morphine-6-glucuronide	M6G	3254
+3248	Rylomine		3255
+3249	Ereska	PMI-150	3256
+3251	Dynastat		3258
+3252	Miltax		3259
+3253	Naprosyn	naproxen	3260
+3254	Pennsaid		4858
+3255	CG-100649	CG-100649	3263
+3256	Grippol Plus and Grippol Neo 		3264
+3257	Fluvax		3266
+3258	Celvapan		3267
+3259	Daronix		3268
+3260	FluBlok		3269
+3262	VLP influenza vaccine		3271
+3263	PanFlu		3272
+3265	HibTITER		3274
+3266	Priorix 		3275
+3267	Tetramune		3276
+3268	Traveller's diarrhea vaccine		3277
+3269	CHF-4227	CHF-4227	3278
+3270	Preotact		3279
+3272	Macroflux PTH 		3281
+3273	arbaclofen placarbil 	XP19986	3282
+3274	Inavir		4522
+3275	Group B Streptococcus		3284
+3277	Musculax		3286
+3278	dibotermin 		3287
+3279	Eldepryl		3291
+3280	Zemuron / Esmeron	rocuronium bromide	3294
+3281	INFeD		3295
+3282	sutezolid	PF-2341272	3296
+3283	PF-4995274	PF-4995274	3297
+3284	PF-4958242	PF-4958242	3298
+3285	Vaniqa		3299
+3286	Rabies VRVg		3300
+3287	Rotavirus vaccine		3301
+3288	NZ2114		3302
+3291	Contraceptive brands - J&J		3306
+3292	Contraceptive brands - Pfizer		3307
+3293	Xiapex	PF-5076985	3309
+3294	TTP-399	TTP-399	3310
+3296	Osphena		3311
+3297	REC-0422		3313
+3299	CEF-104	CLX-104	3315
+3300	Gilenya	FTY-720	3316
+3301	IC31 seasonal influenza vaccine 		3317
+3302	Pandemic influenza vaccine patch 		3318
+3305	ABI-008	ABI-008	3325
+3306	ABI-011	ABI-011	3326
+3307	ABI-009	ABI-009	3327
+3309	IFNbeta-1a		3333
+3310	CCX-025	CCX-025	3334
+3311	Latuda	SM-13496	3774
+3312	encenicline	EVP-6124	5355
+3313	FSC Combination		3337
+3314	DuoResp	BFC Combination	3338
+3315	fluticasone MDPI		3339
+3316	VR506		3340
+3317	Livazo		3341
+3318	Cystagon		3342
+3319	Normosang		3343
+3320	N8-GP		3344
+3321	Concizumab	NN7415	3345
+3322	NN-8828		5257
+3323	SHP609	SHP609	3347
+3324	ELND007	ELND007	3348
+3325	CAZ-104		3349
+3326	Teflaro		3350
+3327	Kapvay	clonidine	201
+3328	Dulaglutide	LY2189265	3352
+3329	GAD-65		3354
+3330	atopaxar 	E5555	3355
+3331	Gilotrif / Giotrif	BIBW 2992	3356
+3334	Kombiglyze XR / Komboglyze		3359
+3335	MK-0431C	MK-0431C	3360
+3336	TAK-960	TAK-960	3361
+3338	Tetrabik SC	BK-4SP	3364
+3339	Halaven	E-7389	3365
+3340	Other Gout Treatments		3366
+3341	Yervoy		3367
+3342	OSI-906		3368
+3343	OSI-027	OSI-027	3369
+3344	PSN-821	PSN-821	4990
+3346	ISIS-CRPRx	ISIS-CRPRx	5205
+3347	Mirapex / Sifrol	pramipexole	3373
+3348	Actikerall	LAS41005	3374
+3349	SYN-115		3375
+3350	SYN-118		3376
+3351	Krystexxa		3377
+3352	Uloric		3378
+3355	ASP-3652	ASP-3652	4474
+3356	Azor / Sevikar		3383
+3357	dexpramipexole	BIIB050	3384
+3358	Prolia/Xgeva	denosumab	3386
+3359	darexaban	YM150	3387
+3360	ASP-7035	ASP-7035	3388
+3363	pramlintide + metreleptin		3391
+3364	Edirol	CT-081	3392
+3365	RG7185	RG7185	3393
+3366	RG7444	RG7444	3394
+3367	RG7459	RG7459	3395
+3368	RG7593	RG7593	3396
+3369	RG7597	RG7597	3397
+3370	Qnaze	BDP HFA Nasal	3398
+3371	Eylea	VEGF Trap-Eye	3399
+3376	GS 9451	GS 9451	3404
+3377	ledipasvir	GS-5885	5325
+3378	GS 9620	GS 9620	3406
+3379	LAS100977 + ICS		3410
+3380	LAS41003	LAS41003	3411
+3381	LAS41004	LAS41004	3412
+3383	osteoporosis compound		3414
+3385	Axiron		3416
+3386	EOquin		3417
+3387	AMG 820	AMG 820	3418
+3388	SER-120	SER-120	3459
+3389	AMG 900	AMG 900	3420
+3390	AZD7687	AZD7687	3421
+3391	AZD5213	AZD5213	5229
+3392	MEDI-578	MEDI-578	3423
+3393	bardoxolone	RTA-402	4088
+3394	omarigliptin	MK-3102	3426
+3395	MK-3697	MK-3697	3427
+3396	V114	V114	3428
+3397	Medicated IUS	SCH-900342	3429
+3398	lonafarnib	SCH066336	3430
+3399	terguride		3433
+3400	UK-396082		3434
+3401	PF-4937319	PF-4937319	3436
+3402	PF-4634817	PF-4634817	3437
+3403	PF-4991532	PF-4991532	3438
+3404	PF-5161704	PF-5161704	3439
+3405	bococizumab	RN316 / PF-4950615	3440
+3406	ATR-107	PF-5230900	3441
+3408	BMP-655	PF-5208762	3443
+3410	PF-4449913	PF-4449913	3445
+3411	SAR292833	TRVP3 antagonist	3446
+3412	SAR256212		3447
+3413	SAR279356	F598	3448
+3414	SAR650984	SAR650984	3449
+3415	SAR566658	SAR566658	3450
+3416	fedratinib	TG101348	3451
+3417	SAR101099	SAR101099	3452
+3418	SAR104772	SAR104772	3453
+3419	SAR114137	SAR114137	3454
+3420	SAR113945	SAR113945	3455
+3423	SAR100842	SAR100842	4484
+3424	Lysteda		3460
+3425	Xanbon		3461
+3426	Procylin		3462
+3427	RN6G	PF-4382923	3463
+3428	CNV1014802	CNV1014802	3464
+3429	CNV2197944	CNV2197944	3465
+3431	Lemtrada	alemtuzumab	3469
+3432	Movectro	cladribine	3470
+3433	BMS-241027	BMS-241027	3472
+3434	triple reuptake inhibitors	triple reuptake inhibitors	3473
+3435	Bexsero	meningitis vaccine	3474
+3436	fulranumab	AMG403	3475
+3437	ABT-110	PG-110	3476
+3439	avagacestat	BMS-708163	3481
+3440	remimazolam	ONO-2745	3482
+3441	edivoxetine	LY-2216684	3483
+3443	Hetlioz	VEC-162	3485
+3444	cyclosporin + prednisolone	FOV1101	3486
+3445	Memary	SUN Y7017	3487
+3446	Viibryd	vilazodone	3488
+3447	tasquinimod	ABR-215050	3779
+3448	Sylvant	CNTO 328	3491
+3449	Gralise	DM-1796	3492
+3450	GSK2118436	2118436	3493
+3451	GSK1120212	1120212	3494
+3452	veliparib	ABT-888	3495
+3453	Astepro		3496
+3454	Kipres		3497
+3456	Potiga / Trobalt	retigabine	3512
+3457	Lendormin / Sintonal	brotizolam	3502
+3459	DM-1992	DM-1992	3504
+3460	Eliquis		3505
+3461	GSK557296	GSK557296	3506
+3463	Surepost	SMP-508	3509
+3464	CS-3150	CS-3150 - MR antagonist	3510
+3465	Cavinton	vinpocetine	3511
+3466	Sovrima	TAK-603	4455
+3468	Pletaal		3516
+3469	TG4001	RG3484 /TG4001	3517
+3470	custirsen	OGX-011	3518
+3471	Minitran		3521
+3472	Mydeton / Mydocalm	tolperisone	3522
+3473	Lisopress		3523
+3474	Soma	carisoprodol	3524
+3476	Zamadol	tramadol	3526
+3477	Adcal D3		3527
+3478	NicVAX	nicotine conjugate vaccine	3530
+3479	Colobreathe	inhalant colistin	3531
+3480	Lucanix		3532
+3481	cebranopadol	GRT 6005	5523
+3482	BiovaxID		3534
+3484	Edarbi	TAK-491	5327
+3485	TAK-272	TAK-272	3537
+3486	ASP8477	ASP8477	3538
+3487	MabThera SC		3539
+3488	Orapenem	ME-1211	3540
+3489	Jakavi	INC424	3542
+3490	Onfi	clobazam	3544
+3491	lenvatinib		3547
+3492	netupitant + palonosetron		3549
+3493	Trizytek		3550
+3494	UCB0942	UCB0942	3551
+3495	olokizumab	CDP6038	3552
+3496	IMO-2055	EMD-1201081	3553
+3498	Xeljanz		3555
+3499	Xenazine / Nitoman	tetrabenazine	3556
+3500	Victrelis	SCH-503034	3557
+3501	EX101	EX101	3558
+3503	Invega / Invega Sustena / Xeplion	paliperidone	3560
+3504	Eloctate		3561
+3505	Alprolix		3562
+3506	baminercept	BG-9924	3563
+3507	CD40L-Fab		3566
+3508	mericitabine	RG7128	3877
+3509	SAR-260093	MBX-2982	3568
+3510	RetinoStat		3569
+3511	SAR152954	SAR152954	3570
+3512	SAR302532	SAR302532	3571
+3513	SAR411298	FAAH inhibitor	3572
+3514	Romiplate	AMG-531	3573
+3516	768974		3576
+3517	albiglutide		3577
+3518	2336805	2336805	3580
+3519	2485852		3581
+3520	2018682		3582
+3521	2256098	2256098	3583
+3522	vestipitant	597599	3584
+3523	1322888		3586
+3524	1440115		3587
+3526	Cell-culture-based influenza pandemic vaccine		3589
+3527	HIV immunotherapy		3590
+3528	Daliresp	APTA-2217	3592
+3529	Other LHRH Analogs		3593
+3530	Inactivated split quadrivalent seasonal flu vaccine	GSK-2321138A	3594
+3531	Other Anti-estrogens		3595
+3535	Sorilux	U0267	3599
+3537	Veltin	W0265	3601
+3538	alisporivir	Debio 025	3603
+3539	Lixiana	DU-176b	3604
+3540	Zinforo		3605
+3541	AZD5658	AZD5658	3606
+3542	AZD2461		3608
+3543	AZD3514		3609
+3544	MEDI-551		3623
+3545	AZD4547		3611
+3546	AZD2014		3612
+3547	MEDI-3617		3613
+3548	AZD5363		3614
+3549	MEDI-565	MT111	3615
+3550	AZD5847		3616
+3551	AZD9742		3617
+3552	AZD8683		3619
+3553	AZD5423		3620
+3554	AZD5069		3621
+3555	Inovelon / Banzel	E2080	3622
+3556	Other Wet AMD Treatments		3625
+3557	molidustat	BAY-85-3934	3626
+3558	MR Antagonist - Bayer	BAY 94-8862	3627
+3559	peg rFVIII	BAY 94-9027	3628
+3560	CA9-ADC	CA9-ADC	3629
+3562	S-PRAnt	S-PRAnt	3631
+3563	Zymar / Zymaxid	gatifloxacin	3632
+3564	E Keppra	levetiracetam	3633
+3565	AZD9819		3634
+3567	MEDI-570		3637
+3568	anifrolumab	MDX1333	3638
+3569	Diquas	diquafosol tetrasodium	3639
+3570	NerBloc	E2014	3640
+3571	fosdevirine	2248761	3641
+3572	lersivirine	UK-453061	3642
+3573	Azopt / Azarga	AL-4862	3643
+3576	Epanova 		3646
+3577	Fentos	transdermal fentanyl citrate	3647
+3578	Acref	TA-8317	3648
+3579	Cosopt / Trusopt 		3649
+3580	Onsolis / Breakyl	BEMA fentanyl	3650
+3581	ficlatuzumab	SCH-900105	3651
+3582	Duac		3653
+3583	Fabior		3654
+3584	ombrabulin	AVE8062	3655
+3585	amatuximab	MORAb-009	3656
+3586	Utemerin		3659
+3587	Herceptin SC		3661
+3588	AZCQ		3662
+3589	Ralivia / Ultram ER	tramadol ER	3663
+3590	Protecandin		3664
+3591	Mucosta	OPC759	3665
+3592	Ombitasvir	ABT-267	3666
+3593	ABT-126	ABT-126	3667
+3594	ABT-288	ABT-288	3668
+3595	ABT-384	ABT-384	3669
+3597	AMG 139	AMG 139	3672
+3598	AMG-181	AMG-181	3673
+3599	AMG 319	AMG 319	3674
+3600	AMG 337	AMG 337	3675
+3601	AMG 780	AMG 780	3676
+3603	festinavir	BMS-986001	3678
+3604	Nulojix	BMS-224818	3679
+3605	TGR5 agonist		3680
+3606	FGF21-PKE Adnectin		3682
+3607	NS5B inhibitor		3683
+3608	VEGF R-2 Adnectin		3684
+3613	Herpes Zoster vaccine	V212	3689
+3614	navarixin	SCH-527123	3690
+3616	ADL-5747	PF-4856881	3692
+3617	PF-5230901	PF-5230901	3693
+3618	PF-5175157	PF-5175157	3694
+3619	PF-5190457	PF-5190457	3695
+3620	PF-5230905	PF-05230905	3696
+3621	PF-5236812	PF-05236812	3697
+3622	PF-5212372	PF-5212372 (PLA-950)	3698
+3623	Ovaleap	XM17	3700
+3624	WT4869		3702
+3625	SA-237		3703
+3626	CC-223	CC-223	3704
+3627	RG7853	AF802	3705
+3628	PA799		3706
+3629	mibampator	LY451395	3707
+3631	LY2886721	LY2886721	3709
+3633	PF-5089771	PF-05089771	3711
+3634	PH-797904	PH-797904	3712
+3637	ASP3026	ASP3026	3716
+3638	Diannexin		3717
+3639	U3-1565	U3-1565	3718
+3640	tofogliflozin		4991
+3641	ONO-6950	ONO-6950	3720
+3642	S-488410	S-488410	3721
+3643	Propaderm		3722
+3644	Hysron		3723
+3645	OVF	buccal fentanyl	3724
+3646	TSU-68	TSU-68	3725
+3647	TAS-102		3726
+3648	TAS-106		3727
+3649	ET-743	ET-743	3728
+3650	OTS102		3729
+3651	OPB-31121		3730
+3652	OPB-51602	OPB-51602	3731
+3653	OCV-101		3732
+3654	brexpiprazole	OPC-34712	4271
+3655	Deltyba	OPC-67683	3736
+3656	tetomilast	OPC-6535	3738
+3657	Samsca	OPC-41061	3739
+3658	Emixustat	ACU-4429	3740
+3659	TAC-201	TAC-201	3741
+3660	NST-141	NST-141	3742
+3661	Zosyn / Tazocin	YP-18	3743
+3662	Lu AF11167	Lu AF11167	3745
+3663	tafamidis		4040
+3664	Viviant		3748
+3665	bavisant	JNJ-31001074	3749
+3666	Colomycin	colistin	3751
+3667	AzaSite		3752
+3668	Dificid	OPT-80	5141
+3669	ABI-010	ABI-010	3754
+3670	HGT-4510	ACE-031	3755
+3671	SHP610	SHP610	3756
+3672	senrebotase	SXN-100323	3902
+3673	mogamulizumab	KW-0761	5155
+3674	Zytiga		3760
+3677	Zydelig	CAL-101	3763
+3679	Vemurafenib	PLX4032	3956
+3680	guanfacine (CarrierWave)		3767
+3681	SPD 557		3768
+3682	SPD 556		3769
+3683	Incivek	MP-424	3770
+3684	Zaltrap	VEGF trap	3772
+3685	Edurant	TMC278	3773
+3686	BMS-650032	BMS-650032	3775
+3687	Synribo		3777
+3688	Kanarb	BR-A-657	3778
+3690	OBI-1		4168
+3691	OncoVEX GM-CSF		3782
+3693	NutropinAq		3784
+3694	Adrovance		3785
+3696	sarecycline	WC 3035	3787
+3697	Vitaros	WC 3036	3788
+3698	Oxecta	ALO-01	3789
+3699	Incivo	MP-424	3790
+3700	Adcetris	SGN-35	3791
+3701	Sylatron		3792
+3702	Cometriq	XL184	3793
+3703	Tradjenta / Trajenta / Jentadueto		3794
+3704	Basaglar	LY-2963016	4478
+3705	ganitumab	AMG 479	3796
+3707	Lazanda / PecFent	intranasal fentanyl	3798
+3709	Generess Fe	WC3026	3801
+3710	blosozumab	LY-2541546	3802
+3713	Chk1 inhibitor	LY-2603618	3805
+3714	Survivin ASO	LY-2181308	3806
+3716	Crinone / Prochieve		3808
+3717	ganetespib	STA-9090	3809
+3718	Esmya / Fibristal		3044
+3719	vintafolide	EC-145	4682
+3720	Fentora / Effentora	buccal fentanyl	3812
+3721	GRT 6006	GRT 6006	3814
+3722	azimilide	NE-10064	3815
+3723	IDP 115	IDP 115	3816
+3724	IDP 107	IDP 107	3817
+3725	Jublia	IDP-108	5161
+3726	IDP 113	IDP 113	3819
+3727	Dermik	metronidazole	3820
+3728	Xerese	aciclovir + hydrocortisone	3822
+3729	Zymafos		3823
+3730	Zybulin		3824
+3731	sovaprevir	ACH-1625	3825
+3732	thiarabine	VP-701	3827
+3733	AC105	AC105	3828
+3734	Anyara	ABR-217620	3829
+3736	CRTH2 receptor antagonist 	ACT-129968	3831
+3737	Zelboraf	PLX-4032	5280
+3740	Cadazolid		3835
+3741	Neuvenge	DN24-02	3836
+3742	Dexpirronium	dexpirronium	3837
+3743	Flupirtine		3838
+3744	QAW039	QAW039	3840
+3745	Sotirimod 		3841
+3746	Myalept		3843
+3747	D-3263 HCI		3844
+3749	RG7686	anti-glypican MAb	3847
+3750	RG7236	RG7236	3849
+3751	RG7256	RG7256	3850
+3752	RG7356	RG7356	3851
+3753	RG7432	RG7432	3852
+3754	MPDL3280A	MPDL3280A RG7446	5289
+3755	RG7450	RG7450	3854
+3756	RG7458	RG7458	3855
+3757	RG7596	RG7596	3856
+3758	RG7599	RG7599	3857
+3759	Venetoclax	GDC-0199	3858
+3760	RG7602	RG7602	3859
+3761	RG7603	RG7603	3860
+3762	RG7604	RG7604	3861
+3763	RG7685	RG7685	3862
+3764	BI-54903	BI-54903	3863
+3765	volasertib	BI-6727	3864
+3766	Jardiance	BI-10773	3865
+3768	BI-811283	BI-811283	5270
+3771	BI-847325	BI-847325	3870
+3772	BI-836826	BI-836826	3871
+3773	BI-836845	BI-836845	3872
+3774	BI-44370	BI-44370	3873
+3775	BI-671800	BI-671800	3874
+3776	BI-137882	BI-137882	3875
+3777	AbGn-168	AbGn-168	3876
+3778	BI-853520	BI-853520	3878
+3779	BI-135585	BI-135585	3880
+3780	BI-113823	BI-113823	3882
+3781	BI-11634	BI-11634	3883
+3782	BI-660848	BI-660848	3884
+3783	BI-831266	BI-831266	3885
+3784	Fampyra	dalfampridine	3886
+3785	Debrase		3887
+3786	obatoclax	CEP-41601	3889
+3787	REC 0482	REC 0482	4562
+3788	PEG-Avonex	BIIB-017	3891
+3789	BART	NI-101	3892
+3790	SAR3077646		3894
+3791	SAR125844	SAR125844	3895
+3792	OI338GT	NNC-0123-0000-0338	3897
+3793	vatelizumab	GBR500	3898
+3794	SAR156597	SAR156597	3899
+3795	Afinitor / Votubia	RAD001	3900
+3796	Caprelsa		3901
+3797	S-707106	S-707106	3903
+3798	asimadoline	 	4393
+3799	evacetrapib	LY-2484595	3905
+3801	AZD2820		3908
+3802	AZD2927	AZD2927	3909
+3803	MEDI-2338	MEDI-2338	3921
+3804	AZD3839	AZD3839	3912
+3805	LY-2300559	LY-2300559	3913
+3806	lasmiditan	LY-573144	3914
+3807	KHK-2866	KHK-2866	3916
+3808	litronesib	LY-2523355	3917
+3809	AZD5099	AZD5099	3918
+3810	AZD2115	AZD2115	3919
+3811	KHK-6188	KHK-6188	3920
+3812	MEDI-8968	MEDI-8968	3922
+3813	Vasolan		3925
+3814	Belsomra	MK-4305	3926
+3817	Edluar / Sublinox	OX-22	3929
+3818	Aubagio	teriflunomide	3930
+3819	ARX-424	ARX-424	3931
+3820	Mapracorat		3932
+3821	ATX-101	ATX-101	3933
+3822	Vaginorm		3934
+3823	Beloxepin	ADL6906	3935
+3824	AEZS-112	AEZS-112	3936
+3825	Macimorelin	AEZS-130	3937
+3826	AEZS-108	AEZS-108	3938
+3827	talactoferrin		3939
+3828	samalizumab	ALXN-6000	3940
+3829	AZ-004	AZ-004	3941
+3830	AN-2728	AN-2728	3942
+3833	A-001	A-001	3946
+3834	A-002	A-002	3947
+3836	PGL-2001 		3950
+3837	Olysio / Sovriad	TMC-435	3951
+3838	Monovo	LAS41002	3952
+3839	TAK-816	TAK-816	3953
+3840	TransVax	VCL-CB01	3954
+3841	ASP2408	ASP2408	3955
+3842	Visamerin / Mulsevo 	AVE-5026	3957
+3843	Treakisym / Symbenda	SyB L-0501	3958
+3844	Panangin		3959
+3845	Verospiron		3960
+3846	Lisonorm		3961
+3847	Daklinza	BMS-790052	3962
+3848	brodalumab	AMG 827	5156
+3849	eldelumab	MDX-1100	3964
+3850	p38 Kinase inhibitor		3965
+3851	Anti-CD28		3966
+3852	Anti-IL6		3967
+3853	Micombi		3968
+3854	Micamlo		3969
+3856	Anti-CD137		3971
+3857	RAF Kinase Inhibitor	BMS-908662 (XL281)	3972
+3858	AM152	BMS-986202	3973
+3859	lirilumab	BMS-986015	3974
+3860	tregalizumab	BT-061	4244
+3861	atrasentan	ABT-627	5000
+3862	Lyxumia	AVE0010	3977
+3863	ABT-639	ABT-639	3978
+3865	ABT-767	ABT-767	3980
+3866	ABT-413	ABT-413	4243
+3867	ABT-806	ABT-806	3982
+3868	NNR antogonist	NNR antagonist	3983
+3869	ABT-239	ABT-239	3984
+3870	AGN-199201	AGN-199201	3985
+3871	AAB-003	PF-05236812	3986
+3872	TRPV-1 agonist		3987
+3873	JNJ-26489112	JNJ-26489112	3988
+3874	CNTO-888	CNTO-888	3989
+3875	flu-mAb		3990
+3876	MK-5172	MK-5172	3991
+3877	tildrakizumab	SCH-900222	3993
+3878	Prostvac		3994
+3880	PF-5231023	PF-5231023	3996
+3881	PF-4840082	PF-4840082	3997
+3882	ozuralizumab	ATN-103	3998
+3883	ATN-192	PF-5230905	3999
+3885	PF-547659	PF-547659	4002
+3886	Vyndaqel	Fx-1006A	4003
+3887	ALO-02	ALO-02	4004
+3888	PD-0325901	PD-325901	4005
+3889	PF-5082566	PF-5082566	4006
+3890	PF-06290510	PF-06290510	4007
+3891	NN-8765	NN-8765	4009
+3892	Xultophy	NN9068	4010
+3893	vatreptacog alfa	NN1731	4011
+3894	NovoEight	NN7008	4012
+3897	LY2940680 		4015
+3898	LY3039478		4032
+3899	LY2228820	LY2228820	4017
+3900	p70 S6 Inhibitor		4018
+3901	LY2784544	LY2784544	4030
+3903	LY2780301		4021
+3905	IMC-3C5		4023
+3909	Migraine compound	Migraine compound	4027
+3910	Doxil / Caelyx		4028
+3911	Abemaciclib	LY2835219	4029
+3912	SMO Antagonist		4031
+3913	LixiLan	LixiLan	4033
+3914	Warfarin		4034
+3915	Kynamro		4035
+3916	PF-05285401	PF-05285401	4036
+3917	IKur antagonist	IKur antagonist	4037
+3918	p38 Inhibitor 	BMS-582949	4038
+3919	vernakalant - oral		1991
+3920	Zanipress		4042
+3921	Duexis	HZT-501	4043
+3922	Nisis / Nisisco		4044
+3925	LY2875358	LY2875358	4050
+3926	BAY 1000394	CDK Inhibitor 	4051
+3927	PF-5057459		4052
+3928	LY2624587		4053
+3929	LY2874455		4054
+3930	GP75 antibody		4055
+3931	LY2090314	LY2090314	4056
+3932	BMS-911543		4057
+3933	BMS-936559	MDX-1105	4058
+3934	Refametinib		4059
+3935	alisertib	MLN 8237	4066
+3936	ixazomib citrate	MLN 9708	4067
+3937	BMS-906024		4068
+3939	PF-5212384	PF-05212384	4070
+3940	RON inhibitor	IMC-RON8	4071
+3941	denenicokin		4073
+3942	Emend / Proemend		4074
+3943	HIV integrase inhibitor - BMS	HIV integrase inhibitor	4077
+3944	ferroportin		4078
+3945	Other Neutropenia Treatments		4079
+3946	LY2787106		4080
+3948	ReFacto AF / Xyntha		4082
+3950	erteberel	LY-500307	4084
+3951	LY-900010	LY-900010	4085
+3952	IB1001		4087
+3953	bentamapimod	PGL5	4091
+3954	Ferriprox		4092
+3955	Flumist / CAIV-T / Fluenz		4093
+3956	BI-54903 + Spiriva	BI-54903 + Spiriva	4094
+3959	Transtec / Norspan		4098
+3960	Zoely	NOMAC / E2; MK-8175A	4142
+3961	Tramal / Zaldiar	tramadol / tramadol + acetaminophen	4100
+3962	tivantinib	ARQ197	4101
+3963	Xalkori	PF-2341066	4102
+3965	Other Thyroid Disorder Treatments		4104
+3966	Other Parathyroid Disorder Treatments		4105
+3967	Other MS Agents		4106
+3969	Veletri		4109
+3970	Other Pediatric Vaccines		4110
+3971	Other Pulmonary Hypertension Treatments		4111
+3973	Oral contraceptives		4114
+3974	vismodegib	GDC-0449	4115
+3975	Rexetin	paroxetine	680
+3976	PI-2301	PI-2301	4118
+3977	simtuzumab	GS-6624	5253
+3978	LY2951742	LY2951742	4120
+3979	LY2300559	LY2300559	4121
+3980	Adasuve	AZ-004	4843
+3981	ferroportin antibody	LY-2928057	4123
+3982	avibactam	NXL-104	4124
+3983	Telavic	MP-424	4125
+3984	Imusera	FTY-720	4126
+3985	Marqibo		4127
+3986	Brakiva		4128
+3987	Alocrest		4129
+3988	menadione		4130
+3989	MORAb-004		4131
+3990	ODM-201		4132
+3991	Sunvepra	BMS-650032	4133
+3992	tegobuvir	GS-9190	4134
+3993	XM22	R-metHuG-CSF	4135
+3994	PSI-7977	PSI-7977	4136
+3995	omadacycline	PTK796	4137
+3996	xactikerall	LAS41005	4139
+3997	Insuman		4140
+3998	Seebri	NVA237	4502
+3999	PF-05230894	PF-05230894	4143
+4001	Dengue fever vaccine - Sanofi		4147
+4002	Other Vaccines - Sanofi		4148
+4003	Pediatric Vaccines - Sanofi		4149
+4004	Travel Vaccines - Sanofi		4150
+4005	Tuberculosis vaccine - Sanofi		4151
+4006	onartuzumab	RG3638	4208
+4007	OPA-6566	OPA-6566	4154
+4008	RTH-258	ESBA-1008	4155
+4009	mechlorethamine gel	mechlorethamine 	4156
+4010	Valchlor	mechlorethamine 	4157
+4011	Lenuxin	escitalopram	4159
+4012	Nepanil / Lenuxin	escitalopram	4160
+4013	Parnassan	olanzapine	4161
+4014	Ridonex	risperidone	4162
+4015	Jarvis	venlafaxine	4163
+4016	DARPin Anti-VEGF	MP0112	4164
+4017	Lunaldin / Dolforin	fentanyl sublingual	4165
+4018	Sycrest	asenapine	4166
+4019	Androgen Receptor Antagonists		4167
+4020	Ceplene		4169
+4021	Novopulmon		4170
+4022	Formatris		4171
+4023	Dymista	MP-2902	4172
+4024	Astelin		4173
+4025	Ultibro	QVA149	4504
+4026	Axorid		4175
+4027	Beprana	naproxcinod	4176
+4028	cenplacel-L	PDA-001	4178
+4029	Pacif	MH-200	4180
+4030	varespladib 	A-002	4181
+4032	Injectafer		4183
+4034	DS-7309		4191
+4035	Nuedexta	AVP-923	4186
+4036	GS-7340	GS-7340	4187
+4037	tenofovir alafenamide	GS 7340	4188
+4038	Tivicay	S-349572	4599
+4039	DiaPep-277		4190
+4040	Aldara / Zyclara		4192
+4041	clindamycin + tretinoin		4193
+4042	Acnex		4193
+4043	Retin A	NSC-122758	4195
+4044	dolutegravir / abacavir / lamivudine FDC		4196
+4045	LGT209	LGT209	4197
+4046	Euthyrox / Thyroid Preparations		4198
+4047	GK1-399	GK1-399	4199
+4048	"Staph aureus vaccine, Novartis"		4200
+4049	RG7598	RG7598	4202
+4050	RG7212	RG7212	4203
+4051	RG7314	RG7314	4204
+4052	RG7652	RG7652	5130
+4053	RG1577	EVT-302	5241
+4054	RG7129	RG7129	4207
+4055	Staph aureus vaccine		4210
+4058	Iclusig	AP24534	4213
+4059	Azacitidine	Azacitidine	4214
+4060	ACE-536	ACE-536	4215
+4061	CRMD001		4216
+4062	HIF-1alpha inhibitor	BAY 87-2243	4217
+4063	setipiprant	setipiprant	4218
+4064	MnB rLp2086	PF-5212366 	4219
+4065	Other Iron Chelators		4220
+4066	REGN846	REGN846	4221
+4067	Other GCSFs		4222
+4068	Other Phosphate Regulators		4223
+4069	Other Anemia Products		4224
+4070	Other ESA Agents 		4225
+4071	Ferinject 		4226
+4072	LB-03002		4228
+4073	Declage	LB-03002	4229
+4074	Declage / Eutropin Plus	LB-03002	4230
+4075	Eutropin / Valtropin		4232
+4076	Eutropin		4233
+4077	ISIS-APOCIIIRx	ISIS-APOCIIIRx	4234
+4078	SAR164653	SAR164653	4235
+4079	StarGen		4236
+4080	REGN-668		4237
+4081	ABT-348	ABT-348	4238
+4082	TRU-016	TRU-016	4239
+4083	ABT-700	ABT-700	4240
+4084	ABT-652	ABT-652	4241
+4085	ABT-308	ABT-308	4242
+4086	Rabies Antibody	Rabies Antibody	4245
+4087	FluCell	FluCell	4246
+4088	MR Antagonist - Eli Lilly	LY-2623091	4247
+4089	Triumeq	dolutegravir / abacavir / lamivudine FDC	4248
+4090	Thiarabines	VP-701	4249
+4091	ivacaftor	VX-770	4250
+4092	lumacaftor	VX-809	4251
+4093	Abediterol + ICS	LAS100977 + ICS	4252
+4094	DE112		4253
+4095	Menopause product	Menopause product	4254
+4096	Imprime PGG		4255
+4097	ceftazidime + avibactam	CAZ-104	4256
+4098	Dificlir	OPT-80	4257
+4099	MT-1303	MT-1303	4258
+4100	MT-7716	MT-7716	4259
+4101	Tostran		4260
+4102	Juvisync		4261
+4103	SAR126119	SAR126119	4262
+4104	Myrbetriq / Betmiga / Betanis	YM-178	4263
+4105	pomaglumetad methionil	LY2140023	5471
+4106	Zerenex		4266
+4107	Ecard		4267
+4108	Unisia		4268
+4109	Mucosta Ophthalmic Suspension	OPC759	745
+4110	sarilumab	SAR153191	4270
+4112	Granix	XM02	4273
+4113	Other G-CSFs		4274
+4114	Other Huntington's Disease Agents		4275
+4115	Other Stroke Recovery Agents		4276
+4116	Other ALS Agents		4277
+4117	Other Muscle Relaxants		4278
+4118	Other Neurotoxins		4279
+4120	ITCA-650	ITCA-650	4283
+4121	Other Acne Treatments		4284
+4122	Other Respiratory Disorders Products		4285
+4123	Other Cystic Fibrosis Products		4286
+4124	Other Pulmnary Fibrosis Products		4287
+4125	Other Pulmonary Fibrosis Products		4288
+4126	telatinib	telatinib	4289
+4127	entinostat	SNDX-275	4290
+4128	MK-8931	MK-8931/SCH-900931	4291
+4129	CV-301	CVAC-301	4292
+4130	darunavir/emtricitabine/GS-7340/cobicistat FDC		4293
+4132	rMenB / MenACWY combination		4295
+4133	V212	V212	4298
+4134	GSK1437173A	GSK1437173A	4299
+4135	exenatide suspension		4300
+4136	GS-6620	GS-6620	4301
+4137	GS-9669	GS-9669	4302
+4138	PSI-938	PSI-938	4303
+4139	AS703026 + XL-765		4305
+4140	AS703026 + XL765		4306
+4141	AS703026 + XL147		4308
+4142	pimasertib	AS703988; MSC2015103B	4309
+4143	NHS-IL-12	NHS-IL-12	4310
+4144	ARRY-382	ARRY-382	4311
+4145	CC-115	CC-115	4312
+4146	CC-122	CC-122	4314
+4147	DE102		4315
+4148	DE105	DE105	4316
+4149	DE110		4317
+4150	DE098	DE098	4318
+4151	Other Nucleoside Analogs		4319
+4152	NKTR-102	NKTR-102	4320
+4153	Airtal / Aflamin	aceclofenac	4322
+4154	rozrolimupab	SYM001	4323
+4155	SM101	SM101	4324
+4156	ALX-0081/0681	ALX-0081	4325
+4157	BAX111	BAX111	4326
+4158	RLY5016	RLY5016	4327
+4159	RDEA-594	RDEA-594	4328
+4160	LAPS-hGH	LAPS-hGH	4329
+4161	anamorelin		5318
+4162	VRS-317	VRS-317	4331
+4163	Vimizim	BMN-110	4332
+4165	Aes-103	Aes-103	4334
+4167	Lamazym	M-0011	4336
+4168	LY-2541546	LY-2541546	4337
+4169	ZP-PTH 		4338
+4170	BA-058	BA-058	5389
+4171	SAN-134	SAN-134	4340
+4172	Catioprost	NOVA-21027	4341
+4173	latanoprost (punctal plug)		4342
+4174	"latanoprost, QLT"		4343
+4175	punctal plug latanoprost		4344
+4176	BOL303259X		4345
+4177	Inlyta		4346
+4178	E7820	E7820	4347
+4179	ESBA105		4348
+4180	CNTO-2476		4349
+4181	ASP-5034	ASP-5034	4350
+4182	darunavir / cobicistat FDC		4351
+4183	ASG-16M8F	ASG-16M8F	4352
+4184	ASG-5ME	ASG-5ME	4353
+4185	ASP-1707	ASP-1707	4354
+4186	ASP-9521	ASP-9521	4355
+4187	ASG-22ME	AGS-22M6E	4356
+4188	ASP-7373		4357
+4189	ASP-7374		4358
+4190	ASP-0306	ASP-0306	4359
+4191	ASP-4901	ASP-4901	4561
+4193	CYT387	CYT387	4362
+4194	quizartinib 	AC-220	4363
+4196	Telintra	TLK199	4365
+4197	Telcyta		4366
+4198	Imbruvica	PCI-32765	4420
+4199	PCI-27483		4368
+4200	PCI-24781	PCI-24781	4369
+4201	CPX-351	CPX-351	4371
+4202	Zykadia	LDK378	4372
+4203	encorafenib	LGX818	4373
+4204	tosedostat	CHR-2797	4376
+4205	DSP-1053	DSP-1053	4378
+4206	TAK-361S		4379
+4207	PLX-3397	PLX-3397	4380
+4208	GTH-42V	GTH-42V	4381
+4209	BI 224436	BI 224436	4382
+4210	ASP7373		4383
+4211	ASP7374		4384
+4212	Encevac	KD-287	4385
+4213	Sivextro	TR-701	4387
+4214	olodaterol + BI-54903	olodaterol + BI-54903	4389
+4216	Selincro	nalmefene	4391
+4217	tozadenant	SYN115	4392
+4218	tarafenacin		4394
+4219	HA-irinotecan	HA-irinotecan	4395
+4220	secukinumab	AIN457	4435
+4221	Protecadin		4397
+4222	DR-3001	DR-3001	4398
+4223	MCI-186	MCI-186	4399
+4224	Espo		4579
+4225	Nesp		5397
+4226	BEMA buprenorphine		4403
+4227	Sprix	ROX-888	4404
+4228	InFuse	dibotermin alpha	4851
+4229	Regnite	ASP8825	4406
+4230	Neupro Patch	SPM-962	4407
+4231	PF-02545920	PF-02545920	4408
+4232	PF-03049423	PF-03049423	4409
+4233	PF-04427429	PF-04427429	4410
+4234	PF-04531083	PF-04531083	4411
+4235	PF-04958242	PF-04958242	4412
+4236	PF-05089771	PF-05089771	4413
+4237	PF-05180999	PF-05180999	4414
+4238	PF-05297909	PF-05297909	4415
+4239	PF-05212377	PF-05212377	4416
+4240	PF-05236812	PF-05236812	4421
+4241	ADX71149	ADX71149	4418
+4242	lifitegrast	SHP606/SAR1118	4419
+4243	BIIB-037	NI-101	4422
+4244	BIIB037	NI-101	4423
+4245	Paxil CR		4424
+4246	INX-189	INX-189	4425
+4247	IFNbeta-1a XR		4426
+4248	INS117548	INS117548	4427
+4249	INS115644	INS115644	4428
+4250	Tandospirone	AL8309B	4429
+4251	Signifor / Signifor LAR	SOM230	4430
+4252	Iluvien		4431
+4253	Fusilev		4432
+4254	BMS-820836	BMS-820836	4433
+4255	BMS-866949	BMS-866949	4434
+4256	BCT197		4436
+4257	BYL719	BYL719	4437
+4258	LFF571	LFF571	4439
+4259	binimetinib	MEK162	4440
+4260	elvitegravir/emtricitabine/GS-7340/cobicistat FDC		4441
+4261	elvitegravir/emtricitabine/tenofovir alafenamide/cobicistat FDC		4442
+4262	darunavir/emtricitabine/tenofovir alafenamide/cobicistat FDC		4443
+4263	AL2354A	AL2354A	4444
+4265	Mavatrep	JNJ-39439335	4446
+4266	PF-04634817	PF-04634817	5218
+4268	Erivedge	RG3616 GDC-0449	4449
+4269	MK-8342B	SCH-900342	4450
+4270	Ilomedin / Ventavis		4451
+4271	Ixinity	recombinant factor IX	4453
+4272	Rivotril / Klonopin	clonazepam	4454
+4273	Masican		4456
+4274	setrobuvir	ANA598	4457
+4275	RG7795	RG7795	5293
+4276	RG7116	RG7116	4459
+4277	RG7155	RG7155	4460
+4278	RG7258	RG7258	4461
+4279	RG7388	RG7388	4462
+4280	RG7600	RG7600	4463
+4281	RG7624		4464
+4282	RG7667	RG7667	4465
+4283	Surotomycin	"CB-183,315"	4466
+4284	Liraglutide Depot	NN9223	4467
+4285	NN8640	NN8640	4468
+4286	Cinryze		5388
+4287	polmacoxib	CG100649	4471
+4288	mirogabalin	DS-5565	4472
+4289	BMS-954561	AGN-209323	4473
+4290	Kalydeco	VX-770	4476
+4291	TD-1792		4477
+4292	Toujeo	U300	4479
+4293	SYR-472		4480
+4294	SAR307746		4482
+4297	Kalydeco+VX-809	VX-770/VX-809	4486
+4298	Kalydeco+VX-661	VX-770+VX-661	4487
+4299	Affitope AD02	AD02	4489
+4300	CEM-102	CEM-102	4490
+4301	bitopertin	RG1678 / RO4917838	4491
+4303	PF-05236806	PF-05236806	4493
+4304	Tafinlar	2118436	4494
+4305	Mekinist	1120212	4495
+4306	ceftaroline	DSP-5990	4496
+4307	JNJ-40411813	mGluR2 PAM	4497
+4308	MEDI546	MEDI546	4498
+4309	Ceftolozane/tazobactam	CXA-201	4499
+4310	delafloxacin		4500
+4311	dalbavancin		4501
+4312	MK-0431E	MK-0431E	4506
+4313	Saflutan / Zioptan	MK-2452	4507
+4314	Sovaldi	GS-7977	4508
+4315	Cosopt		4509
+4316	aclidinium	LAS34273	4512
+4317	Tudorza	LAS34273	4513
+4318	formoterol + Tudorza		2395
+4319	Pneumovax		4515
+4320	GLPG-0634	GLPG-0634	4516
+4321	blinatumomab	MT103	4517
+4322	AN2898		4518
+4324	camicinal	962040	4520
+4325	bevenopran	CB-5945	4521
+4326	peramivir		4523
+4327	Suglat	ASP1941	4524
+4328	QNASL	BDP HFA Nasal	4527
+4330	AMG 110	MT-110	4529
+4331	talimogene laherparepvec	OncoVEX GM-CSF	4530
+4332	TVec	OncoVex-GM-CSF	4531
+4333	HIV Maturation Inhibitor	HIV Maturation Inhibitor	4532
+4334	NS5A Second Generation	NS5A Second Generation	4533
+4335	rilotumumab	AMG 102	1324
+4336	AMG 579	AMG 579	4535
+4337	AMG 729	AMG 729	4536
+4338	AMG 876	AMG 876	4537
+4339	clazakizumab	BMS-945429	4538
+4340	sirukumab		4956
+4341	baricitinib	INCB-28050	4540
+4342	tabalumab	LY-2127399	4541
+4343	ixekizumab	LY-2439821	4833
+4344	Alpha-7 nicotinic agonist	Alpha-7 nicotinic agonist	4543
+4345	Microtubule stabilizer	Microtubule stabilizer	4544
+4346	CGRP antagonist	CGRP antagonist	4545
+4347	CCR2 / 5	CCR2 / 5	4546
+4348	BMS-817399	BMS-817399	4547
+4349	IL-23 Adnectin	IL-23 Adnectin	4548
+4350	Ranmark	AMG 162	5420
+4351	blisibimod	A-623	4550
+4352	Lonquex	XM22	4551
+4353	Funguard / Mycamine		4552
+4354	LAS41008	LAS41008	4553
+4355	Azilva	TAK-536	4554
+4356	ABT-354	ABT-354	4555
+4357	ABT-122	ABT-122	4556
+4358	ABT-981	ABT-981	4557
+4359	Reclast / Aclasta		4558
+4360	IL-1 Beta MAb	IL-1 Beta MAb	4559
+4361	PCSK9 Mab	LY3015014	5148
+4362	Other Bisphosphonates (ex-Oncology)		4563
+4363	MDCO-2010	MDCO-2010	4564
+4364	MDCO-216	MDCO-216	4565
+4365	Argatroban Injection		4566
+4369	BAY 1002670	BAY 1002670	4570
+4370	solarazeAM		4571
+4371	clopidogrel - intravenous		4572
+4372	ALVAC HIV		4573
+4373	EXC 001	PF-6473871	4574
+4374	Rivipansel	"PF-6460031, GMI-1070"	4577
+4375	PF-5280602	PF-5280602	4578
+4377	Cytomegalovirus vaccine		4582
+4378	Sensipar / Mimpara		4583
+4379	IDP-118	IDP-118	4584
+4381	MC-5	MC-5	4586
+4382	Urorec		4588
+4383	Detrol / Detrol LA		4589
+4384	BBI608		4684
+4385	BBI503	BBI503	4591
+4386	Xofigo	BAY-88-8223	4592
+4387	Rituximab		4593
+4388	lesinurad	RDEA-594	4594
+4389	BGS649	BGS649	4595
+4390	MenABCWY	MenABCWY	4596
+4391	rituximab biosimilar		4597
+4392	TL-011		4598
+4393	Jetrea	recombinant microplasmin	4601
+4394	Lo Loestrin Fe	WC-3016	4602
+4395	AVL-292	AVL-292	4603
+4396	Procto-Glyvenol		4604
+4397	Takeda Measles  / Rubella vaccine		4605
+4398	Mearubik		4606
+4399	Influenza vaccines - MTP		4607
+4400	JEBIK V		4608
+4401	ONO-7165	EMD-531444	4609
+4402	omeprazole		4610
+4403	Chondrogen	OTI-030	4611
+4404	Aganirsen	GS-101	4612
+4405	Aimspro	hyperimmune goat serum	4626
+4406	ocaratuzumab	LY-2469298	4652
+4407	AGS-009	AGS-009	4615
+4408	ALX-0061	ALX-0061	4616
+4409	ARG-301	ARG-301	4617
+4411	Bovine alkaline phosphatase	Bovine alkaline phosphatase	4653
+4412	MOR-103	MOR-103	4627
+4413	DPK-060	DPK-060	4621
+4414	BT-063	BT-063	4622
+4415	INV-103	INV-103	4631
+4416	CNTO-5825	CNTO-5825	4624
+4417	Cx-611	Cx-611	4625
+4418	S-414114	NF-kappa B decoy oligo	4628
+4419	Dekavil	F8-IL10	4629
+4420	DV-1179	DV-1179	4634
+4421	disitertide	P-144	4633
+4422	HF-1020	HF-1020	4640
+4423	IFN alpha kinoid	IFN alpha kinoid	4636
+4424	IMO-3100	IMO-3100	4637
+4425	Alzumab	T1hmAb	4638
+4427	TX-RAD	TX-RAD	4641
+4428	SAN-300	SAN-300	4642
+4429	KB-003	KB-003	4643
+4430	MORab-022	MORab-022	4644
+4431	NI-0701	NI-0701	4645
+4433	Aganirsen (GS-101)	Aganirsen (GS-101)	4647
+4434	NI-0501	NI-0501	4648
+4435	NI-0801	NI-0801	4649
+4436	BL-7040	BL-7040	4650
+4437	NOX-E36	NOX-E36	4651
+4438	OP-R003	OP-R003	4654
+4439	Cx-601	Cx-601	4655
+4440	TNF alpha kinoid	TNF alpha kinoid	4656
+4441	NI-0401	NI-0401	4738
+4442	ZP-1848	ZP-1848	4658
+4443	RAP-160	RAP-160	4659
+4444	RA-18C3	MABp-1	4660
+4445	OvaSave		4661
+4446	midismase	PC-SOD	4662
+4447	Kappaproct	DIMS-0150	4663
+4448	Poteligeo	KW-0761	4664
+4449	rindopepimut	CDX-110	4665
+4450	Posidur / Optesia	DUR-843	4666
+4451	BMS-902483	Alpha-7 nicotinic agonist	4667
+4452	BMS-927711	CGRP antagonist	4668
+4453	PF-03654746	PF-03654746	4669
+4454	Velcalcetide	KAI-4169	950
+4455	NVP-AUY922		4672
+4456	Omontys		4673
+4457	VLY-686	VLY-686	4674
+4458	RG7636	RG7636	4675
+4459	LFG316		4676
+4460	iSONEP	LT1009	4678
+4461	MA09-hRPE		4679
+4462	UshStat		4680
+4463	RT101		4681
+4464	BMS-936564	MDX-1338	4683
+4465	aripiprazole lauroxil	ALKS-9070	4685
+4466	tirasemtiv	CK-2017357	4686
+4467	K115	K115	4689
+4468	CYT003-QbG10	CYT003-QbG10	4690
+4469	disitertide1	P-144	4691
+4471	gevokizumab	XOMA-052	4694
+4472	PMX-30063	PMX-30063	4696
+4473	DLX-105	DLX-105	4697
+4474	salirasib	ONO-7056	4698
+4475	ono-2952		4699
+4476	ono-4053	ono-4053	4700
+4477	ono-9054		4701
+4478	ASP-7174		4702
+4479	ASP-7147		4703
+4480	ASP9226		4704
+4481	ASP-9603		4705
+4482	ASP-7991		4706
+4483	ASP-2409		4707
+4484	MT-3995		4708
+4485	MP-157		4709
+4486	AIM-102	AIM-102	4710
+4487	BIO-11006	BIO-11006	4711
+4488	CNTO-3157	CNTO-3157	4713
+4489	Excellair	Excellair	4714
+4490	HI-1640V	HI-1640V	4715
+4491	P276	P276	4716
+4492	P2745		4717
+4493	MLN2480		4718
+4494	MLN0128		4719
+4495	MLN1117		4720
+4496	TAK-259	TAK-259	4835
+4497	TAK-441		4722
+4498	DS-7250		4723
+4499	DS-2248		4724
+4500	DS-7423		4725
+4501	ARQ 092		4726
+4502	CS-4771		4727
+4503	DS-8587		4728
+4504	PLX-5622		4729
+4505	SUN13837		4730
+4506	DSP-6952		4731
+4507	DSP-0565		4732
+4508	sirolimus	DE109	4733
+4509	alicaforsen	ISIS 2302	4734
+4510	CrohnsVax		4735
+4511	GED-0301	GED-0301	4736
+4512	SB-010	SB-010	4739
+4513	Stempeucel	Stempeucel	4741
+4514	SYN-101	SNG-001	4742
+4515	Aiphagan		4743
+4516	OCV-501	OCV-501	4744
+4517	OCV105	OCV105	4745
+4518	OPN-305	OPN-305	4748
+4519	2140944	2140944	4747
+4520	RaVax	IR-501	4749
+4521	XmAb-5871	XmAb-5871	4750
+4522	Zorcell	IR-502	4751
+4523	AL78898A		4752
+4524	darapladib	darapladib	4753
+4525	GW824575		4754
+4527	Cilodex	AL60371	4756
+4528	S-488210	S-488210	4757
+4529	Lorcet		4758
+4530	siponimod	BAF312	4759
+4532	REC-1819	REC-1819	4762
+4533	REC-0438	REC-0438	4763
+4534	ABT-719	ABT-719	4764
+4535	Stendra / Spedra		4765
+4536	PF-05280602	PF-5280602	4766
+4537	ASP-0113	ASP-0113	4768
+4538	OxiFast	S-811717	4770
+4539	S-117957	S-117957	4771
+4540	Flumist quadrivalent	MEDI-3250	4772
+4541	VX-135	ALS-2200	4773
+4542	ALS-2158	ALS-2158	4774
+4543	Tresiba	NN1250	4775
+4544	Ryzodeg	NN5401	4776
+4545	Forxiga / Xigduo		5336
+4546	Elelyso	prGCD	4778
+4547	SAF-301	FAS-301	4779
+4548	sebelipase alfa	SBC-102	4780
+4550	Taltorvic	MK-0646	4782
+4551	PF-04840082	PF-04840082	4783
+4552	PEG-FGF21		4784
+4553	GPR119 agonists		4785
+4554	BAY 1026153	BAY 1026153	4786
+4555	bimatoprost	bimatoprost	4787
+4556	pradigastat	LCQ908	4788
+4557	PF-03882845	PF-03882845	4789
+4558	PF-04856883	PF-04856883	4790
+4559	PF-00489791	PF-00489791	4791
+4560	PF-04937319	PF-04937319	4792
+4561	PF-04971729	PF-04971729	4793
+4562	PF-04991532	PF-04991532	4794
+4563	PF-05175157	PF-05175157	4795
+4564	PF-05190457	PF-05190457	4796
+4565	PF-05212389	WYE-155189	4797
+4566	PF-05231023	PF-05231023	4798
+4567	eluxadoline	MuDelta	4799
+4568	LX-1033	LX-1033	4800
+4569	TH-302		4801
+4570	PF-05280586	PF-05280586	4802
+4571	cardiovascular	cardiovascular	4803
+4572	safotibant	FOV2304	4804
+4574	SAR402665		4806
+4575	GZ404477/SAR404477	GZ404477/SAR404477	4807
+4576	SAR245408	XL147	4808
+4577	SAR245409	XL765	4809
+4578	SAR402674	Genz644282	4810
+4579	SAR402663	Gene therapy - AMD	4811
+4580	Opdivo	BMS-936558	4812
+4581	vericiguat	BAY1021189	4813
+4582	Vasopressin Receptor Antagonist 	BAY86-8050	4814
+4583	Partial Adenosine A1 Agonist 	BAY1067197	4815
+4584	Xtandi	MDV-3100	4816
+4585	SPD602	FBS0701	4817
+4586	deferitazole	FBS0701	4818
+4587	SAR127963	SAR127963	4819
+4588	SAR391786	SAR391786	4820
+4589	SAR228810	SAR228810	4821
+4590	SAR404460	 	4822
+4591	NovoThirteen/Tretten	NN1841	4823
+4592	Apokyn	KW-6500	4824
+4593	Fycompa	E-2007	4825
+4594	crenezumab	MABT-5102A	4826
+4595	BC-3781	BC-3781	4828
+4596	RGH-618	RGH-618	4829
+4597	Ranolazine + Dronedarone 		4830
+4599	Quattrovac 		4832
+4600	IMC-CS4	IMC-CS4	4834
+4601	JnJ-Q2	JnJ-Q2	4836
+4602	brilacidin	PMX-30063	4837
+4603	ISIS-SMN	ISIS-SMN	4838
+4604	STX-100	STX-100	4839
+4605	DSP-2230		4840
+4606	Vascugel	SHP613	4841
+4607	Tenelia	MP-513	4844
+4608	AP26113	AP26113	4845
+4609	bafetinib	INNO406	4846
+4610	DCC2036	DCC2036	4847
+4611	Belviq		4848
+4612	Sirturo	TMC207	4849
+4613	letermovir	AIC246	4850
+4615	raxibacumab	raxibacumab	4856
+4616	Tegretol / Tegretol XR	carbamazepine	4857
+4617	PA-824	PA-824	4861
+4618	Rytary	IPX-066	4862
+4619	Breo / Relvar	642444 + 685698	4864
+4620	Qsymia		4865
+4621	JNJ-54452840	COR-1	4867
+4622	JTT-705	JTT-705	4868
+4623	CMX157	CMX157	4869
+4624	WBI-1001	WBI-1001	4870
+4625	Complera / Eviplera	TMC278/FTC/TDF	4871
+4626	liraglutide 3mg		4872
+4627	Hyphanox		4873
+4628	doravirine	MK-1439	4874
+4629	Dasen / Aniflazym	serrapeptase	4875
+4630	Abilify Maintena		4876
+4631	Naldemedine	S-297995	4877
+4632	AMG 785	AMG 785	811
+4633	RG7666		4879
+4634	RG7741		4880
+4635	SST	STX209	4881
+4636	faldaprevir	BI-201335	4882
+4637	nintedanib	BIBF 1120	4883
+4638	empagliflozin + metformin	BI-10773 + metformin	4884
+4639	faldaprevir + BI-207127	faldaprevir + BI-207127	4885
+4640	BI-655066	BI-655066	4886
+4641	BI-695502	BI-695502	4887
+4642	BI-1015550	BI-1015550	4888
+4643	BI-411034	BI-411034	4889
+4644	empagliflozin + Tradjenta		4890
+4645	dabrafenib/trametinib	GSK2118436/GSK1120212	4891
+4646	BI-1021958	BI-1021958	4892
+4647	BI-144807	BI-144807	4893
+4648	MEDI-5117	MEDI-5117	4894
+4649	AZD1208	AZD1208	4895
+4650	MEDI-0639	MEDI-0639	4896
+4651	volitinib		4897
+4652	MEDI-4212	MEDI-4212	4898
+4653	AMG-139	AMG-139	5256
+4654	MEDI-5872	AMG-557	4900
+4656	MEDI-7814	MEDI-7814	4902
+4657	MEDI-9929	MEDI-9929	4903
+4658	1995057	1995057	4905
+4659	2374697	2374697	4906
+4660	2586881	2586881	4907
+4661	2661380	2661380	4908
+4662	2330672	2330672	4909
+4663	Gattex / Revestive		4910
+4664	2586184	GLP-0778	4911
+4665	2941266	CCX-354	4912
+4666	2251052	2251052	4913
+4667	Advair / Seretide		4914
+4668	Flovent / Flixotide		4915
+4669	356278	356278	4916
+4670	2636771	2636771	4918
+4671	trametinib + buparlisib		4919
+4672	trametinib + 2110183		4920
+4673	dabrafenib + trametinib (DUPLICATION)	2118436 + 1120212	4921
+4674	Tramal	tramadol capsule	4922
+4675	2245035	2245035	4923
+4676	2269557	2269557	4924
+4677	2339345	2339345	4925
+4678	EFdA		4926
+4679	Epzicom / Kivexa		4927
+4680	Duragesic / Durogesic	transdermal fentanyl	4928
+4681	dilmapimod	681323	4929
+4682	Incruse	573719	4930
+4683	Anoro	642444 + 573719 	4931
+4684	NY-ESO-1	2241658A	4932
+4685	2302032A	2302032A	4933
+4686	2302024A	2302024A	4934
+4687	MAGE-A3 	GSK1572932A	4935
+4688	2696273	2696273	4936
+4689	HIV vaccine		4937
+4690	Malaria NG Pf vaccine		4938
+4691	Vascepa	AMR101	4939
+4692	oprozomib	ONX0912	4940
+4693	E7016	E7016	4941
+4694	FX125L	FX125L	4942
+4698	Actair	S-524101	4946
+4699	LATIN T1D	NN9211	4947
+4700	NN-8209	NN-8209	4948
+4701	OI362GT	NN1954	4949
+4702	OG987GT	NN9926	4950
+4703	Guanfacine Carrier Wave	SPD 547	4951
+4704	radezolid		4952
+4705	CTL-019	CART-19	5146
+4706	Other COPD Products		4953
+4707	LY2606368		5177
+4708	LY2495655	LY2495655	5152
+4709	LY2979165	LY2979165	5182
+4710	LY2940094	LY2940094	5183
+4711	LY2623091	LY2623091	5174
+4712	A Beta Modulator	A Beta Modulator	950
+4713	Factor XIa Inhibitor Parenteral	Factor XIa Parenteral	5169
+4714	BMS-981164	BMS-981164	5149
+4715	Anti-Fucosyl GM1	Anti-Fucosyl GM1	5159
+4716	BMS-986016	Anti-LAG3	5189
+4717	Other ADHD Agents		5181
+4718	FG-3019	FG-3019	4955
+4719	TAK-357		4957
+4720	TAK-063		4958
+4721	ITI-214		4959
+4722	Actelion - Unknown Compound	Metabolic Disease 	4960
+4723	Solodyn		3182
+4724	daratumumab	HuMax-CD38	4961
+4725	Constella		1920
+4726	Other Beta-lactams / Beta-lactamase Inhibitors		515
+4727	amitifadine	amitifadine	4962
+4728	TZP-102	TZP-102	4963
+4729	Vesomni	EC-905	4964
+4730	Kolbet	iguratimod	1847
+4731	GS-7977 plus GS-5885 FDC		515
+4732	NX-1207	NX-1207	4562
+4733	Other Oxazolidinones		515
+4734	Grazax	SCH-697243	2206
+4735	Mitizax	MK-8237	1801
+4736	Other Single Tablet Regimens		5166
+4737	atazanavir / cobicistat FDC		4965
+4738	Rienso		1964
+4739	Teribone		886
+4740	Ziana		4193
+4741	Actonel / Atelvia	risedronate	2806
+4742	Jakafi	INC424	3542
+4743	Omnaris / Zetonna	ciclesonide	2989
+4744	Fovista		4967
+4745	Estybon	ON 01910.Na 	4968
+4746	Ultram ER		3525
+4747	ZP-2929	ZP-2929	4969
+4748	ipatasertib	GDC-0068	4970
+4749	cobimetinib	GDC-0973	5538
+4750	S-556971	S-556971 / KT6-971	4972
+4751	RDX5791	RDX5791	4973
+4752	sNN-0029	sNN-0029	4974
+4753	NP001	NP001	4975
+4754	Sym004		4976
+4755	RG7697		5185
+4756	CIM331	CIM331	5150
+4757	ACE910		5151
+4758	glycopyrrolate bromide	SUN-101	4977
+4759	E2609	E2609	5419
+4760	Vaginal ring contraceptive	ST-1435	4307
+4761	rFSH 		4979
+4762	Quillivant XR	NWP06	4980
+4763	BAY 94-9343	Mesothelin-ADC	4981
+4764	VX-787	VX-787	4982
+4765	WT2725	WT-2725	5186
+4766	Keytruda	MK-3475	4983
+4767	Xeter		791
+4768	MK-8742	MK-8742	4984
+4769	ONO-7268 MX1		5179
+4770	Fanapt / Fanaptum	iloperidone	1775
+4771	AGN 208397	AGN 208397	4985
+4772	DE-117	DE-117	4986
+4773	RX-10045	RX-10045	4987
+4774	RDX-5791	RDX-5791	4988
+4775	RDEA-3170	RDEA-3170	4989
+4776	rFXIII		4992
+4777	PT003	PT003	4993
+4778	Reolysin		4994
+4779	DS-8500		4995
+4780	DS-1442	DS-1442	4996
+4781	Arimenda	ADS-8704/MDX-8704	4997
+4782	CUDC-427	CUDC-427	4998
+4783	treprostinil - self-injectable		924
+4784	Remodulin - Implantable Pump		4999
+4785	NWP09	NWP09	4980
+4786	fidaxomicin		3541
+4787	Juxtapid		5001
+4788	S-120083	S-120083	5002
+4789	Optina		5003
+4790	ONO-8055	ONO-8055	5004
+4791	ulodesine		5005
+4792	beclabuvir	BMS-791325	5006
+4793	XEN402		5007
+4795	ATL-962		183
+4796	PF-5280014	PF-5280014	5008
+4797	PD-0332991	PD-0332991	2346
+4798	DaunoXome		5009
+4799	Gliadel Wafer		5010
+4800	sofosbuvir + ledipasvir FDC		5164
+4801	BAN2401	BAN2401	5418
+4802	Skyla / Jaydess		512
+4803	ABT-436		5012
+4804	esketamine		5013
+4805	EVP-0962		5014
+4806	davunetide		5015
+4807	LMTX		5016
+4808	plecanatide		5017
+4809	RG7221		5018
+4810	RG7203	RG7203	5019
+4811	IDX719		5165
+4812	TMC647055		5020
+4813	E4	esterol + progestin	4307
+4814	Levosert		512
+4815	Colvir		3192
+4816	Progestin only patch		5021
+4817	momelotinib	CYT387	5022
+4818	pacritinib	SB1518	5023
+4819	PRT062070	PRT062070	5024
+4820	NS-018	NS-018	5025
+4821	OG987SC		5026
+4822	LAI287		5027
+4823	marizomib	NPI-0052	5028
+4824	Octreolin	RG3806	5029
+4825	SPD 554		5030
+4826	SHP611	SHP611	5031
+4827	SGN-CD19A		5032
+4828	Herceptin biosimilar		919
+4830	Product X		988
+4831	GTH-42J	GTH-42J	33
+4832	Choreazine	tetrabenazine	1850
+4833	lenv		988
+4834	Other Angiogenesis Inhibitors (Biologics)		4746
+4835	filanesib		5033
+4836	Other Immunomodulators - Oncology (Small-molecule)		4590
+4837	BAX 855	BAX 855	5034
+4838	Delzicol		562
+4839	Factor XIa Inhibitor Oral		5170
+4840	PEG-Relaxin 		5184
+4841	Oralair		5126
+4843	Rextoro	CLR-610	5035
+4844	Androxal	ZA-301	5036
+4845	Natesto	MPP-10	1951
+4846	Andriol Testocaps	Org-0538	1202
+4848	PPI-668	PPI-668	5038
+4849	JTT-302	JTT-302	5168
+4850	SB204	SB204	5039
+4851	Oracea / Apprilon	Col-101	2001
+4852	ALN-PCS program	ALN-PCS	5147
+4853	Other EGF Pathway Inhibitors (Small-molecule)		5059
+4854	Proellex	CDB-4124	5040
+4855	Cardene		622
+4856	Next generation vaginal ring (MK-8342B)	MK-8342B	988
+4857	MK-8175A	MK-8175A	5041
+4858	LCS-16	LCS-16	512
+4859	MK-8962	MK-8962	207
+4860	Picato	"PEP-005, PEP-005-007"	5042
+4861	Zertane	LI-301	3525
+4862	Other Allergic Rhinitis Agents		5190
+4863	MM-398	MM-398	5043
+4864	AXL1717	AXL1717	5044
+4865	CC-292	CC-292 / AVL-292	5045
+4866	Supprelin LA		2739
+4867	ACP-501	ACP-501	5157
+4868	SPI-2012	SPI-2012	5046
+4869	Kalydeco+VX-983	VX-770+VX-983	5047
+4870	Simbrinza		5048
+4871	PEGPH20		5049
+4872	aldoxorubicin	INNO-206	5050
+4873	Minastrin 24 Fe		5051
+4874	oxymetazoline topical cream	"AGN-199201, V-101"	3985
+4875	AZD-7594	AZD-7594	5052
+4876	2647544		5053
+4877	Oncophage	R-100	5054
+4878	DENVax		2529
+4879	EBI-005		5160
+4880	norethindrone + ethinyl estradiol capsules	WC 3042	3800
+4881	Testopel		5055
+4882	MOR208	MOR208	5056
+4883	SAR245409 	SAR245409	5057
+4884	solithromycin	CEM-101	5058
+4885	TRV027	TRV027	5131
+4886	BI-655064	BI-655064	5060
+4887	ALV003	AVL003	5158
+4888	Adusave		5061
+4889	TMC310911	TMC310911	992
+4890	opicapone	BIA9-1067/ONO-2160	5062
+4891	BAY 2010112	MT-112 	5063
+4892	Resimmune		5064
+4893	PEG-IFN-alpha 2b	P-1101	5065
+4894	Anagrelide Retard		5066
+4895	Ferric Trimaltol		5067
+4896	Trivax		5068
+4897	lancovutide		5069
+4898	landiolol IV	AOP-LDLA-202	5070
+4899	nabilone		5071
+4900	Thromboreductin		1371
+4901	Busilvex		2637
+4902	Cesamet		5071
+4903	metronidazole		3820
+4904	Tadim / Promixin		5072
+4905	Esmocard		5073
+4906	Nalbuphin Orpha / Nalpain		5074
+4907	Naloxon Orpha / Nexodal		5075
+4908	Adepend / Naltrexone AOP		5076
+4909	Tetmodis		1850
+4910	Ospolot		5077
+4911	Pexa-Vec	"JX-594/TG6006,"	5078
+4912	Vepacel		5079
+4913	latanoprostene bunod	NCX-116	5080
+4914	Utuxin	TGTX-1101	5082
+4915	GS-9973	GS-9973	5083
+4916	GS-9820	CAL-120	3515
+4917	GS-5745	GS-5745	5084
+4918	ASLAN001 / ARRY-543		5085
+4919	AZD3965	AZD3965	5086
+4920	CC-220	CC-220	5087
+4921	PF-06687859	PF-06687859	5088
+4922	Graspa		5089
+4923	dexmecamylamine	TC-5214	5090
+4924	ASP3662	ASP3662	5091
+4925	Dormicum	midazolam	5092
+4926	Premiplex	SHP607/HGT-ROP-001	5093
+4927	BN82451	BN82451	5094
+4928	Plumiaz	TN-200	3162
+4929	CK-2127107		5095
+4930	Rixubis	BAX-326	3780
+4931	MOR202	MOR202	995
+4932	Brisdelle		680
+4933	Zubsolv		5096
+4934	ARN-509		5098
+4935	squalamine		5099
+4936	IPI-145		5537
+4937	AKB-6548	AKB-6548	5173
+4938	AYX1	AYX1	5100
+4939	SD-809	SD-809	5101
+4940	SD-254	SD-254	5102
+4941	SGN-CD33A	SGN-CD33A	5103
+4942	IMCgp100		5104
+4943	MIM-D3		5105
+4944	patisiran		5340
+4945	MDT-637	MDT-637	5107
+4946	eteplirsen	AVI-4225	5108
+4947	Lo Minastarin Fe	WC 3064	5109
+4948	NurOwn	MSC-NTF	5110
+4949	LY2801653 	LY2801653 	5111
+4950	DKN-01		5112
+4951	LY3023414	LY3023414	995
+4952	LY3022859		5153
+4953	ASP9853	ASP9853	5113
+4954	ASP2215	ASP2215	5114
+4955	ASG-15ME	ASG-15ME	5115
+4956	BAY 1082439	BAY 1082439	5116
+4957	BGJ398	NVP-BGJ398	5117
+4959	AMG 232	AMG 232	5188
+4960	AMG 172	AMG 172	996
+4961	EPZ-5676		5118
+4962	RG7842 		5119
+4963	AZD8186	AZD8186	995
+4964	AZD9150	AZD9150	5175
+4965	AZD9291	AZD9291	5176
+4966	MEDI-6469		5120
+4967	Albaconazole	albaconazole	5121
+4968	DS-1040	DS-1040	5171
+4969	MLN0264		5123
+4970	ISIS-TTR Rx	ISIS-420915	5124
+4971	Zecuity	NP-101	5125
+4972	S38844	S38844	5374
+4973	Cholib		5129
+4974	GS-6615	GS-6615	5132
+4975	2849466	2849466	5133
+4976	MK-3614		5134
+4977	ONO-1162	ONO-1162	5135
+4978	OPC-108459	OPC-108459	5136
+4979	PF-06282999	PF-06282999	5137
+4980	SAR-407899	SAR-407899	5138
+4981	Namenda XR	memantine	5139
+4982	ublituximab	TG1001	5142
+4983	TGR-1202		5143
+4984	Anflu		5144
+4985	Vepacel		5191
+4986	cobimetinib	GDC-0973	5192
+4987	bimagrumab	BYM338	5193
+4988	Lampalizumab	FCFD-4514S/RG-7417	5194
+4989	Neugranin	CG-10639	5195
+4990	Qudexy XR	USL255	5196
+4991	Plegridy		5199
+4992	Versatis	transdermal lidocaine	5201
+4993	NP-1998	NP-1998	5203
+4994	ISIS-APOARx	ISIS-APOARx	5206
+4995	amrubicin		5207
+4996	Ilevro	AL-6515	5208
+4997	AL-60371		5209
+4998	Triferic		5210
+4999	Velphoro	PA-21	5212
+5000	Uceris		5213
+5001	semaglutide oral	NN-9924	5214
+5002	GZ402671	GZ402671	5215
+5003	LY2409021	LY2409021	5216
+5004	Oxyntomodulin Peptide		5217
+5005	PF-06291874	PF-06291874	5219
+5006	LIK066	LIK066	5220
+5007	2890457	2890457	5221
+5008	RG7410	RG7410	5222
+5009	SAR113244		5223
+5010	PF-06305591	PF-06305591	5224
+5011	PF-06273340	PF-06273340	5225
+5012	KHK-4083	KHK-4083	5226
+5013	KHK-4577	KHK-4577	5227
+5014	ASP8232	ASP8232	5230
+5015	LAS186323	ASLAN-003	5231
+5016	AZD3293		5232
+5017	Myostatin Adnectin		5234
+5018	AZD-7624	AZD-7624	5235
+5019	2256294	2256294	5236
+5020	PT001		5237
+5021	fluticasone furoate + umeclidinium + vilanterol		5239
+5022	LAS-190792		5240
+5023	MK-1029		5242
+5024	PT005		5243
+5025	GSK-2434735		5244
+5026	SEP-363856	SEP-363856	5246
+5027	LY-3002813	 LY-3002813	5247
+5028	LY-2886721	LY-2886721	5248
+5029	MK-1602	MK-1602	5249
+5030	TV-1380	TV-1380	5250
+5031	metadoxine extended-release	MG-01CI	5252
+5032	obeticholic acid	obeticholic acid	5254
+5033	DSP-1747	DSP-1747	5255
+5034	AMG 334	AMG 334	5258
+5035	BMN 111	BMN 111	5259
+5036	BMN 701	BMN 701	5260
+5037	Firdapse		5305
+5038	BMN 673	BMN 673	5262
+5039	BMN 190	BMN 190	5263
+5040	PEG-PAL	BMN-165	5264
+5041	ALXN 1102/1103	ALXN 1102/1103	5265
+5042	Asfotase Alfa	Asfotase Alfa	5266
+5043	ALXN 1101	ALXN 1101	5267
+5044	DS-7113	"DS-7113, DS-7113b"	5268
+5045	BAY 1179470	BAY 1179470	5269
+5046	BI-836858	BI-836858	5271
+5047	XmAb (1)	XmAb (1)	5272
+5048	XmAb (2)	XmAb (2)	5273
+5049	small molecule		5274
+5050	DS-3078	DS-3078	5275
+5051	DS-3032	DS-3032	5276
+5052	NeuVax	E75	5277
+5053	Multikine		5278
+5054	XMT-1107	XMT-1107	5279
+5055	Pomalidomide		5281
+5056	ASP-3325	ASP-3325	5282
+5057	KHK-7580	KHK-7580	5283
+5058	KRP-203	KRP-203	5285
+5059	RG7929	POL7080	5286
+5060	VX-15	VX15/2503	5287
+5061	Alecensa	"RG7853, AF-802, CH-5424802"	5311
+5062	URC102	URC102	5291
+5063	RG7745	RG7745	5292
+5064	RG7863	RG7863	5294
+5065	Nanobody therapy	Nanobody therapy	5295
+5066	BI-113608	BI-113608	5296
+5067	BI-860585	BI-860585	5297
+5068	Maribavir	VP-41263	5298
+5069	VP 20621	VP 20621	5299
+5070	SHP622	SHP622	5300
+5071	idarucizumab	BI-655075	5301
+5072	BI-409306	BI-409306	5302
+5073	BI-187004-CL	BI-187004-CL	5303
+5074	BAY 85-8501	BAY 85-8501	5304
+5075	ALKS-5461	ALKS-5461	5306
+5076	MSB0010718C	MSB0010718C	5307
+5077	LEE011	LEE011	5308
+5078	Lazanda	intranasal fentanyl	5310
+5079	ADS-5102	ADS-5102	5312
+5080	Epidiolex	Epidiolex	5313
+5081	Zohydro		5314
+5082	OMS824	OMS824	5315
+5083	Somatropin BioPartners	LB-03002	5317
+5084	LGX818+MEK162 (DUPLICATION)		5319
+5085	MoxDuo	Q8003	5321
+5086	Targiniq	oxycodone HCl/naloxone HCl	5322
+5087	Relonsiv	NU100	5323
+5088	Beloranib	ZGN-440	5324
+5089	CSL362	CSL362	5326
+5090	QPI-1002	QPI-1002	5331
+5091	Cardiotrophin	cardiotrohin-1	5332
+5092	Simulect		5333
+5093	TOL101	TOL101	5334
+5094	ATGAM		5335
+5095	MEDI-4736	MEDI-4736	5337
+5096	NBI-98854	NBI-98854	5338
+5097	ADS-8704	ADS-8704	5339
+5098	ALN-TTRsc	ALN-TTRsc	5342
+5099	ONO-4059	ONO-4059	5343
+5100	KUX-1151 	KUX-1151 	5344
+5101	ITI-007	ITI-007	5345
+5102	JZP-110	JZP-110	5346
+5103	Prothrombin complex concentrate		5347
+5104	Octaplex		5348
+5105	AG-221	AG-221	5349
+5106	Riona		5350
+5107	Natura alpha		5351
+5108	vosaroxin		5352
+5109	BL-8040	BL-8040	5353
+5110	ofatumumab	ofatumumab	5354
+5111	Oxtellar XR		5356
+5112	eltoprazine 	eltoprazine 	5357
+5113	NN1956	NN1956	5358
+5114	MG01Cl	MG01Cl	5359
+5115	otlertuzumab	TRU-016	5360
+5116	AIGIV	Human Anthrax Immunoglobulin	5361
+5117	PreviThrax	"Recombinant Protective Antigen Anthrax Vaccine, Purified)"	5362
+5118	NuThrax	Anthrax Vaccine Adsorbed with CPG 7909 Adjuvant	5363
+5119	Thravixa	Fully Human Anthrax Monoclonal Antibody	5364
+5120	bremelanotide	bremelanotide	5365
+5121	flibanserin	BIMT-17	5366
+5122	PBT2	PBT2	5367
+5123	Zorvolex		5368
+5124	Tivorbex		5369
+5125	Other Proteasome Inhibitors		5370
+5126	GM6	GM604	5371
+5127	Feburic		5372
+5128	ivabradine		5373
+5129	RPC1063	RPC1063	5375
+5130	Other Angiogenesis Inhibitors (Small-molecule)		5376
+5131	GCS-100		5377
+5132	hydrocodone bitartrate		5378
+5133	Xartemis XR	MNK-795	5381
+5134	Topical clonidine gel	ARC4558	5382
+5135	Bunavail		5383
+5136	Tapcom	DE-111	5385
+5137	EPI-743	EPI-743	5387
+5138	MK-8237		5390
+5139	TO-203	HDM-SLIT	5391
+5140	Orenitram	UT-15C	5392
+5142	Delayed-release cysteamine bitartrate	RP103	5394
+5143	Probuphine	subcutaneous buprenorphine implant	5396
+5144	RG7641	RG7641	5398
+5145	RG7800	RG7800	5399
+5146	RG7716	RG7716	5400
+5147	RG7813	RG7813	5401
+5148	KAE609	KAE609	5402
+5149	LJM716	LJM716	5405
+5150	HSC835	HSC835	5406
+5151	RG6016	ORY-1001	5407
+5152	RDX002	RDX002	5408
+5153	TS-111	TS-111	5409
+5154	TS-091	TS-091	5410
+5155	AZD1775	AZD1775	5411
+5156	AZD6738	AZD6738	5412
+5157	MEDI-0680	"MEDI0680, AMP-514"	5413
+5158	PF-05402536	PF-05402536	5414
+5159	PF-06425090	PF-06425090	5415
+5160	PF-06444752	PF-06444752	5416
+5161	AMG 595	AMG 595	5417
+5162	ORM-12741	ORM-12741	5422
+5163	RG7841	RG7841	5423
+5164	RG7845	RG7845	5424
+5165	LGK974	LGK974	5425
+5166	LGH447	LGH447	5426
+5167	JNJ-42756493	JNJ-42756493	5427
+5168	Quisinostat	JNJ-26481585	5428
+5169	BMS-986115	BMS-986115	5429
+5170	PF-06342674	PF-06342674	5430
+5171	PF-06260414	PF-06260414	5431
+5172	LY2510924	LY2510924	5432
+5173	TAK-659	TAK-659	5433
+5174	MLN7243	MLN7243	5434
+5175	PF-06263507	PF-06263507	5435
+5176	PF-06463922	PF-06463922	5436
+5177	PF-06647263	PF-06647263	5437
+5178	SAR260301	SAR260301	5438
+5179	pimasertib + SAR405838		5439
+5180	SAR405838		5440
+5181	MK-8353		5441
+5182	pazopanib + MK3475		5447
+5183	BAY 1136877	BAY 1163877	5443
+5184	BAY 1125976	BAY 1125976	5444
+5185	2849330	2849330	5445
+5186	525762	525762	5446
+5187	trametinib + 2141795	trametinib + 2141795	5448
+5188	MEDI-4736 + tremelimumab		5449
+5189	Dance 501	Dance 501	5450
+5190	BAY 1143572	BAY 1143572	5451
+5191	AMP-224		5452
+5192	SHP620	SHP620	5453
+5193	GSK-1265744	GSK-1265744	5454
+5194	AMG 282	AMG 282	5455
+5195	LY2928057	LY2928057	5456
+5196	TGF Alpha antibody	LY3016859	5457
+5197	ABBV-399		5459
+5198	ABT-165	ABT-165	5460
+5199	ABT-414	ABT-414	5461
+5200	ASP5878	ASP5878	5462
+5201	ASP8273	ASP8273	5463
+5202	DS-8273	DS-8273	5464
+5203	PLX8394	PLX8394	5465
+5204	E7438		5466
+5205	PRI-724	PRI-724	5467
+5206	Prostaglandin E receptor 4 antagonist		5468
+5207	N3pG-amyloid beta monoclonal antibody		5469
+5208	Metabotropic glutamate 2/3 receptor agonist	mGlu2/3 Agonist	5470
+5209	CSF-1R	CSF-1R	5472
+5210	AMG 333	AMG 333	5473
+5211	AMG 581	AMG 581	5474
+5212	MSC-2363318A	MSC-2363318A	5476
+5213	ONO-7268MX2	ONO-7268MX2	5477
+5214	TAS-114	TAS-114	5478
+5215	TAS-115	TAS-115	5479
+5216	OPB-111077	OPB-111077	5480
+5217	OCV-C02	OCV-C02	5481
+5218	2881078	2881078	5482
+5219	SGI-110	SGI-110	5483
+5220	AT13387	AT13387	5484
+5221	AT7519	AT7519	5485
+5222	AZD4901		5486
+5223	MEDI-8111		5487
+5224	AZD1419		5488
+5225	AZD4721	AZD4721	5489
+5226	AZD0914	AZ-21	5490
+5227	MEDI-4893	MEDI-4893	5491
+5228	MEDI-9287	MEDI-9287	5492
+5229	AZD6423	AZD6423	5493
+5230	JNJ-54861911		5494
+5231	JNJ-42165279		5495
+5232	CNTO-6785	CNTO-6785	5496
+5233	EDP239		5497
+5234	Clostridium difficile vaccine	IC-84	5498
+5235	AL60371	AL60371	5499
+5236	JNJ-56914845	JNJ-56914845	5500
+5237	MK-1293	MK-1293	5501
+5238	Other mTOR Inhibitors		5503
+5239	ALN-AT3		5504
+5240	CSL689 rVIIa-FP		5505
+5241	CSL654 rIX-FP		5506
+5242	CSL627 rFVIII		5507
+5243	Hepcidin mAb		5510
+5244	Factor X concentrate		5511
+5245	DS-1093		5512
+5246	Romiplostim	AMG531	5513
+5247	Peginesatide		5514
+5248	SHP602		5515
+5249	2696275		5516
+5250	RGN-259	RGN-259	5517
+5251	TTP488	TTP488	5518
+5252	Rhopressa	AR-13324	5519
+5253	Roclatan	AR 13324 + latanoprost	5520
+5254	Colcrys		5521
+5255	SPN-810	SPN-810	5522
+5256	Chymase inhibitor		5525
+5257	PAR4 Antagonist		5526
+5258	Rociletinib 	CO-1686	5527
+5259	ACE910/RG6013		5528
+5260	NEPA		5530
+5261	eravacycline	eravacycline	5533
+5262	Motolimod	VTX-2337	5534
+5263	GS-4997	GS-4997	5536
+5264	ISIS-ANGPTL3Rx	ISIS-ANGPTL3Rx	5539
+5265	GS-5816	GS-5816	5540
+5266	Marevan		5542

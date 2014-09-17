@@ -11,9 +11,12 @@
 #  First iteration:
 # return all post 2011 trials. Do not filter but add fields to each row indicating what
 # actions would have been taken
-# 
+#
+# Second Iteration - 2.0
+# Use the tagger to map relay drugs to pharmaview {brand, generic, scientific}
 # 
 use 5.012;
+use strict;
 use DBI;
 use Iterator::DBI;
 
@@ -24,13 +27,17 @@ use List::MoreUtils qw (uniq any);
 use findparents;
 use Regexp::Assemble;
 use File::Slurp;
+# for looking up RTM drugs and their PV erquivalents
+use pvfuzzydrugmatch;
+
+# use makedrugregexps;
 
 # constants
 # mysql data
 my $popt = {};
-$popt->{database} = 'bdlive';  # for rvi_today
-#$popt->{host}     = '192.168.100.150';
-$popt->{host}     = '127.0.0.1';
+$popt->{database} = 'relaybdlive';  # for rvi_today
+$popt->{host}     = '192.168.100.150';
+#$popt->{host}     = '127.0.0.1';
 $popt->{port}     = 3306;
 $popt->{user}     = 'root';
 $popt->{password} = 'mysql';
@@ -185,8 +192,8 @@ sub main {
     # load the disease hierarchy stuff
 	my $ancs = findparents->new('many-to-many-diseases.txt');
 		# load the level1/2 filters
-	my $lev2keys = load_lev12('mesh12.txt',2);
-	my $lev1keys = load_lev12('mesh12.txt',1);
+	my $lev2keys = load_lev12('config/mesh12.txt',2);
+	my $lev1keys = load_lev12('config/mesh12.txt',1);
 	my $subrefl2 = sub {
 		my $t = shift;
 		return 1 if(exists $lev2keys->{$t}) ;
@@ -221,8 +228,6 @@ sub main {
 	my $compre = make_company_regexp($comptracked);
 #	my @othercomps = read_file($othercompfile, {chomp => 1});
 	my $otherre = make_company_regexp($compother);
-
-	
 ######
 
 
@@ -232,17 +237,27 @@ sub main {
         next unless ( $hp->{devdrindphase} =~ /Phase/i );
 		# flag drugs and companies already in PV
 		#
+		# matching with a search against the pv drug index
 		my %match;
-        my $f =  any { lc $hp->{drug} eq lc $_ } @{ $pvd->genericdrugnames()};
-		$match{gdrugmatch} =  $f ? 1 :0;
-        $f =  any { lc $hp->{drug} eq lc $_ } @{ $pvd->branddrugnames() };
-		$match{bdrugmatch} = $f ? 1 : 0;
-		$f =  any { lc $hp->{drug} eq lc $_ } @{ $pvd->allrescodes() };
-		$match{rescodematch} = $f ? 1 : 0;
+		my ($brname, $genname,$sciname) = fuzzydrugmatch($hp->{drug});
+		$match{bdrugmatch} = $brname ? $brname : undef;
+		$match{gdrugmatch} = $genname ? $genname : undef;
+		$match{rescodematch} = $sciname ? $sciname : undef;
+		
+#		goto REMATCH;
+#        my $f =  any { lc $hp->{drug} eq lc $_ } @{ $pvd->genericdrugnames()};
+#		$match{gdrugmatch} =  $f ? 1 :0;
+#        $f =  any { lc $hp->{drug} eq lc $_ } @{ $pvd->branddrugnames() };
+#		$match{bdrugmatch} = $f ? 1 : 0;
+#		$f =  any { lc $hp->{drug} eq lc $_ } @{ $pvd->allrescodes() };
+#		$match{rescodematch} = $f ? 1 : 0;
+	REMATCH:
 		
 		# TODO: how to handle multiple companies ???
         next if ( $hp->{company} =~ /multiple|unconfirmed/i );
-	#	say "drug match ", $hp->{drug} if ($gdrugmatch || $bdrugmatch);
+		say STDERR join ('|', $hp->{drug},
+				$match{brdugmatch},$match{gdrugmatch},$match{rescodematch});
+		
 		# is it a PV tracked company ?
         $match{tracked} = filter_on_company(lc $hp->{company}, $compre);
 		# or an other followed company

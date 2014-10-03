@@ -55,7 +55,7 @@ sub allrescodes {
 # all unique companies in PV table returned as an array ref
 sub allcompanies {
 	my ($self) = @_;
-	my $tag='company'; my $list = $tag."_list";
+	my $tag='company_name'; my $list = $tag."_list";
 	return $self->{$list} if ($self->{$list});
 	my $sql= "select distinct $tag from ". $self->{pvtable}.
 	" order by $tag asc";
@@ -74,8 +74,8 @@ sub trackedcompanies {
 	my ($self) = @_;
 	my $tag='trackedcompany'; my $list = $tag."_list";
 	return $self->{$list} if ($self->{$list});
-	my $sql= "select distinct company from ". $self->{pvtable}.
-	" where company_is_forecast = 'true' AND product_is_active = 'true' order by company asc";
+	my $sql= "select distinct company_name from ". $self->{pvtable};
+#	" where company_is_forecast = 'true' AND product_is_active = 'true' order by #company_name asc";
 	my $iter = idb_rows($self->{dbh}, $sql);
 	my @a;
 	while ($iter->isnt_exhausted) {
@@ -92,9 +92,9 @@ sub othercompanies {
 	return $self->{$list} if ($self->{$list});
 #	my $sql= "select distinct company from ". $self->{pvtable}.
 #	" where company_is_forecast = 'false' order by $tag asc";
-	my $sql= "SELECT DISTINCT company FROM ". $self->{pvtable}.
-	" WHERE company NOT IN (SELECT distinct company from ". $self->{pvtable}.
-	" where company_is_forecast = 'true' AND product_is_active = 'true') ";
+	my $sql= "SELECT DISTINCT company_name FROM ". $self->{pvtable};
+#	" WHERE company NOT IN (SELECT distinct company_name from ". $self->{pvtable}.
+#	" where company_is_forecast = 'true' AND product_is_active = 'true') ";
 
 	my $iter = idb_rows($self->{dbh}, $sql);
 	my @a;
@@ -112,7 +112,7 @@ sub othercompanies {
 # all unique drug brand names returned as arrayref
 sub branddrugnames {
 	my ($self) = @_;
-	return $self->_dolist('brand');
+	return $self->_dolist('brand_name');
 }
 #	return $self->{brand_list} if ($self->{brand_list});
 #	my $sql= "select distinct brand from ". $self->{pvtable}. ' order by brand asc';
@@ -129,7 +129,7 @@ sub branddrugnames {
 sub genericdrugnames {
 	my ($self) = @_;
 	return $self->{generic_list} if ($self->{generic_list});
-	my $sql= "select distinct generic from ". $self->{pvtable}. ' order by generic asc';
+	my $sql= "select distinct molecule from ". $self->{pvtable}. ' order by molecule asc';
 	my $iter = idb_rows($self->{dbh}, $sql);
 	my @a;
 	while ($iter->isnt_exhausted) {

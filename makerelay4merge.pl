@@ -27,6 +27,8 @@ use List::MoreUtils qw (uniq any);
 use findparents;
 use Regexp::Assemble;
 use File::Slurp;
+use Try::Tiny;
+
 # for looking up RTM drugs and their PV erquivalents
 use pvfuzzydrugmatch;
 
@@ -239,7 +241,12 @@ sub main {
 		#
 		# matching with a search against the pv drug index
 		my %match;
-		my ($brname, $genname,$sciname) = fuzzydrugmatch($hp->{drug});
+		my ($brname, $genname,$sciname);
+		try {
+		($brname, $genname,$sciname)= fuzzydrugmatch($hp->{drug});
+		} catch {
+			say STDERR 'error in fuzzydrugmatch $_: drug was ', $hp->{drug};
+		}; 
 		$match{bdrugmatch} = $brname ? $brname : undef;
 		$match{gdrugmatch} = $genname ? $genname : undef;
 		$match{rescodematch} = $sciname ? $sciname : undef;
@@ -255,13 +262,15 @@ sub main {
 		
 		# TODO: how to handle multiple companies ???
         next if ( $hp->{company} =~ /multiple|unconfirmed/i );
-		say STDERR join ('|', $hp->{drug},
-				$match{brdugmatch},$match{gdrugmatch},$match{rescodematch});
-		
+	#	say STDERR join ('|', $hp->{drug},
+	#			$match{brdugmatch},$match{gdrugmatch},$match{rescodematch});
+		my @c = fuzzycompanymatch($hp->{company});
 		# is it a PV tracked company ?
-        $match{tracked} = filter_on_company(lc $hp->{company}, $compre);
+        $match{tracked} = $hp->{company} if
+			(filter_on_company(lc $hp->{company}, $compre) ==1);
 		# or an other followed company
-		$match{other} = filter_on_company(lc $hp->{company}, $otherre);
+		$match{other} =  $hp->{company} if 
+			(filter_on_company(lc $hp->{company}, $otherre) == 1);
 		
 		# disease rollup
 		my %allparents=();
@@ -278,6 +287,7 @@ sub main {
 		$pvrow->{relay_company} = $hp->{company};
 		$pvrow->{relay_toplevelind} = join("|",keys %allparents);
 		$pvrow->{relay_phase} = $hp->{devdrindphase};
+		$pvrow->{pv_company_match} = $c[0] if (defined $c[0]);
 		$pvrow->{pv_tracked_comp} = $match{tracked};
 		$pvrow->{pv_other_comp} = $match{other};
 		$pvrow->{pv_brand} = $match{bdrugmatch};
@@ -289,7 +299,9 @@ sub main {
         say $row;
 		my $rc = write_pv_rec($dbhpv, $pvrow, 'relaypipeline');
     }
+	say STDERR "finished relay pipeline table generation";
 	$dbhpv->commit();
+	say STDERR "waiting for db commit"; sleep 30;
 	$dbhr->disconnect();
 	$dbhpv->disconnect();
 }

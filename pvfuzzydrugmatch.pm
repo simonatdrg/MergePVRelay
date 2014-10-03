@@ -9,7 +9,7 @@ require Exporter;
 use vars qw(@ISA @EXPORT);
 @ISA = qw(Exporter);
 
-@EXPORT = qw (fuzzydrugmatch);
+@EXPORT = qw (fuzzydrugmatch fuzzycompanymatch);
 
 my $tagendpt = undef;
 # do a regular search here
@@ -34,6 +34,23 @@ sub fuzzydrugmatch {
 	return @r;
 }
 1;
+
+sub fuzzycompanymatch {
+	my ($comp) = @_;
+	if (! defined $tagendpt) {
+		$tagendpt = Relay::Tagger->new();
+		$tagendpt->baseurl('http://localhost:8983/solr/tagger');
+		$tagendpt->synfield(['head']);
+	}
+#	my $res = $tagendpt->tagger($drug);
+	my $res = $tagendpt->plainsearch("head:\"$comp\"");
+	# check for empty hash - n o results
+	return(undef) if (! keys %$res);
+	my @r = ();
+	#brand, generic, scientific
+	$r[0] = join(";", @{$res->{pvcomp}}) if exists($res->{pvcomp});
+	return @r;	
+}
 __END__
 main();
 

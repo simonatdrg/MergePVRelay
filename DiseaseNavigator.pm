@@ -13,8 +13,8 @@ use Tie::Hash::MultiValue;
 use Carp;
 
 
-our $kfile = "diskeys.json";
-our $treefile = "distree.json";
+our $kfile = "conf/diskeys.json";
+our $treefile = "conf/distree.json";
 # global hashes
  # map disease names to mesh code, and vice versa
 my (%d2mesh, %mesh2dis); 

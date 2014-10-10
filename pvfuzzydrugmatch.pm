@@ -5,6 +5,7 @@ package pvfuzzydrugmatch;
 use 5.012;
 use strict;
 use Relay::Tagger;
+use URI::Escape;
 require Exporter;
 use vars qw(@ISA @EXPORT);
 @ISA = qw(Exporter);
@@ -22,7 +23,8 @@ sub fuzzydrugmatch {
 		$tagendpt->synfield(['head']);
 	}
 #	my $res = $tagendpt->tagger($drug);
-	my $res = $tagendpt->plainsearch("head:\"$drug\"");
+	my $safedrug = uri_escape($drug);
+	my $res = $tagendpt->plainsearch("head:\"$safedrug\"");
 	# check for empty hash - n o results
 	return(undef,undef,undef) if (! keys %$res);
 	my @r = ();

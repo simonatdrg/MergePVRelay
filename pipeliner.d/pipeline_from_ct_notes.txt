@@ -1,0 +1,39 @@
+Notes on pulling pipeline data from nct.
+
+1.See the Confluencfe page at https://drgconfluence.dresources.com/display/ProductPlatform/Pipeline+Data+Feed for specs, etc
+
+and https://drgconfluence.dresources.com/display/ProductPlatform/Pipeline+Reconciliation+Process for the reconciliation process
+
+2. Email thread to Sam with some technical q/a
+---- 27 Nov.
+Hi Simon—
+ 
+> I’m looking at the pharmaview database on  pvp-pharmaview.cein63dtmnwy.us-west-2.rds.amazonaws.com. Is this where I should be looking ?
+ 
+Actually, that’s the old repository we had connectivity problems with. The new one is on USE1B-SQL3.dresources.com; database name is still Pharmaview. There are a few other databases on that server, including some for (I think) Data Sciences projects, so you might already have access to it through Windows authentication. If not, try, for now:
+ 
+Username: pharmaview1
+Password: pharmaview1
+ 
+If necessary, Bill Hurrell should be able to set up integrated authentication on that server for your personal account.
+ 
+> And I see tables grouped under ‘pvp_client’, ‘pvp_extract’, and ‘pvp_production’ - which of these should I be using ?
+ 
+Yes, you’ll still see those three different schemas in the new Pharmaview db on USE1B-SQL3 as well. pvp_production contains tables from the internal/live/analyst model. These will include the most up-to-date—but not necessarily QC’d or client-ready—data. Parts of (not all of) pvp_extract should be updated weekly based on pvp_production (and completely after forecast updates) and should be more client-ready. pvp_client is similar to pvp_extract but shouldn’t include drugs without quantitative sales forecasts.
+ 
+I think for internal matching/reconciliation based on name, it should be suitable to use the pvp_production tables because they’ll contain the most up-to-date labels, drug groups, drug classes, etc., along with newly added entities. Even if some new entities and data haven’t yet made it to the more client-visible datasets pvp_extract and pvp_production.
+ 
+> The lookup tables I think I need  at my end would be company,  drug , molecule (as I understand it, drug group , drug class and TA will be handled downstream by the analysts). How often do these change ?
+ 
+I’m not sure, but I think new drugs and companies might be added by the analysts at any time, and name changes could also happen whenever. (Although I believe the analysts should know that major changes aren’t reflected client-visibly in either Market Analyzer or previously MOD, now the reports, until the next forecast round completes.) Incidentally, those tables on USE1B-SQL3.dresources.com are copied from the source PVP databases daily, so there could be a small lag between an analyst making a change to the model and it appearing in the tables on USE1B-SQL3.dresources.com. The actual source PVP databases (three of them, called pvp_production_1, pvp_extract_1, and pvp_client_1) are all on server BURPROSQL1. We’re copying them to the Pharmaview db on USE1B-SQL3.dresources.com and working with them there so as to not break anything in the live PVP model/application.
+ 
+> Finally – I will need to do some bookkeeping at my end to indicate which trials have been selected for analyst review. I think that one component of this will be a column with feedback from the analysts – whether a trial can been accepted/rejected (and reason for rejection). There will probably be some collaboration needed on this, so any thoughts you have would be welcome.
+ 
+Yep—I’m afraid I haven’t had a chance to think about this pipeline stuff much (or at all) recently as I’ve been working on the reports, but I think there are a lot of details re the pipeline review/feedback process we’ll need to hash out.
+---- 
+
+Python alchemy: installed mymysql on mac
+
+alchemy connect string for this is mysql+pymysql://<username>:<password>@<host>/<dbname>
+
+

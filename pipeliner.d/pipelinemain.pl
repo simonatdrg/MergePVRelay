@@ -1,16 +1,12 @@
 #!/usr/bin/env perl
 #
-# makelreay4merge.pl
-#	create file /table with a superset of relay pipeline data and flags to
-# indicate possible linkages/overalps with PV data
-# Logic rules:
-#  Do not add  Relay drugs already in PV
-#  Do not add any Relay data from companies already in PV
-#  Only pre-approval phase data for Relay drugs being added
-#
-#  First iteration:
-# return all post 2011 trials. Do not filter but add fields to each row indicating what
-# actions would have been taken
+# pipelinemain.pl
+# pull CT trials from MySQL and filter out those of interest for PV and Analysts
+# 
+#	create file /table with CT pipeline data with some mapping done of
+# drugs and companies
+
+#  Selection of trials to consider will be managed by a pipeline status table
 #
 # Second Iteration - 2.0
 # Use the tagger to map relay drugs to pharmaview {brand, generic, scientific}
@@ -23,46 +19,55 @@
 # e) create new IDs (these will rely on the ordering in the SQL statement)
 #
 
+# Classes/Modules:
+#
+# ConfigReader: read a config file (properties format) and merge with command line options.
+# we can basically reuse the xml2db code
+
+# TrialFetcher: Using the criteria found from the config by Configreader
+# connect to DB and generate query. Will return a result Iterator
+# or throw an exception
+
+# TrialDataMapper:
+# interfaces to the tagger and any other entity mapping we use
+# will also do the disease upmapping
+
+# OutputFileGenerator
+# for selected records, write outout file (tab delimited)
+
+# OutputDBRecordGenerator
+# same, but writes to a database, which could be on SQL server
+
+# commandline options, some of which can overwrite the config file
+#
+
 use 5.012;
 use strict;
+# database
 use DBI;
 use Iterator::DBI;
-
-#use Text::CSV;
 use Relay::Connect2DB;
+
+# mapping and conversion of fields
 use PVDrug;
-use List::MoreUtils qw (uniq any);
+use DiseaseNavigator;
 use findparents;
+# for looking up RTM drugs and their PV erquivalents
+use pvfuzzydrugmatch;
+
+# misc other  modules
 use Regexp::Assemble;
 use File::Slurp;
 use Try::Tiny;
-use DiseaseNavigator;
+use List::MoreUtils qw (uniq any);
+use Getopt::Long;
 
-# for looking up RTM drugs and their PV erquivalents
-use pvfuzzydrugmatch;
+use ConfigParser;
+use TrialFetcher;
 
 
 # constants
 our @outputkeys = qw (relay_id date relay_drug relay_company relay_ind has_child  relay_toplevelind relay_phase pv_company pv_tracked_comp pv_other_comp pv_brand pv_generic pv_researchcode);
-
-# mysql data
-my $popt = {};
-$popt->{database} = 'relaybdlive';  # for rvi_today
-$popt->{host}     = '192.168.100.150';
-#$popt->{host}     = '127.0.0.1';
-$popt->{port}     = 3306;
-$popt->{user}     = 'root';
-$popt->{password} = 'mysql';
-#my $rvisql = "select * from rvi_today where all_facet_date >='2011-01-01'";
-my $rvisql ="SELECT ravikey, all_facet_date,drug,ind,company,devdrindphase, group_concat( ind SEPARATOR ';' ) AS allinds
-FROM rvi_today
-WHERE (all_facet_date >= '2011-01-01')
-AND (drug NOT REGEXP 'unconfirmed')
-AND (devdrindphase REGEXP 'phase')
-AND (company NOT REGEXP 'multiple|unconfirmed')
-AND all_facet_date IS NOT NULL
-GROUP BY drug, all_facet_date
-ORDER BY all_facet_date ASC";
 
 # data file locations
 my $compnamestofilter = 'trackedcomps.txt'; # top 47
@@ -229,13 +234,7 @@ sub write_pv_rec {
 	}
 	return 1;
 }
-#
-# create an ID
-#
-sub make_id {
- # todo - just use the current key for now
-	return $_[0]->{ravikey};
-}
+
 #
 # get the leaf indication nodes by consulting the disease hierarchy
 #
@@ -285,6 +284,8 @@ sub get_leaves {
 #
 
 sub main {
+	my %o;
+	
     # load the disease hierarchy stuff
 	my $ancs = findparents->new('many-to-many-diseases.txt');
 		# load the level1/2 filters
@@ -296,21 +297,32 @@ sub main {
 		return undef;
 	};
 	say STDERR "loaded disease tree";
-    # iterator for RVI data in 
+	# 
+	my $res = GetOptions(\%o, "config=s");
+	my $cf = ConfigParser->new($o{config}, {});
+	#sleep 1;
+	
+    # ctdocs iter: db, host, port, user, passwd
     my $dbhr = mysqldbconnect(
-        $popt->{database}, $popt->{host}, $popt->{port},
-        $popt->{user},     $popt->{password}
+        $cf->getCFItem('db'),
+		$cf->getCFItem('host'),
+		$cf->getCFItem('port'),
+        $cf->getCFItem('user'),
+		$cf->getCFItem('password')
     );
 	say STDERR "querying RVI today table";
-    my $rvi_iter = idb_rows( $dbhr, $rvisql );
+    my $ctd_iter = TrialFetcher::fetchTrialIterator($dbhr, $cf);
+	goto L1;
 ####
-	# and sa separate dbh for pv database
-	my $dbhpv = mysqldbconnect(
-        'pharmaview', $popt->{host}, $popt->{port},
-        $popt->{user},     $popt->{password}
-    );
+	# and sa separate dbh for pv database:
+	## TBD - do we need this and could it be on sql server ??
+	# my $dbhpv = mysqldbconnect(
+    #    'pharmaview', $popt->{host}, $popt->{port},
+    #    $popt->{user},     $popt->{password}
+    #);
     # instance of wrapper class  for pv data peeking and loading
-    my $pvd = PVDrug->new( $dbhpv, "pvprods" );
+   #  my $pvd = PVDrug->new( $dbhpv, "pvprods" );
+	my $pvd=undef;
 	# and lists of interesting data
     my $brlistp = $pvd->branddrugnames();
     my $molistp = $pvd->genericdrugnames();
@@ -328,12 +340,14 @@ sub main {
 # col headers
 	say join("\t", @outputkeys);
 # main loop
-	say STDERR "Staring iteration through rvi_today";
-    while ( $rvi_iter->isnt_exhausted() ) {
-		my $hp = $rvi_iter->value() ;
-		# only pre-approval state(s)
-        # next unless ( $hp->{devdrindphase} =~ /Phase/i );
-		# flag drugs and companies already in PV
+L1:
+	say STDERR "Staring iteration through ctdocs";
+    while ( $ctd_iter->isnt_exhausted() ) {
+		my $hp = $ctd_iter->value() ;
+		next unless ($hp->{ct_sponsor_agency_class} =~ /industry/i);
+		say join("\t", $hp->{ct_sponsor_agency}, $hp->{ct_nct_id}, $hp->{ct_condition}, $hp->{ct_brief_title},
+				 $hp->{ct_phase});
+		next;
 		#
 		# matching with a search against the pv drug index
 		my %match;
@@ -366,7 +380,7 @@ sub main {
 	#	next;
 		# create a template row using PV columns
 		my $pvrow = {};
-		$pvrow->{relay_id} = make_id($hp);
+	#	$pvrow->{relay_id} = make_id($hp);
 		$pvrow->{date} = $hp->{all_facet_date};
 		$pvrow->{relay_drug} = $hp->{drug};
 		$pvrow->{relay_ind} = $hp->{ind};
@@ -387,13 +401,13 @@ sub main {
         say $_ foreach @$rowarr;
 	#	my $rc = write_pv_rec($dbhpv, $pvrow, 'relaypipeline');
 	# and add to table
-		my $rc = write_pv_rec($dbhpv, $_, 'relaypipeline') foreach @$pvhashes;
+#		my $rc = write_pv_rec($dbhpv, $_, 'relaypipeline') foreach @$pvhashes;
     }
-	say STDERR "finished relay pipeline table generation";
-	$dbhpv->commit();
-	say STDERR "waiting for db commit"; sleep 30;
-	$dbhr->disconnect();
-	$dbhpv->disconnect();
+#	say STDERR "finished relay pipeline table generation";
+#	$dbhpv->commit();
+#	say STDERR "waiting for db commit"; sleep 30;
+#	$dbhr->disconnect();
+#	$dbhpv->disconnect();
 }
 
 main();

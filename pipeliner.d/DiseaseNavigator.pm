@@ -1,6 +1,11 @@
 #!/usr/bin/env perl
 
-# Moose class for navigating up/down hierarchy
+# Moose class for navigating up/down disease hierarchy
+# Constructor is
+#
+# 	$nav = DiseaseNavigator->new($);
+# if either/neither of these are supplied then the defaults below are used
+#
 package DiseaseNavigator;
 use strict;
 use 5.012;
@@ -13,8 +18,10 @@ use Tie::Hash::MultiValue;
 use Carp;
 
 
-our $kfile = "config/diskeys.json";
-our $treefile = "config/distree.json";
+our $def_kfile = "config/diskeys.json";
+our $def_treefile = "config/distree.json";
+our ($kfile,$treefile);
+
 # global hashes
  # map disease names to mesh code, and vice versa
 my (%d2mesh, %mesh2dis); 
@@ -37,14 +44,24 @@ our $init_done;
 	has 'name'  => (is =>'ro', isa =>'Str');
 	has 'treecodes' => (is => 'ro', isa =>'ArrayrRef(Str)');
 	has  debug => (is => 'rw', isa =>'Int', default => 0);
-	
+# set alternative 
+#
+
+# class method to specify alternate lookup/tree files:
+# DiseaseNavigator->setfiles([path-to_lookupfile],[path_to_treefile])
+sub setfiles {
+	my($class, $lookup, $tree) = @_;
+	$kfile = $lookup if defined ($lookup);
+	$treefile = $tree if defined($tree);
+}
 sub BUILD {
 	my ($self) = shift;
 	if (! $init_done) {
-		&make_lookup();
-		&make_treenav();
-	$init_done = 1;
+		&make_lookup($kfile || $def_kfile);
+		&make_treenav($treefile || $def_treefile);
+		$init_done = 1;
 	}
+	
 	# one of meshcode or name  must be sepcified
 	if ((! exists $self->{meshcode}) && (! exists $self->{name})) {
 		croak ("must specify one of meshcode or name in constructor!");
@@ -68,9 +85,8 @@ sub BUILD {
 sub make_lookup {
 	my ($fn) = @_;
 	say STDERR "loading lookup tables";
-	$fn ||= $kfile;
 	my $kin = decode_json(read_file($fn));
-	# note that there are dups, but they are elimiated here
+	# note that there are dups, but they are eliminated here
 	foreach my $el (@$kin) {
 		$d2mesh{$el->[0]} = $el->[1];
 		$mesh2dis{$el->[1]} = $el->[0];
@@ -81,7 +97,6 @@ sub make_lookup {
 
 sub make_treenav {
 	my ($fn) = @_;
-	$fn ||= $treefile;
 	my $kin = decode_json(read_file($fn));
 #	sleep 1;
 	foreach my $key (sort keys %$kin) {

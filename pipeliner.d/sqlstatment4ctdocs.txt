@@ -1,0 +1,10 @@
+SELECT id, ct_inter_type, ct_inter_name, ct_brief_title, ct_sponsor_agency, ct_phase, ct_condition, date_added
+FROM ctdocs
+WHERE date_added > '2014-06-01'  // this date will be modified as time passes
+AND (
+ct_inter_type REGEXP '^(drug|biologic|genetic)'  // intervention type )AND (
+ct_study_type REGEXP 'intervention'  // study must be interventional
+) AND (
+ct_phase REGEXP 'phase' )     // only phase
+ORDER BY ct_phase ASC , date_added ASC
+

@@ -1,2 +1,3 @@
-Source code for the Python pipeline candidate generator lives here
+Source code for the perl pipeline candidate generator lives here
+Also Python/alchemy scripts to pull the pvp drugs and molecule tables from sql server
 
